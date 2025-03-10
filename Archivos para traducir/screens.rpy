@@ -60,7 +60,7 @@ translate spanish strings:
 
     # game/screens.rpy:497
     old "Quit"
-    new "Salir del Juego"
+    new "Salir"
 
     # game/screens.rpy:683
     old "Return"
@@ -124,11 +124,11 @@ translate spanish strings:
 
     # game/screens.rpy:1121
     old "Only do this if you know what you're doing"
-    new "Solo hazlo si sabes lo que estás haciendo"
+    new "Solo haz esto si sabes lo que estás haciendo"
 
     # game/screens.rpy:1122
     old "Delete Her"
-    new "Eliminarla"
+    new "Eliminala"
 
     # game/screens.rpy:1133
     old "Text Speed"
