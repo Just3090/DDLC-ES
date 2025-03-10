@@ -4,213 +4,189 @@ translate spanish strings:
 
     # game/screens.rpy:405
     old "History"
-    new ""
+    new "Historia"
 
     # game/screens.rpy:406
     old "Skip"
-    new ""
+    new "Skip"
 
     # game/screens.rpy:407
     old "Auto"
-    new ""
+    new "Auto"
 
     # game/screens.rpy:408
     old "Save"
-    new ""
+    new "Guardar"
 
     # game/screens.rpy:409
     old "Load"
-    new ""
+    new "Cargar"
 
     # game/screens.rpy:412
     old "Settings"
-    new ""
+    new "Ajustes"
 
     # game/screens.rpy:414
     old "Hide"
-    new ""
+    new "Ocultar"
 
     # game/screens.rpy:469
     old "ŔŗñĮ¼»ŧþŀÂŻŕěōì«"
-    new ""
+    new "ŔŗñĮ¼»ŧþŀÂŻŕěōì«"
 
     # game/screens.rpy:471
     old "New Game"
-    new ""
+    new "Nueva Partida"
 
     # game/screens.rpy:477
     old "Save Game"
-    new ""
+    new "Guardar Partida"
 
     # game/screens.rpy:479
     old "Load Game"
-    new ""
+    new "Cargar Partida"
 
     # game/screens.rpy:482
     old "Extras"
-    new ""
+    new "Extras"
 
     # game/screens.rpy:486
     old "End Replay"
-    new ""
+    new "Fin de Repetición"
 
     # game/screens.rpy:490
     old "Main Menu"
-    new ""
+    new "Menu Principal"
 
     # game/screens.rpy:497
     old "Quit"
-    new ""
+    new "Salir del Juego"
 
     # game/screens.rpy:683
     old "Return"
-    new ""
+    new "Regresar"
 
     # game/screens.rpy:764
     old "Credits"
-    new ""
+    new "Créditos"
 
     # game/screens.rpy:779
     old "Version [config.version!t]\n"
-    new ""
+    new "Versión [config.version!t]\n"
 
     # game/screens.rpy:790
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n[renpy.license!t]"
-    new ""
+    new "Hecho con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n[renpy.license!t]"
 
     # game/screens.rpy:898
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:898
     old "empty slot"
-    new ""
+    new "ranura vacía"
 
     # game/screens.rpy:1100
     old "Display"
-    new ""
+    new "Pantalla"
 
     # game/screens.rpy:1101
     old "Windowed"
-    new ""
+    new "Modo Ventana"
 
     # game/screens.rpy:1102
     old "Fullscreen"
-    new ""
+    new "Modo Pantalla Completa"
 
     # game/screens.rpy:1108
     old "Rollback Side"
-    new ""
+    new "Retroceder"
 
     # game/screens.rpy:1109
     old "Disable"
-    new ""
+    new "Desactivar"
 
     # game/screens.rpy:1110
     old "Left"
-    new ""
+    new "Izquierda"
 
     # game/screens.rpy:1111
     old "Right"
-    new ""
+    new "Derecha"
 
     # game/screens.rpy:1116
     old "Unseen Text"
-    new ""
+    new "Texto no visto"
 
     # game/screens.rpy:1117
     old "After Choices"
-    new ""
+    new "Después de las elecciones"
 
     # game/screens.rpy:1121
     old "Only do this if you know what you're doing"
-    new ""
+    new "Solo hazlo si sabes lo que estás haciendo"
 
     # game/screens.rpy:1122
     old "Delete Her"
-    new ""
+    new "Eliminarla"
 
     # game/screens.rpy:1133
     old "Text Speed"
-    new ""
+    new "Velocidad del Texto"
 
     # game/screens.rpy:1143
     old "Auto-Forward Time"
-    new ""
+    new "Tiempo de Avance Automático"
 
     # game/screens.rpy:1155
     old "Music Volume"
-    new ""
+    new "Música"
 
     # game/screens.rpy:1167
     old "Sound Volume"
-    new ""
+    new "Sonido"
 
     # game/screens.rpy:1177
     old "Test"
-    new ""
+    new "Test"
 
     # game/screens.rpy:1181
     old "Voice Volume"
-    new ""
+    new "Voice Volume" # esto no se usa
 
     # game/screens.rpy:1196
     old "Mute All"
-    new ""
+    new "Silenciar todo"
 
     # game/screens.rpy:1206
     old "Language"
-    new ""
-
-    # game/screens.rpy:1219
-    old "Game Modes"
-    new ""
-
-    # game/screens.rpy:1220
-    old "Uncensored Mode"
-    new ""
-
-    # game/screens.rpy:1226
-    old "Let's Play Mode"
-    new ""
-
-    # game/screens.rpy:1235
-    old "Player Name"
-    new ""
-
-    # game/screens.rpy:1240
-    old "No Name Set"
-    new ""
-
-    # game/screens.rpy:1244
-    old "Change Name"
-    new ""
+    new "Idioma"
 
     # game/screens.rpy:1432
     old "The dialogue history is empty."
-    new ""
+    new "El historial está vacío."
 
     # game/screens.rpy:1702
     old "OK"
-    new ""
+    new "OKEY"
 
     # game/screens.rpy:1783
     old "Yes"
-    new ""
+    new "Sí"
 
     # game/screens.rpy:1784
     old "No"
-    new ""
+    new "No"
 
     # game/screens.rpy:1837
     old "Skipping"
-    new ""
+    new "Saltando"
 
     # game/screens.rpy:2048
     old "{#in language font}Please select a language"
-    new ""
+    new "{#in language font}Por favor selecciona un idioma"
 
     # game/screens.rpy:2069
     old "{#in language font}Select"
-    new ""
+    new "{#in language font}Seleccionar"
 
