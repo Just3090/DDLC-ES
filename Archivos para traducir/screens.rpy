@@ -124,7 +124,7 @@ translate spanish strings:
 
     # game/screens.rpy:1121
     old "Only do this if you know what you're doing"
-    new "Solo haz esto si sabes lo que estás haciendo"
+    new "Si no sabes, no lo hagas"
 
     # game/screens.rpy:1122
     old "Delete Her"
