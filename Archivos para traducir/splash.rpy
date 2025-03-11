@@ -22,7 +22,7 @@ translate spanish splashscreen_b895d9b1:
 translate spanish after_load_78a4e9dc:
 
     # "The save file could not be loaded."
-    ""
+    "fh fhtgfhgf h hg"
 
 # game/splash.rpy:556
 translate spanish after_load_5c5510ae:
