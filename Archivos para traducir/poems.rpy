@@ -4,6 +4,10 @@
 
 translate spanish strings:
 
+    """
+    Aún no traduzcas nada hasta confirmar que funciona esto.
+    """
+
     ### poem_y1
     # game/poems.rpy:10
     old "Ghost Under the Light"
