@@ -406,7 +406,7 @@ translate spanish ch0_main_3b431c20:
 translate spanish ch0_main_a89001e9:
 
     # "In fact, I'm 99%% sure she only did it because she thought it would be fun to help start a new club."
-    "De hecho, estoy seguro al 99% de que solo se unió porque le parecía divertido ayudar a fundar un club nuevo."
+    "De hecho, estoy seguro al 99%% de que solo se unió porque le parecía divertido ayudar a fundar un club nuevo."
 
 # game/script-ch0.rpy:94
 translate spanish ch0_main_bf60a48d:
