@@ -7,11 +7,11 @@ translate spanish strings:
     ### poem_y1
     # game/poems.rpy:10
     old "Ghost Under the Light"
-    new ""
+    new "El fantasma bajo la luz."
 
     # game/poems.rpy:10
     old "The tendrils of my hair illuminate beneath the amber glow.\nBathing.\nIt must be this one.\nThe last remaining streetlight to have withstood the test of time.\nthe last yet to be replaced by the sickening blue-green hue of the future.\nI bathe. Calm; breathing air of the present but living in the past.\nThe light flickers.\nI flicker back."
-    new ""
+    new "Los rizos de mi cabello se iluminan bajo el ámbar que resplandece,\nbañando.\nDebe ser este el que permanece.\nEl último farol que el tiempo no logró derribar,\nel único que aún no cambian por el frío azul verdemar.\nMe baño en su calma, respiro el presente, vivo el ayer.\nLa luz parpadea.\nParpadeo con él."
 
 
 
@@ -19,11 +19,11 @@ translate spanish strings:
     ### poem_y2
     # game/poems.rpy:24
     old "The Raccoon"
-    new ""
+    new "El mapache."
 
     # game/poems.rpy:24
     old "It happened in the dead of night while I was slicing bread for a guilty snack.\nMy attention was caught by the scuttering of a raccoon outside my window.\nThat was, I believe, the first time I noticed my strange tendencies as an unordinary human.\nI gave the raccoon a piece of bread, my subconscious well aware of the consequences.\nWell aware that a raccoon that is fed will always come back for more.\nThe enticing beauty of my cutting knife was the symptom.\nThe bread, my hungry curiosity.\nThe raccoon, an urge.\n\nThe moon increments its phase and reflects that much more light off of my cutting knife.\nThe very same light that glistens in the eyes of my raccoon friend.\nI slice the bread, fresh and soft. The raccoon becomes excited.\nOr perhaps I'm merely projecting my emotions onto the newly-satisfied animal.\n\nThe raccoon has taken to following me.\nYou could say that we've gotten quite used to each other.\nThe raccoon becomes hungry more and more frequently, so my bread is always handy.\nEvery time I brandish my cutting knife, the raccoon shows me its excitement.\nA rush of blood. Classic Pavlovian conditioning. I slice the bread.\nAnd I feed myself again."
-    new ""
+    new "Sucedió en plena noche mientras cortaba pan para un tentempié culpable.\nMi atención fue capturada por el ruido de un mapache fuera de mi ventana.\nEsa fue, creo, la primera vez que noté mis extrañas inclinaciones como un humano poco ordinario.\nLe di al mapache un trozo de pan, mi subconsciente plenamente consciente de las consecuencias.\nBien sabía que un mapache alimentado siempre volverá por más.\n\nLa belleza tentadora de mi cuchillo fue el síntoma.\nEl pan, mi curiosidad hambrienta.\nEl mapache, un impulso.\n\nLa luna avanza en su fase y refleja aún más luz en mi cuchillo.\nLa misma luz que brilla en los ojos de mi amigo mapache.\nCorto el pan, fresco y suave. El mapache se emociona.\nO tal vez solo proyecto mis emociones en el animal recién satisfecho.\n\nEl mapache ha comenzado a seguirme.\nPodría decirse que ya nos hemos acostumbrado el uno al otro.\nEl mapache tiene hambre cada vez más a menudo, así que siempre tengo pan a la mano.\nCada vez que levanto mi cuchillo, el mapache muestra su emoción.\nUn torrente de sangre. El clásico condicionamiento pavloviano. Corto el pan.\nY vuelvo a alimentarme."
 
 
     ### poem_y3
