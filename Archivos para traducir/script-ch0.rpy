@@ -4,79 +4,79 @@
 translate spanish ch0_main_41e273ca:
 
     # s "Heeeeeeeyyy!!"
-    s ""
+    s "¡¡¡Heeeeeyyy!!!"
 
 # game/script-ch0.rpy:11
 translate spanish ch0_main_bcc5bb00:
 
     # "I see an annoying girl running toward me from the distance, waving her arms in the air like she's totally oblivious to any attention she might draw to herself."
-    ""
+    "Veo a lo lejos a una chica que parece molesta corriendo hacia mí, agitando los brazos en el aire como si no le importara nada."
 
 # game/script-ch0.rpy:12
 translate spanish ch0_main_80f1ba46:
 
     # "That girl is Sayori, my neighbor and good friend since we were children."
-    ""
+    "Esa chica es Sayori, mi vecina y mejor amiga desde que éramos pequeños."
 
 # game/script-ch0.rpy:13
 translate spanish ch0_main_40dc33e4:
 
     # "You know, the kind of friend you'd never see yourself making today, but it just kind of works out because you've known each other for so long?"
-    ""
+    "Ya sabes, ¿el tipo de amiga con el que nunca te verías hoy, pero que simplemente funciona porque os conocéis desde hace mucho?"
 
 # game/script-ch0.rpy:14
 translate spanish ch0_main_fc8dd6bc:
 
     # "We used to walk to school together on days like this, but starting around high school she would oversleep more and more frequently, and I would get tired of waiting up."
-    ""
+    "Solíamos ir juntos al colegio, pero a partir del instituto ella se quedaba dormida y yo me cansaba de esperar."
 
 # game/script-ch0.rpy:15
 translate spanish ch0_main_0117e949:
 
     # "But if she's going to chase after me like this, I almost feel better off running away."
-    ""
+    "Pero si va a seguirme así, casi prefiero salir corriendo."
 
 # game/script-ch0.rpy:16
 translate spanish ch0_main_a0aaf316:
 
     # "However, I just sigh and idle in front of the crosswalk and let Sayori catch up to me."
-    ""
+    "Con un ligero suspiro, decido detenerme en el paso de peatones y permitir que Sayori me alcance."
 
 # game/script-ch0.rpy:19
 translate spanish ch0_main_cf958be9:
 
     # s 4p "Haaahhh...haaahhh..."
-    s 4p ""
+    s 4p "Aaaahhh...aaaahhh..."
 
 # game/script-ch0.rpy:20
 translate spanish ch0_main_d5b6fac2:
 
     # s "I overslept again!"
-    s ""
+    s "¡Me quedé dormida otra vez!"
 
 # game/script-ch0.rpy:21
 translate spanish ch0_main_7fa78c9d:
 
     # s "But I caught you this time!"
-    s ""
+    s "¡Pero esta vez te gane!"
 
 # game/script-ch0.rpy:22
 translate spanish ch0_main_164efad7:
 
     # mc "Maybe, but only because I decided to stop and wait for you."
-    mc ""
+    mc "Quizá, pero solo porque me paré a esperarte."
 
 # game/script-ch0.rpy:24
 translate spanish ch0_main_426a9522:
 
     # s 5c "Eeehhhhh, you say that like you were thinking about ignoring me!"
-    s 5c ""
+    s 5c "Eeehhhh, ¡lo dices como si pensaras ignorarme!"
 
 # game/script-ch0.rpy:25
 translate spanish ch0_main_15216994:
 
     # s "That's mean, [player]!"
-    s ""
+    s "¡[player], eso es malo!"
 
 # game/script-ch0.rpy:26
 translate spanish ch0_main_b13a945b:

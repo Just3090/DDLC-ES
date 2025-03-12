@@ -12860,13 +12860,13 @@ translate spanish strings:
 
     # game/script-poemresponses.rpy:27
     old "Sayori"
-    new ""
+    new "Sayori"
 
     # game/script-poemresponses.rpy:27
     old "Natsuki"
-    new ""
+    new "Natsuki"
 
     # game/script-poemresponses.rpy:27
     old "Yuri"
-    new ""
+    new "Yuri"
 

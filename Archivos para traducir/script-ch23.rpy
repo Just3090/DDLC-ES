@@ -1700,7 +1700,7 @@ translate spanish strings:
 
     # game/script-ch23.rpy:410
     old "Monika"
-    new ""
+    new "Monika"
 
     # game/script-ch23.rpy:548
     old "Yes."
