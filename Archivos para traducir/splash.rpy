@@ -22,45 +22,41 @@ translate spanish splashscreen_b895d9b1:
 translate spanish after_load_78a4e9dc:
 
     # "The save file could not be loaded."
-    ""
+    "La partida guardada no pued ser cargada."
 
 # game/splash.rpy:556
 translate spanish after_load_5c5510ae:
 
     # "Are you trying to cheat?"
-    ""
+    "¿Estás intentando hacer trampa?"
 
 # game/splash.rpy:560
 translate spanish after_load_46c240e4:
 
     # m "You're so funny."
-    m ""
+    m "Qué divertido eres."
 
 # game/splash.rpy:562
 translate spanish after_load_e5a463d0:
 
     # m "You're so funny, [persistent.playername]."
-    m ""
+    m "¡Qué divertido eres, [persistent.playername]!"
 
 translate spanish strings:
 
     # game/splash.rpy:289
     old "A previous save file has been found. Would you like to delete your save data and start over?"
-    new ""
+    new "Se ha encontrado una partida guardada. ¿Quieres borrar tus datos y empezar de nuevo?"
 
     # game/splash.rpy:289
     old "Yes, delete my existing data."
-    new ""
+    new "Sí, borra mis datos."
 
     # game/splash.rpy:289
     old "No, continue where I left off."
-    new ""
-
-    # game/splash.rpy:324
-    old "By playing [config.name] you agree that you have completed Doki Doki Literature Club and accept any spoilers contained within."
-    new ""
+    new "No, sigue donde lo dejé."
 
     # game/splash.rpy:324
     old "I agree."
-    new ""
+    new "Acepto."
 
