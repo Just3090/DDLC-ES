@@ -62,3 +62,11 @@ translate spanish strings:
     old "script.rpy deleted successfully."
     new "script.rpy eliminado exitosamente."
 
+# TODO: Translation updated at 2025-03-12 12:54
+
+translate spanish strings:
+
+    # game/credits.rpy:732
+    old "Error: Script file is missing or corrupt.\nPlease reinstall the game."
+    new ""
+

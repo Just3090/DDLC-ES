@@ -60,3 +60,11 @@ translate spanish strings:
     old "I agree."
     new "Acepto."
 
+# TODO: Translation updated at 2025-03-12 12:54
+
+translate spanish strings:
+
+    # game/splash.rpy:567
+    old "Hint: You can use the \"Skip\" button to\nfast-forward through text you've already read."
+    new ""
+

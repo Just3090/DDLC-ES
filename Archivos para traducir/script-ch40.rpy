@@ -1830,3 +1830,35 @@ translate spanish ch40_clearall_35809bce:
     # s "We all love you."
     s ""
 
+# TODO: Translation updated at 2025-03-12 12:54
+
+translate spanish strings:
+
+    # game/script-ch40.rpy:515
+    old "No..."
+    new ""
+
+    # game/script-ch40.rpy:522
+    old "I won't let you hurt him."
+    new ""
+
+    # game/script-ch40.rpy:535
+    old "I'm sorry... I was wrong."
+    new ""
+
+    # game/script-ch40.rpy:537
+    old "There's no happiness here after all..."
+    new ""
+
+    # game/script-ch40.rpy:539
+    old "Goodbye, Sayori."
+    new ""
+
+    # game/script-ch40.rpy:541
+    old "Goodbye, [player]."
+    new ""
+
+    # game/script-ch40.rpy:543
+    old "Goodbye, Literature Club."
+    new ""
+

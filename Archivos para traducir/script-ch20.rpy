@@ -1770,3 +1770,11 @@ translate spanish ch20_main2_dff2799d:
     # "And I guess that starts with writing a poem tonight..."
     ""
 
+# TODO: Translation updated at 2025-03-12 12:54
+
+translate spanish strings:
+
+    # game/script-ch20.rpy:493
+    old "You have unlocked a special poem.\nWould you like to read it?"
+    new ""
+
