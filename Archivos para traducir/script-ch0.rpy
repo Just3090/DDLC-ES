@@ -76,19 +76,19 @@ translate spanish ch0_main_426a9522:
 translate spanish ch0_main_15216994:
 
     # s "That's mean, [player]!"
-    s "¡[player], eso es malo!"
+    s "¡Eres malo, [player]!"
 
 # game/script-ch0.rpy:26
 translate spanish ch0_main_b13a945b:
 
     # mc "Well, if people stare at you for acting weird then I don't want them to think we're a couple or something."
-    mc ""
+    mc "Bueno, si la gente se te queda mirando por actuar raro entonces no quiero que piensen que somos pareja o algo así."
 
 # game/script-ch0.rpy:28
 translate spanish ch0_main_5d016585:
 
     # s 1a "Fine, fine."
-    s 1a ""
+    s 1a "Bien, bien."
 
 # game/script-ch0.rpy:29
 translate spanish ch0_main_636f00f3:
