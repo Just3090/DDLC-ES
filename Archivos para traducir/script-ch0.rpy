@@ -6,7 +6,11 @@ translate spanish ch0_main_41e273ca:
     # s "Heeeeeeeyyy!!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s "Â¡Eeeh!"
+=======
+    s "¡¡¡Heeeeeyyy!!!"
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s "¡¡¡Heeeeeyyy!!!"
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -20,7 +24,11 @@ translate spanish ch0_main_bcc5bb00:
     # "I see an annoying girl running toward me from the distance, waving her arms in the air like she's totally oblivious to any attention she might draw to herself."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Veo a una chica pesada que corre hacia mÃ­ desde lejos, agitando los brazos en el aire, como si no se diera cuenta de lo mucho que llama la atenciÃ³n."
+=======
+    "Veo a lo lejos a una chica que parece molesta corriendo hacia mí, agitando los brazos en el aire como si no le importara nada."
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     "Veo a lo lejos a una chica que parece molesta corriendo hacia mí, agitando los brazos en el aire como si no le importara nada."
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -40,7 +48,11 @@ translate spanish ch0_main_40dc33e4:
     # "You know, the kind of friend you'd never see yourself making today, but it just kind of works out because you've known each other for so long?"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "La clase de amiga que no te imaginas haciendo a dÃ­a de hoy, pero la relaciÃ³n funciona porque os conocÃ©is desde hace mucho tiempo."
+=======
+    "Ya sabes, ¿el tipo de amiga con el que nunca te verías hoy, pero que simplemente funciona porque os conocéis desde hace mucho?"
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     "Ya sabes, ¿el tipo de amiga con el que nunca te verías hoy, pero que simplemente funciona porque os conocéis desde hace mucho?"
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -54,7 +66,11 @@ translate spanish ch0_main_fc8dd6bc:
     # "We used to walk to school together on days like this, but starting around high school she would oversleep more and more frequently, and I would get tired of waiting up."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "En dÃ­as como este, Ã­bamos juntos a clase, pero en secundaria se le empezaron a pegar las sÃ¡banas cada vez mÃ¡s a menudo y me cansÃ© de esperarla."
+=======
+    "Solíamos ir juntos al colegio, pero a partir del instituto ella se quedaba dormida y yo me cansaba de esperar."
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     "Solíamos ir juntos al colegio, pero a partir del instituto ella se quedaba dormida y yo me cansaba de esperar."
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -68,7 +84,11 @@ translate spanish ch0_main_0117e949:
     # "But if she's going to chase after me like this, I almost feel better off running away."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Aunque, si va a perseguirme de esta manera, casi me conviene mÃ¡s salir corriendo."
+=======
+    "Pero si va a seguirme así, casi prefiero salir corriendo."
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     "Pero si va a seguirme así, casi prefiero salir corriendo."
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -94,7 +114,11 @@ translate spanish ch0_main_d5b6fac2:
     # s "I overslept again!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s "Â¡Me he vuelto a quedar dormida!"
+=======
+    s "¡Me quedé dormida otra vez!"
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s "¡Me quedé dormida otra vez!"
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -108,7 +132,11 @@ translate spanish ch0_main_7fa78c9d:
     # s "But I caught you this time!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s "Â¡Pero esta vez te he alcanzado!"
+=======
+    s "¡Pero esta vez te gane!"
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s "¡Pero esta vez te gane!"
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -128,7 +156,11 @@ translate spanish ch0_main_426a9522:
     # s 5c "Eeehhhhh, you say that like you were thinking about ignoring me!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s 5c "Â¡Eeeh, lo dices como si hubieras pensado ignorarme y dejarme ahÃ­ tirada!"
+=======
+    s 5c "Eeehhhh, ¡lo dices como si pensaras ignorarme!"
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s 5c "Eeehhhh, ¡lo dices como si pensaras ignorarme!"
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -142,7 +174,11 @@ translate spanish ch0_main_15216994:
     # s "That's mean, [player]!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s "Â¡QuÃ© malo eres, [player]!"
+=======
+    s "¡Eres malo, [player]!"
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s "¡Eres malo, [player]!"
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -156,6 +192,9 @@ translate spanish ch0_main_b13a945b:
     # mc "Well, if people stare at you for acting weird then I don't want them to think we're a couple or something."
     mc "Bueno, si la gente se te queda mirando por actuar raro entonces no quiero que piensen que somos pareja o algo así."
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
+=======
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -166,6 +205,9 @@ translate spanish ch0_main_5d016585:
     # s 1a "Fine, fine."
     s 1a "Bien, bien."
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
+=======
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -176,7 +218,11 @@ translate spanish ch0_main_636f00f3:
     # s "But you did wait for me, after all."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s "Pero has decidido esperarme, despuÃ©s de todo."
+=======
+    s ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -196,7 +242,11 @@ translate spanish ch0_main_ff65683d:
     # mc "Whatever you say, Sayori..."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     mc "Lo que tÃº digas, Sayori..."
+=======
+    mc ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     mc ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -222,7 +272,11 @@ translate spanish ch0_main_6fc63fca:
     # "As we draw near, the streets become increasingly speckled with other students making their daily commute."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Al ir acercÃ¡ndonos, las calles cada vez estÃ¡n mÃ¡s plagadas de estudiantes que hacen su trayecto diario."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -242,7 +296,11 @@ translate spanish ch0_main_02182e1b:
     # s "Have you decided on a club to join yet?"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s "Â¿Has decidido ya el club al que vas a unirte?"
+=======
+    s ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -256,7 +314,11 @@ translate spanish ch0_main_0855e33f:
     # mc "A club?"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     mc "Â¿Un club?"
+=======
+    mc ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     mc ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -270,7 +332,11 @@ translate spanish ch0_main_514f6cec:
     # mc "I told you already, I'm really not interested in joining any clubs."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     mc "Ya te lo he dicho; no me interesa unirme a ningÃºn club."
+=======
+    mc ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     mc ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -290,7 +356,11 @@ translate spanish ch0_main_510bdda9:
     # s 4h "Eh? That's not true!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s 4h "Â¿Eh? Â¡Eso no es verdad!"
+=======
+    s 4h ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s 4h ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -304,7 +374,11 @@ translate spanish ch0_main_dc11d283:
     # s "You told me you would join a club this year!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s "Â¡Me dijiste que este curso te unirÃ­as a un club!"
+=======
+    s ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -318,7 +392,11 @@ translate spanish ch0_main_92f7a5c6:
     # mc "Did I...?"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     mc "Â¿En serio?..."
+=======
+    mc ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     mc ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -332,7 +410,11 @@ translate spanish ch0_main_2317207b:
     # "I'm sure it's possible that I did, in one of our many conversations where I dismissively go along with whatever she's going on about."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Es posible que se lo dijera. Puede que durante una de las muchas conversaciones en las que le sigo la corriente sin saber lo que me estÃ¡ contando."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -346,7 +428,11 @@ translate spanish ch0_main_988d7054:
     # "Sayori likes to worry a little too much about me, when I'm perfectly content just getting by on the average while spending my free time on games and anime."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Sayori se preocupa demasiado por mÃ­. Yo me conformo con pasar desapercibido y jugar a videojuegos o ver series de anime en mi tiempo libre."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -360,7 +446,11 @@ translate spanish ch0_main_06a80352:
     # s 4j "Uh-huh!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s 4j "Â¡Eh!"
+=======
+    s 4j ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s 4j ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -380,7 +470,11 @@ translate spanish ch0_main_61fb4fdb:
     # s "Your happiness is really important to me, you know!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s "Tu felicidad es muy importante para mÃ­, Â¿sabes?"
+=======
+    s ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -394,7 +488,11 @@ translate spanish ch0_main_12a3f20b:
     # s "And I know you're happy now, but I'd die at the thought of you becoming a NEET in a few years because you're not used to the real world!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s "Y sÃ© que eres feliz ahora, pero me da mucha pena pensar que puedas convertirte en un nini dentro de unos aÃ±os por no conocer mÃ¡s allÃ¡ de tu casa."
+=======
+    s ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -408,7 +506,11 @@ translate spanish ch0_main_0df692b5:
     # s 4g "You trust me, right?"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s 4g "ConfÃ­as en mÃ­, Â¿no?"
+=======
+    s 4g ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s 4g ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -434,7 +536,11 @@ translate spanish ch0_main_a240cafd:
     # mc "I'll look at a few clubs if it makes you happy."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     mc "EcharÃ© un vistazo a algunos clubs si asÃ­ te quedas mÃ¡s tranquila."
+=======
+    mc ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     mc ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -454,7 +560,11 @@ translate spanish ch0_main_4320f887:
     # s 1h "Will you at least promise me you'll try a little?"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s 1h "Â¿Me prometes que por lo menos le pondrÃ¡s un poco de ganas?"
+=======
+    s 1h ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s 1h ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -468,7 +578,11 @@ translate spanish ch0_main_185b43a6:
     # mc "Yeah, I guess I'll promise you that."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     mc "SÃ­, supongo que eso te lo puedo prometer."
+=======
+    mc ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     mc ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -482,7 +596,11 @@ translate spanish ch0_main_3c2076a4:
     # s 4r "Yaay~!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s 4r "Â¡Yujuuuu!"
+=======
+    s 4r ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s 4r ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -496,7 +614,11 @@ translate spanish ch0_main_0ec84410:
     # "Why do I let myself get lectured by such a carefree girl?"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Â¿Por quÃ© dejo que me dÃ© lecciones una chica tan inconsciente?"
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -510,7 +632,11 @@ translate spanish ch0_main_427c8d3d:
     # "More than that, I'm surprised I even let myself relent to her."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "MÃ¡s que nada, me sorprende verme cediendo a lo que pide."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -524,7 +650,11 @@ translate spanish ch0_main_86001771:
     # "I guess seeing her worry so much about me makes me want to ease her mind at least a little bit - even if she does exaggerate everything inside of her head."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Supongo que, como se preocupa tanto por mÃ­, quiero tranquilizarla al menos un poco. Aunque lo exagere todo dentro de su cabeza."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -544,7 +674,11 @@ translate spanish ch0_main_7a46ab7f:
     # "After I pack up my things, I stare blankly at the wall, looking for an ounce of motivation."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Recojo mis cosas y, abstraÃ­do, me quedo mirando a la pared en busca de motivaciÃ³n."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -576,7 +710,11 @@ translate spanish ch0_main_fb713b14:
     # s "Hellooo?"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s "Â¿Holaaaa?"
+=======
+    s ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -590,7 +728,11 @@ translate spanish ch0_main_e47a0e88:
     # mc "Sayori...?"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     mc "Â¿Sayori?..."
+=======
+    mc ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     mc ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -604,7 +746,11 @@ translate spanish ch0_main_6020da7f:
     # "Sayori must have come into the classroom while I was spacing out."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Sayori habrÃ¡ entrado en el aula mientras estaba ensimismado."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -618,7 +764,11 @@ translate spanish ch0_main_1990352b:
     # "I look around and realize that I'm the only one left in the classroom."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Miro a mi alrededor y veo que soy el Ãºnico que queda en la clase."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -632,7 +782,11 @@ translate spanish ch0_main_dedd63de:
     # s 1a "I thought I'd catch you coming out of the classroom, but I saw you just sitting here and spacing out, so I came in."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s 1a "Se me ocurriÃ³ buscarte al salir de clase, pero te vi ahÃ­ sentado y en Babia, asÃ­ que decidÃ­ entrar."
+=======
+    s 1a ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s 1a ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -646,7 +800,11 @@ translate spanish ch0_main_7615d8d6:
     # s "Honestly, you're even worse than me sometimes... I'm impressed!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s "Sinceramente, a veces eres peor que yo... Â¡Estoy impresionada!"
+=======
+    s ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -666,7 +824,11 @@ translate spanish ch0_main_9d8de398:
     # s 1y "Well, I thought you might need some encouragement, so I thought, you know..."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s 1y "PensÃ© que te vendrÃ­a bien un poco de Ã¡nimo, asÃ­ que, no sÃ©..."
+=======
+    s 1y ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s 1y ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -680,7 +842,11 @@ translate spanish ch0_main_200708b1:
     # mc "Know what?"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     mc "Â¿QuÃ© pasa?"
+=======
+    mc ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     mc ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -694,7 +860,11 @@ translate spanish ch0_main_e745591c:
     # s 1a "Well, that you could come to my club!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s 1a "Bueno, Â¡que podrÃ­as pasarte por mi club!"
+=======
+    s 1a ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s 1a ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -714,7 +884,11 @@ translate spanish ch0_main_863b15e1:
     # s 4r "Yeah??"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s 4r "Â¿SÃ­?"
+=======
+    s 4r ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s 4r ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -728,7 +902,11 @@ translate spanish ch0_main_3b777b8d:
     # mc "...There is no way I'm going to your club."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     mc "Ni de coÃ±a pienso ir a tu club..."
+=======
+    mc ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     mc ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -742,7 +920,11 @@ translate spanish ch0_main_f92ba1b1:
     # s 5d "Eeeehhhhh?! Meanie!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s 5d "Â¡Â¿Eeeh?! Â¡QuÃ© cruel!"
+=======
+    s 5d ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s 5d ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -762,7 +944,11 @@ translate spanish ch0_main_3b431c20:
     # "Not that I was ever aware that she had any interest in literature."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Nunca me habÃ­a fijado en que le interesara la literatura."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -776,7 +962,11 @@ translate spanish ch0_main_a89001e9:
     # "In fact, I'm 99%% sure she only did it because she thought it would be fun to help start a new club."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "De hecho, estoy seguro al 99% de que solo se uniÃ³ porque le parecÃ­a divertido ayudar a fundar un club nuevo."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -790,7 +980,11 @@ translate spanish ch0_main_bf60a48d:
     # "Since she was the first one to show interest after the one who proposed the club, she inherited the title \"Vice President\"."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Como fue la primera en interesarse despuÃ©s de la chica que propuso el club, le tocÃ³ el tÃ­tulo de <<vicepresidenta>>."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -804,7 +998,11 @@ translate spanish ch0_main_dad2209a:
     # "That said, my interest in literature is guaranteed to be even less."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Dicho esto, a mÃ­ la literatura me interesa todavÃ­a menos que a ella."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -824,7 +1022,11 @@ translate spanish ch0_main_e9fc337c:
     # s 1g "C'mon, please?"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s 1g "Â¡Venga, porfa!"
+=======
+    s 1g ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s 1g ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -838,7 +1040,11 @@ translate spanish ch0_main_a2239a0d:
     # mc "Why do you care so much, anyway?"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     mc "Â¿Por quÃ© te importa tanto?"
+=======
+    mc ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     mc ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -858,7 +1064,11 @@ translate spanish ch0_main_d72b517e:
     # s "I kind of told the club yesterday I would bring in a new member..."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s "Es que ayer le dije a las chicas del club que traerÃ­a a alguien..."
+=======
+    s ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -884,7 +1094,11 @@ translate spanish ch0_main_e05adf1b:
     # mc "Don't make promises you can't keep!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     mc "Â¡No hagas promesas que no puedes cumplir!"
+=======
+    mc ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     mc ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -898,7 +1112,11 @@ translate spanish ch0_main_cc62f8f9:
     # "I can't tell if Sayori is really that much of an airhead, or if she's so cunning as to have planned all of this out."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "No sÃ© si Sayori es de verdad asÃ­ de cabeza hueca o si es tan astuta que lo tiene todo planeado de antemano."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -918,7 +1136,11 @@ translate spanish ch0_main_09810a2c:
     # mc "Fine... I'll stop by for a cupcake, okay?"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     mc "EstÃ¡ bien... Me pasarÃ© a comerme un cupcake, Â¿vale?"
+=======
+    mc ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     mc ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -932,7 +1154,11 @@ translate spanish ch0_main_56df6485:
     # s 4r "Yes! Let's go~!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s 4r "Â¡SÃ­! Â¡Vamos!"
+=======
+    s 4r ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     s 4r ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -946,7 +1172,11 @@ translate spanish ch0_main_d005514b:
     # "And thus, today marks the day I sold my soul for a cupcake."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Y ese fue el dÃ­a en que vendÃ­ mi alma por un cupcake."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -960,7 +1190,11 @@ translate spanish ch0_main_cb634d94:
     # "I dejectedly follow Sayori across the school and upstairs - a section of the school I rarely visit, being generally used for third-year classes and activities."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "TÃ­midamente, la sigo por el instituto y subimos unas escaleras que dan a una parte en la que apenas he estado."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -974,7 +1208,11 @@ translate spanish ch0_main_01a899d9:
     # "Sayori, full of energy, swings open the classroom door."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Sayori, llena de energÃ­a, abre la puerta del aula."
+=======
+    ""
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
     ""
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
@@ -988,8 +1226,11 @@ translate spanish ch0_main_fcd53725:
     # s "Everyone! The new member is here~!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     s "Â¡Gente! Â¡Ha llegado el nuevo miembro!"
 =======
+=======
+>>>>>>> parent of 80b2e32 (script-ch0 | #4)
 =======
 >>>>>>> parent of 80b2e32 (script-ch0 | #4)
     s ""
