@@ -8,7 +8,7 @@ translate spanish strings:
 
     # game/credits.rpy:505
     old "Playing audio \"ddlc.ogg\"..."
-    new "Reproduciendo audio \"ddlc.ogg\"..."
+    new "Reproduciendo \"ddlc.ogg\"..."
 
     # game/credits.rpy:572
     old "n_cg1.png deleted successfully."
