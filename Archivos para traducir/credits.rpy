@@ -68,5 +68,5 @@ translate spanish strings:
 
     # game/credits.rpy:732
     old "Error: Script file is missing or corrupt.\nPlease reinstall the game."
-    new ""
+    new "Error: El Script no está presente o está corrupto.\nPor favor, reinstala el juego."
 
