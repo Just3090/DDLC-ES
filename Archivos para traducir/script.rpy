@@ -4,5 +4,5 @@
 translate spanish playthrough2_b23f6c03:
 
     # "End of demo"
-    ""
+    "Fin de la demo"
 
