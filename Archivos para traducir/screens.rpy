@@ -190,31 +190,33 @@ translate spanish strings:
     old "{#in language font}Select"
     new "{#in language font}Seleccionar"
 
-# TODO: Translation updated at 2025-03-12 12:13
+# No se usa
 
-translate spanish strings:
+# # TODO: Translation updated at 2025-03-12 12:13
 
-    # game/screens.rpy:1219
-    old "Game Modes"
-    new ""
+# translate spanish strings:
 
-    # game/screens.rpy:1220
-    old "Uncensored Mode"
-    new ""
+#     # game/screens.rpy:1219
+#     old "Game Modes"
+#     new ""
 
-    # game/screens.rpy:1226
-    old "Let's Play Mode"
-    new ""
+#     # game/screens.rpy:1220
+#     old "Uncensored Mode"
+#     new ""
 
-    # game/screens.rpy:1235
-    old "Player Name"
-    new ""
+#     # game/screens.rpy:1226
+#     old "Let's Play Mode"
+#     new ""
 
-    # game/screens.rpy:1240
-    old "No Name Set"
-    new ""
+#     # game/screens.rpy:1235
+#     old "Player Name"
+#     new ""
 
-    # game/screens.rpy:1244
-    old "Change Name"
-    new ""
+#     # game/screens.rpy:1240
+#     old "No Name Set"
+#     new ""
+
+#     # game/screens.rpy:1244
+#     old "Change Name"
+#     new ""
 
