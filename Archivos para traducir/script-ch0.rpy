@@ -916,343 +916,343 @@ translate spanish ch0_main_4c34725b:
 translate spanish ch0_main_feae3ba6:
 
     # n 5h "W-Why are you thanking me? It's not like I...!"
-    n 5h ""
+    n 5h "¿P-Por qué me das las gracias? Ni que..."
 
 # game/script-ch0.rpy:258
 translate spanish ch0_main_8aa3724b:
 
     # "{i}(Haven't I heard this somewhere before...?){/i}"
-    ""
+    "{i}(¿No he oído esto antes?...){/i}"
 
 # game/script-ch0.rpy:260
 translate spanish ch0_main_0b0590da:
 
     # n 5s "...Made them for you or anything."
-    n 5s ""
+    n 5s "Los hubiera hecho para ti o algo."
 
 # game/script-ch0.rpy:261
 translate spanish ch0_main_cbdb9568:
 
     # mc "Eh? I thought you technically did. Sayori said--"
-    mc ""
+    mc "¿Eh? Creo que, técnicamente, sí que los has hecho para mí. Sayori dijo..."
 
 # game/script-ch0.rpy:263
 translate spanish ch0_main_3c076ae6:
 
     # n 12c "Well, maybe!"
-    n 12c ""
+    n 12c "¡Bueno, a lo mejor!"
 
 # game/script-ch0.rpy:264
 translate spanish ch0_main_3963d9b0:
 
     # n "But not for, y-you know, {i}you!{/i} Dummy..."
-    n ""
+    n "¡Pero no para ti en particular! Bobo..."
 
 # game/script-ch0.rpy:265
 translate spanish ch0_main_62185db9_1:
 
     # mc "Alright, alright..."
-    mc ""
+    mc "Vale, vale..."
 
 # game/script-ch0.rpy:268
 translate spanish ch0_main_e11ca288:
 
     # "I give up on Natsuki's weird logic and dismiss the conversation."
-    ""
+    "Renuncio a enfrentarme a la lógica retorcida de Natsuki y dejo la conversación."
 
 # game/script-ch0.rpy:269
 translate spanish ch0_main_28adc331:
 
     # "Yuri returns to the table, carrying a tea set."
-    ""
+    "Yuri vuelve a la mesa con un juego de té."
 
 # game/script-ch0.rpy:270
 translate spanish ch0_main_3b0ad38e:
 
     # "She carefully places a teacup in front of each of us before setting down the teapot next to the cupcake tray."
-    ""
+    "Coloca una taza con cuidado delante de cada uno y, luego, pone la tetera junto a la bandeja de los cupcakes."
 
 # game/script-ch0.rpy:272
 translate spanish ch0_main_b0102204:
 
     # mc "You keep a whole tea set in this classroom?"
-    mc ""
+    mc "¿Guardáis el juego de té en el aula?"
 
 # game/script-ch0.rpy:273
 translate spanish ch0_main_63fe0000:
 
     # y "Don't worry, the teachers gave us permission."
-    y ""
+    y "No pasa nada, tenemos permiso de los profesores."
 
 # game/script-ch0.rpy:274
 translate spanish ch0_main_efc4ed34:
 
     # y "After all, doesn't a hot cup of tea help you enjoy a good book?"
-    y ""
+    y "Al fin y al cabo, un buen libro entra mejor con una taza de té calentito, ¿no crees?"
 
 # game/script-ch0.rpy:275
 translate spanish ch0_main_a3a3b943:
 
     # mc "Ah... I-I guess..."
-    mc ""
+    mc "Ah... S-Supongo..."
 
 # game/script-ch0.rpy:277
 translate spanish ch0_main_de8b3252:
 
     # m "Ehehe, don't let yourself get intimidated, Yuri's just trying to impress you."
-    m ""
+    m "Je, je, je. No dejes que te intimide. Yuri solo trata de impresionarte."
 
 # game/script-ch0.rpy:279
 translate spanish ch0_main_d1e9e5c9:
 
     # y 3n "Eh?! T-That's not..."
-    y 3n ""
+    y 3n "¡¿Eh?! E-Eso no es..."
 
 # game/script-ch0.rpy:280
 translate spanish ch0_main_6f8e7fc9:
 
     # "Insulted, Yuri looks away."
-    ""
+    "Yuri, ofendida, aparta la mirada."
 
 # game/script-ch0.rpy:281
 translate spanish ch0_main_0403ff06:
 
     # y 4b "I meant that, you know..."
-    y 4b ""
+    y 4b "Lo decía en serio, ¿sabes?"
 
 # game/script-ch0.rpy:282
 translate spanish ch0_main_03220b59:
 
     # mc "I believe you."
-    mc ""
+    mc "Te creo."
 
 # game/script-ch0.rpy:283
 translate spanish ch0_main_e29518b6:
 
     # mc "Well, tea and reading might not be a pastime for me, but I at least enjoy tea."
-    mc ""
+    mc "El té y la lectura no me van demasiado, pero procuraré disfrutar de esta taza."
 
 # game/script-ch0.rpy:284
 translate spanish ch0_main_fb4dad3b:
 
     # y 2u "I'm glad..."
-    y 2u ""
+    y 2u "Me alegro..."
 
 # game/script-ch0.rpy:285
 translate spanish ch0_main_c171e465:
 
     # "Yuri faintly smiles to herself in relief."
-    ""
+    "Yuri, aliviada, esboza una tímida sonrisa."
 
 # game/script-ch0.rpy:286
 translate spanish ch0_main_ef1106ab:
 
     # "Monika raises an eyebrow, then smiles at me."
-    ""
+    "Monika arquea una ceja y me sonríe."
 
 # game/script-ch0.rpy:290
 translate spanish ch0_main_6825feaf:
 
     # m 1 "So, what made you consider the Literature Club?"
-    m 1 ""
+    m 1 "Entonces, ¿qué te hizo interesarte por el club de literatura?"
 
 # game/script-ch0.rpy:291
 translate spanish ch0_main_6b0ed824:
 
     # mc "Um..."
-    mc ""
+    mc "Mmm..."
 
 # game/script-ch0.rpy:292
 translate spanish ch0_main_dc25391e:
 
     # "I was afraid of this question."
-    ""
+    "Temía que me hicieran esta pregunta."
 
 # game/script-ch0.rpy:293
 translate spanish ch0_main_e8c5b463:
 
     # "Something tells me I shouldn't tell Monika that I was practically dragged here by Sayori."
-    ""
+    "Algo me dice que no debo contarle a Monika que Sayori me trajo prácticamente a rastras."
 
 # game/script-ch0.rpy:294
 translate spanish ch0_main_7fc001c4:
 
     # mc "Well, I haven't joined any clubs yet, and Sayori seemed really happy here, so..."
-    mc ""
+    mc "Bueno, todavía no me he unido a ningún club y parece que Sayori está muy contenta con vosotras, así que..."
 
 # game/script-ch0.rpy:295
 translate spanish ch0_main_fd3149d6:
 
     # m 1j "That's okay! Don't be embarrassed!"
-    m 1j ""
+    m 1j "¡No pasa nada! ¡Que no te dé vergüenza!"
 
 # game/script-ch0.rpy:296
 translate spanish ch0_main_ce2d7c11:
 
     # m 1b "We'll make sure you feel right at home, okay?"
-    m 1b ""
+    m 1b "Te haremos sentirte como en casa, ¿vale?"
 
 # game/script-ch0.rpy:297
 translate spanish ch0_main_c706e39a:
 
     # m "As president of the Literature Club, it's my duty to make the club fun and exciting for everyone!"
-    m ""
+    m "Como presidenta del club de literatura, ¡es mi deber que todo el mundo se lo pase bien!"
 
 # game/script-ch0.rpy:299
 translate spanish ch0_main_a32c6d1d:
 
     # mc "Monika, I'm surprised."
-    mc ""
+    mc "Monika, me sorprendes."
 
 # game/script-ch0.rpy:300
 translate spanish ch0_main_eee6c6cb:
 
     # mc "How come you decided to start your own club?"
-    mc ""
+    mc "¿Cómo es que decidiste fundar tu propio club?"
 
 # game/script-ch0.rpy:301
 translate spanish ch0_main_4c32cc5d:
 
     # mc "You could probably be a board member for any of the major clubs."
-    mc ""
+    mc "Seguro que podrías liderar cualquiera de los clubes importantes."
 
 # game/script-ch0.rpy:302
 translate spanish ch0_main_e482a1a0:
 
     # mc "Weren't you a leader of the debate club last year?"
-    mc ""
+    mc "¿No eras un pez gordo del club de debate el curso pasado?"
 
 # game/script-ch0.rpy:303
 translate spanish ch0_main_ac39b15e:
 
     # m 5 "Ahaha, well, you know..."
-    m 5 ""
+    m 5 "Ja, ja, ja. Bueno, ya sabes..."
 
 # game/script-ch0.rpy:304
 translate spanish ch0_main_762f40f1:
 
     # m "To be honest, I can't stand all of the politics around the major clubs."
-    m ""
+    m "Si te soy sincera, me repatea el politiqueo que rodea a los clubes importantes."
 
 # game/script-ch0.rpy:305
 translate spanish ch0_main_0ee5c447:
 
     # m "It feels like nothing but arguing about the budget and publicity and how to prepare for events..."
-    m ""
+    m "Da la impresión de que te pasas el día hablando de presupuestos, publicidad y cómo preparar eventos."
 
 # game/script-ch0.rpy:306
 translate spanish ch0_main_874ed9a4:
 
     # m "I'd much rather take something I personally enjoy and make something special out of it."
-    m ""
+    m "Prefiero participar en algo que me guste de verdad y que sea especial para mí."
 
 # game/script-ch0.rpy:307
 translate spanish ch0_main_5744d684:
 
     # m 1b "And if it encourages others to get into literature, then I'm fulfilling that dream!"
-    m 1b ""
+    m 1b "Si consigo que alguien se interese por la literatura, ¡podré cumplir mi sueño!"
 
 # game/script-ch0.rpy:310
 translate spanish ch0_main_e707a53f:
 
     # s "Monika really is a great leader!"
-    s ""
+    s "¡Monika es una gran líder!"
 
 # game/script-ch0.rpy:312
 translate spanish ch0_main_da545528:
 
     # "Yuri also nods in agreement."
-    ""
+    "Yuri asiente para indicar que está de acuerdo."
 
 # game/script-ch0.rpy:317
 translate spanish ch0_main_d8791778:
 
     # mc "Then I'm surprised there aren't more people in the club yet."
-    mc ""
+    mc "Pues me sorprende que aún no se hayan apuntado más estudiantes."
 
 # game/script-ch0.rpy:318
 translate spanish ch0_main_d49bb743:
 
     # mc "It must be hard to start a new club."
-    mc ""
+    mc "Debe de ser duro empezar un nuevo club."
 
 # game/script-ch0.rpy:319
 translate spanish ch0_main_be7ec00e:
 
     # m 3b "You could put it that way."
-    m 3b ""
+    m 3b "Podría decirse que sí."
 
 # game/script-ch0.rpy:320
 translate spanish ch0_main_75b36957:
 
     # m "Not many people are very interested in putting out all the effort to start something brand new..."
-    m ""
+    m "No hay mucha gente dispuesta a esforzarse por empezar algo de cero."
 
 # game/script-ch0.rpy:321
 translate spanish ch0_main_e8c57f75:
 
     # m "Especially when it's something that doesn't grab your attention, like literature."
-    m ""
+    m "Y menos de algo que no llama la atención, como la literatura."
 
 # game/script-ch0.rpy:322
 translate spanish ch0_main_1ca5227d:
 
     # m "You have to work hard to convince people that you're both fun and worthwhile."
-    m ""
+    m "Debes trabajar duro para convencer a los demás de que tu club es divertido y vale la pena."
 
 # game/script-ch0.rpy:323
 translate spanish ch0_main_2d2540fa:
 
     # m "But it makes school events, like the festival, that much more important."
-    m ""
+    m "Por esa razón, los eventos escolares como el festival son especialmente importantes."
 
 # game/script-ch0.rpy:324
 translate spanish ch0_main_5d278e4b:
 
     # m 2k "I'm confident that we can all really grow this club before we graduate!"
-    m 2k ""
+    m 2k "¡Confío en que, con nuestro trabajo en equipo, haremos crecer este club antes de graduarnos!"
 
 # game/script-ch0.rpy:325
 translate spanish ch0_main_f8598f30:
 
     # m "Right, everyone?"
-    m ""
+    m "¿Verdad, compis?"
 
 # game/script-ch0.rpy:328
 translate spanish ch0_main_a03b41d0:
 
     # s "Yeah!"
-    s ""
+    s "¡Sí!"
 
 # game/script-ch0.rpy:332
 translate spanish ch0_main_d4e34ad8:
 
     # y "We'll do our best."
-    y ""
+    y "Nos esforzaremos al máximo."
 
 # game/script-ch0.rpy:337
 translate spanish ch0_main_91310346:
 
     # n "You know it!"
-    n ""
+    n "¡Ya te digo!"
 
 # game/script-ch0.rpy:338
 translate spanish ch0_main_b250c385:
 
     # "Everyone enthusiastically agrees."
-    ""
+    "Todo el mundo asiente con entusiasmo."
 
 # game/script-ch0.rpy:339
 translate spanish ch0_main_fffaaae6:
 
     # "Such different girls, all interested in the same goal..."
-    ""
+    "Tienen personalidades muy distintas, pero todas comparten un mismo objetivo."
 
 # game/script-ch0.rpy:340
 translate spanish ch0_main_e4ea91ed:
 
     # "Monika must have worked really hard just to find these three."
-    ""
+    "Monika debe de haber sudado tinta para encontrar a esas tres."
 
 # game/script-ch0.rpy:341
 translate spanish ch0_main_568069f4:
