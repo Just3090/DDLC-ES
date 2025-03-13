@@ -520,397 +520,397 @@ translate spanish ch0_main_fcd53725:
 translate spanish ch0_main_a17485df:
 
     # mc "I told you, don't call me a 'new member--'"
-    mc ""
+    mc "Te lo he dicho; no me llames <<nuevo miembro>>."
 
 # game/script-ch0.rpy:128
 translate spanish ch0_main_6c94972f:
 
     # "Eh? I glance around the room."
-    ""
+    "¿Eh? Echo un vistazo por el aula."
 
 # game/script-ch0.rpy:130
 translate spanish ch0_main_0a3aa08f:
 
     # y "Welcome to the Literature Club. It's a pleasure meeting you."
-    y ""
+    y "Bienvenido al club de literatura. Encantadas de conocerte."
 
 # game/script-ch0.rpy:131
 translate spanish ch0_main_3c9be08b:
 
     # y "Sayori always says nice things about you."
-    y ""
+    y "Sayori siempre está diciendo cosas buenas de ti."
 
 # game/script-ch0.rpy:134
 translate spanish ch0_main_cc7dab55:
 
     # n "Seriously? You brought a boy?"
-    n ""
+    n "¿En serio? ¿Has traído a un chico?"
 
 # game/script-ch0.rpy:135
 translate spanish ch0_main_2bfb1f2f:
 
     # n "Way to kill the atmosphere."
-    n ""
+    n "Bonita forma de cortar el rollo."
 
 # game/script-ch0.rpy:139
 translate spanish ch0_main_bf1dc1a1:
 
     # m "Ah, [player]! What a nice surprise!"
-    m ""
+    m "¡Ah, [player]! ¡Qué sorpresa tan agradable!"
 
 # game/script-ch0.rpy:140
 translate spanish ch0_main_d4348f02:
 
     # m "Welcome to the club!"
-    m ""
+    m "¡Bienvenido al club!"
 
 # game/script-ch0.rpy:142
 translate spanish ch0_main_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/script-ch0.rpy:143
 translate spanish ch0_main_00244a6d:
 
     # "All words escape me in this situation."
-    ""
+    "Me he quedado sin palabras."
 
 # game/script-ch0.rpy:144
 translate spanish ch0_main_7903e6e7:
 
     # "This club..."
-    ""
+    "Este club..."
 
 # game/script-ch0.rpy:145
 translate spanish ch0_main_4c13a14b:
 
     # "{i}...is full of incredibly cute girls!!{/i}"
-    ""
+    "{i}¡¡¡está lleno de chicas guapas!!!{/i}"
 
 # game/script-ch0.rpy:153
 translate spanish ch0_main_b2022684:
 
     # n 2c "What are you looking at?"
-    n 2c ""
+    n 2c "¿Qué estás mirando?"
 
 # game/script-ch0.rpy:154
 translate spanish ch0_main_89e5120b:
 
     # n "If you want to say something, say it."
-    n ""
+    n "Si quieres decir algo, dilo."
 
 # game/script-ch0.rpy:155
 translate spanish ch0_main_6cbd4647:
 
     # mc "S-Sorry..."
-    mc ""
+    mc "L-Lo siento..."
 
 # game/script-ch0.rpy:158
 translate spanish ch0_main_98d9573e:
 
     # y "Natsuki..."
-    y ""
+    y "Natsuki..."
 
 # game/script-ch0.rpy:162
 translate spanish ch0_main_bc64dbb8:
 
     # n 5s "Hmph."
-    n 5s ""
+    n 5s "Jum."
 
 # game/script-ch0.rpy:165
 translate spanish ch0_main_3b270b09:
 
     # "The girl with the sour attitude, whose name is apparently Natsuki, is one I don't recognize."
-    ""
+    "Al parecer, la chica borde se llama Natsuki. Es la única que no me suena."
 
 # game/script-ch0.rpy:166
 translate spanish ch0_main_5e0f976f:
 
     # "Her small figure makes me think she's probably a first-year."
-    ""
+    "Es de complexión pequeña, así que parece una estudiante de primero."
 
 # game/script-ch0.rpy:167
 translate spanish ch0_main_6627708c:
 
     # "She is also the one who made cupcakes, according to Sayori."
-    ""
+    "También es la que ha hecho cupcakes según Sayori."
 
 # game/script-ch0.rpy:170
 translate spanish ch0_main_50a3834f:
 
     # s "You can just ignore her when she gets moody~"
-    s ""
+    s "Puedes ignorarla si se pone de malas."
 
 # game/script-ch0.rpy:171
 translate spanish ch0_main_f4b3e5d1:
 
     # "Sayori says that quietly into my ear, then turns back toward the other girls."
-    ""
+    "Sayori me susurra ese consejo al oído y, luego, se vuelve hacia las otras chicas."
 
 # game/script-ch0.rpy:172
 translate spanish ch0_main_f72302c8:
 
     # s 1x "Anyway! This is Natsuki, always full of energy."
-    s 1x ""
+    s 1x "¡Bueno! Esta es Natsuki, siempre rebosante de energía."
 
 # game/script-ch0.rpy:173
 translate spanish ch0_main_77201e52:
 
     # s "And this is Yuri, the smartest in the club!"
-    s ""
+    s "¡Y esta es Yuri, la más lista del club!"
 
 # game/script-ch0.rpy:177
 translate spanish ch0_main_084001f0:
 
     # y 4b "D-Don't say things like that..."
-    y 4b ""
+    y 4b "N-No digas esas cosas..."
 
 # game/script-ch0.rpy:178
 translate spanish ch0_main_4ccfaeda:
 
     # "Yuri, who appears comparably more mature and timid, seems to have a hard time keeping up with people like Sayori and Natsuki."
-    ""
+    "Yuri parece mucho más madura y tímida en comparación; y diría que le cuesta lidiar con chicas como Sayori y Natsuki."
 
 # game/script-ch0.rpy:180
 translate spanish ch0_main_13900021:
 
     # mc "Ah... Well, it's nice to meet both of you."
-    mc ""
+    mc "Ah... Bueno, encantado de conoceros a ambas."
 
 # game/script-ch0.rpy:186
 translate spanish ch0_main_34c0c312:
 
     # s 1a "And it sounds like you already know Monika, is that right?"
-    s 1a ""
+    s 1a "Y parece que ya conoces a Monika, ¿verdad?"
 
 # game/script-ch0.rpy:190
 translate spanish ch0_main_857b34c3:
 
     # m "That's right."
-    m ""
+    m "Sí, cierto."
 
 # game/script-ch0.rpy:191
 translate spanish ch0_main_3573b794:
 
     # m "It's great to see you again, [player]."
-    m ""
+    m "Me alegro de volver a verte, [player]."
 
 # game/script-ch0.rpy:193
 translate spanish ch0_main_3049c3ae:
 
     # "Monika smiles sweetly."
-    ""
+    "Monika sonríe con dulzura."
 
 # game/script-ch0.rpy:194
 translate spanish ch0_main_7c7cb783:
 
     # "We do know each other - well, we rarely talked, but we were in the same class last year."
-    ""
+    "Nos concemos. Apenas hemos cruzado unas pocas palabras, pero el año pasado fuimos juntos a clase."
 
 # game/script-ch0.rpy:195
 translate spanish ch0_main_f583350f:
 
     # "Monika was probably the most popular girl in class - smart, beautiful, athletic."
-    ""
+    "Inteligente, guapa y atlética... Seguro que era la más popular."
 
 # game/script-ch0.rpy:196
 translate spanish ch0_main_e3e8565d:
 
     # "Basically, completely out of my league."
-    ""
+    "En definitiva, que está fuera de mi alcance."
 
 # game/script-ch0.rpy:197
 translate spanish ch0_main_f83977c1:
 
     # "So, having her smile at me so genuinely feels a little..."
-    ""
+    "Que me sonría con tanta sinceridad se me hace un poco..."
 
 # game/script-ch0.rpy:198
 translate spanish ch0_main_dffc1ef1:
 
     # mc "Y-You too, Monika."
-    mc ""
+    mc "L-Lo mismo digo, Monika."
 
 # game/script-ch0.rpy:202
 translate spanish ch0_main_5ade5cd5:
 
     # s 4x "Come sit down, [player]! We made room for you at the table, so you can sit next to me or Monika."
-    s 4x ""
+    s 4x "¡Ven a sentarte, [player]! Te hemos dejado sitio, así que puedes sentarte a mi lado o junto a Monika."
 
 # game/script-ch0.rpy:203
 translate spanish ch0_main_8b8dbdb6:
 
     # s "I'll get the cupcakes~"
-    s ""
+    s "Iré a buscar los cupcakes."
 
 # game/script-ch0.rpy:206
 translate spanish ch0_main_7dba2d0b:
 
     # n "Hey! I made them, I'll get them!"
-    n ""
+    n "¡Eh! ¡Los he hecho yo, así que yo iré a por ellos!"
 
 # game/script-ch0.rpy:209
 translate spanish ch0_main_0d2a5328:
 
     # s 5a "Sorry, I got a little too excited~"
-    s 5a ""
+    s 5a "Perdona, me he emocionado un poco..."
 
 # game/script-ch0.rpy:212
 translate spanish ch0_main_4c9bc219:
 
     # y "Then, how about I make some tea as well?"
-    y ""
+    y "Entonces, ¿qué os parece si preparo un poco de té?"
 
 # game/script-ch0.rpy:217
 translate spanish ch0_main_9f8ec8cb:
 
     # "The girls have a few desks arranged to form a table."
-    ""
+    "Las chicas han formado una mesa con los pupitres."
 
 # game/script-ch0.rpy:218
 translate spanish ch0_main_8c49885c:
 
     # "As Sayori mentioned, it's been widened so that there is one space next to Monika and one space next to Sayori."
-    ""
+    "Como Sayori ha dicho, la han agrandado para que haya un espacio al lado de Monika y otro junto a Sayori."
 
 # game/script-ch0.rpy:219
 translate spanish ch0_main_dd182ef4:
 
     # "Natsuki and Yuri walk over to the corner of the room, where Natsuki grabs a wrapped tray and Yuri opens the closet."
-    ""
+    "Natsuki y Yuri van a la esquina del aula. Natsuki coge una bandeja envuelta y Yuri abre el armario."
 
 # game/script-ch0.rpy:220
 translate spanish ch0_main_7b148be6:
 
     # "Still feeling awkward, I take a seat next to Sayori."
-    ""
+    "Me siento junto a Sayori. La situación sigue siendo incómoda."
 
 # game/script-ch0.rpy:221
 translate spanish ch0_main_f4e1d6dd:
 
     # "Natsuki proudly marches back to the table, tray in hand."
-    ""
+    "Natsuki camina orgullosa hacia la mesa con la bandeja en la mano."
 
 # game/script-ch0.rpy:223
 translate spanish ch0_main_5be7519f:
 
     # n "Okaaay, are you ready?"
-    n ""
+    n "Vaaaale. ¿Os habéis preparado para lo que viene ahora?"
 
 # game/script-ch0.rpy:224
 translate spanish ch0_main_a49f0dc7:
 
     # n "...Ta-daa!"
-    n ""
+    n "¡Tachán!"
 
 # game/script-ch0.rpy:227
 translate spanish ch0_main_496daacd:
 
     # s "Uwooooah!"
-    s ""
+    s "¡Guau!"
 
 # game/script-ch0.rpy:228
 translate spanish ch0_main_f7578acc:
 
     # "Natsuki lifts the foil off the tray to reveal a dozen white, fluffy cupcakes decorated to look like little cats."
-    ""
+    "Natsuki quita el envoltorio de la bandeja y debajo hay doce cupcakes blancos y esponjosos, decorados para que parezcan gatitos."
 
 # game/script-ch0.rpy:229
 translate spanish ch0_main_96ece77f:
 
     # "The whiskers are drawn with icing, and little pieces of chocolate were used to make ears."
-    ""
+    "Los bigotes están dibujados con el glaseado y las orejas son trocitos pequeños de chocolate."
 
 # game/script-ch0.rpy:231
 translate spanish ch0_main_697c694e:
 
     # s 4r "So cuuuute~!"
-    s 4r ""
+    s 4r "¡Pero qué monooooos!"
 
 # game/script-ch0.rpy:234
 translate spanish ch0_main_c9f569c5:
 
     # m 2b "I had no idea you were so good at baking, Natsuki!"
-    m 2b ""
+    m 2b "¡No tenía ni idea de que se te diera tan bien la repostería, Natsuki!"
 
 # game/script-ch0.rpy:237
 translate spanish ch0_main_ab028ca4:
 
     # n 2d "Ehehe. Well, you know."
-    n 2d ""
+    n 2d "Je, je, je. Bueno, ya sabes."
 
 # game/script-ch0.rpy:238
 translate spanish ch0_main_1b5731e3:
 
     # n "Just hurry and take one!"
-    n ""
+    n "¡Venga, pilla ya uno!"
 
 # game/script-ch0.rpy:239
 translate spanish ch0_main_4f3b5c41:
 
     # "Sayori grabs one first, then Monika. I follow."
-    ""
+    "Sayori es la primera que coge uno y, luego, Monika. Después, voy yo."
 
 # game/script-ch0.rpy:242
 translate spanish ch0_main_5fdd7380:
 
     # s 4q "It's delicious!"
-    s 4q ""
+    s 4q "¡Está delicioso!"
 
 # game/script-ch0.rpy:243
 translate spanish ch0_main_2e786edb:
 
     # "Sayori talks with her mouth full and has already managed to get icing on her face."
-    ""
+    "Sayori habla con la boca llena y ya ha conseguido mancharse la cara de glaseado."
 
 # game/script-ch0.rpy:244
 translate spanish ch0_main_9137625a:
 
     # "I turn the cupcake around in my fingers, looking for the best angle to take a bite."
-    ""
+    "Le doy la vuelta al cupcake entre los dedos, buscando el mejor ángulo para darle un bocado."
 
 # game/script-ch0.rpy:250
 translate spanish ch0_main_2230ff25:
 
     # "Natsuki is quiet."
-    ""
+    "Natsuki no dice nada."
 
 # game/script-ch0.rpy:251
 translate spanish ch0_main_55d0254f:
 
     # "I can't help but notice her sneaking glances in my direction."
-    ""
+    "No puedo evitar darme cuenta de que está mirando en mi dirección."
 
 # game/script-ch0.rpy:252
 translate spanish ch0_main_c0782073:
 
     # "Is she waiting for me to take a bite?"
-    ""
+    "¿Está esperando a que le dé un bocado?"
 
 # game/script-ch0.rpy:253
 translate spanish ch0_main_894dc484:
 
     # "I finally bite down."
-    ""
+    "Finalmente, muerdo el cupcake."
 
 # game/script-ch0.rpy:254
 translate spanish ch0_main_31cb8e28:
 
     # "The icing is sweet and full of flavor - I wonder if she made it herself."
-    ""
+    "El glaseado es dulce y sabroso. Me pregunto si lo ha hecho ella."
 
 # game/script-ch0.rpy:255
 translate spanish ch0_main_e31bb4c4:
 
     # mc "This is really good."
-    mc ""
+    mc "Está riquísimo."
 
 # game/script-ch0.rpy:256
 translate spanish ch0_main_4c34725b:
 
     # mc "Thank you, Natsuki."
-    mc ""
+    mc "Gracias, Natsuki."
 
 # game/script-ch0.rpy:257
 translate spanish ch0_main_feae3ba6:
