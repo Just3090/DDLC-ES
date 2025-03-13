@@ -1258,319 +1258,319 @@ translate spanish ch0_main_e4ea91ed:
 translate spanish ch0_main_568069f4:
 
     # "Maybe that's why they were all so delighted by the idea of a new member joining."
-    ""
+    "A lo mejor por eso se han emocionado tanto ante la idea de que se apunte alguien más."
 
 # game/script-ch0.rpy:342
 translate spanish ch0_main_08aa7ac3:
 
     # "Though I still don't really know if I can keep up with their level of enthusiasm about literature..."
-    ""
+    "Pero no sé si voy a estar a la altura de este nivel de entusiasmo por la literatura..."
 
 # game/script-ch0.rpy:350
 translate spanish ch0_main_63db5da7:
 
     # y "So, [player], what kinds of things do you like to read?"
-    y ""
+    y "Dime, [player], ¿qué te gusta leer?"
 
 # game/script-ch0.rpy:351
 translate spanish ch0_main_cf79ccdb:
 
     # mc "Well... Ah..."
-    mc ""
+    mc "Bueno... Eh..."
 
 # game/script-ch0.rpy:352
 translate spanish ch0_main_5fcc5273:
 
     # "Considering how little I've read these past few years, I don't really have a good way of answering that."
-    ""
+    "No sé muy bien qué responder. Estos últimos años he leído poquísimo."
 
 # game/script-ch0.rpy:353
 translate spanish ch0_main_1947382b:
 
     # mc "...Manga..."
-    mc ""
+    mc "Manga..."
 
 # game/script-ch0.rpy:354
 translate spanish ch0_main_459c1918:
 
     # "I mutter quietly to myself, half-joking."
-    ""
+    "Murmuro medio en broma para mis adentros."
 
 # game/script-ch0.rpy:356
 translate spanish ch0_main_c6e48974:
 
     # "Natsuki's head suddenly perks up."
-    ""
+    "Natsuki levanta la cabeza de repente."
 
 # game/script-ch0.rpy:357
 translate spanish ch0_main_9101cacb:
 
     # "It looks like she wants to say something, but she keeps quiet."
-    ""
+    "Parece que quiere decir algo, pero se queda en silencio."
 
 # game/script-ch0.rpy:360
 translate spanish ch0_main_8c105e2a:
 
     # y 3u "N-Not much of a reader, I guess..."
-    y 3u ""
+    y 3u "No parece que la lectura sea lo tuyo..."
 
 # game/script-ch0.rpy:361
 translate spanish ch0_main_68d50b2d:
 
     # mc "...Well, that can change..."
-    mc ""
+    mc "Bueno, eso puede cambiar."
 
 # game/script-ch0.rpy:362
 translate spanish ch0_main_ccf38a3c:
 
     # "What am I saying?"
-    ""
+    "¿Qué estoy diciendo?"
 
 # game/script-ch0.rpy:363
 translate spanish ch0_main_3b4ce5c9:
 
     # "I spoke without thinking after seeing Yuri's sad smile."
-    ""
+    "He hablado sin pensar después de ver la triste sonrisa de Yuri."
 
 # game/script-ch0.rpy:364
 translate spanish ch0_main_ca4f61b8:
 
     # mc "Anyway, what about you, Yuri?"
-    mc ""
+    mc "¿Y tú qué, Yuri?"
 
 # game/script-ch0.rpy:365
 translate spanish ch0_main_a89289a8:
 
     # y 1l "Well, let's see..."
-    y 1l ""
+    y 1l "A ver..."
 
 # game/script-ch0.rpy:366
 translate spanish ch0_main_de0357e1:
 
     # "Yuri traces the rim of her teacup with her finger."
-    ""
+    "Yuri acaricia el borde de la taza con el dedo."
 
 # game/script-ch0.rpy:367
 translate spanish ch0_main_17dec8ac:
 
     # y 1a "My favorites are usually novels that build deep and complex fantasy worlds."
-    y 1a ""
+    y 1a "Mis novelas preferidas son las que construyen mundos de fantasía profundos y complejos."
 
 # game/script-ch0.rpy:368
 translate spanish ch0_main_24dcace1:
 
     # y "The level of creativity and craftsmanship behind them is amazing to me."
-    y ""
+    y "El nivel de creatividad y destreza que esconden me parece fascinante."
 
 # game/script-ch0.rpy:369
 translate spanish ch0_main_ff3c844f:
 
     # y 1f "And telling a good story in such a foreign world is equally impressive."
-    y 1f ""
+    y 1f "Y narrar una buena historia en un mundo tan distinto es igual de impresionante."
 
 # game/script-ch0.rpy:370
 translate spanish ch0_main_c77e0dd8:
 
     # "Yuri goes on, clearly passionate about her reading."
-    ""
+    "Yuri sigue hablando de sus lecturas con entusiasmo."
 
 # game/script-ch0.rpy:371
 translate spanish ch0_main_30d11e87:
 
     # "She seemed so reserved and timid since the moment I walked in, but it's obvious by the way her eyes light up that she finds her comfort in the world of books, not people."
-    ""
+    "Parecía reservada y tímida cuando entré, pero, por el brillo de sus ojos, salta a la vista que se encuentra más a gusto con sus libros que con la gente."
 
 # game/script-ch0.rpy:372
 translate spanish ch0_main_830d7316:
 
     # y 2m "But you know, I like a lot of things."
-    y 2m ""
+    y 2m "Aunque, bueno, me gustan muchas cosas."
 
 # game/script-ch0.rpy:373
 translate spanish ch0_main_7aa57972:
 
     # y "Stories with deep psychological elements usually immerse me as well."
-    y ""
+    y "También me atrapan las historias con un fuerte componente psicológico."
 
 # game/script-ch0.rpy:374
 translate spanish ch0_main_b1a75737:
 
     # y 2a "Isn't it amazing how a writer can so deliberately take advantage of your own lack of imagination to completely throw you for a loop?"
-    y 2a ""
+    y 2a "Me asombra cómo un escritor puede sacar partido a propósito de tu falta de imaginación para sorprenderte."
 
 # game/script-ch0.rpy:375
 translate spanish ch0_main_98f09acd:
 
     # y "Anyway, I've been reading a lot of horror lately..."
-    y ""
+    y "Últimamente, también leo bastantes novelas de terror."
 
 # game/script-ch0.rpy:376
 translate spanish ch0_main_b274f53a:
 
     # mc "Ah, I read a horror book once..."
-    mc ""
+    mc "Ah, una vez leí un libro de terror."
 
 # game/script-ch0.rpy:377
 translate spanish ch0_main_e7c359a6:
 
     # "I desperately grasp something I can relate to at the minimal level."
-    ""
+    "Me agarro como un clavo ardiendo a cualquier cosa que entiendo."
 
 # game/script-ch0.rpy:378
 translate spanish ch0_main_6b8ceb25:
 
     # "At this rate, Yuri might as well be having a conversation with a rock."
-    ""
+    "Ahora mismo, es como si Yuri le estuviese hablando a la pared."
 
 # game/script-ch0.rpy:380
 translate spanish ch0_main_dac3be05:
 
     # m "Really? I wouldn't have expected that, Yuri."
-    m ""
+    m "¿En serio? Eso no me lo esperaba de ti, Yuri."
 
 # game/script-ch0.rpy:381
 translate spanish ch0_main_cb2111ac:
 
     # m "For someone as gentle as you..."
-    m ""
+    m "Alguien tan dulce como tú..."
 
 # game/script-ch0.rpy:384
 translate spanish ch0_main_84a13e28:
 
     # y 1a "I guess you could say that."
-    y 1a ""
+    y 1a "Supongo que tiene sentido lo que dices."
 
 # game/script-ch0.rpy:385
 translate spanish ch0_main_38b0ae71:
 
     # y "But if a story makes me think, or takes me to another world, then I really can't put it down."
-    y ""
+    y "Pero, si una historia me hace pensar o me transporta a otro mundo, no puedo abandonarla."
 
 # game/script-ch0.rpy:386
 translate spanish ch0_main_fa55ff2a:
 
     # y "Surreal horror is often very successful at changing the way you look at the world, if only for a brief moment."
-    y ""
+    y "A menudo, el terror surrealista consigue cambiar tu perspectiva del mundo aunque sea por un momento."
 
 # game/script-ch0.rpy:389
 translate spanish ch0_main_b8c3c144:
 
     # n "Ugh, I hate horror..."
-    n ""
+    n "Arg, yo detesto el terror."
 
 # game/script-ch0.rpy:392
 translate spanish ch0_main_1c139e48:
 
     # y 1f "Oh? Why's that?"
-    y 1f ""
+    y 1f "¿Eh? ¿Y eso por qué?"
 
 # game/script-ch0.rpy:395
 translate spanish ch0_main_ab1562c5:
 
     # n 5c "Well, I just..."
-    n 5c ""
+    n 5c "Bueno, es que..."
 
 # game/script-ch0.rpy:396
 translate spanish ch0_main_7aac067b:
 
     # "Natsuki's eyes dart over to me for a split second."
-    ""
+    "La mirada de Natsuki se clava en mí por una fracción de segundo."
 
 # game/script-ch0.rpy:397
 translate spanish ch0_main_98c7c1c1:
 
     # n 5q "Never mind."
-    n 5q ""
+    n 5q "´Da igual."
 
 # game/script-ch0.rpy:400
 translate spanish ch0_main_5d936510:
 
     # m 1a "That's right, you usually like to write about cute things, don't you, Natsuki?"
-    m 1a ""
+    m 1a "Es verdad. A ti te gusta escribir sobre cosas cuquis, ¿no, Natsuki?"
 
 # game/script-ch0.rpy:403
 translate spanish ch0_main_f053d184:
 
     # n "W-What?"
-    n ""
+    n "¿C-Cómo?"
 
 # game/script-ch0.rpy:404
 translate spanish ch0_main_3df32e44:
 
     # n "What gives you that idea?"
-    n ""
+    n "¿Qué te hace pensar eso?"
 
 # game/script-ch0.rpy:407
 translate spanish ch0_main_550dd777:
 
     # m 3b "You left a piece of scrap paper behind last club meeting."
-    m 3b ""
+    m 3b "Te dejaste un borrador en la última reunión del club."
 
 # game/script-ch0.rpy:408
 translate spanish ch0_main_e37f3c62:
 
     # m "It looked like you were working on a poem called--"
-    m ""
+    m "Por lo visto, estabas componiendo un poema llamado..."
 
 # game/script-ch0.rpy:411
 translate spanish ch0_main_1e455dfe:
 
     # n "Don't say it out loud!!"
-    n ""
+    n "¡¡¡No lo digas en voz alta!!!"
 
 # game/script-ch0.rpy:412
 translate spanish ch0_main_ff703620:
 
     # n "And give that back!"
-    n ""
+    n "¡Y devuélvemelo!"
 
 # game/script-ch0.rpy:415
 translate spanish ch0_main_7ae96939:
 
     # m 1j "Fine, fine~"
-    m 1j ""
+    m 1j "Vale, vale."
 
 # game/script-ch0.rpy:422
 translate spanish ch0_main_fa944ba0:
 
     # s "Ehehe, your cupcakes, your poems..."
-    s ""
+    s "Je, je, je. Tus cupcakes, tus poemas..."
 
 # game/script-ch0.rpy:423
 translate spanish ch0_main_da28403a:
 
     # s "Everything you do is just as cute as you are~"
-    s ""
+    s "Todo lo que haces es igual de mono que tú."
 
 # game/script-ch0.rpy:425
 translate spanish ch0_main_c429c3fc:
 
     # "Sayori sidles up behind Natsuki and puts her hands on her shoulders."
-    ""
+    "Sayori se escabuye detrás de Natsuki y le pone las manos en los hombros."
 
 # game/script-ch0.rpy:427
 translate spanish ch0_main_6ccf1bfd:
 
     # n 1v "{i}I'm not cute!!{/i}"
-    n 1v ""
+    n 1v "{i}¡¡¡No soy mona!!!{/i}"
 
 # game/script-ch0.rpy:431
 translate spanish ch0_main_af8472c2:
 
     # mc "Natsuki, you write your own poems?"
-    mc ""
+    mc "Natsuki, ¿compones poemas?"
 
 # game/script-ch0.rpy:432
 translate spanish ch0_main_30d37f9a:
 
     # n 1c "Eh? Well, I guess sometimes."
-    n 1c ""
+    n 1c "¿Eh? Sí, de vez en cuando."
 
 # game/script-ch0.rpy:433
 translate spanish ch0_main_842dce39:
 
     # n "Why do you care?"
-    n ""
+    n "¿Qué más te da?"
 
 # game/script-ch0.rpy:434
 translate spanish ch0_main_fe27eb16:
