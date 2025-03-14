@@ -8,7 +8,7 @@ translate spanish strings:
 
     # game/screens.rpy:406
     old "Skip"
-    new "Skip"
+    new "Omitir"
 
     # game/screens.rpy:407
     old "Auto"
@@ -24,7 +24,7 @@ translate spanish strings:
 
     # game/screens.rpy:412
     old "Settings"
-    new "Ajustes"
+    new "Opciones"
 
     # game/screens.rpy:414
     old "Hide"
@@ -40,11 +40,11 @@ translate spanish strings:
 
     # game/screens.rpy:477
     old "Save Game"
-    new "Guardar Partida"
+    new "Guardar"
 
     # game/screens.rpy:479
     old "Load Game"
-    new "Cargar Partida"
+    new "Cargar"
 
     # game/screens.rpy:482
     old "Extras"
@@ -56,15 +56,15 @@ translate spanish strings:
 
     # game/screens.rpy:490
     old "Main Menu"
-    new "Menu Principal"
+    new "Menú Principal"
 
     # game/screens.rpy:497
     old "Quit"
-    new "Salir"
+    new "Salir de DDLC"
 
     # game/screens.rpy:683
     old "Return"
-    new "Regresar"
+    new "Volver"
 
     # game/screens.rpy:764
     old "Credits"
@@ -84,7 +84,7 @@ translate spanish strings:
 
     # game/screens.rpy:898
     old "empty slot"
-    new "ranura vacía"
+    new "Espacio vacío"
 
     # game/screens.rpy:1100
     old "Display"
@@ -92,11 +92,11 @@ translate spanish strings:
 
     # game/screens.rpy:1101
     old "Windowed"
-    new "Modo Ventana"
+    new "Ventana"
 
     # game/screens.rpy:1102
     old "Fullscreen"
-    new "Modo Pantalla Completa"
+    new "Pantalla completa"
 
     # game/screens.rpy:1108
     old "Rollback Side"
@@ -116,35 +116,35 @@ translate spanish strings:
 
     # game/screens.rpy:1116
     old "Unseen Text"
-    new "Texto no visto"
+    new "Omitir texto no leído"
 
     # game/screens.rpy:1117
     old "After Choices"
-    new "Después de las elecciones"
+    new "Omitir después de decisiones"
 
     # game/screens.rpy:1121
     old "Only do this if you know what you're doing"
-    new "Si no sabes, no lo hagas"
+    new "Continúa si sabes lo que estás haciendo"
 
     # game/screens.rpy:1122
     old "Delete Her"
-    new "Eliminala"
+    new "Elimínala"
 
     # game/screens.rpy:1133
     old "Text Speed"
-    new "Velocidad del Texto"
+    new "Velocidad del texto"
 
     # game/screens.rpy:1143
     old "Auto-Forward Time"
-    new "Tiempo de Avance Automático"
+    new "Saltos de tiempo automáticos"
 
     # game/screens.rpy:1155
     old "Music Volume"
-    new "Música"
+    new "Volumen de música"
 
     # game/screens.rpy:1167
     old "Sound Volume"
-    new "Sonido"
+    new "Volumen de sonido"
 
     # game/screens.rpy:1177
     old "Test"
@@ -164,11 +164,11 @@ translate spanish strings:
 
     # game/screens.rpy:1432
     old "The dialogue history is empty."
-    new "El historial está vacío."
+    new "La historia está vacía."
 
     # game/screens.rpy:1702
     old "OK"
-    new "OKEY"
+    new "Vale"
 
     # game/screens.rpy:1783
     old "Yes"
@@ -180,11 +180,11 @@ translate spanish strings:
 
     # game/screens.rpy:1837
     old "Skipping"
-    new "Saltando"
+    new "Omitiendo"
 
     # game/screens.rpy:2048
     old "{#in language font}Please select a language"
-    new "{#in language font}Por favor selecciona un idioma"
+    new "{#in language font}Por favor, seleccione un idioma"
 
     # game/screens.rpy:2069
     old "{#in language font}Select"
