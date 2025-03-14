@@ -1576,581 +1576,581 @@ translate spanish ch0_main_842dce39:
 translate spanish ch0_main_fe27eb16:
 
     # mc "I think that's impressive."
-    mc ""
+    mc "Me parece increíble."
 
 # game/script-ch0.rpy:435
 translate spanish ch0_main_ccafd1bb:
 
     # mc "Why don't you share them sometime?"
-    mc ""
+    mc "¿Por qué no los compartes con el grupo algún día?"
 
 # game/script-ch0.rpy:436
 translate spanish ch0_main_3f199bd2:
 
     # n 5q "N-No!"
-    n 5q ""
+    n 5q "¡N-No!"
 
 # game/script-ch0.rpy:437
 translate spanish ch0_main_edb6ed7f:
 
     # "Natsuki averts her eyes."
-    ""
+    "Natsuki aparta la mirada."
 
 # game/script-ch0.rpy:438
 translate spanish ch0_main_9d7b9bad:
 
     # n "You wouldn't...like them..."
-    n ""
+    n "No... No os gustarían."
 
 # game/script-ch0.rpy:439
 translate spanish ch0_main_35a5aeea:
 
     # mc "Ah...not a very confident writer yet?"
-    mc ""
+    mc "Vaya, así que te falta confianza..."
 
 # game/script-ch0.rpy:441
 translate spanish ch0_main_7e67e889:
 
     # y "I understand how Natsuki feels."
-    y ""
+    y "Entiendo cómo se siente."
 
 # game/script-ch0.rpy:442
 translate spanish ch0_main_a387c89f:
 
     # y "Sharing that level of writing takes more than just confidence."
-    y ""
+    y "Hace falta algo más que confianza para compartir esa clase de textos."
 
 # game/script-ch0.rpy:443
 translate spanish ch0_main_e06ca773:
 
     # y 2k "The truest form of writing is writing to oneself."
-    y 2k ""
+    y 2k "No hay forma más pura de escribir que hacerlo para uno mismo."
 
 # game/script-ch0.rpy:444
 translate spanish ch0_main_d2b7c428:
 
     # y "You must be willing to open up to your readers, exposing your vulnerabilities and showing even the deepest reaches of your heart."
-    y ""
+    y "Debes estar dispuesto a abrirte a tus lectores, exponer tus debilidades y mostrar los rincones más profundos de tu corazón."
 
 # game/script-ch0.rpy:448
 translate spanish ch0_main_d526bbf0:
 
     # m "Do you have writing experience too, Yuri?"
-    m ""
+    m "¿Tú también escribes, Yuri?"
 
 # game/script-ch0.rpy:449
 translate spanish ch0_main_2bc6a16e:
 
     # m "Maybe if you share some of your work, you can set an example and help Natsuki feel comfortable enough to share hers."
-    m ""
+    m "Podrías compartir una de tus obras. Así sentarías las bases y harías que Natsuki se sintiese más cómoda compartiendo las suyas."
 
 # game/script-ch0.rpy:451
 translate spanish ch0_main_5a6499dc:
 
     # y 3o "..."
-    y 3o ""
+    y 3o "..."
 
 # game/script-ch0.rpy:452
 translate spanish ch0_main_19552c38:
 
     # mc "I guess it's the same for Yuri..."
-    mc ""
+    mc "Supongo que a Yuri le pasa lo mismo."
 
 # game/script-ch0.rpy:454
 translate spanish ch0_main_ec936eb4:
 
     # s "Aww... I wanted to read everyone's poems..."
-    s ""
+    s "Oooh... Quiero leer los poemas de todas..."
 
 # game/script-ch0.rpy:461
 translate spanish ch0_main_701e440d:
 
     # "We all sit in silence for a moment."
-    ""
+    "Nos quedamos en silencio por un momento."
 
 # game/script-ch0.rpy:463
 translate spanish ch0_main_e74385d7:
 
     # m "Okay!"
-    m ""
+    m "¡Vale!"
 
 # game/script-ch0.rpy:464
 translate spanish ch0_main_2ffc1dd9:
 
     # m "I have an idea, everyone~"
-    m ""
+    m "Tengo una idea, compis."
 
 # game/script-ch0.rpy:467
 translate spanish ch0_main_95cd0d51:
 
     # ny "...?"
-    ny ""
+    ny "¿...?"
 
 # game/script-ch0.rpy:468
 translate spanish ch0_main_d080e0ca:
 
     # "Natsuki and Yuri look quizzically at Monika."
-    ""
+    "Natsuki y Yuri miran perplejas a Monika."
 
 # game/script-ch0.rpy:469
 translate spanish ch0_main_a4f63044:
 
     # m 2b "Let's all go home and write a poem of our own!"
-    m 2b ""
+    m 2b "¿Qué os parece si volvemos a casa y nos ponemos a escribir poemas?"
 
 # game/script-ch0.rpy:470
 translate spanish ch0_main_cd1a6280:
 
     # m "Then, next time we meet, we'll all share them with each other."
-    m ""
+    m "Y, la próxima vez que nos reunamos, los compartimos en grupo."
 
 # game/script-ch0.rpy:471
 translate spanish ch0_main_a106107a:
 
     # m "That way, everyone is even!"
-    m ""
+    m "¡Así participará todo el mundo por igual!"
 
 # game/script-ch0.rpy:474
 translate spanish ch0_main_963b3971:
 
     # n 5q "U-Um..."
-    n 5q ""
+    n 5q "Mmm..."
 
 # game/script-ch0.rpy:477
 translate spanish ch0_main_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/script-ch0.rpy:482
 translate spanish ch0_main_6766811d:
 
     # s "Yeaaah! Let's do it!"
-    s ""
+    s "¡Síííí! ¡Me encanta!"
 
 # game/script-ch0.rpy:484
 translate spanish ch0_main_cdd2d381:
 
     # m 1a "Plus, now that we have a new member, I think it will help us all get a little more comfortable with each other, and strengthen the bond of the club."
-    m 1a ""
+    m 1a "Además, ahora que tenemos a un nuevo miembro, creo que nos vendrá bien para crear un ambiente más acogedor en el club y estrechar vínculos."
 
 # game/script-ch0.rpy:485
 translate spanish ch0_main_26116031:
 
     # m "Isn't that right, [player]?"
-    m ""
+    m "¿Verdad que sí, [player]?"
 
 # game/script-ch0.rpy:487
 translate spanish ch0_main_871cb3a3:
 
     # "Monika smiles warmly at me once again."
-    ""
+    "Monika me vuelve a dedicar una cálida sonrisa."
 
 # game/script-ch0.rpy:488
 translate spanish ch0_main_cf25d371:
 
     # mc "Hold on...there's still one problem."
-    mc ""
+    mc "No tan rápido... Sigue habiendo un problemilla."
 
 # game/script-ch0.rpy:490
 translate spanish ch0_main_bee826cb:
 
     # m 1d "Eh? What's that?"
-    m 1d ""
+    m 1d "¿Eh? ¿A qué te refieres?"
 
 # game/script-ch0.rpy:491
 translate spanish ch0_main_376d0c21:
 
     # "Now that we're back to the original topic of me joining the club, I bluntly come forth with what's been on my mind the entire time."
-    ""
+    "Ahora que hemos vuelto al tema original de unirme al club, decido decir sin tapujos algo que me ha rondado la cabeza todo el rato."
 
 # game/script-ch0.rpy:493
 translate spanish ch0_main_5ce8ccfa:
 
     # mc "I never said I would join this club!"
-    mc ""
+    mc "¡Nunca he dicho que me uniría a este club!"
 
 # game/script-ch0.rpy:494
 translate spanish ch0_main_b0a068b5:
 
     # mc "Sayori may have convinced me to stop by, but I never made any decision."
-    mc ""
+    mc "Sayori me ha convencido para que viniera, pero no he tomado ninguna decisión."
 
 # game/script-ch0.rpy:495
 translate spanish ch0_main_4de02539:
 
     # mc "I still have other clubs to look at, and...um..."
-    mc ""
+    mc "Todavía me gustaria ver otros clubes y..., mmm..."
 
 # game/script-ch0.rpy:500
 translate spanish ch0_main_1e4b58a1:
 
     # "I lose my train of thought."
-    ""
+    "He perdido el hilo."
 
 # game/script-ch0.rpy:501
 translate spanish ch0_main_3b7e2967:
 
     # "All four girls stare back at me with dejected eyes."
-    ""
+    "Las cuatro chicas me miran abatidas."
 
 # game/script-ch0.rpy:503
 translate spanish ch0_main_8911e105:
 
     # m 1p "B-But..."
-    m 1p ""
+    m 1p "P-Pero..."
 
 # game/script-ch0.rpy:505
 translate spanish ch0_main_a403322e:
 
     # y 2v "I'm sorry, I thought..."
-    y 2v ""
+    y 2v "Perdona. Pensaba que..."
 
 # game/script-ch0.rpy:507
 translate spanish ch0_main_bc64dbb8_1:
 
     # n 5s "Hmph."
-    n 5s ""
+    n 5s "Jum."
 
 # game/script-ch0.rpy:509
 translate spanish ch0_main_48b8805c:
 
     # s 1k "[player]..."
-    s 1k ""
+    s 1k "[player]..."
 
 # game/script-ch0.rpy:510
 translate spanish ch0_main_a99ed1fe:
 
     # mc "Y-You all..."
-    mc ""
+    mc "C-Chicas..."
 
 # game/script-ch0.rpy:511
 translate spanish ch0_main_966cc463:
 
     # "I...I'm defenseless against these girls."
-    ""
+    "Me siento indefenso ante estas chicas."
 
 # game/script-ch0.rpy:512
 translate spanish ch0_main_d4da3079:
 
     # "How am I supposed to make a clear-headed decision when it's like this?"
-    ""
+    "¿Cómo voy a tomar una decisión en frío cuando me tienen contra las cuerdas?"
 
 # game/script-ch0.rpy:513
 translate spanish ch0_main_1f374c38:
 
     # "That is, if writing poems is the price I need to pay in order to spend every day with these beautiful girls..."
-    ""
+    "En fin, si escribir poemas es el precio que debo pagar para pasar cada día con unos bellezones como ellas..."
 
 # game/script-ch0.rpy:514
 translate spanish ch0_main_36037676:
 
     # mc "...Right."
-    mc ""
+    mc "Muy bien."
 
 # game/script-ch0.rpy:515
 translate spanish ch0_main_ee38c6e2:
 
     # mc "Okay, I've decided, then."
-    mc ""
+    mc "De acuerdo, ya lo he decidido."
 
 # game/script-ch0.rpy:516
 translate spanish ch0_main_bfead9f9:
 
     # mc "I'll join the Literature Club."
-    mc ""
+    mc "Me uniré al club de literatura."
 
 # game/script-ch0.rpy:521
 translate spanish ch0_main_4423eaff:
 
     # "One by one, the girls' eyes light up."
-    ""
+    "Las chicas se animan una tras otra."
 
 # game/script-ch0.rpy:523
 translate spanish ch0_main_7265c99b:
 
     # s 4r "Yesss! I'm so happyyy~"
-    s 4r ""
+    s 4r "¡Síííí! Qué contenta estoy..."
 
 # game/script-ch0.rpy:524
 translate spanish ch0_main_4037de6b:
 
     # "Sayori wraps her arms around me, jumping up and down."
-    ""
+    "Sayori me envuelve con sus brazos y empieza a dar saltitos."
 
 # game/script-ch0.rpy:525
 translate spanish ch0_main_4fb65cd5:
 
     # mc "H-Hey--"
-    mc ""
+    mc "O-Oye..."
 
 # game/script-ch0.rpy:527
 translate spanish ch0_main_792dfef8:
 
     # y 1m "You really did scare me for a moment..."
-    y 1m ""
+    y 1m "Menudo susto me habías pegado..."
 
 # game/script-ch0.rpy:530
 translate spanish ch0_main_e9faf06e:
 
     # n 5q "If you really just came for the cupcakes, I would be super pissed."
-    n 5q ""
+    n 5q "Me habría enfadado un montón si llego a descubrir que solo has venido por los cupcakes."
 
 # game/script-ch0.rpy:533
 translate spanish ch0_main_e1457fb7:
 
     # m 5 "Then that makes it official!"
-    m 5 ""
+    m 5 "¡Entonces, ya es oficial!"
 
 # game/script-ch0.rpy:534
 translate spanish ch0_main_4fb57992:
 
     # m "Welcome to the Literature Club!"
-    m ""
+    m "¡Bienvenido al club de literatura!"
 
 # game/script-ch0.rpy:536
 translate spanish ch0_main_fc5c3668:
 
     # mc "Ah...thanks, I guess."
-    mc ""
+    mc "Ya... Gracias, supongo."
 
 # game/script-ch0.rpy:544
 translate spanish ch0_main_e719ebca:
 
     # m 3b "Okay, everyone!"
-    m 3b ""
+    m 3b "¡Vale, compis!"
 
 # game/script-ch0.rpy:545
 translate spanish ch0_main_94ecc185:
 
     # m "I think with that, we can officially end today's meeting on a good note."
-    m ""
+    m "Visto lo visto, ¡podemos decir que hemos acabado la reunión de hoy con buen pie!"
 
 # game/script-ch0.rpy:546
 translate spanish ch0_main_435b8f44:
 
     # m "Everyone remember tonight's assignment:"
-    m ""
+    m "Recordad la tarea que tenemos para esta noche."
 
 # game/script-ch0.rpy:547
 translate spanish ch0_main_f3222edc:
 
     # m "Write a poem to bring to the next meeting, so we can all share!"
-    m ""
+    m "Escribir un poema para traerlo a la próxima reunión. ¡Así podremos compartirlo en grupo!"
 
 # game/script-ch0.rpy:548
 translate spanish ch0_main_f7602550:
 
     # "Monika looks over at me once more."
-    ""
+    "Monika me mira de nuevo."
 
 # game/script-ch0.rpy:549
 translate spanish ch0_main_7c3950aa:
 
     # m 1a "[player], I look forward to seeing how you express yourself."
-    m 1a ""
+    m 1a "[player], tengo ganas de ver cómo te expresas."
 
 # game/script-ch0.rpy:551
 translate spanish ch0_main_45d9cd96:
 
     # m "Ehehe~"
-    m ""
+    m "Je, je, je."
 
 # game/script-ch0.rpy:552
 translate spanish ch0_main_5aa72ccd:
 
     # mc "Y-Yeah..."
-    mc ""
+    mc "S-Sí..."
 
 # game/script-ch0.rpy:555
 translate spanish ch0_main_c5a873f7:
 
     # "Can I really impress the class star Monika with my mediocre writing skills?"
-    ""
+    "¿Podré impresionar a la estrella de la clase con mi mediocre capacidad para escribir?"
 
 # game/script-ch0.rpy:556
 translate spanish ch0_main_6944e055:
 
     # "I already feel the anxiety welling up inside me."
-    ""
+    "Siento que la ansiedad empieza a comerme por dentro."
 
 # game/script-ch0.rpy:557
 translate spanish ch0_main_a90aebad:
 
     # "Meanwhile, the girls continue to chit-chat as Yuri and Natsuki clean up their food."
-    ""
+    "En cambio, las chicas siguen charlando alegremente mientras Yuri y Natsuki recogen la comida."
 
 # game/script-ch0.rpy:559
 translate spanish ch0_main_9957133c:
 
     # s "Hey, [player], since we're already here, do you want to walk home together?"
-    s ""
+    s "Oye, [player], ya que estamos aquí, ¿volvemos a casa dando un paseo?"
 
 # game/script-ch0.rpy:560
 translate spanish ch0_main_62fc13da:
 
     # "That's right - Sayori and I never walk home together anymore because she always stayed after school for clubs."
-    ""
+    "Es verdad. Sayori y yo ya nunca volvemos caminando juntos, porque siempre se queda después de las clases para participar en el club."
 
 # game/script-ch0.rpy:561
 translate spanish ch0_main_336bf349:
 
     # mc "Sure, might as well."
-    mc ""
+    mc "Claro, buena idea."
 
 # game/script-ch0.rpy:562
 translate spanish ch0_main_df253bf7:
 
     # s 4q "Yaay~"
-    s 4q ""
+    s 4q "¡Bieeeen!"
 
 # game/script-ch0.rpy:567
 translate spanish ch0_main_55e5370a:
 
     # "With that, the two of us depart the clubroom and make our way home."
-    ""
+    "Y así, salimos del aula del club y volvemos a casa."
 
 # game/script-ch0.rpy:568
 translate spanish ch0_main_7df62755:
 
     # "The whole way, my mind wanders back and forth between the four girls:"
-    ""
+    "Durante el recorrido, mi mente va saltando entre las cuatro chicas:"
 
 # game/script-ch0.rpy:570
 translate spanish ch0_main_f67abbfb:
 
     # "Sayori,"
-    ""
+    "Sayori,"
 
 # game/script-ch0.rpy:572
 translate spanish ch0_main_fa99dc55:
 
     # "Natsuki,"
-    ""
+    "Natsuki,"
 
 # game/script-ch0.rpy:574
 translate spanish ch0_main_f8ee4cf6:
 
     # "Yuri,"
-    ""
+    "Yuri"
 
 # game/script-ch0.rpy:576
 translate spanish ch0_main_b3c6e50b:
 
     # "and, of course, Monika."
-    ""
+    "y, por supuesto, Monika."
 
 # game/script-ch0.rpy:577
 translate spanish ch0_main_3ec099e1:
 
     # "Will I really be happy spending every day after school in a literature club?"
-    ""
+    "No sé yo si seré muy feliz yendo al club de literatura todos los días después de clase."
 
 # game/script-ch0.rpy:578
 translate spanish ch0_main_2b5dfb83:
 
     # "Perhaps I'll have the chance to grow closer to one of these girls..."
-    ""
+    "Quizá surja la oportunidad de intimar con alguna de las chicas."
 
 # game/script-ch0.rpy:584
 translate spanish ch0_main_16cd82b1:
 
     # "Alright!"
-    ""
+    "¡Muy bien!"
 
 # game/script-ch0.rpy:585
 translate spanish ch0_main_b0188844:
 
     # "I'll just need to make the most of my circumstances, and I'm sure good fortune will find me."
-    ""
+    "Seguro que la suerte me sonríe si intento sacar el máximo partido de la situación."
 
 # game/script-ch0.rpy:586
 translate spanish ch0_main_dff2799d:
 
     # "And I guess that starts with writing a poem tonight..."
-    ""
+    "Y todo empieza por escribir el poema esta noche..."
 
 # game/script-ch0.rpy:593
 translate spanish ch0_kill_e1554201:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/script-ch0.rpy:594
 translate spanish ch0_kill_e1554201_1:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/script-ch0.rpy:595
 translate spanish ch0_kill_2a5a342b:
 
     # s "W-What..."
-    s ""
+    s "Q-Qué..."
 
 # game/script-ch0.rpy:596
 translate spanish ch0_kill_ecefd2ea:
 
     # s 1g "..."
-    s 1g ""
+    s 1g "..."
 
 # game/script-ch0.rpy:597
 translate spanish ch0_kill_c846785b:
 
     # s "This..."
-    s ""
+    s "Esto..."
 
 # game/script-ch0.rpy:598
 translate spanish ch0_kill_266d53d4:
 
     # s "What is this...?"
-    s ""
+    s "¿Qué es esto?..."
 
 # game/script-ch0.rpy:599
 translate spanish ch0_kill_ff8bb5a8:
 
     # s "Oh no..."
-    s ""
+    s "Ay, no..."
 
 # game/script-ch0.rpy:600
 translate spanish ch0_kill_ee35af3b:
 
     # s 1u "No..."
-    s 1u ""
+    s 1u "No..."
 
 # game/script-ch0.rpy:601
 translate spanish ch0_kill_df4d9288:
 
     # s "This can't be it."
-    s ""
+    s "No puede ser."
 
 # game/script-ch0.rpy:602
 translate spanish ch0_kill_d9000ecb:
 
     # s "This can't be all there is."
-    s ""
+    s "Esto no puede ser así."
 
 # game/script-ch0.rpy:603
 translate spanish ch0_kill_5ef55015:
 
     # s 4w "What is this?"
-    s 4w ""
+    s 4w "¿Qué es esto?"
 
 # game/script-ch0.rpy:604
 translate spanish ch0_kill_a2d41fd3:
 
     # s "What am I?"
-    s ""
+    s "¿Qué soy?"
 
 # game/script-ch0.rpy:605
 translate spanish ch0_kill_33a08944:
 
     # s "Make it stop!"
-    s ""
+    s "¡¡Haz que pare!!"
 
 # game/script-ch0.rpy:606
 translate spanish ch0_kill_ace8097a:
 
     # s "PLEASE MAKE IT STOP!"
-    s ""
+    s "¡¡¡HAZ QUE PARE, POR FAVOR!!!"
 
