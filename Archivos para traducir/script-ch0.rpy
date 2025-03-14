@@ -2086,7 +2086,7 @@ translate spanish ch0_kill_e1554201_1:
 translate spanish ch0_kill_2a5a342b:
 
     # s "W-What..."
-    s "Q-Qué..."
+    s "¿C-Cómo?..."
 
 # game/script-ch0.rpy:596
 translate spanish ch0_kill_ecefd2ea:
@@ -2110,7 +2110,7 @@ translate spanish ch0_kill_266d53d4:
 translate spanish ch0_kill_ff8bb5a8:
 
     # s "Oh no..."
-    s "Ay, no..."
+    s "Oh, no..."
 
 # game/script-ch0.rpy:600
 translate spanish ch0_kill_ee35af3b:
@@ -2128,7 +2128,7 @@ translate spanish ch0_kill_df4d9288:
 translate spanish ch0_kill_d9000ecb:
 
     # s "This can't be all there is."
-    s "Esto no puede ser así."
+    s "Esto no puede ser todo."
 
 # game/script-ch0.rpy:603
 translate spanish ch0_kill_5ef55015:
@@ -2146,11 +2146,11 @@ translate spanish ch0_kill_a2d41fd3:
 translate spanish ch0_kill_33a08944:
 
     # s "Make it stop!"
-    s "¡¡Haz que pare!!"
+    s "¡¡Que pare!!"
 
 # game/script-ch0.rpy:606
 translate spanish ch0_kill_ace8097a:
 
     # s "PLEASE MAKE IT STOP!"
-    s "¡¡¡HAZ QUE PARE, POR FAVOR!!!"
+    s "¡¡¡POR FAVOR, QUE PARE!!!"
 
