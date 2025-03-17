@@ -4,1267 +4,1267 @@
 translate spanish yuri_exclusive_1_e440bb66:
 
     # "I'm really curious to talk to Yuri a little bit more..."
-    ""
+    "Me gustaría hablar un poco más con Yuri."
 
 # game/script-exclusives-yuri.rpy:5
 translate spanish yuri_exclusive_1_621b29bd:
 
     # "But at the same time, I would feel bad for distracting her from reading."
-    ""
+    "Pero, al mismo tiempo, también me sentiría fatal por distraerla de su lectura."
 
 # game/script-exclusives-yuri.rpy:6
 translate spanish yuri_exclusive_1_98b79815:
 
     # "I catch a glimpse of the cover of her book."
-    ""
+    "Veo de refilón la portada del libro."
 
 # game/script-exclusives-yuri.rpy:7
 translate spanish yuri_exclusive_1_1385bf59:
 
     # "It looks like the same book that she lent to me..."
-    ""
+    "Parece ser el mismo libro que me dejó."
 
 # game/script-exclusives-yuri.rpy:8
 translate spanish yuri_exclusive_1_e35e4f57:
 
     # "More than that, she seems to be on the first few pages."
-    ""
+    "Es más, parece estar leyendo las primeras páginas."
 
 # game/script-exclusives-yuri.rpy:11
 translate spanish yuri_exclusive_1_728dcbc5:
 
     # y "Ah..."
-    y ""
+    y "Ah..."
 
 # game/script-exclusives-yuri.rpy:12
 translate spanish yuri_exclusive_1_a3e7f3d1:
 
     # "Crap--"
-    ""
+    "Qué mal..."
 
 # game/script-exclusives-yuri.rpy:13
 translate spanish yuri_exclusive_1_f669242a:
 
     # "I think she noticed me looking at her..."
-    ""
+    "Creo que se ha dado cuenta de que la estaba mirando."
 
 # game/script-exclusives-yuri.rpy:14
 translate spanish yuri_exclusive_1_990b5d3a:
 
     # "She sneaks another glance at me, and our eyes meet for a split second."
-    ""
+    "Me mira de reojo y nuestras miradas se cruzan durante medio segundo."
 
 # game/script-exclusives-yuri.rpy:15
 translate spanish yuri_exclusive_1_0dbaabdd:
 
     # y 4b "..."
-    y 4b ""
+    y 4b "..."
 
 # game/script-exclusives-yuri.rpy:16
 translate spanish yuri_exclusive_1_aef29682:
 
     # "But that only makes her hide her face deeper in her book."
-    ""
+    "Como resultado, oculta aún más su cara con el libro."
 
 # game/script-exclusives-yuri.rpy:17
 translate spanish yuri_exclusive_1_4bbe5891:
 
     # mc "Sorry..."
-    mc ""
+    mc "Perdona..."
 
 # game/script-exclusives-yuri.rpy:18
 translate spanish yuri_exclusive_1_225dcd47:
 
     # mc "I was just spacing out..."
-    mc ""
+    mc "Estaba pensando en las musarañas."
 
 # game/script-exclusives-yuri.rpy:19
 translate spanish yuri_exclusive_1_9a0048e8:
 
     # "I mutter this, sensing I made her uncomfortable."
-    ""
+    "Murmuro esas palabras para compensar la sensación de haberla hecho sentir incómoda."
 
 # game/script-exclusives-yuri.rpy:20
 translate spanish yuri_exclusive_1_8b12779f:
 
     # y 1i "Oh..."
-    y 1i ""
+    y 1i "Oh..."
 
 # game/script-exclusives-yuri.rpy:21
 translate spanish yuri_exclusive_1_a41cea99:
 
     # y "It's fine..."
-    y ""
+    y "No pasa nada..."
 
 # game/script-exclusives-yuri.rpy:22
 translate spanish yuri_exclusive_1_9f30b822:
 
     # y 1a "If I was focused, then I probably wouldn't have noticed in the first place."
-    y 1a ""
+    y 1a "Si hubiese estado concentrada, lo más seguro es que ni me hubiese enterado."
 
 # game/script-exclusives-yuri.rpy:23
 translate spanish yuri_exclusive_1_749d562e:
 
     # y "But I'm just re-reading a bit of this, so..."
-    y ""
+    y "Pero tan solo estaba releyendo un poco este libro, así que..."
 
 # game/script-exclusives-yuri.rpy:24
 translate spanish yuri_exclusive_1_8dcab0c1:
 
     # mc "That's the book that you gave me, right?"
-    mc ""
+    mc "Ese es el libro que me diste, ¿verdad?"
 
 # game/script-exclusives-yuri.rpy:25
 translate spanish yuri_exclusive_1_7b0a03ee:
 
     # y "Mhm."
-    y ""
+    y "Ajá."
 
 # game/script-exclusives-yuri.rpy:26
 translate spanish yuri_exclusive_1_9de78180:
 
     # y "I wanted to re-read some of it."
-    y ""
+    y "Quería releer algunas partes."
 
 # game/script-exclusives-yuri.rpy:27
 translate spanish yuri_exclusive_1_b6b08cc7:
 
     # y 2q "Not for any particular reason...!"
-    y 2q ""
+    y 2q "¡Por nada en particular, que conste!"
 
 # game/script-exclusives-yuri.rpy:28
 translate spanish yuri_exclusive_1_63031f4d:
 
     # mc "Just curious, how come you have two copies of the same book?"
-    mc ""
+    mc "Tengo curiosidad. ¿Cómo es que tienes dos copias del mismo libro?"
 
 # game/script-exclusives-yuri.rpy:29
 translate spanish yuri_exclusive_1_728dcbc5_1:
 
     # y "Ah..."
-    y ""
+    y "Eh..."
 
 # game/script-exclusives-yuri.rpy:30
 translate spanish yuri_exclusive_1_8be5857f:
 
     # y "Well, when I stopped at the bookstore yesterday--"
-    y ""
+    y "Bueno, es que me pasé ayer por la librería y..."
 
 # game/script-exclusives-yuri.rpy:31
 translate spanish yuri_exclusive_1_56924230:
 
     # y 3o "Ah, that's not what I meant..."
-    y 3o ""
+    y 3o "Ah, no, no quería decir eso..."
 
 # game/script-exclusives-yuri.rpy:32
 translate spanish yuri_exclusive_1_5daab38f:
 
     # y "I mean--"
-    y ""
+    y "O sea..."
 
 # game/script-exclusives-yuri.rpy:33
 translate spanish yuri_exclusive_1_1fb27bb9:
 
     # y 1w "I...just happened to buy two of them."
-    y 1w ""
+    y 1w "Simplemente... lo compré dos veces..."
 
 # game/script-exclusives-yuri.rpy:34
 translate spanish yuri_exclusive_1_236ab8d0:
 
     # mc "Ah, I see."
-    mc ""
+    mc "Ah, entiendo."
 
 # game/script-exclusives-yuri.rpy:35
 translate spanish yuri_exclusive_1_40855474:
 
     # "There's something fairly obvious here that Yuri isn't telling me, but I decide to let it go."
-    ""
+    "Es evidente que había algo que Yuri no me quería contar, pero decidí dejarlo correr."
 
 # game/script-exclusives-yuri.rpy:36
 translate spanish yuri_exclusive_1_4f372d32:
 
     # mc "I'll definitely start reading it soon!"
-    mc ""
+    mc "¡Empezaré a leerlo dentro de poco!"
 
 # game/script-exclusives-yuri.rpy:37
 translate spanish yuri_exclusive_1_9fa7e925:
 
     # y 2u "I'm glad to hear..."
-    y 2u ""
+    y 2u "Me alegro de oírlo..."
 
 # game/script-exclusives-yuri.rpy:38
 translate spanish yuri_exclusive_1_6a834c69:
 
     # y "Once it starts to pick up, you might have a hard time putting it down."
-    y ""
+    y "En cuanto empiece a ponerse interesante, te costará soltarlo."
 
 # game/script-exclusives-yuri.rpy:39
 translate spanish yuri_exclusive_1_336b89ef:
 
     # y 2c "It's a very engaging and relatable story."
-    y 2c ""
+    y 2c "Es una historia que engancha y con la que es fácil identificarse."
 
 # game/script-exclusives-yuri.rpy:40
 translate spanish yuri_exclusive_1_85d4ab1c:
 
     # mc "Is that so...?"
-    mc ""
+    mc "¡No me digas!"
 
 # game/script-exclusives-yuri.rpy:41
 translate spanish yuri_exclusive_1_c6f1e734:
 
     # mc "What's it about, anyway?"
-    mc ""
+    mc "¿De qué va, por cierto?"
 
 # game/script-exclusives-yuri.rpy:42
 translate spanish yuri_exclusive_1_cae7b7d0:
 
     # y 1f "Well..."
-    y 1f ""
+    y 1f "Bueno..."
 
 # game/script-exclusives-yuri.rpy:43
 translate spanish yuri_exclusive_1_5c53d1aa:
 
     # y "Mmm..."
-    y ""
+    y "Mmm..."
 
 # game/script-exclusives-yuri.rpy:44
 translate spanish yuri_exclusive_1_9edded30:
 
     # "Yuri closes the book and scans her eyes over the back."
-    ""
+    "Yuri cierra el libro y repasa la contraportada con los ojos."
 
 # game/script-exclusives-yuri.rpy:45
 translate spanish yuri_exclusive_1_0c75c656:
 
     # "The book is titled \"Portrait of Markov\"."
-    ""
+    "Se titula \"Retrato de Markov\"."
 
 # game/script-exclusives-yuri.rpy:46
 translate spanish yuri_exclusive_1_fd714eb0:
 
     # "There's an ominous-looking eye symbol on the front cover."
-    ""
+    "En la portada se ve un símbolo de un ojo de aspecto desagradable."
 
 # game/script-exclusives-yuri.rpy:47
 translate spanish yuri_exclusive_1_a151f4d8:
 
     # y 1a "Alright..."
-    y 1a ""
+    y 1a "Vale..."
 
 # game/script-exclusives-yuri.rpy:48
 translate spanish yuri_exclusive_1_3b65810b:
 
     # y "I just wanted to make sure I don't accidentally give anything away."
-    y ""
+    y "Es que no quiero destriparte algo importante por error."
 
 # game/script-exclusives-yuri.rpy:49
 translate spanish yuri_exclusive_1_2373a2f7:
 
     # y "Basically, it's about this girl in high school who moves in with her long-lost younger sister..."
-    y ""
+    y "Básicamente, va de una chica de instituto que se va a vivir con su hermana menor, de la que no conocía su existencia..."
 
 # game/script-exclusives-yuri.rpy:50
 translate spanish yuri_exclusive_1_d564b8e1:
 
     # y "But as soon as she does so, her life gets really strange."
-    y ""
+    y "Pero empiezan a pasarle cosas muy raras."
 
 # game/script-exclusives-yuri.rpy:51
 translate spanish yuri_exclusive_1_dc851a35:
 
     # y 1m "She gets targeted by these people who escaped from a human experiment prison..."
-    y 1m ""
+    y 1m "Se convierte en el objetivo de un grupo de gente que se fugó de una prisión en la que hacían experimentos humanos..."
 
 # game/script-exclusives-yuri.rpy:52
 translate spanish yuri_exclusive_1_8908c88c:
 
     # y "And while her life is in danger, she needs to desperately choose who to trust."
-    y ""
+    y "Y por si fuera poco con que su vida corra peligro, a mayores tiene que determinar en quién puede confiar."
 
 # game/script-exclusives-yuri.rpy:53
 translate spanish yuri_exclusive_1_5af42571:
 
     # y 1i "No matter what she does, she ends up destroying most of her relationships and her life starts to fall apart..."
-    y 1i ""
+    y 1i "Haga lo que haga, acaba destrozando casi todas sus relaciones y su vida empieza a venirse abajo..."
 
 # game/script-exclusives-yuri.rpy:54
 translate spanish yuri_exclusive_1_0a469adb:
 
     # mc "That's kind of--!"
-    mc ""
+    mc "¡Eso es muy...!"
 
 # game/script-exclusives-yuri.rpy:55
 translate spanish yuri_exclusive_1_89546258:
 
     # "That's kind of dark, isn't it?"
-    ""
+    "Eso es muy oscuro, ¿no?"
 
 # game/script-exclusives-yuri.rpy:56
 translate spanish yuri_exclusive_1_7bcce1db:
 
     # "Yuri made it sound like it was going to be a nice story, so that dark turn came from nowhere."
-    ""
+    "Yuri lo contaba de tal forma que parecía una historia entrañable, así que ese giro oscuro parecía salir de la nada."
 
 # game/script-exclusives-yuri.rpy:57
 translate spanish yuri_exclusive_1_94de94f1:
 
     # y 1c "Ahaha."
-    y 1c ""
+    y 1c "Ja, ja, ja."
 
 # game/script-exclusives-yuri.rpy:58
 translate spanish yuri_exclusive_1_19716728:
 
     # "Yuri gently giggles, all of a sudden."
-    ""
+    "De repente, Yuri se echa a reír suavemente."
 
 # game/script-exclusives-yuri.rpy:59
 translate spanish yuri_exclusive_1_7bc89322:
 
     # y "Are you not a fan of that sort of thing, [player]?"
-    y ""
+    y "¿No te gustan esa clase de historias, [player]"
 
 # game/script-exclusives-yuri.rpy:60
 translate spanish yuri_exclusive_1_ce487936:
 
     # mc "No, it's not that..."
-    mc ""
+    mc "No, no es eso..."
 
 # game/script-exclusives-yuri.rpy:61
 translate spanish yuri_exclusive_1_7c7d4031:
 
     # mc "I mean, I can definitely enjoy those kinds of stories, so don't worry."
-    mc ""
+    mc "No te preocupes, que no tengo ningún problema con esa clase de historias."
 
 # game/script-exclusives-yuri.rpy:62
 translate spanish yuri_exclusive_1_3c899c8c:
 
     # y 2u "I hope so..."
-    y 2u ""
+    y 2u "Eso espero..."
 
 # game/script-exclusives-yuri.rpy:63
 translate spanish yuri_exclusive_1_2269e4aa:
 
     # "Yeah... I totally forgot that Yuri is into those things."
-    ""
+    "Sí... Ya ni me acordaba de que a Yuri le van estas cosas."
 
 # game/script-exclusives-yuri.rpy:64
 translate spanish yuri_exclusive_1_b87c0f68:
 
     # "She's so shy and reclusive on the outside, but her mind seems to be completely different."
-    ""
+    "Tiene una fachada tímida y solitaria, pero en realidad su mente parece ser completamente diferente."
 
 # game/script-exclusives-yuri.rpy:65
 translate spanish yuri_exclusive_1_d0642c8b:
 
     # y "It's just that those kinds of stories..."
-    y ""
+    y "El asunto es que ese tipo de historias..."
 
 # game/script-exclusives-yuri.rpy:66
 translate spanish yuri_exclusive_1_22101599:
 
     # y 1a "They challenge you to look at life from a strange new perspective."
-    y 1a ""
+    y 1a "Te desafían a ver la vida desde una perspectiva nueva y desconocida."
 
 # game/script-exclusives-yuri.rpy:67
 translate spanish yuri_exclusive_1_93e29306:
 
     # y "When horrible things happen not just because someone wants to be evil..."
-    y ""
+    y "Cuando pasan cosas horribles no porque alguien quiera hacer algo malo...,"
 
 # game/script-exclusives-yuri.rpy:68
 translate spanish yuri_exclusive_1_b38a3643:
 
     # y 1m "But because they have their own goals, or their own philosophy that they believe in."
-    y 1m ""
+    y 1m "sino porque tienen sus propios objetivos y siguen sus propias filosofías vitales."
 
 # game/script-exclusives-yuri.rpy:69
 translate spanish yuri_exclusive_1_4673d793:
 
     # y "Then suddenly, when you thought you related to the protagonist..."
-    y ""
+    y "Y entonces, cuando creías que te identificabas con la protagonista...,"
 
 # game/script-exclusives-yuri.rpy:70
 translate spanish yuri_exclusive_1_68acbfaa:
 
     # y "They're made out to be the naive one for letting their one-sided morals interfere with the villain's plans."
-    y ""
+    y "resulta que te la presentan como a una ingenua por haber permitido que su moral unilateral interfiriera en los planes del villano."
 
 # game/script-exclusives-yuri.rpy:71
 translate spanish yuri_exclusive_1_2d6e3c72:
 
     # y 3v "I'm...I'm rambling, aren't I...?"
-    y 3v ""
+    y 3v "Estoy... Estoy divagando, ¿verdad?"
 
 # game/script-exclusives-yuri.rpy:72
 translate spanish yuri_exclusive_1_5dac5c99:
 
     # y "Not again..."
-    y ""
+    y "Otra vez, no..."
 
 # game/script-exclusives-yuri.rpy:73
 translate spanish yuri_exclusive_1_d287205e:
 
     # y 4b "I'm sorry..."
-    y 4b ""
+    y 4b "Lo siento..."
 
 # game/script-exclusives-yuri.rpy:74
 translate spanish yuri_exclusive_1_47b1016d:
 
     # mc "Hey, don't apologize...!"
-    mc ""
+    mc "¡Eh, no tienes que disculparte!"
 
 # game/script-exclusives-yuri.rpy:75
 translate spanish yuri_exclusive_1_0fbafffa:
 
     # mc "I haven't lost interest or anything."
-    mc ""
+    mc "No he perdido el interés, tranquila."
 
 # game/script-exclusives-yuri.rpy:76
 translate spanish yuri_exclusive_1_ae7f22e8:
 
     # y "Well..."
-    y ""
+    y "Bueno..."
 
 # game/script-exclusives-yuri.rpy:77
 translate spanish yuri_exclusive_1_9520be33:
 
     # y "I guess it's alright, then..."
-    y ""
+    y "Entonces, supongo que no pasa nada..."
 
 # game/script-exclusives-yuri.rpy:78
 translate spanish yuri_exclusive_1_432dd786:
 
     # y 4a "But I feel like I should let you know that I have this problem..."
-    y 4a ""
+    y 4a "Pero algo me dice que debería comentarte que tengo este problemilla..."
 
 # game/script-exclusives-yuri.rpy:79
 translate spanish yuri_exclusive_1_f902f7cf:
 
     # y "When I let things like books and writing fill my thoughts..."
-    y ""
+    y "Cuando dejo que los libros y la escritura inunden mis pensamientos...,"
 
 # game/script-exclusives-yuri.rpy:80
 translate spanish yuri_exclusive_1_cbb32f29:
 
     # y "I kind of forget to pay attention to other people..."
-    y ""
+    y "tiendo a olvidarme de hacerle caso a la gente..."
 
 # game/script-exclusives-yuri.rpy:81
 translate spanish yuri_exclusive_1_1b4a2d9b:
 
     # y 3t "So I'm sorry if I end up saying something strange!"
-    y 3t ""
+    y 3t "¡Así que te pido perdón de antemano por si acabo diciendo algo extraño!"
 
 # game/script-exclusives-yuri.rpy:82
 translate spanish yuri_exclusive_1_7e573792:
 
     # y "And please stop me if I start talking too much!"
-    y ""
+    y "¡Y no dudes en decirme que me calle si empiezo a hablar demasiado!"
 
 # game/script-exclusives-yuri.rpy:83
 translate spanish yuri_exclusive_1_db2f7cec:
 
     # mc "That's--"
-    mc ""
+    mc "Eso es..."
 
 # game/script-exclusives-yuri.rpy:84
 translate spanish yuri_exclusive_1_c443f13d:
 
     # mc "I really don't think you need to worry..."
-    mc ""
+    mc "De verdad que creo que no tienes de qué preocuparte."
 
 # game/script-exclusives-yuri.rpy:85
 translate spanish yuri_exclusive_1_9c6f8ec5:
 
     # mc "That just means you're passionate about reading."
-    mc ""
+    mc "Lo único que indica todo esto que me cuentas es que sientes pasión por la lectura."
 
 # game/script-exclusives-yuri.rpy:86
 translate spanish yuri_exclusive_1_7bfa8270:
 
     # mc "The least I can do is listen."
-    mc ""
+    mc "Y lo mínimo que puedo hacer es escucharte."
 
 # game/script-exclusives-yuri.rpy:87
 translate spanish yuri_exclusive_1_3bea2478:
 
     # mc "It's a literature club, after all..."
-    mc ""
+    mc "Que por algo estamos en un club de literatura..."
 
 # game/script-exclusives-yuri.rpy:88
 translate spanish yuri_exclusive_1_c2dd3459:
 
     # y 4a "Ah--"
-    y 4a ""
+    y 4a "Ah..."
 
 # game/script-exclusives-yuri.rpy:89
 translate spanish yuri_exclusive_1_717cb0f3:
 
     # y "That's..."
-    y ""
+    y "Pues..."
 
 # game/script-exclusives-yuri.rpy:90
 translate spanish yuri_exclusive_1_7c11a798:
 
     # y "Well, that's true..."
-    y ""
+    y "Bueno, eso es cierto..."
 
 # game/script-exclusives-yuri.rpy:91
 translate spanish yuri_exclusive_1_0a788c2f:
 
     # mc "In fact..."
-    mc ""
+    mc "De hecho..."
 
 # game/script-exclusives-yuri.rpy:92
 translate spanish yuri_exclusive_1_23631788:
 
     # mc "I might as well get started reading it, right?"
-    mc ""
+    mc "Creo que debería ponerme a leerlo de una vez, ¿no te parece?"
 
 # game/script-exclusives-yuri.rpy:93
 translate spanish yuri_exclusive_1_92e92567:
 
     # y 3n "Y-You don't have to!"
-    y 3n ""
+    y 3n "¡N-No hace falta!..."
 
 # game/script-exclusives-yuri.rpy:94
 translate spanish yuri_exclusive_1_4e8c6ca5:
 
     # mc "Ahaha, what are you saying?"
-    mc ""
+    mc "¡Ja, ja, ja! Pero ¿qué dices?"
 
 # game/script-exclusives-yuri.rpy:95
 translate spanish yuri_exclusive_1_1ace8887:
 
     # mc "Just a moment ago, you said you were looking forward to it."
-    mc ""
+    mc "Hace un momento me dijiste que estabas deseando que lo hiciese."
 
 # game/script-exclusives-yuri.rpy:96
 translate spanish yuri_exclusive_1_5a6499dc:
 
     # y 3o "..."
-    y 3o ""
+    y 3o "..."
 
 # game/script-exclusives-yuri.rpy:97
 translate spanish yuri_exclusive_1_d671f554:
 
     # mc "Let me just get the book..."
-    mc ""
+    mc "Espera, que voy a coger el libro..."
 
 # game/script-exclusives-yuri.rpy:98
 translate spanish yuri_exclusive_1_5b5dd31b:
 
     # "I quickly retrieve the book that I had put into my bag."
-    ""
+    "Cojo con rapidez el libro que había guardado en mi bolsa."
 
 # game/script-exclusives-yuri.rpy:99
 translate spanish yuri_exclusive_1_64614a30:
 
     # mc "Alright...it's fine if I sit here, right?"
-    mc ""
+    mc "Vale... No te importa que me siente aquí, ¿no?"
 
 # game/script-exclusives-yuri.rpy:100
 translate spanish yuri_exclusive_1_6ab0c7c0:
 
     # "I slip into the seat next to Yuri's."
-    ""
+    "Me siento junto a Yuri."
 
 # game/script-exclusives-yuri.rpy:101
 translate spanish yuri_exclusive_1_acedfa3b:
 
     # y 3n "Ah...!"
-    y 3n ""
+    y 3n "¡Ah!..."
 
 # game/script-exclusives-yuri.rpy:102
 translate spanish yuri_exclusive_1_92fa2786:
 
     # y "Yeah..."
-    y ""
+    y "Sí..."
 
 # game/script-exclusives-yuri.rpy:103
 translate spanish yuri_exclusive_1_cfce055e:
 
     # mc "Are you sure?"
-    mc ""
+    mc "¿Tú crees?"
 
 # game/script-exclusives-yuri.rpy:104
 translate spanish yuri_exclusive_1_17b81435:
 
     # mc "You seem a little apprehensive..."
-    mc ""
+    mc "Te noto un poco inquieta..."
 
 # game/script-exclusives-yuri.rpy:105
 translate spanish yuri_exclusive_1_717cb0f3_1:
 
     # y "That's..."
-    y ""
+    y "Pues..."
 
 # game/script-exclusives-yuri.rpy:106
 translate spanish yuri_exclusive_1_d287205e_1:
 
     # y 4b "I'm sorry..."
-    y 4b ""
+    y 4b "Lo siento..."
 
 # game/script-exclusives-yuri.rpy:107
 translate spanish yuri_exclusive_1_678618c7:
 
     # y "It's not that I don't want you to!"
-    y ""
+    y "¡No es que no quiera que te sientes aquí!"
 
 # game/script-exclusives-yuri.rpy:108
 translate spanish yuri_exclusive_1_b683d384:
 
     # y "It's just something I'm not very used to..."
-    y ""
+    y "Es solo que no es que esté acostumbrada a estas cosas..."
 
 # game/script-exclusives-yuri.rpy:109
 translate spanish yuri_exclusive_1_a44cd31c:
 
     # y "That is, reading in company with someone."
-    y ""
+    y "A leer acompañada, digo."
 
 # game/script-exclusives-yuri.rpy:110
 translate spanish yuri_exclusive_1_a7bcf340:
 
     # mc "I see..."
-    mc ""
+    mc "Entiendo..."
 
 # game/script-exclusives-yuri.rpy:111
 translate spanish yuri_exclusive_1_7ddffb3c:
 
     # mc "Well, just tell me if I end up distracting you or anything."
-    mc ""
+    mc "Bueno, pues avísame si te distraigo o lo que sea, ¿vale?"
 
 # game/script-exclusives-yuri.rpy:112
 translate spanish yuri_exclusive_1_6efff781:
 
     # y "A-Alright..."
-    y ""
+    y "V-Vale..."
 
 # game/script-exclusives-yuri.rpy:115
 translate spanish yuri_exclusive_1_b7550a3e:
 
     # "I open the book and start the prologue."
-    ""
+    "Abro el libro y empiezo a leer el prólogo."
 
 # game/script-exclusives-yuri.rpy:116
 translate spanish yuri_exclusive_1_695b1b6b:
 
     # "I soon understand what Yuri means about reading in company."
-    ""
+    "No tardo en comprender a qué se refiere Yuri con lo de leer acompañada."
 
 # game/script-exclusives-yuri.rpy:117
 translate spanish yuri_exclusive_1_d2bc4359:
 
     # "It's as if I can feel her presence over my shoulder as I read."
-    ""
+    "Es como si percibiese su presencia por encima de mi hombro mientras leo."
 
 # game/script-exclusives-yuri.rpy:118
 translate spanish yuri_exclusive_1_336c3ecb:
 
     # "It's not a particularly bad thing."
-    ""
+    "No es que sea algo malo de por sí."
 
 # game/script-exclusives-yuri.rpy:119
 translate spanish yuri_exclusive_1_7099b9f9:
 
     # "Maybe a little distracting, but the feeling is somewhat comforting."
-    ""
+    "Sí, te distrae un poco, pero en general es una sensación reconfortante."
 
 # game/script-exclusives-yuri.rpy:120
 translate spanish yuri_exclusive_1_79904e73:
 
     # "Yuri is in the corner of my eye."
-    ""
+    "Puedo ver a Yuri por el rabillo del ojo."
 
 # game/script-exclusives-yuri.rpy:121
 translate spanish yuri_exclusive_1_ffe5cfa7:
 
     # "I realize that she's not actually looking at her own book."
-    ""
+    "Me fijo en que, en realidad, no está leyendo su libro."
 
 # game/script-exclusives-yuri.rpy:122
 translate spanish yuri_exclusive_1_e241e6b4:
 
     # "I glance over."
-    ""
+    "La miro de reojo."
 
 # game/script-exclusives-yuri.rpy:123
 translate spanish yuri_exclusive_1_c5bc1b32:
 
     # "It looks like she's reading from my book instead--"
-    ""
+    "Más bien, parece que está leyendo de mi libro..."
 
 # game/script-exclusives-yuri.rpy:125
 translate spanish yuri_exclusive_1_510cdaf3:
 
     # y "S-Sorry!"
-    y ""
+    y "¡P-Perdona!"
 
 # game/script-exclusives-yuri.rpy:126
 translate spanish yuri_exclusive_1_c2d3dc87:
 
     # y "I was just--!"
-    y ""
+    y "¡Yo tan solo...!"
 
 # game/script-exclusives-yuri.rpy:127
 translate spanish yuri_exclusive_1_d23d4ffa:
 
     # mc "Yuri, you really apologize a lot, don't you?"
-    mc ""
+    mc "Yuri, me estoy fijando en que pides perdón por todo, ¿eh?"
 
 # game/script-exclusives-yuri.rpy:128
 translate spanish yuri_exclusive_1_4712ee86:
 
     # y "I...I do?"
-    y ""
+    y "¿Ah..., sí?"
 
 # game/script-exclusives-yuri.rpy:129
 translate spanish yuri_exclusive_1_6e71265b:
 
     # y 4a "I don't really mean to..."
-    y 4a ""
+    y 4a "No pretendía..."
 
 # game/script-exclusives-yuri.rpy:130
 translate spanish yuri_exclusive_1_485fb852:
 
     # y "Sorry..."
-    y ""
+    y "Lo siento..."
 
 # game/script-exclusives-yuri.rpy:131
 translate spanish yuri_exclusive_1_89f89f32:
 
     # y 4c "I mean--!"
-    y 4c ""
+    y 4c "¡Es decir...!"
 
 # game/script-exclusives-yuri.rpy:132
 translate spanish yuri_exclusive_1_ee7d9dbd:
 
     # mc "Ahaha."
-    mc ""
+    mc "Ja, ja, ja."
 
 # game/script-exclusives-yuri.rpy:133
 translate spanish yuri_exclusive_1_42937a87:
 
     # mc "Here, this should work, right?"
-    mc ""
+    mc "Vale, así mejor, ¿no crees?"
 
 # game/script-exclusives-yuri.rpy:134
 translate spanish yuri_exclusive_1_4be018f3:
 
     # "I slide my desk until it's up against Yuri's, then hold my book more between the two of them."
-    ""
+    "Deslizo mi pupitre hasta ponerlo junto al de Yuri y sostengo el libro entre ambos."
 
 # game/script-exclusives-yuri.rpy:135
 translate spanish yuri_exclusive_1_74f60a14:
 
     # y 2v "Ah..."
-    y 2v ""
+    y 2v "Eh..."
 
 # game/script-exclusives-yuri.rpy:136
 translate spanish yuri_exclusive_1_fcfbd4b1:
 
     # y "I suppose so..."
-    y ""
+    y "Supongo..."
 
 # game/script-exclusives-yuri.rpy:137
 translate spanish yuri_exclusive_1_bdf7b243:
 
     # "Yuri timidly closes her own copy."
-    ""
+    "Yuri cierra su copia del libro con cierta timidez."
 
 # game/script-exclusives-yuri.rpy:138
 translate spanish yuri_exclusive_1_c8915827:
 
     # "Once we each lean in a little bit, our shoulders are almost touching."
-    ""
+    "Nuestros hombros casi se tocan cuando nos inclinamos ambos un poco para leer."
 
 # game/script-exclusives-yuri.rpy:139
 translate spanish yuri_exclusive_1_ffa8cf07:
 
     # "It feels like my left arm is in the way, so instead I use my right hand to hold the book open."
-    ""
+    "Me da la sensación de que el brazo izquierdo molesta un poco, así que uso la mano derecha para sostener el libro."
 
 # game/script-exclusives-yuri.rpy:140
 translate spanish yuri_exclusive_1_7d3a640c:
 
     # mc "Ah, I guess that makes it kind of difficult to turn the page..."
-    mc ""
+    mc "Ay, supongo que así será más difícil pasar la página..."
 
 # game/script-exclusives-yuri.rpy:141
 translate spanish yuri_exclusive_1_9572fcba:
 
     # y "Here..."
-    y ""
+    y "Déjame ver..."
 
 # game/script-exclusives-yuri.rpy:145
 translate spanish yuri_exclusive_1_e50b1a55:
 
     # "Yuri takes her left arm and holds the left side of the book between her thumb and forefinger."
-    ""
+    "Yuri estira el brazo izquierdo y sostiene el lado izquierdo del libro entre el pulgar y el índice."
 
 # game/script-exclusives-yuri.rpy:146
 translate spanish yuri_exclusive_1_93deaf69:
 
     # mc "Ah..."
-    mc ""
+    mc "Ah..."
 
 # game/script-exclusives-yuri.rpy:147
 translate spanish yuri_exclusive_1_8aa7edbf:
 
     # "I do the same with my right arm, on the right side of the book."
-    ""
+    "Hago lo propio con la mano derecha y el lado derecho del libro."
 
 # game/script-exclusives-yuri.rpy:148
 translate spanish yuri_exclusive_1_f4605bd6:
 
     # "That way, I turn a page, and Yuri slides it under her thumb after it flips to her side."
-    ""
+    "De este modo, yo me encargo de pasar la página y Yuri la recoge bajo su pulgar."
 
 # game/script-exclusives-yuri.rpy:149
 translate spanish yuri_exclusive_1_24340c2f:
 
     # "But in holding it like this..."
-    ""
+    "Aunque, como no podía ser de otra forma, al cogerlo así..."
 
 # game/script-exclusives-yuri.rpy:150
 translate spanish yuri_exclusive_1_34a46315:
 
     # "We're huddled even closer together than before."
-    ""
+    "Estamos aún más cerca que antes."
 
 # game/script-exclusives-yuri.rpy:151
 translate spanish yuri_exclusive_1_274fbd4a:
 
     # "It's actually kind of distracting me...!"
-    ""
+    "¡Lo cierto es que la situación me distrae un poco!"
 
 # game/script-exclusives-yuri.rpy:152
 translate spanish yuri_exclusive_1_e1a2be34:
 
     # "It's as if I can feel the warmth of Yuri's face, and she's in the corner of my vision..."
-    ""
+    "Es como si pudiera sentir la calidez de la cara de Yuri, además de que la veo por el rabillo del ojo..."
 
 # game/script-exclusives-yuri.rpy:154
 translate spanish yuri_exclusive_1_44384bd1:
 
     # y "...Are you ready?"
-    y ""
+    y "¿Has acabado?"
 
 # game/script-exclusives-yuri.rpy:155
 translate spanish yuri_exclusive_1_fb2e5377:
 
     # mc "Eh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/script-exclusives-yuri.rpy:156
 translate spanish yuri_exclusive_1_22bd46cd:
 
     # y "To turn the page..."
-    y ""
+    y "Para pasar la página, digo..."
 
 # game/script-exclusives-yuri.rpy:157
 translate spanish yuri_exclusive_1_960cc2a4:
 
     # mc "Ah...sorry!"
-    mc ""
+    mc "Ah... ¡Lo siento!"
 
 # game/script-exclusives-yuri.rpy:158
 translate spanish yuri_exclusive_1_103817d4:
 
     # mc "I think I got a bit distracted for a second..."
-    mc ""
+    mc "Creo que me distraje por un momento..."
 
 # game/script-exclusives-yuri.rpy:159
 translate spanish yuri_exclusive_1_5252b0b0:
 
     # "I glance over at Yuri's face again, and our eyes meet."
-    ""
+    "Vuelvo a mirar a Yuri a la cara y nuestras miradas se cruzan."
 
 # game/script-exclusives-yuri.rpy:160
 translate spanish yuri_exclusive_1_7a860699:
 
     # "I don't know how I'll be able to keep up with her..."
-    ""
+    "No sé cómo voy a hacer para seguirle el ritmo..."
 
 # game/script-exclusives-yuri.rpy:161
 translate spanish yuri_exclusive_1_728dcbc5_2:
 
     # y "Ah..."
-    y ""
+    y "Ah..."
 
 # game/script-exclusives-yuri.rpy:163
 translate spanish yuri_exclusive_1_6668580d:
 
     # y "That's okay."
-    y ""
+    y "No pasa nada."
 
 # game/script-exclusives-yuri.rpy:164
 translate spanish yuri_exclusive_1_dd97e184:
 
     # y "You're not as used to reading, right?"
-    y ""
+    y "No estás acostumbrado a leer, ¿no?"
 
 # game/script-exclusives-yuri.rpy:165
 translate spanish yuri_exclusive_1_f5f71ae0:
 
     # y "I don't mind being patient if it takes you a bit longer..."
-    y ""
+    y "No me importa esperar si tardas un poco más que yo en leer..."
 
 # game/script-exclusives-yuri.rpy:166
 translate spanish yuri_exclusive_1_506c74d6:
 
     # y "It's probably the least I can do..."
-    y ""
+    y "Supongo que es lo mínimo que puedo hacer..."
 
 # game/script-exclusives-yuri.rpy:167
 translate spanish yuri_exclusive_1_9f203c74:
 
     # y "Since you've been so patient with me..."
-    y ""
+    y "Como has sido tan paciente conmigo..."
 
 # game/script-exclusives-yuri.rpy:168
 translate spanish yuri_exclusive_1_5aa72ccd:
 
     # mc "Y-Yeah..."
-    mc ""
+    mc "S-Sí..."
 
 # game/script-exclusives-yuri.rpy:169
 translate spanish yuri_exclusive_1_a64e8bc0:
 
     # mc "Thanks."
-    mc ""
+    mc "Gracias."
 
 # game/script-exclusives-yuri.rpy:172
 translate spanish yuri_exclusive_1_880606e6:
 
     # "We continue reading."
-    ""
+    "Seguimos leyendo."
 
 # game/script-exclusives-yuri.rpy:173
 translate spanish yuri_exclusive_1_91dcd78e:
 
     # "Yuri no longer asks me if I'm ready to turn the page."
-    ""
+    "Yuri ya no me pregunta si he acabado para pasar la página."
 
 # game/script-exclusives-yuri.rpy:174
 translate spanish yuri_exclusive_1_6051933b:
 
     # "Instead, I just assume that she finishes the page before me, so I turn it by my own volition."
-    ""
+    "En vez de eso, doy por sentado que ha acabado antes que yo y paso la página cuando acabo."
 
 # game/script-exclusives-yuri.rpy:175
 translate spanish yuri_exclusive_1_e76a0690:
 
     # "We continue the first chapter in silence."
-    ""
+    "Seguimos leyendo el primer capítulo en silencio."
 
 # game/script-exclusives-yuri.rpy:176
 translate spanish yuri_exclusive_1_94aeb271:
 
     # "Even so, turning each page almost feels like an intimate exchange..."
-    ""
+    "Aún así, cada vez que pasamos de página es como un intercambio íntimo."
 
 # game/script-exclusives-yuri.rpy:177
 translate spanish yuri_exclusive_1_b3d1da47:
 
     # "My thumb gently letting go of the page, letting it flutter over to her side as she catches it under her own thumb."
-    ""
+    "Levanto el pulgar levemente para liberar la página, la cual se desliza con suavidad hacia su lado del libro, donde ella la atrapa bajo su pulgar."
 
 # game/script-exclusives-yuri.rpy:178
 translate spanish yuri_exclusive_1_54daf6f3:
 
     # mc "Hey, Yuri..."
-    mc ""
+    mc "Oye, Yuri..."
 
 # game/script-exclusives-yuri.rpy:179
 translate spanish yuri_exclusive_1_a38f93a8:
 
     # mc "This might be a silly thought, but..."
-    mc ""
+    mc "Puede que vaya a decir una tontería, pero..."
 
 # game/script-exclusives-yuri.rpy:180
 translate spanish yuri_exclusive_1_dc2668cf:
 
     # mc "The main character kind of reminds me of you a little bit."
-    mc ""
+    mc "La chica protagonista me recuerda un poco a ti."
 
 # game/script-exclusives-yuri.rpy:182
 translate spanish yuri_exclusive_1_ea844295:
 
     # y "You...think so?"
-    y ""
+    y "¿Tú... crees?"
 
 # game/script-exclusives-yuri.rpy:183
 translate spanish yuri_exclusive_1_a1432063:
 
     # y "How does she?"
-    y ""
+    y "¿En qué?"
 
 # game/script-exclusives-yuri.rpy:184
 translate spanish yuri_exclusive_1_a6cdef49:
 
     # mc "Well, I guess she's more blunt in a lot of ways..."
-    mc ""
+    mc "Bueno, supongo que en muchos aspectos es mucho más directa..."
 
 # game/script-exclusives-yuri.rpy:185
 translate spanish yuri_exclusive_1_13679fa1:
 
     # mc "But she also second-guesses all of the things that she says and does."
-    mc ""
+    mc "Pero también mide meticulosamente todo lo que dice y hace."
 
 # game/script-exclusives-yuri.rpy:186
 translate spanish yuri_exclusive_1_521a49f4:
 
     # mc "Like she's afraid she'll do something wrong."
-    mc ""
+    mc "Es como si tuviese miedo de hacer algo malo."
 
 # game/script-exclusives-yuri.rpy:187
 translate spanish yuri_exclusive_1_9c97ddc4:
 
     # mc "It's not like I can see into your head or anything..."
-    mc ""
+    mc "A ver, no es que pueda ver qué tienes dentro de la cabeza..."
 
 # game/script-exclusives-yuri.rpy:188
 translate spanish yuri_exclusive_1_c1d47386:
 
     # mc "But they're kind of reminiscent of some of your mannerisms."
-    mc ""
+    mc "Pero hay unos cuantos matices que me recuerdan a tu forma de comportarte."
 
 # game/script-exclusives-yuri.rpy:189
 translate spanish yuri_exclusive_1_2cf3a26d:
 
     # y "I-I see..."
-    y ""
+    y "E-Entiendo..."
 
 # game/script-exclusives-yuri.rpy:193
 translate spanish yuri_exclusive_1_eee017b7:
 
     # "Yuri remains silent for a moment."
-    ""
+    "Yuri se queda en silencio durante unos instantes."
 
 # game/script-exclusives-yuri.rpy:194
 translate spanish yuri_exclusive_1_3ea6615e:
 
     # y "But [player]..."
-    y ""
+    y "Pero, [player]..."
 
 # game/script-exclusives-yuri.rpy:195
 translate spanish yuri_exclusive_1_8949a2e2:
 
     # y "That's probably..."
-    y ""
+    y "Yo diría que eso..."
 
 # game/script-exclusives-yuri.rpy:196
 translate spanish yuri_exclusive_1_d377e169:
 
     # y "...a terrible thing to have in common with her!"
-    y ""
+    y "¡es de las cosas más horribles en las que nos podríamos parecer!"
 
 # game/script-exclusives-yuri.rpy:197
 translate spanish yuri_exclusive_1_aa12ec76:
 
     # y 4b "Uuuh, that's so embarrassing that you think that..."
-    y 4b ""
+    y 4b "Uuuh, qué vergüenza que pienses eso..."
 
 # game/script-exclusives-yuri.rpy:198
 translate spanish yuri_exclusive_1_a0208d1c:
 
     # mc "W-Wait!"
-    mc ""
+    mc "¡E-Espera!"
 
 # game/script-exclusives-yuri.rpy:199
 translate spanish yuri_exclusive_1_77c18923:
 
     # mc "I didn't mean it in a bad way or anything!"
-    mc ""
+    mc "¡No lo decía en el mal sentido ni nada así!"
 
 # game/script-exclusives-yuri.rpy:200
 translate spanish yuri_exclusive_1_c7f5fbff:
 
     # mc "Sorry, I really didn't know you were self-conscious about that sort of thing..."
-    mc ""
+    mc "Perdona, te aseguro que no sabía que eras tan cohibida con estas cosas..."
 
 # game/script-exclusives-yuri.rpy:201
 translate spanish yuri_exclusive_1_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/script-exclusives-yuri.rpy:202
 translate spanish yuri_exclusive_1_cbe370dd:
 
     # mc "I guess I more meant that it's kind of cute..."
-    mc ""
+    mc "Supongo que lo que quería decir era que me parecía un rasgo adorable..."
 
 # game/script-exclusives-yuri.rpy:203
 translate spanish yuri_exclusive_1_4181bb38:
 
     # y 3q "A-Ah--"
-    y 3q ""
+    y 3q "A-Ah..."
 
 # game/script-exclusives-yuri.rpy:204
 translate spanish yuri_exclusive_1_9444dd56:
 
     # y "What are you saying all of a sudden...?"
-    y ""
+    y "Pero ¿con qué cosas me sales así de repente?"
 
 # game/script-exclusives-yuri.rpy:205
 translate spanish yuri_exclusive_1_3328ab95:
 
     # y "I...!"
-    y ""
+    y "¡Yo...!"
 
 # game/script-exclusives-yuri.rpy:207
 translate spanish yuri_exclusive_1_90de9c4d:
 
     # m "Okay, everyone!"
-    m ""
+    m "¡Vale, compis!"
 
 # game/script-exclusives-yuri.rpy:209
 translate spanish yuri_exclusive_1_85976b77:
 
     # y "...!"
-    y ""
+    y "¡!"
 
 # game/script-exclusives-yuri.rpy:211
 translate spanish yuri_exclusive_1_196d5a2a:
 
     # m "I think it's about time we share today's poems with each other."
-    m ""
+    m "Creo que va siendo hora de compartir nuestros poemas de hoy con los demás."
 
 # game/script-exclusives-yuri.rpy:212
 translate spanish yuri_exclusive_1_095693f5:
 
     # m "We might not have enough time if we wait too long."
-    m ""
+    m "Si lo demoramos demasiado, podría no darnos tiempo para todo."
 
 # game/script-exclusives-yuri.rpy:215
 translate spanish yuri_exclusive_1_417c4895:
 
     # y 3w "Ah..."
-    y 3w ""
+    y 3w "Ah..."
 
 # game/script-exclusives-yuri.rpy:216
 translate spanish yuri_exclusive_1_8b293e73:
 
     # "Yuri exhales, spared from finishing her thought."
-    ""
+    "Yuri exhala, claramente aliviada de no haber tenido que terminar su pensamiento."
 
 # game/script-exclusives-yuri.rpy:219
 translate spanish yuri_exclusive_1_28245b36:
 
     # m 1 "Is that alright, Yuri?"
-    m 1 ""
+    m 1 "¿Te parece bien, Yuri?"
 
 # game/script-exclusives-yuri.rpy:220
 translate spanish yuri_exclusive_1_ae055152:
 
     # m "You look kind of down..."
-    m ""
+    m "Te veo un poco de bajona..."
 
 # game/script-exclusives-yuri.rpy:221
 translate spanish yuri_exclusive_1_a60031f7:
 
     # m "I'm sorry if you haven't been looking forward to this..."
-    m ""
+    m "Lo siento mucho si no te apetecía..."
 
 # game/script-exclusives-yuri.rpy:224
 translate spanish yuri_exclusive_1_6767e92a:
 
     # y 3v "Ah, it's not..."
-    y 3v ""
+    y 3v "Ah, no, qué va..."
 
 # game/script-exclusives-yuri.rpy:225
 translate spanish yuri_exclusive_1_3f38c617:
 
     # y "...It's fine."
-    y ""
+    y "No pasa nada..."
 
 # game/script-exclusives-yuri.rpy:229
 translate spanish yuri_exclusive_1_22de134e:
 
     # "Yuri releases her hand from the book, causing it to close on top of my thumb."
-    ""
+    "Yuri suelta el libro, lo cual provocó que se cerrase sobre mi pulgar."
 
 # game/script-exclusives-yuri.rpy:230
 translate spanish yuri_exclusive_1_b12907fb:
 
     # mc "Alright..."
-    mc ""
+    mc "Vale..."
 
 # game/script-exclusives-yuri.rpy:231
 translate spanish yuri_exclusive_1_30a619aa:
 
     # mc "I guess I'll do some more reading tonight."
-    mc ""
+    mc "Supongo que leeré un poco más esta noche."
 
 # game/script-exclusives-yuri.rpy:232
 translate spanish yuri_exclusive_1_7130b630:
 
     # mc "Or would you prefer I only read it with you?"
-    mc ""
+    mc "¿O prefieres que lo leamos entero juntos?"
 
 # game/script-exclusives-yuri.rpy:233
 translate spanish yuri_exclusive_1_22d77bf9:
 
     # y 2f "Um...!"
-    y 2f ""
+    y 2f "¡Ay!..."
 
 # game/script-exclusives-yuri.rpy:234
 translate spanish yuri_exclusive_1_e52646df:
 
     # y "I...guess I don't have too much of a preference either way..."
-    y ""
+    y "Su... Supongo que me valen ambas opciones..."
 
 # game/script-exclusives-yuri.rpy:235
 translate spanish yuri_exclusive_1_8fea2db2:
 
     # mc "Hmm..."
-    mc ""
+    mc "Mmm..."
 
 # game/script-exclusives-yuri.rpy:236
 translate spanish yuri_exclusive_1_11220766:
 
     # mc "In that case, I'll read a little more tonight."
-    mc ""
+    mc "Muy bien, pues leeré un poco más esta noche."
 
 # game/script-exclusives-yuri.rpy:237
 translate spanish yuri_exclusive_1_f73baa8c:
 
     # mc "It'll be more fun to read with you after it picks up a bit, you know?"
-    mc ""
+    mc "Será más divertido si lo leemos juntos a partir de cuando la historia se ponga un poco más interesante, ¿no crees?"
 
 # game/script-exclusives-yuri.rpy:238
 translate spanish yuri_exclusive_1_a4bcfb86:
 
     # y 2a "That's good reasoning."
-    y 2a ""
+    y 2a "No te falta razón."
 
 # game/script-exclusives-yuri.rpy:239
 translate spanish yuri_exclusive_1_f6ee4da5:
 
     # y "In that case, feel free to finish the first two chapters in your own time."
-    y ""
+    y "Si te apetece, puedes terminar los dos primeros capítulos por tu cuenta."
 
 # game/script-exclusives-yuri.rpy:240
 translate spanish yuri_exclusive_1_e3c9018a:
 
     # mc "Alright!"
-    mc ""
+    mc "¡Muy bien!"
 
 # game/script-exclusives-yuri.rpy:243
 translate spanish yuri_exclusive_1_1950528a:
 
     # "I stand up."
-    ""
+    "Me pongo de pie."
 
 # game/script-exclusives-yuri.rpy:244
 translate spanish yuri_exclusive_1_c0c90965:
 
     # "I make a mental note of where I left off in the book, then slip it back into my bag."
-    ""
+    "Memorizo bien el lugar en el que me quedé leyendo y vuelvo a guardar el libro en la bolsa."
 
 # game/script-exclusives-yuri.rpy:252
 translate spanish yuri_exclusive_2_e72920b3:
