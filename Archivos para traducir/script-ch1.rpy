@@ -454,67 +454,67 @@ translate spanish ch1_main_6713a333:
 translate spanish ch1_main_25d7e7ce:
 
     # m "By the way, did you remember to write a poem last night?"
-    m ""
+    m "Por cierto, ¿os acordasteis de escribir un poema anoche?"
 
 # game/script-ch1.rpy:141
 translate spanish ch1_main_5aa72ccd:
 
     # mc "Y-Yeah..."
-    mc ""
+    mc "S-Sí..."
 
 # game/script-ch1.rpy:142
 translate spanish ch1_main_b8d87d90:
 
     # "My relaxation ends."
-    ""
+    "Dejo de estar relajado de golpe."
 
 # game/script-ch1.rpy:143
 translate spanish ch1_main_070e9df2:
 
     # "I can't believe I agreed to do something so embarrassing."
-    ""
+    "No me puedo creer que haya aceptado hacer algo tan vergonzoso."
 
 # game/script-ch1.rpy:144
 translate spanish ch1_main_0b915520:
 
     # "I couldn't really find much inspiration, since I've never really done this before."
-    ""
+    "Me costó encontrar la inspiración para hacer algo que no había hecho nunca."
 
 # game/script-ch1.rpy:145
 translate spanish ch1_main_96a5a5c4:
 
     # m "Well, now that everyone's ready, why don't you find someone to share with?"
-    m ""
+    m "Pues creo que es el momento perfecto para compartirlos en grupo."
 
 # game/script-ch1.rpy:147
 translate spanish ch1_main_ebf4c7a9:
 
     # s "I can't wait~!"
-    s ""
+    s "¡Qué ganas!"
 
 # game/script-ch1.rpy:152
 translate spanish ch1_main_65e6fcbd:
 
     # "Sayori and Monika enthusiastically pull out their poems."
-    ""
+    "Sayori y Monika parecen entusiasmadas al sacar sus poemas."
 
 # game/script-ch1.rpy:153
 translate spanish ch1_main_b87d3078:
 
     # "Sayori's is on a wrinkled sheet of loose leaf torn from a spiral notebook."
-    ""
+    "Sayori lo trae en una hoja arrugada que arranca de un cuaderno de espiral."
 
 # game/script-ch1.rpy:154
 translate spanish ch1_main_ccd4f660:
 
     # "On the other hand, Monika wrote hers in a composition notebook."
-    ""
+    "Monika, en cambio, ha escrito el suyo en un cuaderno de redacción."
 
 # game/script-ch1.rpy:155
 translate spanish ch1_main_a3b175bf:
 
     # "I can already see Monika's pristine handwriting from where I sit."
-    ""
+    "Desde donde estoy sentado, veo la perfecta caligrafía de Monika."
 
 # game/script-ch1.rpy:156
 translate spanish ch1_main_7354e005:
