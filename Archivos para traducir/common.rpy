@@ -410,9 +410,9 @@ translate spanish strings:
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
     new "Este programa contiene software libre bajo varias licencias, incluyendo la Licencia MIT y la Licencia Pública General Reducida de GNU. Una lista completa de software, incluyendo enlaces al código fuente completo, se puede encontrar {a=https://www.renpy.org/l/license}aquí{/a}."
 
-    """
-    Esto no
-    """
+    # """
+    # Esto no
+    # """
 
     # # renpy/common/00preferences.rpy:290
     # old "display"
@@ -662,11 +662,11 @@ translate spanish strings:
     # old "Speech Bubble Editor"
     # new ""
 
-    """
-    Esto tampoco se usa aunque me dio lastima,
-    no la suficiente para traducirlo pero si para dejarlo
-    en inglés.
-    """
+    # """
+    # Esto tampoco se usa aunque me dio lastima,
+    # no la suficiente para traducirlo pero si para dejarlo
+    # en inglés.
+    # """
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
     new "Translation identifier: [identifier]"
@@ -703,9 +703,9 @@ translate spanish strings:
     old "return"
     new "return"
 
-    """
-    Ni esto
-    """
+    # """
+    # Ni esto
+    # """
     # # renpy/common/00gltest.rpy:90
     # old "Renderer"
     # new ""
