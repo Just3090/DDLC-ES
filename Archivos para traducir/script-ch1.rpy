@@ -4,451 +4,451 @@
 translate spanish ch1_main_0f077782:
 
     # m "Hi again, [player]!"
-    m ""
+    m "¡Hola de nuevo, [player]!"
 
 # game/script-ch1.rpy:10
 translate spanish ch1_main_95ea4bac:
 
     # m "Glad to see you didn't run away on us. Hahaha!"
-    m ""
+    m "Qué bien, no has huído con el rabo entre las piernas. ¡Ja, ja, ja!"
 
 # game/script-ch1.rpy:11
 translate spanish ch1_main_ecaf5654:
 
     # mc "Nah, don't worry."
-    mc ""
+    mc "Qué va, yo no hago esas cosas."
 
 # game/script-ch1.rpy:12
 translate spanish ch1_main_a0e98f5a:
 
     # mc "This might be a little strange for me, but I at least keep my word."
-    mc ""
+    mc "Se me hace un poco raro, pero pienso cumplir mi palabra."
 
 # game/script-ch1.rpy:15
 translate spanish ch1_main_5bff8fb6:
 
     # "Well, I'm back at the Literature Club."
-    ""
+    "Bien, he vuelto al club de literatura."
 
 # game/script-ch1.rpy:16
 translate spanish ch1_main_0565e928:
 
     # "I was the last to come in, so everyone else is already hanging out."
-    ""
+    "He sido el último en llegar, así que las chicas ya están pasando el rato."
 
 # game/script-ch1.rpy:18
 translate spanish ch1_main_209577b0:
 
     # y "Thanks for keeping your promise, [player]."
-    y ""
+    y "Gracias por mantener tu promesa, [player]."
 
 # game/script-ch1.rpy:19
 translate spanish ch1_main_fc35d1a5:
 
     # y "I hope this isn't too overwhelming of a commitment for you."
-    y ""
+    y "Espero que este compromiso no se te haga muy cuesta arriba."
 
 # game/script-ch1.rpy:20
 translate spanish ch1_main_0b033aa0:
 
     # y 1u "Making you dive headfirst into literature when you're not accustomed to it..."
-    y 1u ""
+    y 1u "Es duro que te obliguen a zambullirte en la literatura cuando no estás acostumbrado..."
 
 # game/script-ch1.rpy:22
 translate spanish ch1_main_4bc8df14:
 
     # n "Oh, come on! Like he deserves any slack."
-    n ""
+    n "¡Venga ya! No hace falta que te compadezcas de él."
 
 # game/script-ch1.rpy:23
 translate spanish ch1_main_54887548:
 
     # n "Sayori told me you didn't even want to join any clubs this year."
-    n ""
+    n "Sayori me dijo que ni siquiera pensabas unirte a ningún club este año."
 
 # game/script-ch1.rpy:24
 translate spanish ch1_main_0e4e14ce:
 
     # n "And last year, too!"
-    n ""
+    n "¡Ni el año pasado!"
 
 # game/script-ch1.rpy:25
 translate spanish ch1_main_131e8e4b:
 
     # n 4c "I don't know if you plan to just come here and hang out, or what..."
-    n 4c ""
+    n 4c "No sé si piensas venir a hacer el zángano..."
 
 # game/script-ch1.rpy:26
 translate spanish ch1_main_8ef8abd3:
 
     # n "But if you don't take us seriously, then you won't see the end of it."
-    n ""
+    n "Pero, si te burlas de nosotras, te prometo que te las verás conmigo."
 
 # game/script-ch1.rpy:28
 translate spanish ch1_main_e8cad960:
 
     # m "Natsuki, you certainly have a big mouth for someone who keeps her manga collection in the clubroom."
-    m ""
+    m "Natsuki, que guardas tus mangas en el club. No eres quién para ponerte bravucona."
 
 # game/script-ch1.rpy:29
 translate spanish ch1_main_28526ae4:
 
     # n 4o "M-M-M...!!"
-    n 4o ""
+    n 4o "¡¡¡E-E-E...!!!"
 
 # game/script-ch1.rpy:32
 translate spanish ch1_main_6ff88347:
 
     # "Natsuki finds herself stuck between saying \"Monika\" and \"Manga\"."
-    ""
+    "Natsuki no sabe si justificarse o replicarle a Monika."
 
 # game/script-ch1.rpy:34
 translate spanish ch1_main_8e1ee84b:
 
     # n 1v "Manga is literature!!"
-    n 1v ""
+    n 1v "¡¡¡El manga también es literatura!!!"
 
 # game/script-ch1.rpy:37
 translate spanish ch1_main_036357ba:
 
     # "Swiftly defeated, Natsuki plops back into her seat."
-    ""
+    "Derrotada de un plumazo, Natsuki se deja caer en su silla."
 
 # game/script-ch1.rpy:40
 translate spanish ch1_main_a84b9413:
 
     # s "Don't worry, guys~"
-    s ""
+    s "No os preocupéis..."
 
 # game/script-ch1.rpy:41
 translate spanish ch1_main_d7cf9956:
 
     # s "[player] always gives it his best as long as he's having fun."
-    s ""
+    s "[player] siempre lo da todo cuando se está divirtiendo."
 
 # game/script-ch1.rpy:42
 translate spanish ch1_main_f466355f:
 
     # s "He helps me with busywork without me even asking."
-    s ""
+    s "Me ayuda con mis tareas sin que tenga que pedírselo siquiera."
 
 # game/script-ch1.rpy:43
 translate spanish ch1_main_13c9b95d:
 
     # s "Like cooking, cleaning my room..."
-    s ""
+    s "Como cocinar, ordenar mi cuarto..."
 
 # game/script-ch1.rpy:46
 translate spanish ch1_main_6c9290b7:
 
     # y 2m "How dependable..."
-    y 2m ""
+    y 2m "Qué buenazo..."
 
 # game/script-ch1.rpy:48
 translate spanish ch1_main_01768f1a:
 
     # mc "Sayori, that's because your room is so messy it's distracting."
-    mc ""
+    mc "Sayori, eso es porque en tu cuarto hay tanto jaleo que es imposible pensar en otra cosa."
 
 # game/script-ch1.rpy:49
 translate spanish ch1_main_f03a36de:
 
     # mc "And you almost set your house on fire once."
-    mc ""
+    mc "Y una vez casi le prendiste fuego a tu casa."
 
 # game/script-ch1.rpy:51
 translate spanish ch1_main_46619abb:
 
     # s 5 "Is that so... Ehehe..."
-    s 5 ""
+    s 5 "¿Ah, sí?... Je, je..."
 
 # game/script-ch1.rpy:53
 translate spanish ch1_main_e3d60137:
 
     # y 1s "You two are really good friends, aren't you?"
-    y 1s ""
+    y 1s "Sois muy buenos amigos, ¿verdad?"
 
 # game/script-ch1.rpy:54
 translate spanish ch1_main_5150f59d:
 
     # y "I might be a little jealous..."
-    y ""
+    y "A lo mejor me pongo un poco celosa..."
 
 # game/script-ch1.rpy:57
 translate spanish ch1_main_b7fd516c:
 
     # s 1 "How come? You and [player] can become good friends too!"
-    s 1 ""
+    s 1 "¿Por qué? ¡[player] y tú también podéis haceros buenos amigos!"
 
 # game/script-ch1.rpy:60
 translate spanish ch1_main_6897629e:
 
     # y 4b "U-Um..."
-    y 4b ""
+    y 4b "Mmm..."
 
 # game/script-ch1.rpy:62
 translate spanish ch1_main_7b7e4806:
 
     # mc "S-Sayori--"
-    mc ""
+    mc "S-Sayori..."
 
 # game/script-ch1.rpy:64
 translate spanish ch1_main_cb503a81:
 
     # s "Hmm?"
-    s ""
+    s "¿Mmm?"
 
 # game/script-ch1.rpy:66
 translate spanish ch1_main_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/script-ch1.rpy:67
 translate spanish ch1_main_ba3de90d:
 
     # "As usual, Sayori seems oblivious to the weird situation she just put me into."
-    ""
+    "Como siempre, Sayori no parece darse cuenta de la situación incómoda en la que acaba de ponerme."
 
 # game/script-ch1.rpy:69
 translate spanish ch1_main_f55ccd4d:
 
     # s 4x "Oh, oh! Yuri even brought you something today, you know~"
-    s 4x ""
+    s 4x "¡Oh, oh! Yuri ha traído algo para ti, ¿sabes?"
 
 # game/script-ch1.rpy:72
 translate spanish ch1_main_ea01e1e9:
 
     # y 3n "W-Wait! Sayori..."
-    y 3n ""
+    y 3n "¡E-Espera! Sayori..."
 
 # game/script-ch1.rpy:74
 translate spanish ch1_main_5f167be7:
 
     # mc "Eh? Me?"
-    mc ""
+    mc "¿Eh? ¿Para mí?"
 
 # game/script-ch1.rpy:76
 translate spanish ch1_main_919bbc2a:
 
     # y 3o "Um... Not really..."
-    y 3o ""
+    y 3o "Mmm... La verdad es que no..."
 
 # game/script-ch1.rpy:79
 translate spanish ch1_main_828bb88b:
 
     # s 4r "Don't be shy~"
-    s 4r ""
+    s 4r "No seas tímida..."
 
 # game/script-ch1.rpy:82
 translate spanish ch1_main_05eb3e49:
 
     # y "It's really nothing..."
-    y ""
+    y "No es nada..."
 
 # game/script-ch1.rpy:84
 translate spanish ch1_main_def0ad19:
 
     # mc "What is it?"
-    mc ""
+    mc "¿Qué es?"
 
 # game/script-ch1.rpy:86
 translate spanish ch1_main_637268ae:
 
     # y 4c "N-Never mind!"
-    y 4c ""
+    y 4c "¡D-Da igual!"
 
 # game/script-ch1.rpy:87
 translate spanish ch1_main_cb7eb154:
 
     # y "Sayori made it sound like a big deal when it's really not..."
-    y ""
+    y "Sayori le ha dado mucha importancia, pero es una tontería..."
 
 # game/script-ch1.rpy:88
 translate spanish ch1_main_d9e54b67:
 
     # y "Uuuuh, what do I do..."
-    y ""
+    y "Ay, ¿qué hago?..."
 
 # game/script-ch1.rpy:91
 translate spanish ch1_main_2224ad48:
 
     # s 1g "Eh? I'm sorry, Yuri, I wasn't thinking..."
-    s 1g ""
+    s 1g "¿Eh? Lo siento, Yuri, he hablado sin pensar..."
 
 # game/script-ch1.rpy:95
 translate spanish ch1_main_9ff3c337:
 
     # "I guess that means it's up to me to rescue this situation..."
-    ""
+    "Supongo que depende de mí solventar la situación..."
 
 # game/script-ch1.rpy:96
 translate spanish ch1_main_6f06b205:
 
     # mc "Hey, don't worry about it."
-    mc ""
+    mc "Oye, no te preocupes."
 
 # game/script-ch1.rpy:97
 translate spanish ch1_main_04495733:
 
     # mc "First of all, I wasn't expecting anything in the first place."
-    mc ""
+    mc "Lo primero es que no esperaba nada."
 
 # game/script-ch1.rpy:98
 translate spanish ch1_main_c8eaf1f5:
 
     # mc "So any nice gesture from you is a pleasant surprise."
-    mc ""
+    mc "Así que cualquier cosa ya será una sorpresa agradable."
 
 # game/script-ch1.rpy:99
 translate spanish ch1_main_22fbe112:
 
     # mc "It'll make me happy no matter what."
-    mc ""
+    mc "Me hará feliz, lo que sea."
 
 # game/script-ch1.rpy:100
 translate spanish ch1_main_a1560f15:
 
     # y 3v "I-Is that so..."
-    y 3v ""
+    y 3v "¿L-Lo dices en serio?"
 
 # game/script-ch1.rpy:101
 translate spanish ch1_main_d86fe35f:
 
     # mc "Yeah. I won't make it a big deal if you don't want it to be."
-    mc ""
+    mc "Sí. No le daré importancia si tú no quieres que la tenga."
 
 # game/script-ch1.rpy:102
 translate spanish ch1_main_6e92cc87:
 
     # y "Alright..."
-    y ""
+    y "Vale..."
 
 # game/script-ch1.rpy:103
 translate spanish ch1_main_f4383968:
 
     # y 1a "Well, here."
-    y 1a ""
+    y 1a "Bueno, toma."
 
 # game/script-ch1.rpy:104
 translate spanish ch1_main_5c6d9095:
 
     # "Yuri reaches into her bag and pulls out a book."
-    ""
+    "Yuri mete la mano en su bolso y saca un libro."
 
 # game/script-ch1.rpy:105
 translate spanish ch1_main_394a6121:
 
     # y "I didn't want you to feel left out..."
-    y ""
+    y "No quería que te sintieses excluído."
 
 # game/script-ch1.rpy:106
 translate spanish ch1_main_1879c00c:
 
     # y "So I picked out a book that I thought you might enjoy."
-    y ""
+    y "Así que he cogido un libro que podrías disfrutar."
 
 # game/script-ch1.rpy:107
 translate spanish ch1_main_c76bcbd9:
 
     # y "It's a short read, so it should keep your attention, even if you don't usually read."
-    y ""
+    y "Es cortito. Te tendrá enganchado aunque no estés acostumbrado a leer."
 
 # game/script-ch1.rpy:108
 translate spanish ch1_main_1c1fa68f:
 
     # y "And we could, you know..."
-    y ""
+    y "Y, si te apetece, podríamos..."
 
 # game/script-ch1.rpy:110
 translate spanish ch1_main_262616a0:
 
     # y 4b "Discuss it...if you wanted..."
-    y 4b ""
+    y 4b "Ya sabes, comentarlo..."
 
 # game/script-ch1.rpy:111
 translate spanish ch1_main_257a5a4c:
 
     # "Th-This is..."
-    ""
+    "N-No fastidies..."
 
 # game/script-ch1.rpy:112
 translate spanish ch1_main_dbd79240:
 
     # "How is this girl accidentally being so cute?"
-    ""
+    "Esta chica no podría ser más mona ni queriendo."
 
 # game/script-ch1.rpy:113
 translate spanish ch1_main_067cb0c1:
 
     # "She even picked out a book she thinks I'll like, despite me not reading much..."
-    ""
+    "Ha escogido un libro que podría gustarme a pesar de que soy un lector pésimo."
 
 # game/script-ch1.rpy:114
 translate spanish ch1_main_063782d3:
 
     # mc "Yuri, thank you! I'll definitely read this!"
-    mc ""
+    mc "¡Gracias, Yuri! ¡Lo leeré sin falta!"
 
 # game/script-ch1.rpy:115
 translate spanish ch1_main_a0d526be:
 
     # "I enthusiastically take the book."
-    ""
+    "Cojo el libro entusiasmado."
 
 # game/script-ch1.rpy:117
 translate spanish ch1_main_f6554ff6:
 
     # y "Phew..."
-    y ""
+    y "Uf..."
 
 # game/script-ch1.rpy:118
 translate spanish ch1_main_3b5e8d6c:
 
     # y 2a "Well, you can read it at your own pace."
-    y 2a ""
+    y 2a "Bueno, tómate el tiempo que quieras para leerlo."
 
 # game/script-ch1.rpy:119
 translate spanish ch1_main_17c99d12:
 
     # y "I look forward to hearing what you think."
-    y ""
+    y "Tengo ganas de saber tu opinión."
 
 # game/script-ch1.rpy:124
 translate spanish ch1_main_5d35cc1a:
 
     # "Now that everyone's settled in, I expected Monika to kick off some scheduled activities for the club."
-    ""
+    "Ahora que todo el mundo está en su sitio, esperaba que Monika empezase con las actividades del club."
 
 # game/script-ch1.rpy:125
 translate spanish ch1_main_be0f213d:
 
     # "But that doesn't seem to be the case."
-    ""
+    "Pero no parece que sea el caso."
 
 # game/script-ch1.rpy:126
 translate spanish ch1_main_f081c8d6:
 
     # "Sayori and Monika are having a cheery conversation in the corner."
-    ""
+    "Sayori y Monika están charlando animadamente en un rincón."
 
 # game/script-ch1.rpy:127
 translate spanish ch1_main_301982d1:
 
     # "Yuri's face is already buried in a book."
-    ""
+    "Yuri está concentrada en su libro."
 
 # game/script-ch1.rpy:128
 translate spanish ch1_main_b18fd321:
 
     # "I can't help but notice her intense expression, like she was waiting for this chance."
-    ""
+    "No puedo evitar fijarme en su expresión apasionada. Diría que estaba esperando esta oportunidad."
 
 # game/script-ch1.rpy:129
 translate spanish ch1_main_6713a333:
 
     # "Meanwhile, Natsuki is rummaging around in the closet."
-    ""
+    "Mientras tanto, Natsuki rebusca en el armario."
 
 # game/script-ch1.rpy:140
 translate spanish ch1_main_25d7e7ce:
