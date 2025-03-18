@@ -28,37 +28,37 @@ translate spanish after_load_78a4e9dc:
 translate spanish after_load_5c5510ae:
 
     # "Are you trying to cheat?"
-    "¿Estás intentando hacer trampa?"
+    "¿Estás intentando hacer trampas?"
 
 # game/splash.rpy:560
 translate spanish after_load_46c240e4:
 
     # m "You're so funny."
-    m "Qué divertido eres."
+    m "Eres muy divertido."
 
 # game/splash.rpy:562
 translate spanish after_load_e5a463d0:
 
     # m "You're so funny, [persistent.playername]."
-    m "¡Qué divertido eres, [persistent.playername]!"
+    m "¡Eres muy divertido, [persistent.playername]!"
 
 translate spanish strings:
 
     # game/splash.rpy:289
     old "A previous save file has been found. Would you like to delete your save data and start over?"
-    new "Se ha encontrado una partida guardada. ¿Quieres borrar tus datos y empezar de nuevo?"
+    new "Se ha encontrado un archivo de guardado anterior. ¿Deseas borrarlo y empezar de nuevo?"
 
     # game/splash.rpy:289
     old "Yes, delete my existing data."
-    new "Sí, borra mis datos."
+    new "Sí, borrar mis datos existentes."
 
     # game/splash.rpy:289
     old "No, continue where I left off."
-    new "No, sigue donde lo dejé."
+    new "No, continuar desde donde lo dejé."
 
     # game/splash.rpy:324
     old "I agree."
-    new "Acepto."
+    new "Estoy de acuerdo."
 
 # TODO: Translation updated at 2025-03-12 12:54
 
@@ -66,5 +66,5 @@ translate spanish strings:
 
     # game/splash.rpy:567
     old "Hint: You can use the \"Skip\" button to\nfast-forward through text you've already read."
-    new ""
+    new "Puedes usar el botón \"Omitir\" para adelantar el texto que ya has leído."
 
