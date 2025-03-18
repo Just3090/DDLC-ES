@@ -9466,7 +9466,7 @@ translate spanish ch2_y_good_shared_a4fb38a3:
 translate spanish ch2_y_good_shared_c60c5441:
 
     # y "[player]..."
-    y ""
+    y "[player]..."
 
 # game/script-poemresponses.rpy:2046
 translate spanish ch2_y_good_shared_84956fed:
@@ -10816,7 +10816,7 @@ translate spanish ch3_y_good_shared_71a86863:
 translate spanish ch3_y_good_shared_2f37247c:
 
     # y "[player]."
-    y ""
+    y "[player]."
 
 # game/script-poemresponses.rpy:2305
 translate spanish ch3_y_good_shared_2ad9deaa:
@@ -12856,7 +12856,7 @@ translate spanish strings:
 
     # game/script-poemresponses.rpy:27
     old "[menutext]"
-    new ""
+    new "[menutext]"
 
     # game/script-poemresponses.rpy:27
     old "Sayori"
