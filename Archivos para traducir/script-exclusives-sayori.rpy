@@ -4,1069 +4,1069 @@
 translate spanish sayori_exclusive_1_ebd278f3:
 
     # "Man..."
-    ""
+    "Jolín..."
 
 # game/script-exclusives-sayori.rpy:7
 translate spanish sayori_exclusive_1_75a8ab85:
 
     # "It looks like no one wants to be bothered today."
-    ""
+    "Parece que hoy nadie quiere que la moleste."
 
 # game/script-exclusives-sayori.rpy:8
 translate spanish sayori_exclusive_1_a3dd5dba:
 
     # "I slump down into the nearest desk."
-    ""
+    "Me desplomo en el pupitre más cercano."
 
 # game/script-exclusives-sayori.rpy:9
 translate spanish sayori_exclusive_1_140dc341:
 
     # "How am I supposed to occupy myself with something literature-related by myself like this?"
-    ""
+    "¿Cómo voy a hacer cosas literarias si nadie me ayuda?"
 
 # game/script-exclusives-sayori.rpy:10
 translate spanish sayori_exclusive_1_b96163c6:
 
     # "I guess I could always read some of the book Yuri gave me..."
-    ""
+    "Supongo que podría leer un rato el libro que me dio Yuri..."
 
 # game/script-exclusives-sayori.rpy:11
 translate spanish sayori_exclusive_1_c6d56ac0:
 
     # "...But I'm feeling a little too tired to read."
-    ""
+    "Aunque, no sé, me siento demasiado cansado para leer."
 
 # game/script-exclusives-sayori.rpy:12
 translate spanish sayori_exclusive_1_c374df0f:
 
     # "I could probably fall asleep right now."
-    ""
+    "Quizás podría aprovechar para echarme una siestecilla."
 
 # game/script-exclusives-sayori.rpy:13
 translate spanish sayori_exclusive_1_70925125:
 
     # "I close my eyes and end up listening in on Sayori's conversation with Monika."
-    ""
+    "Cierro los ojos y acabo oyendo la conversación de Sayori con Monika."
 
 # game/script-exclusives-sayori.rpy:15
 translate spanish sayori_exclusive_1_09fc8625:
 
     # s "We're probably gonna seem really lame compared to all the other clubs, though..."
-    s ""
+    s "Aunque es posible que parezcamos una panda de pringadas en comparación con los demás clubes..."
 
 # game/script-exclusives-sayori.rpy:17
 translate spanish sayori_exclusive_1_6d1d2d28:
 
     # m "Hmm..."
-    m ""
+    m "Mmm..."
 
 # game/script-exclusives-sayori.rpy:18
 translate spanish sayori_exclusive_1_10dbd395:
 
     # m 2b "Well, we can't give up."
-    m 2b ""
+    m 2b "En fin, no podemos rendirnos."
 
 # game/script-exclusives-sayori.rpy:19
 translate spanish sayori_exclusive_1_8920eea6:
 
     # m "The festival is our chance to show everyone what literature is all about!"
-    m ""
+    m "¡El festival es nuestra gran oportunidad de demostrarle a todo el mundo las virtudes de la literatura!"
 
 # game/script-exclusives-sayori.rpy:20
 translate spanish sayori_exclusive_1_ebb868c8:
 
     # m 2d "The problem is that the idea of a literature club sounds too dense and intellectual..."
-    m 2d ""
+    m 2d "El problema es que el propio concepto de un club de literatura es algo denso y muy intelectual..."
 
 # game/script-exclusives-sayori.rpy:21
 translate spanish sayori_exclusive_1_9bd0888b:
 
     # m "But it's not like that at all, you know?"
-    m ""
+    m "Pero no es así en absoluto, ¿sabes?"
 
 # game/script-exclusives-sayori.rpy:22
 translate spanish sayori_exclusive_1_82578239:
 
     # m 2a "We just need a way of showing that to everyone..."
-    m 2a ""
+    m 2a "Tan solo necesitamos una forma de demostrárselo a todo el mundo..."
 
 # game/script-exclusives-sayori.rpy:23
 translate spanish sayori_exclusive_1_3384cee9:
 
     # m "Something that speaks to their creative minds."
-    m ""
+    m "Algo que apele a sus mentes creativas."
 
 # game/script-exclusives-sayori.rpy:26
 translate spanish sayori_exclusive_1_607ebf69:
 
     # s 1i "Mmmmmmmmmmm....."
-    s 1i ""
+    s 1i "Mmm..."
 
 # game/script-exclusives-sayori.rpy:27
 translate spanish sayori_exclusive_1_95130e53:
 
     # s "That doesn't solve the problem, though!"
-    s ""
+    s "¡Pero eso no resolvería el problema!"
 
 # game/script-exclusives-sayori.rpy:30
 translate spanish sayori_exclusive_1_037a4dfd:
 
     # m 2d "Eh? What do you mean?"
-    m 2d ""
+    m 2d "¿Eh? ¿A qué te refieres?"
 
 # game/script-exclusives-sayori.rpy:33
 translate spanish sayori_exclusive_1_9111b144:
 
     # s 1c "Even if we come up with the most fun thing ever..."
-    s 1c ""
+    s 1c "Aunque se nos ocurra la cosa más divertida del mundo...,"
 
 # game/script-exclusives-sayori.rpy:34
 translate spanish sayori_exclusive_1_2f7dad10:
 
     # s "Nobody will come in the first place if it's a literature event."
-    s ""
+    s "nadie querrá venir porque seguirá siendo un evento literario."
 
 # game/script-exclusives-sayori.rpy:35
 translate spanish sayori_exclusive_1_64881939:
 
     # s "So it's more important to figure out how to get people to show up in the first place, you know?"
-    s ""
+    s "Por tanto, lo más importante es descubrir cómo convencer a la gente de que se pase por aquí."
 
 # game/script-exclusives-sayori.rpy:36
 translate spanish sayori_exclusive_1_51184aa2:
 
     # s 1a "And after they come, we can do the thing to speak to their creative minds."
-    s 1a ""
+    s 1a "Cuando ya estén aquí, podremos dar rienda suelta a nuestras mentes creativas."
 
 # game/script-exclusives-sayori.rpy:37
 translate spanish sayori_exclusive_1_14278efc:
 
     # "...What's this?"
-    ""
+    "¿Qué es esto?"
 
 # game/script-exclusives-sayori.rpy:38
 translate spanish sayori_exclusive_1_55b7d1b5:
 
     # "Sayori is taking this really seriously."
-    ""
+    "Sayori se está tomando esto muy en serio."
 
 # game/script-exclusives-sayori.rpy:39
 translate spanish sayori_exclusive_1_7dcbbe2f:
 
     # "It's rare to hear her deliberating like this."
-    ""
+    "Se me hace raro oírla deliberar así."
 
 # game/script-exclusives-sayori.rpy:42
 translate spanish sayori_exclusive_1_821bebf6:
 
     # m 2a "Huh, that's a good point..."
-    m 2a ""
+    m 2a "Uh, pues no te falta razón..."
 
 # game/script-exclusives-sayori.rpy:43
 translate spanish sayori_exclusive_1_5a567997:
 
     # m "In that case, do you think food will do the trick?"
-    m ""
+    m "En ese caso, ¿creéis que podríamos salir al paso con comida?"
 
 # game/script-exclusives-sayori.rpy:46
 translate spanish sayori_exclusive_1_4e085cf3:
 
     # s 1n "W-What kind?!"
-    s 1n ""
+    s 1n "¡¿D-De qué tipo?!"
 
 # game/script-exclusives-sayori.rpy:49
 translate spanish sayori_exclusive_1_e67c3d03:
 
     # m 2b "Ah... Well, I guess we could--"
-    m 2b ""
+    m 2b "Ah... Bueno, supongo que podríamos..."
 
 # game/script-exclusives-sayori.rpy:52
 translate spanish sayori_exclusive_1_47b1e3cd:
 
     # s "Cupcakes!"
-    s ""
+    s "¡Cupcakes!"
 
 # game/script-exclusives-sayori.rpy:55
 translate spanish sayori_exclusive_1_2f575b47:
 
     # m "Ahaha. Good thinking."
-    m ""
+    m "Ja, ja, ja. Me gusta cómo piensas."
 
 # game/script-exclusives-sayori.rpy:56
 translate spanish sayori_exclusive_1_52375000:
 
     # m 1a "Natsuki would love to do that."
-    m 1a ""
+    m 1a "A Natsuki le encantaría hacer eso."
 
 # game/script-exclusives-sayori.rpy:59
 translate spanish sayori_exclusive_1_5f170b21:
 
     # s 4x "Ah! You're right!"
-    s 4x ""
+    s 4x "¡Ah! ¡Tienes razón!"
 
 # game/script-exclusives-sayori.rpy:60
 translate spanish sayori_exclusive_1_1589bf64:
 
     # s "Natsuki makes the best cupcakes!"
-    s ""
+    s "¡Natsuki hace los mejores cupcakes!"
 
 # game/script-exclusives-sayori.rpy:61
 translate spanish sayori_exclusive_1_8824af48:
 
     # s "That works out perfectly~"
-    s ""
+    s "Eso sería maravilloso..."
 
 # game/script-exclusives-sayori.rpy:64
 translate spanish sayori_exclusive_1_0633c181:
 
     # m 1d "That wasn't why you suggested it...?"
-    m 1d ""
+    m 1d "¿No lo habías sugerido por eso?"
 
 # game/script-exclusives-sayori.rpy:67
 translate spanish sayori_exclusive_1_f27be215:
 
     # s 4q "Cupcakes speak to my creative tummy~"
-    s 4q ""
+    s 4q "Los cupcakes le hablan directamente a mi estómago creativo."
 
 # game/script-exclusives-sayori.rpy:70
 translate spanish sayori_exclusive_1_a01fa8fe:
 
     # m 1l "..."
-    m 1l ""
+    m 1l "..."
 
 # game/script-exclusives-sayori.rpy:71
 translate spanish sayori_exclusive_1_f6310840:
 
     # m "Cupcakes it is, then."
-    m ""
+    m "Pues no se hable más: ¡iniciemos la operación cupcakes!"
 
 # game/script-exclusives-sayori.rpy:74
 translate spanish sayori_exclusive_1_38cfa41d:
 
     # s 1g "I'm hungry..."
-    s 1g ""
+    s 1g "Tengo hambre..."
 
 # game/script-exclusives-sayori.rpy:77
 translate spanish sayori_exclusive_1_bd7ee0bf:
 
     # m 1a "Anyway, we still need to work out the details of the event itself..."
-    m 1a ""
+    m 1a "En fin, aún tenemos que pulir los detalles del evento propiamente dicho."
 
 # game/script-exclusives-sayori.rpy:80
 translate spanish sayori_exclusive_1_383b3fe0:
 
     # "I find myself smiling."
-    ""
+    "Cuando me doy cuenta, estoy sonriendo."
 
 # game/script-exclusives-sayori.rpy:81
 translate spanish sayori_exclusive_1_62cb7948:
 
     # "In the end, Sayori is still her usual self."
-    ""
+    "En el fondo, Sayori sigue siendo la misma de siempre."
 
 # game/script-exclusives-sayori.rpy:82
 translate spanish sayori_exclusive_1_467d437c:
 
     # "But therein lies the unexpected reason I admire her."
-    ""
+    "Supongo que ahí radica un motivo inesperado por el que la admiro."
 
 # game/script-exclusives-sayori.rpy:83
 translate spanish sayori_exclusive_1_43defa01:
 
     # "Unlike me, who has trouble finding any motivation at all..."
-    ""
+    "A diferencia de mí, que me cuesta encontrar motivaciones en esta vida..."
 
 # game/script-exclusives-sayori.rpy:84
 translate spanish sayori_exclusive_1_756297ea:
 
     # "Sayori can put her mind to things and make them come to life."
-    ""
+    "Sayori tiene la capacidad de centrarse mucho en una cosa y lograr que cobre vida."
 
 # game/script-exclusives-sayori.rpy:85
 translate spanish sayori_exclusive_1_4e902aa7:
 
     # "I suppose that's why I end up letting her get on my case about things."
-    ""
+    "Supongo que por eso acabo aceptando siempre sus críticas."
 
 # game/script-exclusives-sayori.rpy:86
 translate spanish sayori_exclusive_1_1c49757d:
 
     # "I can't help but wonder what it would be like to see the world through her eyes..."
-    ""
+    "No puedo evitar preguntarme cómo será ver el mundo a través de sus ojos..."
 
 # game/script-exclusives-sayori.rpy:90
 translate spanish sayori_exclusive_1_54a76a80:
 
     # mc "Uwaa--!"
-    mc ""
+    mc "¡Uaaaa!..."
 
 # game/script-exclusives-sayori.rpy:91
 translate spanish sayori_exclusive_1_023cfb54:
 
     # "I open my eyes to find Sayori's face filling my vision."
-    ""
+    "En cuanto abro los ojos, me encuentro la cara de Sayori en primer plano."
 
 # game/script-exclusives-sayori.rpy:92
 translate spanish sayori_exclusive_1_23680e41:
 
     # "I nearly fall out of my chair."
-    ""
+    "Casi me caigo de la silla del susto."
 
 # game/script-exclusives-sayori.rpy:94
 translate spanish sayori_exclusive_1_e69f2726:
 
     # s 4q "Ehehe, sorry~"
-    s 4q ""
+    s 4q "Je, je, je. Lo sientooo..."
 
 # game/script-exclusives-sayori.rpy:95
 translate spanish sayori_exclusive_1_02f1b11d:
 
     # s 4i "Wait!"
-    s 4i ""
+    s 4i "¡Espera!"
 
 # game/script-exclusives-sayori.rpy:96
 translate spanish sayori_exclusive_1_62d4f5b3:
 
     # s 1j "Actually, I'm not sorry at all!"
-    s 1j ""
+    s 1j "¡En realidad, no lo siento en absoluto!"
 
 # game/script-exclusives-sayori.rpy:97
 translate spanish sayori_exclusive_1_c56a577b:
 
     # s "It's your fault for sleeping like that!"
-    s ""
+    s "¡La culpa es tuya, por quedarte dormido!"
 
 # game/script-exclusives-sayori.rpy:98
 translate spanish sayori_exclusive_1_dcb0fc40:
 
     # s "This isn't the napping club!"
-    s ""
+    s "¡Que esto no es el club de la siesta!"
 
 # game/script-exclusives-sayori.rpy:99
 translate spanish sayori_exclusive_1_7d7d37ba:
 
     # mc "Does our school have a napping club...?"
-    mc ""
+    mc "¿Hay un club de la siesta en nuestro colegio?"
 
 # game/script-exclusives-sayori.rpy:100
 translate spanish sayori_exclusive_1_4b3db410:
 
     # s 1h "You're staying up late again, aren't you?"
-    s 1h ""
+    s 1h "Ya te has vuelto a acostar tarde, ¿no?"
 
 # game/script-exclusives-sayori.rpy:101
 translate spanish sayori_exclusive_1_1d7ac73a:
 
     # s "Now that you're in a club, you're gonna have less time for anime, you know!"
-    s ""
+    s "Ahora que estás en un club, vas a tener menos tiempo para el anime, ¿sabes?"
 
 # game/script-exclusives-sayori.rpy:102
 translate spanish sayori_exclusive_1_5214e4eb:
 
     # s "You'll need to get used to it!"
-    s ""
+    s "¡Tienes que irte acostumbrando a ello!"
 
 # game/script-exclusives-sayori.rpy:103
 translate spanish sayori_exclusive_1_1eee5de8:
 
     # mc "Don't say that so loud...!"
-    mc ""
+    mc "¡No lo digas tan alto!"
 
 # game/script-exclusives-sayori.rpy:104
 translate spanish sayori_exclusive_1_18e51069:
 
     # "I glance over my shoulder to see if Monika overheard."
-    ""
+    "Miro por encima del hombro para comprobar si Monika lo ha oído."
 
 # game/script-exclusives-sayori.rpy:105
 translate spanish sayori_exclusive_1_f99f8ce0:
 
     # s 1g "It's true, though..."
-    s 1g ""
+    s 1g "Aunque es cierto..."
 
 # game/script-exclusives-sayori.rpy:106
 translate spanish sayori_exclusive_1_69c25b65:
 
     # mc "Yeah..."
-    mc ""
+    mc "Sí..."
 
 # game/script-exclusives-sayori.rpy:107
 translate spanish sayori_exclusive_1_6f1767e0:
 
     # mc "I know, I know."
-    mc ""
+    mc "Lo sé, lo sé."
 
 # game/script-exclusives-sayori.rpy:108
 translate spanish sayori_exclusive_1_c99f2adc:
 
     # mc "You're always looking out for me, Sayori."
-    mc ""
+    mc "Siempre cuidas un montón de mí, Sayori."
 
 # game/script-exclusives-sayori.rpy:109
 translate spanish sayori_exclusive_1_e688cc67:
 
     # s 4q "Ehehe~"
-    s 4q ""
+    s 4q "Je, je, je."
 
 # game/script-exclusives-sayori.rpy:110
 translate spanish sayori_exclusive_1_f3388382:
 
     # s "It's what I do best!"
-    s ""
+    s "¡Es lo que mejor se me da!"
 
 # game/script-exclusives-sayori.rpy:111
 translate spanish sayori_exclusive_1_8ac2b061:
 
     # mc "...That's a problem!"
-    mc ""
+    mc "Eso es un problema."
 
 # game/script-exclusives-sayori.rpy:112
 translate spanish sayori_exclusive_1_4db03926:
 
     # mc "What about you?"
-    mc ""
+    mc "¿Y qué hay de ti?"
 
 # game/script-exclusives-sayori.rpy:113
 translate spanish sayori_exclusive_1_3e38066e:
 
     # mc "You look out for me better than you look out for yourself."
-    mc ""
+    mc "Cuidas mejor de mí de lo que cuidas de ti misma."
 
 # game/script-exclusives-sayori.rpy:114
 translate spanish sayori_exclusive_1_7f241ab9:
 
     # mc "You're still oversleeping every day, aren't you?"
-    mc ""
+    mc "Te sigues quedando dormida todas las mañanas, ¿no?"
 
 # game/script-exclusives-sayori.rpy:115
 translate spanish sayori_exclusive_1_4512d6c1:
 
     # s 1l "Eh?"
-    s 1l ""
+    s 1l "¿Eh?"
 
 # game/script-exclusives-sayori.rpy:116
 translate spanish sayori_exclusive_1_6a695de0:
 
     # s "N-Not every day!"
-    s ""
+    s "¡N-No todas las mañanas!"
 
 # game/script-exclusives-sayori.rpy:117
 translate spanish sayori_exclusive_1_60d030b6:
 
     # mc "That's not very convincing..."
-    mc ""
+    mc "No me pareces muy convincente..."
 
 # game/script-exclusives-sayori.rpy:118
 translate spanish sayori_exclusive_1_8f1c24ad:
 
     # mc "How many days this past week have you gotten up on time?"
-    mc ""
+    mc "En la última semana, ¿cuántos días te has levantado a la hora?"
 
 # game/script-exclusives-sayori.rpy:119
 translate spanish sayori_exclusive_1_30451397:
 
     # s 1m "That's..."
-    s 1m ""
+    s 1m "Pues..."
 
 # game/script-exclusives-sayori.rpy:120
 translate spanish sayori_exclusive_1_a5d16478:
 
     # s 1o "...It's a secret!"
-    s 1o ""
+    s 1o "¡es un secreto!"
 
 # game/script-exclusives-sayori.rpy:121
 translate spanish sayori_exclusive_1_8c3318a5:
 
     # mc "I knew it..."
-    mc ""
+    mc "Lo sabía..."
 
 # game/script-exclusives-sayori.rpy:122
 translate spanish sayori_exclusive_1_8793bcb9:
 
     # s 5a "C'monnnn!"
-    s 5a ""
+    s 5a "¡Veeenga!"
 
 # game/script-exclusives-sayori.rpy:123
 translate spanish sayori_exclusive_1_6803c906:
 
     # s "At least give me the benefit of the doubt..."
-    s ""
+    s "Concédeme al menos el beneficio de la duda..."
 
 # game/script-exclusives-sayori.rpy:124
 translate spanish sayori_exclusive_1_d086a905:
 
     # mc "I can't even do that."
-    mc ""
+    mc "No soy capaz."
 
 # game/script-exclusives-sayori.rpy:125
 translate spanish sayori_exclusive_1_1fb2352a:
 
     # mc "Look, Sayori, it's written all over you."
-    mc ""
+    mc "Sayori, lo tienes escrito en la cara, la verdad."
 
 # game/script-exclusives-sayori.rpy:126
 translate spanish sayori_exclusive_1_2e7893cd:
 
     # s 1b "Eh...?"
-    s 1b ""
+    s 1b "¿Eh?"
 
 # game/script-exclusives-sayori.rpy:127
 translate spanish sayori_exclusive_1_c3e7bdce:
 
     # "Sayori glances around at herself."
-    ""
+    "Sayori empieza a mirarse por todas partes."
 
 # game/script-exclusives-sayori.rpy:128
 translate spanish sayori_exclusive_1_e032ee06:
 
     # s "How is it written all over me?"
-    s ""
+    s "¿Cómo que lo tengo escrito? ¿Dónde?"
 
 # game/script-exclusives-sayori.rpy:129
 translate spanish sayori_exclusive_1_85ddd496:
 
     # mc "You were clearly in a rush this morning..."
-    mc ""
+    mc "Es evidente que esta mañana te has levantado con prisas..."
 
 # game/script-exclusives-sayori.rpy:130
 translate spanish sayori_exclusive_1_442e54ad:
 
     # mc "Look, your hair is sticking out all around here."
-    mc ""
+    mc "Fíjate, aquí tienes un mechón de pelo sin peinar."
 
 # game/script-exclusives-sayori.rpy:132
 translate spanish sayori_exclusive_1_f57f6de7:
 
     # s 1e "Ah--"
-    s 1e ""
+    s 1e "Ah..."
 
 # game/script-exclusives-sayori.rpy:133
 translate spanish sayori_exclusive_1_8bb7c20a:
 
     # "I run my fingertips down the side of Sayori's hair, trying to straighten it out."
-    ""
+    "Estiro la mano para intentar alisarle el pelo a Sayori con los dedos."
 
 # game/script-exclusives-sayori.rpy:134
 translate spanish sayori_exclusive_1_71887ffc:
 
     # mc "Man, you really need a brush for this..."
-    mc ""
+    mc "Uf, va a hacer falta un peine para arreglar esto..."
 
 # game/script-exclusives-sayori.rpy:135
 translate spanish sayori_exclusive_1_d61f01c7:
 
     # s 1y "My hair is just really hard to get right..."
-    s 1y ""
+    s 1y "Eso es porque tengo un pelo muy difícil de domar..."
 
 # game/script-exclusives-sayori.rpy:136
 translate spanish sayori_exclusive_1_c375aed4:
 
     # mc "I won't fall for that."
-    mc ""
+    mc "No cuela."
 
 # game/script-exclusives-sayori.rpy:137
 translate spanish sayori_exclusive_1_6eed6851:
 
     # mc "There's more than just your hair."
-    mc ""
+    mc "Además, el pelo no es lo único."
 
 # game/script-exclusives-sayori.rpy:138
 translate spanish sayori_exclusive_1_1c664c25:
 
     # mc "Look, your bow isn't straight, either."
-    mc ""
+    mc "Fíjate, tampoco tienes el lazo recto."
 
 # game/script-exclusives-sayori.rpy:139
 translate spanish sayori_exclusive_1_f67e2522:
 
     # mc "And there's a toothpaste stain on your collar right here."
-    mc ""
+    mc "Y aquí tienes una mancha de pasta de dientes en el cuello de la camisa."
 
 # game/script-exclusives-sayori.rpy:140
 translate spanish sayori_exclusive_1_d975f34f:
 
     # "I try to wipe off the stain with my finger."
-    ""
+    "Intento limpiarle la mancha con el dedo."
 
 # game/script-exclusives-sayori.rpy:142
 translate spanish sayori_exclusive_1_4c981d96:
 
     # s "B-But nobody would ever notice that..."
-    s ""
+    s "P-Pero nadie se fija en esas cosas..."
 
 # game/script-exclusives-sayori.rpy:143
 translate spanish sayori_exclusive_1_c21e6c0b:
 
     # mc "Of course they would."
-    mc ""
+    mc "Claro que se fijan."
 
 # game/script-exclusives-sayori.rpy:144
 translate spanish sayori_exclusive_1_6bbbe8c8:
 
     # mc "Nobody's gonna tell you about it because they don't want to embarrass you."
-    mc ""
+    mc "Otra cosa es que no te lo digan porque no quieren avergonzarte."
 
 # game/script-exclusives-sayori.rpy:145
 translate spanish sayori_exclusive_1_b1102581:
 
     # mc "Fortunately, I really don't care about that."
-    mc ""
+    mc "Por suerte, a mí eso me da bastante igual."
 
 # game/script-exclusives-sayori.rpy:146
 translate spanish sayori_exclusive_1_6b261d64:
 
     # s 5c "Hey, you meanie..."
-    s 5c ""
+    s 5c "¡Eh! No seas borde..."
 
 # game/script-exclusives-sayori.rpy:147
 translate spanish sayori_exclusive_1_9d2ccf73:
 
     # mc "And you don't even keep your blazer buttoned up."
-    mc ""
+    mc "Ni siquiera tienes la chaqueta bien abotonada."
 
 # game/script-exclusives-sayori.rpy:148
 translate spanish sayori_exclusive_1_7088cb16:
 
     # mc "Seriously, Sayori..."
-    mc ""
+    mc "En serio, Sayori..."
 
 # game/script-exclusives-sayori.rpy:149
 translate spanish sayori_exclusive_1_c3daf6f0:
 
     # mc "Why do you think you don't have a boyfriend yet?"
-    mc ""
+    mc "¿Por qué crees que aún no te has echado novio?"
 
 # game/script-exclusives-sayori.rpy:151
 translate spanish sayori_exclusive_1_3cd77e3d:
 
     # s "Eh??"
-    s ""
+    s "¿¿Eh??"
 
 # game/script-exclusives-sayori.rpy:152
 translate spanish sayori_exclusive_1_66638312:
 
     # s "That's {i}super{/i} mean!"
-    s ""
+    s "¡Ahí te has pasado mogollón!"
 
 # game/script-exclusives-sayori.rpy:153
 translate spanish sayori_exclusive_1_0bd0c01c:
 
     # mc "Sorry, but you'll thank me later..."
-    mc ""
+    mc "Lo siento, pero ya me lo agradecerás luego..."
 
 # game/script-exclusives-sayori.rpy:154
 translate spanish sayori_exclusive_1_192cdae5:
 
     # "I start to button her blazer from the bottom."
-    ""
+    "Empiezo a abotonarle la chaqueta desde abajo."
 
 # game/script-exclusives-sayori.rpy:155
 translate spanish sayori_exclusive_1_b05e7ba0:
 
     # mc "Once you see how much better it looks, you'll change your mind."
-    mc ""
+    mc "Te aseguro que cambiarás de idea en cuanto veas cómo mejoras."
 
 # game/script-exclusives-sayori.rpy:160
 translate spanish sayori_exclusive_1_c98e38ed:
 
     # s "Ehehe~"
-    s ""
+    s "Je, je, je."
 
 # game/script-exclusives-sayori.rpy:161
 translate spanish sayori_exclusive_1_e508380c:
 
     # s "This is so funny."
-    s ""
+    s "Qué divertido."
 
 # game/script-exclusives-sayori.rpy:162
 translate spanish sayori_exclusive_1_e4068727:
 
     # mc "What is?"
-    mc ""
+    mc "¿El qué?"
 
 # game/script-exclusives-sayori.rpy:163
 translate spanish sayori_exclusive_1_93f8ec4b:
 
     # s "Well..."
-    s ""
+    s "Bueno..."
 
 # game/script-exclusives-sayori.rpy:164
 translate spanish sayori_exclusive_1_b37f6e0a:
 
     # s "I was just thinking how weird it is to have a friend who does these kinds of things."
-    s ""
+    s "Estaba pensando en lo raro que se me hace tener a un amigo que haga esta clase de cosas."
 
 # game/script-exclusives-sayori.rpy:165
 translate spanish sayori_exclusive_1_fb2e5377:
 
     # mc "Eh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/script-exclusives-sayori.rpy:166
 translate spanish sayori_exclusive_1_c981a875:
 
     # mc "D-Don't say that!"
-    mc ""
+    mc "¡N-No digas eso!"
 
 # game/script-exclusives-sayori.rpy:167
 translate spanish sayori_exclusive_1_c38e4c0d:
 
     # mc "You'll make {i}me{/i} feel weird about it, stupid..."
-    mc ""
+    mc "Vas a conseguir que se me haga muy raro todo, so idiota..."
 
 # game/script-exclusives-sayori.rpy:168
 translate spanish sayori_exclusive_1_1d44c08f:
 
     # s "It's okay, though."
-    s ""
+    s "Pero, bueno, no pasa nada."
 
 # game/script-exclusives-sayori.rpy:169
 translate spanish sayori_exclusive_1_630495a9:
 
     # s "I'm happy we're like this."
-    s ""
+    s "Me alegra mucho que estemos así."
 
 # game/script-exclusives-sayori.rpy:170
 translate spanish sayori_exclusive_1_74ba5981:
 
     # s "Aren't you?"
-    s ""
+    s "¿A ti no?"
 
 # game/script-exclusives-sayori.rpy:171
 translate spanish sayori_exclusive_1_f9d65918:
 
     # mc "Ah--"
-    mc ""
+    mc "Ah..."
 
 # game/script-exclusives-sayori.rpy:172
 translate spanish sayori_exclusive_1_3a09390a:
 
     # mc "I-I guess..."
-    mc ""
+    mc "S-Supongo..."
 
 # game/script-exclusives-sayori.rpy:173
 translate spanish sayori_exclusive_1_56a12c3e:
 
     # s "Hey, be careful..."
-    s ""
+    s "Eh, ten cuidado..."
 
 # game/script-exclusives-sayori.rpy:174
 translate spanish sayori_exclusive_1_a11bc557:
 
     # s "The button might come off!"
-    s ""
+    s "¡Que me vas a arrancar el botón!"
 
 # game/script-exclusives-sayori.rpy:175
 translate spanish sayori_exclusive_1_1a327ede:
 
     # mc "Why is this one so hard to close...?"
-    mc ""
+    mc "¿Por qué cuesta tanto cerrar este?"
 
 # game/script-exclusives-sayori.rpy:176
 translate spanish sayori_exclusive_1_6ffc432e:
 
     # "I struggle to fully close the button near her chest."
-    ""
+    "Intento, con bastante dificultad, cerrar el botón cerca de su pecho."
 
 # game/script-exclusives-sayori.rpy:177
 translate spanish sayori_exclusive_1_16e1e85b:
 
     # mc "Does this thing even fit you properly?"
-    mc ""
+    mc "Pero ¿este chisme encaja o qué?"
 
 # game/script-exclusives-sayori.rpy:178
 translate spanish sayori_exclusive_1_c98e38ed_1:
 
     # s "Ehehe~"
-    s ""
+    s "Je, je, je."
 
 # game/script-exclusives-sayori.rpy:179
 translate spanish sayori_exclusive_1_956085d7:
 
     # s "It did when I bought it."
-    s ""
+    s "Encajaba de maravilla cuando la compré."
 
 # game/script-exclusives-sayori.rpy:180
 translate spanish sayori_exclusive_1_0a69f768:
 
     # mc "Sigh..."
-    mc ""
+    mc "Ay..."
 
 # game/script-exclusives-sayori.rpy:181
 translate spanish sayori_exclusive_1_ddaf00ce:
 
     # mc "If you ever buttoned it, you would have noticed sooner that it doesn't fit you anymore."
-    mc ""
+    mc "Pues si en el pasado pudiste abotonarlo, tendrías que haberte dado cuenta antes de que ya no te sirve."
 
 # game/script-exclusives-sayori.rpy:182
 translate spanish sayori_exclusive_1_4f1389df:
 
     # mc "What are you smiling about?"
-    mc ""
+    mc "¿Por qué sonríes?"
 
 # game/script-exclusives-sayori.rpy:183
 translate spanish sayori_exclusive_1_7c1d17ee:
 
     # s "It means my boobs got bigger again!"
-    s ""
+    s "¡Porque eso significa que me han vuelto a crecer las tetas!"
 
 # game/script-exclusives-sayori.rpy:184
 translate spanish sayori_exclusive_1_dbe188cc:
 
     # mc "D-Don't say that out loud!!"
-    mc ""
+    mc "¡N-No digas eso en alto!"
 
 # game/script-exclusives-sayori.rpy:185
 translate spanish sayori_exclusive_1_c98e38ed_2:
 
     # s "Ehehe~"
-    s ""
+    s "Je, je, je."
 
 # game/script-exclusives-sayori.rpy:186
 translate spanish sayori_exclusive_1_7e00e9ab:
 
     # mc "Anyway..."
-    mc ""
+    mc "En fin..."
 
 # game/script-exclusives-sayori.rpy:187
 translate spanish sayori_exclusive_1_e8dff0de:
 
     # mc "You look much better now, so..."
-    mc ""
+    mc "Ahora estás mucho mejor, así que..."
 
 # game/script-exclusives-sayori.rpy:188
 translate spanish sayori_exclusive_1_93deaf69:
 
     # mc "Ah..."
-    mc ""
+    mc "Ah..."
 
 # game/script-exclusives-sayori.rpy:189
 translate spanish sayori_exclusive_1_8a634766:
 
     # "...Why does it feel strange to see Sayori's blazer buttoned up like that?"
-    ""
+    "¿Por qué se me hace tan raro ver a Sayori con la chaqueta abotonada?"
 
 # game/script-exclusives-sayori.rpy:190
 translate spanish sayori_exclusive_1_b1aa4bc1:
 
     # s "But it's so stuffy..."
-    s ""
+    s "Uf, cómo aprieta..."
 
 # game/script-exclusives-sayori.rpy:191
 translate spanish sayori_exclusive_1_20d2fea2:
 
     # s "Uuu..."
-    s ""
+    s "Uuuh..."
 
 # game/script-exclusives-sayori.rpy:192
 translate spanish sayori_exclusive_1_08daea23:
 
     # s "It's not worth it at all!"
-    s ""
+    s "¡No merece la pena para nada!"
 
 # game/script-exclusives-sayori.rpy:193
 translate spanish sayori_exclusive_1_dae903cd:
 
     # "Sayori hastily unbuttons her blazer once more."
-    ""
+    "Sayori se vuelve a desabrochar la chaqueta con rapidez."
 
 # game/script-exclusives-sayori.rpy:197
 translate spanish sayori_exclusive_1_1272fd90:
 
     # s "Phew!"
-    s ""
+    s "¡Uf!"
 
 # game/script-exclusives-sayori.rpy:198
 translate spanish sayori_exclusive_1_f1a38fad:
 
     # s "That's so much better~"
-    s ""
+    s "Esto ya es otra cosa..."
 
 # game/script-exclusives-sayori.rpy:199
 translate spanish sayori_exclusive_1_16f5bea5:
 
     # "Sayori puts her arms out and twirls around."
-    ""
+    "Sayori extiende los brazos y se revuelve."
 
 # game/script-exclusives-sayori.rpy:200
 translate spanish sayori_exclusive_1_83fa40f8:
 
     # s 1a "So if I keep it unbuttoned then I won't get a boyfriend, right?"
-    s 1a ""
+    s 1a "Entonces, ¿dices que si no me la abotono, no conseguiré novio nunca?"
 
 # game/script-exclusives-sayori.rpy:201
 translate spanish sayori_exclusive_1_a4c5b234:
 
     # mc "What kind of logic is that?"
-    mc ""
+    mc "¿Qué clase de lógica es esa?"
 
 # game/script-exclusives-sayori.rpy:202
 translate spanish sayori_exclusive_1_1679f655:
 
     # mc "And why are you saying that like it's a good thing?"
-    mc ""
+    mc "¿Y por qué dices eso como si fuese algo positivo?"
 
 # game/script-exclusives-sayori.rpy:203
 translate spanish sayori_exclusive_1_c8a163c1:
 
     # s "Because..."
-    s ""
+    s "Porque..."
 
 # game/script-exclusives-sayori.rpy:204
 translate spanish sayori_exclusive_1_44265465:
 
     # s 4h "...If I had a boyfriend, then he wouldn't even let you do things like this!"
-    s 4h ""
+    s 4h "¡Si tuviese novio, seguro que no te permitiría hacer cosas como esta!"
 
 # game/script-exclusives-sayori.rpy:205
 translate spanish sayori_exclusive_1_14d1b661:
 
     # s 4y "And you take care of me better than anyone else would, anyway..."
-    s 4y ""
+    s 4y "Además, tú cuidas de mí mucho mejor de lo que lo haría cualquier otra persona..."
 
 # game/script-exclusives-sayori.rpy:206
 translate spanish sayori_exclusive_1_25daa4ab:
 
     # s "So that's why I'm keeping it unbuttoned!"
-    s ""
+    s "¡Y por todo ello, pienso dejarla sin abotonar!"
 
 # game/script-exclusives-sayori.rpy:207
 translate spanish sayori_exclusive_1_e9b09b46:
 
     # mc "Stop saying all these embarrassing things!"
-    mc ""
+    mc "¡Deja de decir esas cosas tan vergonzosas!"
 
 # game/script-exclusives-sayori.rpy:208
 translate spanish sayori_exclusive_1_1a235903:
 
     # s 1b "Eh?"
-    s 1b ""
+    s 1b "¿Eh?"
 
 # game/script-exclusives-sayori.rpy:209
 translate spanish sayori_exclusive_1_bbfc9766:
 
     # s "I didn't say anything embarrassing..."
-    s ""
+    s "No he dicho absolutamente nada vergonzoso."
 
 # game/script-exclusives-sayori.rpy:210
 translate spanish sayori_exclusive_1_9098da49:
 
     # mc "Jeez..."
-    mc ""
+    mc "Buf..."
 
 # game/script-exclusives-sayori.rpy:211
 translate spanish sayori_exclusive_1_118d63e5:
 
     # mc "Well anyway, just focus on trying to wake up a little earlier..."
-    mc ""
+    mc "Bueno, tanto da. Tú limítate a intentar levantarte un poquito antes..."
 
 # game/script-exclusives-sayori.rpy:212
 translate spanish sayori_exclusive_1_e94e689d:
 
     # s 1j "Only if you focus on going to bed earlier!"
-    s 1j ""
+    s 1j "¡Solo si tú intentas acostarte antes!"
 
 # game/script-exclusives-sayori.rpy:213
 translate spanish sayori_exclusive_1_e65657c9:
 
     # mc "Fine, fine..."
-    mc ""
+    mc "Vale, vale..."
 
 # game/script-exclusives-sayori.rpy:214
 translate spanish sayori_exclusive_1_e4338661:
 
     # mc "It's a deal."
-    mc ""
+    mc "Tenemos un trato, pues."
 
 # game/script-exclusives-sayori.rpy:215
 translate spanish sayori_exclusive_1_e688cc67_1:
 
     # s 4q "Ehehe~"
-    s 4q ""
+    s 4q "Je, je, je."
 
 # game/script-exclusives-sayori.rpy:216
 translate spanish sayori_exclusive_1_f12eef29:
 
     # s 4x "I guess we really are better at taking care of each other than we are at taking care of ourselves."
-    s 4x ""
+    s 4x "Supongo que es cierto eso de que se nos da mejor cuidar uno del otro que cuidar de nosotros mismos."
 
 # game/script-exclusives-sayori.rpy:217
 translate spanish sayori_exclusive_1_760566c8:
 
     # mc "Yeah, I guess so, huh..."
-    mc ""
+    mc "Sí, supongo que sí..."
 
 # game/script-exclusives-sayori.rpy:218
 translate spanish sayori_exclusive_1_9ce18680:
 
     # s 4y "So maybe you should come wake me up in the morning!"
-    s 4y ""
+    s 4y "Y digo yo, ¿por qué no vienes a despertarme por la mañana?"
 
 # game/script-exclusives-sayori.rpy:219
 translate spanish sayori_exclusive_1_3523f30e:
 
     # mc "You're doing it again, Sayori..."
-    mc ""
+    mc "Ya lo estás volviendo a hacer, Sayori..."
 
 # game/script-exclusives-sayori.rpy:220
 translate spanish sayori_exclusive_1_8d0c9209:
 
     # s 1h "Aw, but I was joking that time!"
-    s 1h ""
+    s 1h "Jo, ¡para una vez que lo decía de broma!..."
 
 # game/script-exclusives-sayori.rpy:221
 translate spanish sayori_exclusive_1_bd8edec3:
 
     # mc "Man, it's impossible to tell with you sometimes."
-    mc ""
+    mc "Yo qué sé. Contigo es imposible determinar de qué palo vas."
 
 # game/script-exclusives-sayori.rpy:223
 translate spanish sayori_exclusive_1_90de9c4d:
 
     # m "Okay, everyone!"
-    m ""
+    m "¡Vale, compis!"
 
 # game/script-exclusives-sayori.rpy:224
 translate spanish sayori_exclusive_1_fb2e5377_1:
 
     # mc "Eh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/script-exclusives-sayori.rpy:225
 translate spanish sayori_exclusive_1_f9710377:
 
     # "Monika suddenly calls out."
-    ""
+    "Monika nos llama a todos de repente."
 
 # game/script-exclusives-sayori.rpy:226
 translate spanish sayori_exclusive_1_9fb616df:
 
     # m "Why don't we share the poems we wrote now?"
-    m ""
+    m "¿Por qué no compartimos los poemas que hemos escrito?"
 
 # game/script-exclusives-sayori.rpy:228
 translate spanish sayori_exclusive_1_3f5fc96c:
 
     # s "Yay~!"
-    s ""
+    s "¡Bieeen!"
 
 # game/script-exclusives-sayori.rpy:229
 translate spanish sayori_exclusive_1_d44f1914:
 
     # s 4x "[player], I can't wait to read yours!"
-    s 4x ""
+    s 4x "¡[player], estoy deseando leer el tuyo!"
 
 # game/script-exclusives-sayori.rpy:230
 translate spanish sayori_exclusive_1_ae6b61bd:
 
     # mc "Yeah, same..."
-    mc ""
+    mc "Sí, lo mismo digo..."
 
 # game/script-exclusives-sayori.rpy:231
 translate spanish sayori_exclusive_1_def52e15:
 
     # "I fail to sound enthusiastic, but Sayori still trots away to retrieve her poem."
-    ""
+    "No consigo transmitir mucho entusiasmo, pero, aun así, Sayori se va dando saltitos a por su poema."
 
 # game/script-exclusives-sayori.rpy:242
 translate spanish sayori_exclusive_2_4ea6d987:
