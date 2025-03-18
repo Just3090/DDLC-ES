@@ -520,13 +520,13 @@ translate spanish ch1_main_a3b175bf:
 translate spanish ch1_main_7354e005:
 
     # "Natsuki and Yuri reluctantly comply as well, reaching into their bags."
-    ""
+    "Natsuki y Yuri obedecen a regañadientes y meten la mano en sus bolsas."
 
 # game/script-ch1.rpy:157
 translate spanish ch1_main_5bc5f049:
 
     # "I do the same, myself."
-    ""
+    "Yo hago lo mismo."
 
 # game/script-ch1.rpy:167
 translate spanish ch1_end_d91458f0:
