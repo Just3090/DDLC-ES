@@ -1660,7 +1660,7 @@ translate spanish ch22_y_good_shared_a4fb38a3:
 translate spanish ch22_y_good_shared_c60c5441:
 
     # y "[player]..."
-    y ""
+    y "[player]..."
 
 # game/script-poemresponses2.rpy:520
 translate spanish ch22_y_good_shared_4e94ed3b:
@@ -2608,5 +2608,5 @@ translate spanish strings:
 
     # game/script-poemresponses2.rpy:179
     old "Just Monika."
-    new ""
+    new "Solo Monika."
 
