@@ -1480,7 +1480,7 @@ translate spanish ch0_main_7aac067b:
 translate spanish ch0_main_98c7c1c1:
 
     # n 5q "Never mind."
-    n 5q "´Da igual."
+    n 5q "Da igual."
 
 # game/script-ch0.rpy:400
 translate spanish ch0_main_5d936510:
