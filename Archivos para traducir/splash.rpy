@@ -10,7 +10,7 @@ translate spanish splashscreen_f490803a:
 translate spanish splashscreen_365de68f:
 
     # "This game is not suitable for children or those who are easily disturbed."
-    "Este juego no está recomendado para niños o para personas fácilmente impresionables."
+    "Este juego no es adecuado para niños ni personas sensibles o impresionables."
 
 # game/splash.rpy:322
 translate spanish splashscreen_b895d9b1:
@@ -22,7 +22,7 @@ translate spanish splashscreen_b895d9b1:
 translate spanish after_load_78a4e9dc:
 
     # "The save file could not be loaded."
-    "La partida guardada no pued ser cargada."
+    "El archivo de guardado no se puede cargar."
 
 # game/splash.rpy:556
 translate spanish after_load_5c5510ae:
