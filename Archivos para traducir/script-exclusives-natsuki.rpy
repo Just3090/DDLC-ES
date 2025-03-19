@@ -268,1117 +268,1117 @@ translate spanish natsuki_exclusive_1_ea5a5f1b:
 translate spanish natsuki_exclusive_1_e3a67a99:
 
     # "It features four girls in colorful attire striking animated feminine poses."
-    ""
+    "En ella, se puede ver a cuatro chicas con atuendos muy coloridos y unas poses tan femeninas como llamativas."
 
 # game/script-exclusives-natsuki.rpy:53
 translate spanish natsuki_exclusive_1_d546682a:
 
     # "It's...exceedingly \"moe\"."
-    ""
+    "El nivel de \"moe\" se sale de la escala..."
 
 # game/script-exclusives-natsuki.rpy:54
 translate spanish natsuki_exclusive_1_2530be57:
 
     # n 4b "Don't just stand there!"
-    n 4b ""
+    n 4b "¡No te quedes ahí!"
 
 # game/script-exclusives-natsuki.rpy:55
 translate spanish natsuki_exclusive_1_f0b857d1:
 
     # mc "Uwa--"
-    mc ""
+    mc "Au..."
 
 # game/script-exclusives-natsuki.rpy:58
 translate spanish natsuki_exclusive_1_7bb26e7b:
 
     # "Natsuki grabs my arm and pulls me out of the closet."
-    ""
+    "Natsuki me agarra del brazo y me saca del armario."
 
 # game/script-exclusives-natsuki.rpy:59
 translate spanish natsuki_exclusive_1_dd24a43a:
 
     # "She then takes a seat against the wall, beneath the windowsills."
-    ""
+    "Luego, se apoya contra la pared bajo el alféizar de las ventanas."
 
 # game/script-exclusives-natsuki.rpy:60
 translate spanish natsuki_exclusive_1_257d9d09:
 
     # "She pats on the ground next to her, signaling me to sit there."
-    ""
+    "Da una palmadita en el suelo para indicarme que me siente junto a ella."
 
 # game/script-exclusives-natsuki.rpy:64
 translate spanish natsuki_exclusive_1_a388cb6c:
 
     # mc "Wouldn't chairs be more comfortable...?"
-    mc ""
+    mc "¿No sería más cómodo sentarse en unas sillas?"
 
 # game/script-exclusives-natsuki.rpy:65
 translate spanish natsuki_exclusive_1_6b32c532:
 
     # "I take my seat."
-    ""
+    "Me siento."
 
 # game/script-exclusives-natsuki.rpy:66
 translate spanish natsuki_exclusive_1_8664d124:
 
     # n 2k "Chairs wouldn't work."
-    n 2k ""
+    n 2k "Paso bastante de las sillas."
 
 # game/script-exclusives-natsuki.rpy:67
 translate spanish natsuki_exclusive_1_5e4bb5e8:
 
     # n "We can't read at the same time like that."
-    n ""
+    n "Es imposible leer al mismo tiempo estando cada uno en una silla."
 
 # game/script-exclusives-natsuki.rpy:68
 translate spanish natsuki_exclusive_1_635adbe8:
 
     # mc "Eh? Why's that?"
-    mc ""
+    mc "¿Eh? ¿Y eso por qué?"
 
 # game/script-exclusives-natsuki.rpy:69
 translate spanish natsuki_exclusive_1_b57e800b:
 
     # mc "Ah...I guess it's easier to be close together like this..."
-    mc ""
+    mc "Ah... Bueno, supongo que es más fácil si estamos así, bien cerquita..."
 
 # game/script-exclusives-natsuki.rpy:70
 translate spanish natsuki_exclusive_1_b8d9f096:
 
     # n 2o "--!"
-    n 2o ""
+    n 2o "¡...!"
 
 # game/script-exclusives-natsuki.rpy:71
 translate spanish natsuki_exclusive_1_b2178e0d:
 
     # n 5r "D-Don't just say that!"
-    n 5r ""
+    n 5r "¡N-No digas eso!"
 
 # game/script-exclusives-natsuki.rpy:72
 translate spanish natsuki_exclusive_1_0552d4c2:
 
     # n "You'll make me feel weird about it!"
-    n ""
+    n "¡Vas a conseguir que se me haga muy raro todo!"
 
 # game/script-exclusives-natsuki.rpy:73
 translate spanish natsuki_exclusive_1_8496ec88:
 
     # "Natsuki crosses her arms and scootches an inch away from me."
-    ""
+    "Natsuki se cruza de brazos y se aleja ligeramente de mí."
 
 # game/script-exclusives-natsuki.rpy:74
 translate spanish natsuki_exclusive_1_4bbe5891:
 
     # mc "Sorry..."
-    mc ""
+    mc "Perdona..."
 
 # game/script-exclusives-natsuki.rpy:76
 translate spanish natsuki_exclusive_1_1c753a2f:
 
     # "I didn't exactly expect to be sitting this close to her, either..."
-    ""
+    "No contaba con sentarme tan cerca de ella..."
 
 # game/script-exclusives-natsuki.rpy:77
 translate spanish natsuki_exclusive_1_980af971:
 
     # "Not that I can say it's a particularly bad thing."
-    ""
+    "Aunque tampoco es que tuviese mucha queja, la verdad."
 
 # game/script-exclusives-natsuki.rpy:78
 translate spanish natsuki_exclusive_1_dabf6e7e:
 
     # "I open the book."
-    ""
+    "Abro el tomo."
 
 # game/script-exclusives-natsuki.rpy:79
 translate spanish natsuki_exclusive_1_297d8d04:
 
     # "It's only a few seconds before Natsuki once again inches closer, reclaiming the additional space while she hopes I won't notice."
-    ""
+    "Apenas pasan unos segundos antes de que Natsuki se me vuelva a acercar. Reduce la distancia entre nosotros con la esperanza de que no me entere."
 
 # game/script-exclusives-natsuki.rpy:80
 translate spanish natsuki_exclusive_1_91c84663:
 
     # "I can feel her peering over my shoulder, much more eager to begin reading than I am."
-    ""
+    "Percibo cómo observa por encima de mi hombro. Tiene muchas más ganas de empezar a leer que yo."
 
 # game/script-exclusives-natsuki.rpy:81
 translate spanish natsuki_exclusive_1_e4b36a19:
 
     # n 1k "Wow, how long has it been since I read the beginning...?"
-    n 1k ""
+    n 1k "Vaya, hacía un montón de tiempo que no leía el principio."
 
 # game/script-exclusives-natsuki.rpy:82
 translate spanish natsuki_exclusive_1_582359ea:
 
     # mc "Hm?"
-    mc ""
+    mc "¿Mmm?"
 
 # game/script-exclusives-natsuki.rpy:83
 translate spanish natsuki_exclusive_1_855a6256:
 
     # mc "You don't go back and flip through the older volumes every now and then?"
-    mc ""
+    mc "¿Acaso no relees los tomos viejos cada cierto tiempo?"
 
 # game/script-exclusives-natsuki.rpy:84
 translate spanish natsuki_exclusive_1_94edd37c:
 
     # n 2k "Not really."
-    n 2k ""
+    n 2k "No te creas."
 
 # game/script-exclusives-natsuki.rpy:85
 translate spanish natsuki_exclusive_1_694aae97:
 
     # n "Maybe sometimes after I've already finished the series."
-    n ""
+    n "Si acaso, después de haber terminado toda la serie."
 
 # game/script-exclusives-natsuki.rpy:86
 translate spanish natsuki_exclusive_1_124c99bd:
 
     # n 2c "Hey, are you paying attention?"
-    n 2c ""
+    n 2c "Oye, ¿estás prestando atención?"
 
 # game/script-exclusives-natsuki.rpy:87
 translate spanish natsuki_exclusive_1_8114a09f:
 
     # mc "Uh..."
-    mc ""
+    mc "¿Uh?"
 
 # game/script-exclusives-natsuki.rpy:88
 translate spanish natsuki_exclusive_1_7073f2ea:
 
     # "I am, but nothing's really happened yet, so I can talk at the same time."
-    ""
+    "Sí, claro, pero aún no ha pasado nada. No pasa nada por hablar mientras tanto."
 
 # game/script-exclusives-natsuki.rpy:89
 translate spanish natsuki_exclusive_1_e0d85fbb:
 
     # "It looks like it's about a bunch of friends in high school."
-    ""
+    "Parece que va sobre un grupo de amigas en el instituto."
 
 # game/script-exclusives-natsuki.rpy:90
 translate spanish natsuki_exclusive_1_511a3baf:
 
     # "Typical slice-of-life affair."
-    ""
+    "La típica obra que gira en torno al día a día."
 
 # game/script-exclusives-natsuki.rpy:91
 translate spanish natsuki_exclusive_1_7c851bd7:
 
     # "I kind of grew out of these, since it's rare for the writing to be entertaining enough to make up for the lack of plot."
-    ""
+    "Acabé hartándome de esta clase de historias porque es muy raro que los diálogos sean lo bastante divertidos como para compensar la ausencia de guión."
 
 # game/script-exclusives-natsuki.rpy:92
 translate spanish natsuki_exclusive_1_cb70afb1:
 
     # mc "So..."
-    mc ""
+    mc "Pues..."
 
 # game/script-exclusives-natsuki.rpy:93
 translate spanish natsuki_exclusive_1_c786690e:
 
     # mc "What should I expect from this?"
-    mc ""
+    mc "¿Qué me debería esperar de esta obra?"
 
 # game/script-exclusives-natsuki.rpy:94
 translate spanish natsuki_exclusive_1_7d992dc5:
 
     # mc "Is there going to be plot?"
-    mc ""
+    mc "¿Va a haber guión?"
 
 # game/script-exclusives-natsuki.rpy:95
 translate spanish natsuki_exclusive_1_5a5ee160:
 
     # n 4w "Well, obviously!"
-    n 4w ""
+    n 4w "¡Pues claro!"
 
 # game/script-exclusives-natsuki.rpy:96
 translate spanish natsuki_exclusive_1_aca8733a:
 
     # n "You think I would enjoy something that didn't have a plot?"
-    n ""
+    n "¿Acaso tengo cara de disfrutar de cosas sin guión?"
 
 # game/script-exclusives-natsuki.rpy:97
 translate spanish natsuki_exclusive_1_5a541bbb:
 
     # n 4c "I mean..."
-    n 4c ""
+    n 4c "A ver..."
 
 # game/script-exclusives-natsuki.rpy:98
 translate spanish natsuki_exclusive_1_cf2adbdc:
 
     # n 2c "Well, I guess I know what you're saying..."
-    n 2c ""
+    n 2c "Bueno, supongo que entiendo a qué te refieres..."
 
 # game/script-exclusives-natsuki.rpy:99
 translate spanish natsuki_exclusive_1_c95412aa:
 
     # n 2k "A lot of the beginning is about simple things..."
-    n 2k ""
+    n 2k "Gran parte del principio gira en torno a cosas simples..."
 
 # game/script-exclusives-natsuki.rpy:100
 translate spanish natsuki_exclusive_1_44935a46:
 
     # n "Like there's a really funny chapter where they're obsessed with a guy at the ice cream shop..."
-    n ""
+    n "Por ejemplo, hay un capítulo muy divertido en el que se obsesionan con un tío en una heladería..."
 
 # game/script-exclusives-natsuki.rpy:101
 translate spanish natsuki_exclusive_1_70363d37:
 
     # n 2c "But that just helps you get to know the characters!"
-    n 2c ""
+    n 2c "¡Pero son esas pequeñas cosas las que te ayudan a conocer mejor a los personajes!"
 
 # game/script-exclusives-natsuki.rpy:102
 translate spanish natsuki_exclusive_1_9741f471:
 
     # n "And besides, it's still entertaining."
-    n ""
+    n "Y, bueno, es divertido pese a todo."
 
 # game/script-exclusives-natsuki.rpy:103
 translate spanish natsuki_exclusive_1_9155c87b:
 
     # n 2d "But later on, there's all kinds of drama..."
-    n 2d ""
+    n 2d "No obstante, según avanza la trama, la cosa se va volviendo más dramática y pasa de todo..."
 
 # game/script-exclusives-natsuki.rpy:104
 translate spanish natsuki_exclusive_1_57c42c04:
 
     # n "Like when they get into all their backstories, and when some of the romance starts to happen..."
-    n ""
+    n "Como cuando empiezan a ahondar en el pasado de todos los personajes, o cuando empiezan los romances..."
 
 # game/script-exclusives-natsuki.rpy:105
 translate spanish natsuki_exclusive_1_313721a5:
 
     # n "That's really what makes it so good."
-    n ""
+    n "Eso es lo que hace que mole tanto."
 
 # game/script-exclusives-natsuki.rpy:106
 translate spanish natsuki_exclusive_1_bff30210:
 
     # n 2a "There are so many touching parts."
-    n 2a ""
+    n 2a "Tiene muchísimos momentos muy emotivos."
 
 # game/script-exclusives-natsuki.rpy:107
 translate spanish natsuki_exclusive_1_2cc4aa9e:
 
     # mc "Ah, is that so?"
-    mc ""
+    mc "¿Ah, en serio?"
 
 # game/script-exclusives-natsuki.rpy:108
 translate spanish natsuki_exclusive_1_5be963ef:
 
     # mc "It sounds like you really know what you're talking about."
-    mc ""
+    mc "Parece que sabes de lo que hablas."
 
 # game/script-exclusives-natsuki.rpy:109
 translate spanish natsuki_exclusive_1_f6a90886:
 
     # mc "Maybe I underestimated you."
-    mc ""
+    mc "Puede que te haya subestimado."
 
 # game/script-exclusives-natsuki.rpy:110
 translate spanish natsuki_exclusive_1_5bcc6564:
 
     # n 2z "Ehehe."
-    n 2z ""
+    n 2z "Je, je."
 
 # game/script-exclusives-natsuki.rpy:111
 translate spanish natsuki_exclusive_1_2efacfde:
 
     # n 1f "...Hey, wait!"
-    n 1f ""
+    n 1f "¡Eh, espera!"
 
 # game/script-exclusives-natsuki.rpy:112
 translate spanish natsuki_exclusive_1_6e9e1c62:
 
     # n "What's {i}that{/i} supposed to mean?!"
-    n ""
+    n "¿Qué se supone que significa eso?"
 
 # game/script-exclusives-natsuki.rpy:113
 translate spanish natsuki_exclusive_1_f0b857d1_1:
 
     # mc "Uwa--"
-    mc ""
+    mc "Au..."
 
 # game/script-exclusives-natsuki.rpy:114
 translate spanish natsuki_exclusive_1_64b69331:
 
     # "Natsuki gives me a little shove."
-    ""
+    "Natsuki me da un pequeño empujón."
 
 # game/script-exclusives-natsuki.rpy:115
 translate spanish natsuki_exclusive_1_21ee27ca:
 
     # mc "I just meant that I haven't yet seen you at your full power..."
-    mc ""
+    mc "Me refiero a que aún no te he visto desatar todo tu poder..."
 
 # game/script-exclusives-natsuki.rpy:116
 translate spanish natsuki_exclusive_1_b6cb3a66:
 
     # n 5s "Hmph. Good save."
-    n 5s ""
+    n 5s "Jums... Bien salvado."
 
 # game/script-exclusives-natsuki.rpy:117
 translate spanish natsuki_exclusive_1_246ccb7a:
 
     # mc "Ah... This chapter seems like it's about baking."
-    mc ""
+    mc "Ah... Parece que este capítulo gira en torno a la repostería."
 
 # game/script-exclusives-natsuki.rpy:118
 translate spanish natsuki_exclusive_1_5a373390:
 
     # mc "This is just a guess, but is there a lot of baking in this manga?"
-    mc ""
+    mc "Esto es solo una intuición, pero ¿la repostería es una parte importante de este manga?"
 
 # game/script-exclusives-natsuki.rpy:119
 translate spanish natsuki_exclusive_1_8f42018a:
 
     # n 5b "Well--"
-    n 5b ""
+    n 5b "Bueno..."
 
 # game/script-exclusives-natsuki.rpy:120
 translate spanish natsuki_exclusive_1_5be403e0:
 
     # "Natsuki pauses for a moment, as if she doesn't want to admit something."
-    ""
+    "Natsuki hace una breve pausa, como si le costase admitir algo."
 
 # game/script-exclusives-natsuki.rpy:121
 translate spanish natsuki_exclusive_1_0068b16f:
 
     # n 2q "...Yeah."
-    n 2q ""
+    n 2q "Sí..."
 
 # game/script-exclusives-natsuki.rpy:122
 translate spanish natsuki_exclusive_1_2bff6b3c:
 
     # n "Why does that matter?"
-    n ""
+    n "Pero, ¿qué más da eso?"
 
 # game/script-exclusives-natsuki.rpy:123
 translate spanish natsuki_exclusive_1_5e2a3c24:
 
     # mc "It doesn't, I was just curious..."
-    mc ""
+    mc "Sí, si da igual, era solo curiosidad..."
 
 # game/script-exclusives-natsuki.rpy:124
 translate spanish natsuki_exclusive_1_f7b093de:
 
     # mc "Since you enjoy baking too, right?"
-    mc ""
+    mc "Es porque a ti también te gusta la repostería, ¿verdad?"
 
 # game/script-exclusives-natsuki.rpy:125
 translate spanish natsuki_exclusive_1_f6366859:
 
     # n 1o "That's--"
-    n 1o ""
+    n 1o "Eso es..."
 
 # game/script-exclusives-natsuki.rpy:126
 translate spanish natsuki_exclusive_1_894db4d3:
 
     # n "Just a coincidence!"
-    n ""
+    n "¡Eso es mera coincidencia!"
 
 # game/script-exclusives-natsuki.rpy:127
 translate spanish natsuki_exclusive_1_b4d812c9:
 
     # n 1t "I just happened to get into baking around the same time I got this manga."
-    n 1t ""
+    n 1t "Fue mera casualidad que me empezase a interesar la repostería justo cuando empecé a leer este manga."
 
 # game/script-exclusives-natsuki.rpy:128
 translate spanish natsuki_exclusive_1_86ae8773:
 
     # n "Like I would ever get into anything because it's in a manga."
-    n ""
+    n "Yo no soy mucho de interesarme por algo solo porque lo haya visto en un manga."
 
 # game/script-exclusives-natsuki.rpy:129
 translate spanish natsuki_exclusive_1_98a8c8d4:
 
     # n 4y "I feel bad for anyone that impressionable."
-    n 4y ""
+    n 4y "Me da mucha pena la gente que es así de impresionable."
 
 # game/script-exclusives-natsuki.rpy:130
 translate spanish natsuki_exclusive_1_5ba50678:
 
     # n "Ahaha!"
-    n ""
+    n "¡Ja, ja, ja!"
 
 # game/script-exclusives-natsuki.rpy:131
 translate spanish natsuki_exclusive_1_15a36bd6:
 
     # "Definitely not a coincidence..."
-    ""
+    "Tengo claro que no fue una coincidencia..."
 
 # game/script-exclusives-natsuki.rpy:132
 translate spanish natsuki_exclusive_1_fb7886e0:
 
     # "I guess that explains Natsuki's interest in baking."
-    ""
+    "Supongo que eso explica el interés de Natsuki por la repostería."
 
 # game/script-exclusives-natsuki.rpy:133
 translate spanish natsuki_exclusive_1_b61feb9d:
 
     # "Still, of all the hobbies to pick up from a manga, that's definitely one of the better ones."
-    ""
+    "Aun así, de todos los hobbies que podría haber cogido de un manga, me parece que se quedó con una de las mejores opciones."
 
 # game/script-exclusives-natsuki.rpy:134
 translate spanish natsuki_exclusive_1_fdf81891:
 
     # "Not to mention she's really good at it, so who am I to judge?"
-    ""
+    "Además, se le da de maravilla, así que... ¿quién soy yo para juzgarla?"
 
 # game/script-exclusives-natsuki.rpy:140
 translate spanish natsuki_exclusive_1_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script-exclusives-natsuki.rpy:141
 translate spanish natsuki_exclusive_1_1819e974:
 
     # "We read on for a few more minutes."
-    ""
+    "Seguimos leyendo durante varios minutos."
 
 # game/script-exclusives-natsuki.rpy:142
 translate spanish natsuki_exclusive_1_dfa4d6d1:
 
     # "I've finished a couple chapters at this point."
-    ""
+    "A estas alturas, he acabado ya un par de capítulos."
 
 # game/script-exclusives-natsuki.rpy:143
 translate spanish natsuki_exclusive_1_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/script-exclusives-natsuki.rpy:144
 translate spanish natsuki_exclusive_1_7421f499:
 
     # mc "...Are you sure this isn't boring for you?"
-    mc ""
+    mc "¿Seguro que no te estás aburriendo?"
 
 # game/script-exclusives-natsuki.rpy:145
 translate spanish natsuki_exclusive_1_2d028262:
 
     # n "It's not!"
-    n ""
+    n "¡No, para nada!"
 
 # game/script-exclusives-natsuki.rpy:146
 translate spanish natsuki_exclusive_1_f92b8b31:
 
     # mc "Even though you're just watching me read?"
-    mc ""
+    mc "Es que tan solo me estás viendo leer."
 
 # game/script-exclusives-natsuki.rpy:147
 translate spanish natsuki_exclusive_1_8d52f3b6:
 
     # n "Well...!"
-    n ""
+    n "¡Bueno!..."
 
 # game/script-exclusives-natsuki.rpy:148
 translate spanish natsuki_exclusive_1_0d8d3782:
 
     # n "I'm...fine with that."
-    n ""
+    n "No... tengo problema con eso."
 
 # game/script-exclusives-natsuki.rpy:149
 translate spanish natsuki_exclusive_1_0f240219:
 
     # mc "If you say so..."
-    mc ""
+    mc "Si tú lo dices..."
 
 # game/script-exclusives-natsuki.rpy:150
 translate spanish natsuki_exclusive_1_e9a6fb41:
 
     # mc "...I guess it's fun sharing something you like with someone else."
-    mc ""
+    mc "Supongo que es divertido compartir algo que te gusta con los demás."
 
 # game/script-exclusives-natsuki.rpy:151
 translate spanish natsuki_exclusive_1_62b59994:
 
     # mc "I always get excited when I convince any of my friends to pick up a series I enjoy."
-    mc ""
+    mc "Siempre me emociono mucho cuando consigo que alguno de mis amigos empiece una obra que me gusta."
 
 # game/script-exclusives-natsuki.rpy:152
 translate spanish natsuki_exclusive_1_fec87230:
 
     # mc "You know what I mean?"
-    mc ""
+    mc "¿Entiendes por dónde voy?"
 
 # game/script-exclusives-natsuki.rpy:153
 translate spanish natsuki_exclusive_1_913a614e:
 
     # n "...?"
-    n ""
+    n "¿...?"
 
 # game/script-exclusives-natsuki.rpy:154
 translate spanish natsuki_exclusive_1_582359ea_1:
 
     # mc "Hm?"
-    mc ""
+    mc "¿Mmm?"
 
 # game/script-exclusives-natsuki.rpy:155
 translate spanish natsuki_exclusive_1_02d45d2f:
 
     # mc "You don't?"
-    mc ""
+    mc "¿No?"
 
 # game/script-exclusives-natsuki.rpy:157
 translate spanish natsuki_exclusive_1_2889c693:
 
     # n "Um..."
-    n ""
+    n "Mmm..."
 
 # game/script-exclusives-natsuki.rpy:158
 translate spanish natsuki_exclusive_1_5ca88476:
 
     # n "That's not..."
-    n ""
+    n "A ver..."
 
 # game/script-exclusives-natsuki.rpy:159
 translate spanish natsuki_exclusive_1_5536a673:
 
     # n "Well, I wouldn't really know."
-    n ""
+    n "No sabría qué decirte, la verdad."
 
 # game/script-exclusives-natsuki.rpy:160
 translate spanish natsuki_exclusive_1_5537750c:
 
     # mc "...What do you mean?"
-    mc ""
+    mc "¿A qué te refieres?"
 
 # game/script-exclusives-natsuki.rpy:161
 translate spanish natsuki_exclusive_1_a5685cc1:
 
     # mc "Don't you share your manga with your friends?"
-    mc ""
+    mc "¿Acaso tú no compartes tus mangas con tus amigos?"
 
 # game/script-exclusives-natsuki.rpy:164
 translate spanish natsuki_exclusive_1_2595cac7:
 
     # n "Could you not rub it in?"
-    n ""
+    n "¿Podrías no restregármelo?"
 
 # game/script-exclusives-natsuki.rpy:165
 translate spanish natsuki_exclusive_1_a8557d5c:
 
     # n "Jeez..."
-    n ""
+    n "Buf..."
 
 # game/script-exclusives-natsuki.rpy:166
 translate spanish natsuki_exclusive_1_8c8bfeaa:
 
     # mc "Ah... Sorry..."
-    mc ""
+    mc "Ay... Lo siento..."
 
 # game/script-exclusives-natsuki.rpy:167
 translate spanish natsuki_exclusive_1_ffa2b290:
 
     # n "Hmph."
-    n ""
+    n "Jum."
 
 # game/script-exclusives-natsuki.rpy:168
 translate spanish natsuki_exclusive_1_ef747705:
 
     # n "Like I could ever get my friends to read this..."
-    n ""
+    n "Como si alguno de mis amigos se fuese a animar a leer esto..."
 
 # game/script-exclusives-natsuki.rpy:169
 translate spanish natsuki_exclusive_1_0b331d4f:
 
     # n "They just think manga is for kids."
-    n ""
+    n "Se creen que el manga es para críos."
 
 # game/script-exclusives-natsuki.rpy:170
 translate spanish natsuki_exclusive_1_50b06aca:
 
     # n "I can't even bring it up without them being all like..."
-    n ""
+    n "Ni siquiera puedo sacar el tema sin que se pongan en plan..."
 
 # game/script-exclusives-natsuki.rpy:171
 translate spanish natsuki_exclusive_1_b1ca56d6:
 
     # n "'Eh? You still haven't grown out of that yet?'"
-    n ""
+    n "'¿Eh? ¿Aún sigues con esas cosas de niña pequeña?'"
 
 # game/script-exclusives-natsuki.rpy:172
 translate spanish natsuki_exclusive_1_446342e2:
 
     # n "Makes me want to punch them in the face..."
-    n ""
+    n "Me dan unas ganas de partirles la cara que..."
 
 # game/script-exclusives-natsuki.rpy:173
 translate spanish natsuki_exclusive_1_183334f1:
 
     # mc "Urgh, I know those kinds of people..."
-    mc ""
+    mc "Buf, me conozco bien a ese tipo de personas..."
 
 # game/script-exclusives-natsuki.rpy:174
 translate spanish natsuki_exclusive_1_60cbb2cd:
 
     # mc "Honestly, it takes a lot of effort to find friends who don't judge, much less friends who are also into it..."
-    mc ""
+    mc "Si te digo la verdad, cuesta mucho encontrar amigos que no te juzguen... y aún más encontrar amigos que compartan tu afición..."
 
 # game/script-exclusives-natsuki.rpy:175
 translate spanish natsuki_exclusive_1_d9a25b5a:
 
     # mc "I'm already kind of a loser, so I guess I gravitated toward the other losers over time."
-    mc ""
+    mc "Como soy un pringado, supongo que tiendo a relacionarme con otros pringados."
 
 # game/script-exclusives-natsuki.rpy:176
 translate spanish natsuki_exclusive_1_18ccc31d:
 
     # mc "But it's probably harder for someone like you..."
-    mc ""
+    mc "Aunque supongo que para alguien como tú será aún más complicado..."
 
 # game/script-exclusives-natsuki.rpy:178
 translate spanish natsuki_exclusive_1_94e08ea3:
 
     # n "Hm."
-    n ""
+    n "Mmm..."
 
 # game/script-exclusives-natsuki.rpy:179
 translate spanish natsuki_exclusive_1_3243cf7d:
 
     # n "Yeah, that's pretty accurate."
-    n ""
+    n "Sí, lo cierto es que lo has clavado."
 
 # game/script-exclusives-natsuki.rpy:180
 translate spanish natsuki_exclusive_1_6607ad07:
 
     # "{i}...Wait, which part??{/i}"
-    ""
+    "Un momento... ¿A qué parte se referirá?"
 
 # game/script-exclusives-natsuki.rpy:181
 translate spanish natsuki_exclusive_1_458559a0:
 
     # n "I mean, I feel like I can't even keep it in my own room..."
-    n ""
+    n "A ver, es que me veo hasta incapaz de guardarlo en mi propia habitación..."
 
 # game/script-exclusives-natsuki.rpy:182
 translate spanish natsuki_exclusive_1_d0ddcf73:
 
     # n "I don't even know what my dad would do if he found this."
-    n ""
+    n "No sé cómo reaccionaría mi padre si encontrase esto."
 
 # game/script-exclusives-natsuki.rpy:183
 translate spanish natsuki_exclusive_1_df80381b:
 
     # n "At least it's safe here in the clubroom."
-    n ""
+    n "Al menos, la sala del club es un lugar seguro."
 
 # game/script-exclusives-natsuki.rpy:185
 translate spanish natsuki_exclusive_1_ca96df24:
 
     # n "'Cept Monika was kind of a jerk about it..."
-    n ""
+    n "Bueno, salvo por Monika, que se portó como una idiota..."
 
 # game/script-exclusives-natsuki.rpy:186
 translate spanish natsuki_exclusive_1_d8940374:
 
     # n "Ugh! I just can't win, can I?"
-    n ""
+    n "¡Arg! Es imposible tener una victoria, ¿verdad?"
 
 # game/script-exclusives-natsuki.rpy:187
 translate spanish natsuki_exclusive_1_99eb6c77:
 
     # mc "Well, it paid off in the end, didn't it?"
-    mc ""
+    mc "Bueno, pero al final mereció la pena, ¿verdad?"
 
 # game/script-exclusives-natsuki.rpy:188
 translate spanish natsuki_exclusive_1_c32a8e96:
 
     # mc "I mean, here I am, reading it."
-    mc ""
+    mc "Es decir, aquí estoy, leyéndolo."
 
 # game/script-exclusives-natsuki.rpy:189
 translate spanish natsuki_exclusive_1_8d57229c:
 
     # n "Well, it's not like that solves any of my problems."
-    n ""
+    n "No es que eso arregle ninguno de mis problemas, la verdad."
 
 # game/script-exclusives-natsuki.rpy:190
 translate spanish natsuki_exclusive_1_6ddddd1f:
 
     # mc "Maybe..."
-    mc ""
+    mc "Ya, puede..."
 
 # game/script-exclusives-natsuki.rpy:191
 translate spanish natsuki_exclusive_1_cb991f4e:
 
     # mc "But at least you're enjoying yourself, right?"
-    mc ""
+    mc "Pero al menos lo estás pasando bien, ¿a que sí?"
 
 # game/script-exclusives-natsuki.rpy:194
 translate spanish natsuki_exclusive_1_b92ff8c5:
 
     # n "--"
-    n ""
+    n "..."
 
 # game/script-exclusives-natsuki.rpy:195
 translate spanish natsuki_exclusive_1_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-exclusives-natsuki.rpy:196
 translate spanish natsuki_exclusive_1_8e4ceee1:
 
     # n "...So?"
-    n ""
+    n "¿Y?..."
 
 # game/script-exclusives-natsuki.rpy:197
 translate spanish natsuki_exclusive_1_ee7d9dbd:
 
     # mc "Ahaha."
-    mc ""
+    mc "Ja, ja, ja."
 
 # game/script-exclusives-natsuki.rpy:200
 translate spanish natsuki_exclusive_1_4daa32b4:
 
     # n "Jeez, that's enough!"
-    n ""
+    n "En fin, ¡ya basta!"
 
 # game/script-exclusives-natsuki.rpy:201
 translate spanish natsuki_exclusive_1_1606fdc6:
 
     # n "Are you gonna keep reading, or what?"
-    n ""
+    n "¿Vas a seguir leyendo o qué?"
 
 # game/script-exclusives-natsuki.rpy:202
 translate spanish natsuki_exclusive_1_e9ea92f3:
 
     # mc "Yeah, yeah..."
-    mc ""
+    mc "Que sí, que sí..."
 
 # game/script-exclusives-natsuki.rpy:203
 translate spanish natsuki_exclusive_1_c1f9d35e:
 
     # "I flip the page."
-    ""
+    "Paso la página."
 
 # game/script-exclusives-natsuki.rpy:204
 translate spanish natsuki_exclusive_1_15f483ef:
 
     # "Suddenly, Natsuki starts laughing."
-    ""
+    "De repente, Natsuki empieza a reírse."
 
 # game/script-exclusives-natsuki.rpy:207
 translate spanish natsuki_exclusive_1_f991fa72:
 
     # n "Ahahaha!"
-    n ""
+    n "¡Ja, ja, ja!"
 
 # game/script-exclusives-natsuki.rpy:208
 translate spanish natsuki_exclusive_1_1cd62078:
 
     # n "I totally forgot that happens!"
-    n ""
+    n "¡Ya no me acordaba de que pasaba eso!"
 
 # game/script-exclusives-natsuki.rpy:209
 translate spanish natsuki_exclusive_1_0793c470:
 
     # "Natsuki puts her finger on one of the panels."
-    ""
+    "Natsuki señala una de las viñetas con el dedo."
 
 # game/script-exclusives-natsuki.rpy:210
 translate spanish natsuki_exclusive_1_a82192a0:
 
     # n "Minori is my favorite character."
-    n ""
+    n "Minori es mi personaje favorito."
 
 # game/script-exclusives-natsuki.rpy:211
 translate spanish natsuki_exclusive_1_ea7828e8:
 
     # n "You always feel a little bad for her, since she's so unlucky."
-    n ""
+    n "Tiene tan mala suerte que te da mucha penita."
 
 # game/script-exclusives-natsuki.rpy:212
 translate spanish natsuki_exclusive_1_ef8c2291:
 
     # n "But it gets especially bad when--"
-    n ""
+    n "Pero la cosa se pone especialmente fea cuando..."
 
 # game/script-exclusives-natsuki.rpy:214
 translate spanish natsuki_exclusive_1_e349a681:
 
     # n "Uu..."
-    n ""
+    n "Uuuh..."
 
 # game/script-exclusives-natsuki.rpy:215
 translate spanish natsuki_exclusive_1_59cb15ff:
 
     # n "I shouldn't be talking about that yet!"
-    n ""
+    n "¡Casi mejor no te destripo esa parte!"
 
 # game/script-exclusives-natsuki.rpy:216
 translate spanish natsuki_exclusive_1_fea95830:
 
     # n "Just finish this chapter!"
-    n ""
+    n "¡Termina el capítulo, venga!"
 
 # game/script-exclusives-natsuki.rpy:219
 translate spanish natsuki_exclusive_1_b2e89501:
 
     # "Natsuki's voice sparkles with excitement."
-    ""
+    "La voz de Natsuki transmite una emoción desbordante."
 
 # game/script-exclusives-natsuki.rpy:220
 translate spanish natsuki_exclusive_1_d391e57f:
 
     # "It's a stark contrast to her usual bossy tone."
-    ""
+    "Es un contraste peculiar con respecto a su tono mandón habitual."
 
 # game/script-exclusives-natsuki.rpy:221
 translate spanish natsuki_exclusive_1_b3cf1565:
 
     # "But if she's not used to sharing her favorite manga with her friends, I can understand why."
-    ""
+    "Cierto es que no está acostumbrada a compartir su manga favorito con sus amigas, así que puedo entenderlo."
 
 # game/script-exclusives-natsuki.rpy:222
 translate spanish natsuki_exclusive_1_ebfaba83:
 
     # "It's hard to express in words the feeling you get when connecting with someone like that."
-    ""
+    "Es difícil expresar con palabras las emociones que te produce conectar con alguien a ese nivel."
 
 # game/script-exclusives-natsuki.rpy:223
 translate spanish natsuki_exclusive_1_b2987ad8:
 
     # "And being able to provide that to Natsuki, for whom it's a rare experience..."
-    ""
+    "Y poder ser yo quien le ofrezca a Natsuki esta experiencia que para ella es tan rara..."
 
 # game/script-exclusives-natsuki.rpy:224
 translate spanish natsuki_exclusive_1_738f4054:
 
     # "The thought makes me smile a little to myself."
-    ""
+    "No sé por qué, pero me alegra un poco."
 
 # game/script-exclusives-natsuki.rpy:226
 translate spanish natsuki_exclusive_1_90de9c4d:
 
     # m "Okay, everyone!"
-    m ""
+    m "¡Vale, compis!"
 
 # game/script-exclusives-natsuki.rpy:227
 translate spanish natsuki_exclusive_1_fb2e5377:
 
     # mc "Eh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/script-exclusives-natsuki.rpy:228
 translate spanish natsuki_exclusive_1_38450dd4:
 
     # m "Are you all ready with today's poems?"
-    m ""
+    m "¿Estáis todas preparadas para leer los poemas de hoy?"
 
 # game/script-exclusives-natsuki.rpy:229
 translate spanish natsuki_exclusive_1_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/script-exclusives-natsuki.rpy:232
 translate spanish natsuki_exclusive_1_b6d243af:
 
     # n "Oh, come on!"
-    n ""
+    n "¡Venga ya!"
 
 # game/script-exclusives-natsuki.rpy:233
 translate spanish natsuki_exclusive_1_71b0c5cc:
 
     # n "Could your timing be any worse?"
-    n ""
+    n "¡No podías llegar en peor momento!"
 
 # game/script-exclusives-natsuki.rpy:236
 translate spanish natsuki_exclusive_1_ec0c9d1e:
 
     # m 5 "Sorry~!"
-    m 5 ""
+    m 5 "¡Lo sientooo!"
 
 # game/script-exclusives-natsuki.rpy:237
 translate spanish natsuki_exclusive_1_54c6fd3e:
 
     # m "I just need to make sure we have enough time."
-    m ""
+    m "Es que tengo que asegurarme que tenemos tiempo de sobra para ello."
 
 # game/script-exclusives-natsuki.rpy:238
 translate spanish natsuki_exclusive_1_569b548e:
 
     # m "Though you do look pretty cozy over there. Ahaha!"
-    m ""
+    m "Aunque, ahora que me fijo, se os ve muy cómodos, ¿eh? ¡Ja, ja, ja!"
 
 # game/script-exclusives-natsuki.rpy:241
 translate spanish natsuki_exclusive_1_f9fdc4e1:
 
     # n 4o "Eh...?"
-    n 4o ""
+    n 4o "¿Eh?"
 
 # game/script-exclusives-natsuki.rpy:242
 translate spanish natsuki_exclusive_1_97cc8428:
 
     # n 1p "A-Ah!"
-    n 1p ""
+    n 1p "¡A-Ah!"
 
 # game/script-exclusives-natsuki.rpy:243
 translate spanish natsuki_exclusive_1_349b43fd:
 
     # "Natsuki suddenly notices how close she's gotten to me."
-    ""
+    "De repente, Natsuki es consciente de lo cerca que está de mí."
 
 # game/script-exclusives-natsuki.rpy:244
 translate spanish natsuki_exclusive_1_05260637:
 
     # "She hastily slides herself a good twelve inches away from me."
-    ""
+    "Se aleja unos treinta centímetros de mí a toda prisa."
 
 # game/script-exclusives-natsuki.rpy:248
 translate spanish natsuki_exclusive_1_b12907fb:
 
     # mc "Alright..."
-    mc ""
+    mc "Vale..."
 
 # game/script-exclusives-natsuki.rpy:249
 translate spanish natsuki_exclusive_1_e9612366:
 
     # mc "Guess I'll stop here for now."
-    mc ""
+    mc "Supongo que será mejor dejarlo aquí por ahora."
 
 # game/script-exclusives-natsuki.rpy:250
 translate spanish natsuki_exclusive_1_73e19c2f:
 
     # "I close the book and hand it towards Natsuki."
-    ""
+    "Cierro el tomo y se lo entrego a Natsuki."
 
 # game/script-exclusives-natsuki.rpy:251
 translate spanish natsuki_exclusive_1_c9ff408a:
 
     # n 2m "You're just giving it back...?"
-    n 2m ""
+    n 2m "¿Me lo vas a devolver así, sin más?"
 
 # game/script-exclusives-natsuki.rpy:252
 translate spanish natsuki_exclusive_1_da60f865:
 
     # n "Don't you want to know what happens?"
-    n ""
+    n "¿No quieres saber lo que pasa?"
 
 # game/script-exclusives-natsuki.rpy:253
 translate spanish natsuki_exclusive_1_6ddf54dc:
 
     # mc "Ah... Yeah, but..."
-    mc ""
+    mc "Ah... Sí, pero..."
 
 # game/script-exclusives-natsuki.rpy:254
 translate spanish natsuki_exclusive_1_7229c890:
 
     # mc "Monika just said--"
-    mc ""
+    mc "Monika ha dicho que..."
 
 # game/script-exclusives-natsuki.rpy:255
 translate spanish natsuki_exclusive_1_dc55ffc9:
 
     # n 2u "Don't be dumb."
-    n 2u ""
+    n 2u "No seas tonto."
 
 # game/script-exclusives-natsuki.rpy:256
 translate spanish natsuki_exclusive_1_c5b06922:
 
     # n "Just take it home with you."
-    n ""
+    n "Llévatelo a casa, anda."
 
 # game/script-exclusives-natsuki.rpy:257
 translate spanish natsuki_exclusive_1_fb2e5377_1:
 
     # mc "Eh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/script-exclusives-natsuki.rpy:258
 translate spanish natsuki_exclusive_1_db272561:
 
     # mc "...Is that really alright?"
-    mc ""
+    mc "¿De verdad te parece buena idea?"
 
 # game/script-exclusives-natsuki.rpy:259
 translate spanish natsuki_exclusive_1_0e34cd99:
 
     # "I say that mostly because I really didn't plan on using my spare time to read this..."
-    ""
+    "Lo digo porque, sinceramente, no entraba en mis planes dedicar mi tiempo libre a leerlo..."
 
 # game/script-exclusives-natsuki.rpy:260
 translate spanish natsuki_exclusive_1_69f3672f:
 
     # n 4h "Well, of course."
-    n 4h ""
+    n 4h "Pues claro que sí."
 
 # game/script-exclusives-natsuki.rpy:261
 translate spanish natsuki_exclusive_1_491977d0:
 
     # n "It would take forever to finish if you didn't take it home."
-    n ""
+    n "Si no te lo llevas a casa, sí que no acabarás de leerlo nunca."
 
 # game/script-exclusives-natsuki.rpy:262
 translate spanish natsuki_exclusive_1_90e710d5:
 
     # n "Just finish that one before tomorrow, so we can start the next one."
-    n ""
+    n "La idea es que lo termines tranquilamente en casa para que mañana podamos empezar el siguiente tomo."
 
 # game/script-exclusives-natsuki.rpy:263
 translate spanish natsuki_exclusive_1_a5d8d788:
 
     # n 4g "And if it gets bent, I'll kill you."
-    n 4g ""
+    n 4g "Eso sí, como le vea la más mínima arruga, te mato."
 
 # game/script-exclusives-natsuki.rpy:264
 translate spanish natsuki_exclusive_1_d802271c:
 
     # mc "By tomorrow...?"
-    mc ""
+    mc "¿Tengo que leerlo para mañana?"
 
 # game/script-exclusives-natsuki.rpy:267
 translate spanish natsuki_exclusive_1_5a11364f:
 
     # "I only got partway through the volume so far."
-    ""
+    "De momento, apenas he leído la mitad del tomo."
 
 # game/script-exclusives-natsuki.rpy:268
 translate spanish natsuki_exclusive_1_c8df51e0:
 
     # "I might fall behind on some shows if I try to get through this..."
-    ""
+    "Como me ponga con esto, me voy a perder mis programas favoritos de la tele."
 
 # game/script-exclusives-natsuki.rpy:269
 translate spanish natsuki_exclusive_1_2a29eb4a:
 
     # "But I suppose that's a necessary sacrifice in exchange for seeing Natsuki's enthusiastic face."
-    ""
+    "En fin, supongo que es un sacrificio necesario a cambio de verle a Natsuki esa cara de entusiasmo."
 
 # game/script-exclusives-natsuki.rpy:270
 translate spanish natsuki_exclusive_1_1eac80ea:
 
     # "Or am I more scared of what will happen if I {i}don't{/i} finish it...?"
-    ""
+    "¿O será que me aterra la idea de descubrir lo que pasaría si no lo hago?"
 
 # game/script-exclusives-natsuki.rpy:271
 translate spanish natsuki_exclusive_1_af2a614d:
 
     # mc "Alright, then!"
-    mc ""
+    mc "¡Muy bien!"
 
 # game/script-exclusives-natsuki.rpy:272
 translate spanish natsuki_exclusive_1_1950528a:
 
     # "I stand up."
-    ""
+    "Me pongo de pie."
 
 # game/script-exclusives-natsuki.rpy:273
 translate spanish natsuki_exclusive_1_d9693005:
 
     # "I return to where I put my stuff and carefully slip the book into my bag."
-    ""
+    "Regreso al lugar en el que dejé mis cosas y meto el tomo en mi bolsa con sumo cuidado."
 
 # game/script-exclusives-natsuki.rpy:283
 translate spanish natsuki_exclusive_2_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-exclusives-natsuki.rpy:284
 translate spanish natsuki_exclusive_2_1c949878:
