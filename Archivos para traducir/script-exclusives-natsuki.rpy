@@ -4,265 +4,265 @@
 translate spanish natsuki_exclusive_1_f5f51468:
 
     # n "Ugh...!"
-    n ""
+    n "¡Arg!"
 
 # game/script-exclusives-natsuki.rpy:5
 translate spanish natsuki_exclusive_1_e174f989:
 
     # "I hear Natsuki utter an exasperated sigh from within the closet."
-    ""
+    "Oigo el suspiro de exasperación que suelta Natsuki desde el interior del armario."
 
 # game/script-exclusives-natsuki.rpy:6
 translate spanish natsuki_exclusive_1_0fb627f5:
 
     # "She seems to be annoyed by something."
-    ""
+    "Parece estar molesta por algo."
 
 # game/script-exclusives-natsuki.rpy:7
 translate spanish natsuki_exclusive_1_e62c6690:
 
     # "I approach her, in case she needs a hand."
-    ""
+    "Me acerco a ella, por si necesita ayuda."
 
 # game/script-exclusives-natsuki.rpy:12
 translate spanish natsuki_exclusive_1_32722f83:
 
     # mc "You looking for something in there?"
-    mc ""
+    mc "¿Estás buscando algo ahí dentro?"
 
 # game/script-exclusives-natsuki.rpy:13
 translate spanish natsuki_exclusive_1_5e9a5cc3:
 
     # n 4x "Freaking Monika..."
-    n 4x ""
+    n 4x "Esa maldita Monika..."
 
 # game/script-exclusives-natsuki.rpy:14
 translate spanish natsuki_exclusive_1_0e3ba913:
 
     # n "She never puts my stuff back in the right spot!"
-    n ""
+    n "¡Nunca me deja las cosas en su sitio!"
 
 # game/script-exclusives-natsuki.rpy:15
 translate spanish natsuki_exclusive_1_bbbe4215:
 
     # n "What's the point in keeping your collection organized if someone else is just gonna mess it up?"
-    n ""
+    n "¿De qué sirve matarse a tener tu colección toda organizadita cuando la primera persona que pasa te lo deja todo echo un caos?"
 
 # game/script-exclusives-natsuki.rpy:16
 translate spanish natsuki_exclusive_1_19933c2f:
 
     # "Natsuki slides a bunch of stacked books and boxes across the shelf."
-    ""
+    "Natsuki está arrastrando un montón de libros y cajas por la estantería."
 
 # game/script-exclusives-natsuki.rpy:17
 translate spanish natsuki_exclusive_1_3d3a82c5:
 
     # mc "Manga..."
-    mc ""
+    mc "Manga..."
 
 # game/script-exclusives-natsuki.rpy:18
 translate spanish natsuki_exclusive_1_760f87e9:
 
     # n 2c "You read manga, right?"
-    n 2c ""
+    n 2c "¿Lees manga?"
 
 # game/script-exclusives-natsuki.rpy:19
 translate spanish natsuki_exclusive_1_f9d65918:
 
     # mc "Ah--"
-    mc ""
+    mc "Ah..."
 
 # game/script-exclusives-natsuki.rpy:20
 translate spanish natsuki_exclusive_1_fdb5ed84:
 
     # mc "...Sometimes..."
-    mc ""
+    mc "Sí, bueno... De vez en cuando..."
 
 # game/script-exclusives-natsuki.rpy:21
 translate spanish natsuki_exclusive_1_935299a4:
 
     # "Manga is one of those things where you can't admit you're really into it until you figure out where the other person stands."
-    ""
+    "El manga es de esas cosas que no puedes admitir que te gustan hasta haber descubierto qué opina la otra persona del tema."
 
 # game/script-exclusives-natsuki.rpy:22
 translate spanish natsuki_exclusive_1_fe2f3706:
 
     # mc "...How did you know, anyway?"
-    mc ""
+    mc "Y digo yo, ¿cómo lo has sabido?"
 
 # game/script-exclusives-natsuki.rpy:23
 translate spanish natsuki_exclusive_1_d0e38205:
 
     # n 2k "I heard you bring it up at some point."
-    n 2k ""
+    n 2k "Lo has comentado alguna vez de pasada."
 
 # game/script-exclusives-natsuki.rpy:24
 translate spanish natsuki_exclusive_1_3688c727:
 
     # n "Besides, it's kind of written on your face."
-    n ""
+    n "Además, lo tienes escrito en la cara."
 
 # game/script-exclusives-natsuki.rpy:25
 translate spanish natsuki_exclusive_1_c145e81e:
 
     # "What's that supposed to mean...?"
-    ""
+    "¿Qué se supone que significa eso?"
 
 # game/script-exclusives-natsuki.rpy:26
 translate spanish natsuki_exclusive_1_f11161d0:
 
     # mc "I-I see..."
-    mc ""
+    mc "E-Entiendo..."
 
 # game/script-exclusives-natsuki.rpy:27
 translate spanish natsuki_exclusive_1_9262900f:
 
     # "There's a lone volume of manga amidst a stack of various books on the side of one of the shelves."
-    ""
+    "En un lateral de uno de los estantes, en medio de una montaña de libros, hay un solitario tomo de manga."
 
 # game/script-exclusives-natsuki.rpy:28
 translate spanish natsuki_exclusive_1_e06f14e6:
 
     # "Curious, I pull it out of the stack."
-    ""
+    "me llama la curiosidad, así que lo saco."
 
 # game/script-exclusives-natsuki.rpy:29
 translate spanish natsuki_exclusive_1_02dc322f:
 
     # n 1b "{i}There{/i} it is!"
-    n 1b ""
+    n 1b "¡Ahí está!"
 
 # game/script-exclusives-natsuki.rpy:30
 translate spanish natsuki_exclusive_1_df52ab96:
 
     # "Natsuki snatches it out of my hand."
-    ""
+    "Natsuki me lo arranca de las manos."
 
 # game/script-exclusives-natsuki.rpy:31
 translate spanish natsuki_exclusive_1_f2ebfaf0:
 
     # "She then turns to a box of manga and slips the volume right into the middle of the rest."
-    ""
+    "Después, se gira hacia una caja de mangas y mete el tomo entre los demás."
 
 # game/script-exclusives-natsuki.rpy:32
 translate spanish natsuki_exclusive_1_f7505123:
 
     # n 4d "Aah, much better!"
-    n 4d ""
+    n 4d "¡Aaah, esto ya es otra cosa!"
 
 # game/script-exclusives-natsuki.rpy:33
 translate spanish natsuki_exclusive_1_41cc269d:
 
     # n "Seeing a box set with one book missing is probably the most irritating sight in the world."
-    n ""
+    n "Pocas cosas me ponen más de los nervios que ver una colección entera a la que le falta un número."
 
 # game/script-exclusives-natsuki.rpy:34
 translate spanish natsuki_exclusive_1_3405b196:
 
     # mc "I know that feel..."
-    mc ""
+    mc "Sí, te entiendo bien..."
 
 # game/script-exclusives-natsuki.rpy:35
 translate spanish natsuki_exclusive_1_e9a28cdf:
 
     # "I get a closer look at the box set she's admiring."
-    ""
+    "Le echo un vistazo más de cerca a la colección que está observando con tanta admiración."
 
 # game/script-exclusives-natsuki.rpy:36
 translate spanish natsuki_exclusive_1_6c14e515:
 
     # mc "Parfait Girls...?"
-    mc ""
+    mc "¿Parfait Girls?..."
 
 # game/script-exclusives-natsuki.rpy:37
 translate spanish natsuki_exclusive_1_611bb932:
 
     # "It's a series I've never heard of in my life."
-    ""
+    "No me sonaba de nada."
 
 # game/script-exclusives-natsuki.rpy:38
 translate spanish natsuki_exclusive_1_9063d972:
 
     # "That probably means it's either way out of my demographic, or it's simply terrible."
-    ""
+    "Una de dos: o yo no era su público potencial o era una obra horripilante."
 
 # game/script-exclusives-natsuki.rpy:39
 translate spanish natsuki_exclusive_1_25561b25:
 
     # n 5g "If you're gonna judge, you can go do it through the glass on that door."
-    n 5g ""
+    n 5g "Si me vas a juzgar, casi prefiero que lo hagas al otro lado de esa puerta."
 
 # game/script-exclusives-natsuki.rpy:40
 translate spanish natsuki_exclusive_1_62958553:
 
     # "She points to the classroom door."
-    ""
+    "Me señala la puerta de la clase."
 
 # game/script-exclusives-natsuki.rpy:41
 translate spanish natsuki_exclusive_1_e0baf49e:
 
     # mc "H-Hey, I wasn't judging anything...!"
-    mc ""
+    mc "¡Eh, que no estaba juzgando nada!"
 
 # game/script-exclusives-natsuki.rpy:42
 translate spanish natsuki_exclusive_1_e11cdc69:
 
     # mc "I didn't even say anything."
-    mc ""
+    mc "No he dicho nada."
 
 # game/script-exclusives-natsuki.rpy:43
 translate spanish natsuki_exclusive_1_81abce97:
 
     # n 5c "It was the tone of your voice."
-    n 5c ""
+    n 5c "No, pero tu voz tenía un tonito que no me gustó nada."
 
 # game/script-exclusives-natsuki.rpy:44
 translate spanish natsuki_exclusive_1_99d676ef:
 
     # n "But I'll tell you one thing, [player]."
-    n ""
+    n "Una cosa te voy a decir, [player]."
 
 # game/script-exclusives-natsuki.rpy:45
 translate spanish natsuki_exclusive_1_70e41b54:
 
     # n 4l "Consider this a lesson straight from the Literature Club: Don't judge a book by its cover!"
-    n 4l ""
+    n 4l "De hecho, puedes considerarlo como una lección vital del club de literatura: ¡No juzgues un libro por la portada!"
 
 # game/script-exclusives-natsuki.rpy:46
 translate spanish natsuki_exclusive_1_55994a4c:
 
     # n "In fact--"
-    n ""
+    n "De hecho..."
 
 # game/script-exclusives-natsuki.rpy:47
 translate spanish natsuki_exclusive_1_c864c1c4:
 
     # "Natsuki pulls out the first volume of Parfait Girls from the box."
-    ""
+    "natsuki saca el primer tomo de Parfait Girls de la caja."
 
 # game/script-exclusives-natsuki.rpy:48
 translate spanish natsuki_exclusive_1_6ca1c062:
 
     # n "I'm gonna show you exactly why!"
-    n ""
+    n "¡Te voy a demostrar por qué lo digo!"
 
 # game/script-exclusives-natsuki.rpy:49
 translate spanish natsuki_exclusive_1_8c231d22:
 
     # "She shoves the book right into my hands."
-    ""
+    "Me pone el tomo en las manos."
 
 # game/script-exclusives-natsuki.rpy:50
 translate spanish natsuki_exclusive_1_93deaf69:
 
     # mc "Ah..."
-    mc ""
+    mc "Ah..."
 
 # game/script-exclusives-natsuki.rpy:51
 translate spanish natsuki_exclusive_1_ea5a5f1b:
 
     # "I stare at the cover."
-    ""
+    "Me quedo mirando fijamente la portada."
 
 # game/script-exclusives-natsuki.rpy:52
 translate spanish natsuki_exclusive_1_e3a67a99:
