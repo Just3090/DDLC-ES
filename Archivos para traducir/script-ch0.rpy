@@ -412,7 +412,7 @@ translate spanish ch0_main_a89001e9:
 translate spanish ch0_main_bf60a48d:
 
     # "Since she was the first one to show interest after the one who proposed the club, she inherited the title \"Vice President\"."
-    "Como fue la primera en interesarse después de la chica que propuso el club, le tocó el título de <<vicepresidenta>>."
+    "Como fue la primera en interesarse después de la chica que propuso el club, le tocó el título de 'vicepresidenta'."
 
 # game/script-ch0.rpy:95
 translate spanish ch0_main_dad2209a:
@@ -520,7 +520,7 @@ translate spanish ch0_main_fcd53725:
 translate spanish ch0_main_a17485df:
 
     # mc "I told you, don't call me a 'new member--'"
-    mc "Te lo he dicho; no me llames <<nuevo miembro>>."
+    mc "Te lo he dicho; no me llames 'nuevo miembro'."
 
 # game/script-ch0.rpy:128
 translate spanish ch0_main_6c94972f:
