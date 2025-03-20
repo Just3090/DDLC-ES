@@ -11668,73 +11668,73 @@ translate spanish m_sayori_1_447fd222:
 translate spanish m_sayori_1_e6f0a26d:
 
     # m "Even if you show it in different ways, it ends up being more similar than you'd think."
-    m ""
+    m "Aunque lo mostráis de maneras distintas, todo acaba siendo más parecido de lo que piensas."
 
 # game/script-poemresponses.rpy:2484
 translate spanish m_sayori_1_d38dfb00:
 
     # m 1a "So I think that's the kind of vibe I get when reading your poem."
-    m 1a ""
+    m 1a "Eso es lo que siento al leer tu poema."
 
 # game/script-poemresponses.rpy:2485
 translate spanish m_sayori_1_8fea2db2:
 
     # mc "Hmm..."
-    mc ""
+    mc "Mmm..."
 
 # game/script-poemresponses.rpy:2486
 translate spanish m_sayori_1_3434c3f4:
 
     # mc "You sure you're not reading into it too much?"
-    mc ""
+    mc "¿Seguro que no estás viendo más de lo que hay?"
 
 # game/script-poemresponses.rpy:2487
 translate spanish m_sayori_1_4f983a35:
 
     # m 5 "Ahaha! I could be!"
-    m 5 ""
+    m 5 "¡Ja, ja, ja! ¡Puede ser!"
 
 # game/script-poemresponses.rpy:2488
 translate spanish m_sayori_1_6b60e626:
 
     # m "Oh gosh, I sound like Yuri..."
-    m ""
+    m "Mecachis en la mar, sueno igual que Yuri..."
 
 # game/script-poemresponses.rpy:2489
 translate spanish m_sayori_1_0faddcc0:
 
     # m 2a "...But in any case, Sayori's writing has kind of a gentle feel to it."
-    m 2a ""
+    m 2a "En fin, que la forma de escribir de Sayori es bastante dulce."
 
 # game/script-poemresponses.rpy:2490
 translate spanish m_sayori_1_04eb9702:
 
     # m "I can tell that she likes exploring with emotions, like happiness and sadness."
-    m ""
+    m "Se nota que le gusta explorar las emociones como la felicidad y la tristeza."
 
 # game/script-poemresponses.rpy:2491
 translate spanish m_sayori_1_c5c4044f:
 
     # m "Who knew that someone so happy would enjoy sad things, too?"
-    m ""
+    m "¿Quién iba a decir que alguien tan feliz pudiera disfrutar de la tristeza?"
 
 # game/script-poemresponses.rpy:2492
 translate spanish m_sayori_1_e15e9640:
 
     # mc "Yeah... That's totally unexpected."
-    mc ""
+    mc "Ya... No me lo esperaba, la verdad."
 
 # game/script-poemresponses.rpy:2493
 translate spanish m_sayori_1_022e3621:
 
     # m 2j "Well, to each their own~"
-    m 2j ""
+    m 2j "En fin, para gustos, colores."
 
 # game/script-poemresponses.rpy:2494
 translate spanish m_sayori_1_278cd0cd:
 
     # m 2a "And you shouldn't be afraid to experiment a little bit, either."
-    m 2a ""
+    m 2a "Y tú tampoco deberías tener miedo a experimentar un poco."
 
 # game/script-poemresponses.rpy:2498
 translate spanish m_yuri_1_8702c778:
