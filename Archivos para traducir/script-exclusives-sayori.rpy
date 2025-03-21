@@ -1072,169 +1072,169 @@ translate spanish sayori_exclusive_1_def52e15:
 translate spanish sayori_exclusive_2_4ea6d987:
 
     # s "[player], [player]!"
-    s ""
+    s "¡[player], [player]!"
 
 # game/script-exclusives-sayori.rpy:243
 translate spanish sayori_exclusive_2_bd4767d3:
 
     # "Sayori suddenly comes up to me."
-    ""
+    "Sayori viene hacia mí."
 
 # game/script-exclusives-sayori.rpy:245
 translate spanish sayori_exclusive_2_ef4c0d72:
 
     # s "I'm gonna go get some supplies from another classroom."
-    s ""
+    s "Voy a ir a por suministros a otra aula."
 
 # game/script-exclusives-sayori.rpy:246
 translate spanish sayori_exclusive_2_08f7835f:
 
     # s "Want to come with me?"
-    s ""
+    s "¿Quieres acompañarme?"
 
 # game/script-exclusives-sayori.rpy:247
 translate spanish sayori_exclusive_2_ad189183:
 
     # mc "Supplies?"
-    mc ""
+    mc "¿Suministros?"
 
 # game/script-exclusives-sayori.rpy:248
 translate spanish sayori_exclusive_2_66a7a5ca:
 
     # mc "What for?"
-    mc ""
+    mc "¿Para qué?"
 
 # game/script-exclusives-sayori.rpy:249
 translate spanish sayori_exclusive_2_860d16e7:
 
     # s 2a "Well, you know how the festival is coming up?"
-    s 2a ""
+    s 2a "A ver, ya sabes que falta poco para el festival, ¿no?"
 
 # game/script-exclusives-sayori.rpy:250
 translate spanish sayori_exclusive_2_e7fb537c:
 
     # s "Me and Monika were gonna make some posters and stuff."
-    s ""
+    s "Monika y yo íbamos a preparar unos carteles y cosas así."
 
 # game/script-exclusives-sayori.rpy:251
 translate spanish sayori_exclusive_2_5e7c5b37:
 
     # s "So I need to go find some crayons, and markers, and glue sticks..."
-    s ""
+    s "Así que tengo que ir a por ceras de colores, rotuladores, pegamento..."
 
 # game/script-exclusives-sayori.rpy:252
 translate spanish sayori_exclusive_2_236ab8d0:
 
     # mc "Ah, I see."
-    mc ""
+    mc "Ah, entiendo."
 
 # game/script-exclusives-sayori.rpy:253
 translate spanish sayori_exclusive_2_a48cc7e3:
 
     # mc "Sure, I'll go with you."
-    mc ""
+    mc "Claro, te acompaño."
 
 # game/script-exclusives-sayori.rpy:254
 translate spanish sayori_exclusive_2_df253bf7:
 
     # s 4q "Yaay~"
-    s 4q ""
+    s 4q "¡Bieeen!"
 
 # game/script-exclusives-sayori.rpy:255
 translate spanish sayori_exclusive_2_3a535a22:
 
     # s 4x "Okay Monika, we'll be back soon!"
-    s 4x ""
+    s 4x "¡Volveremos enseguida, Monika!"
 
 # game/script-exclusives-sayori.rpy:258
 translate spanish sayori_exclusive_2_7490c240:
 
     # m "Ah, are you going with [player] to get the supplies?"
-    m ""
+    m "Ah, ¿te vas con [player] a por los suministros?"
 
 # game/script-exclusives-sayori.rpy:259
 translate spanish sayori_exclusive_2_20c5f655:
 
     # m "There's no need to trouble yourself."
-    m ""
+    m "Pero, mujer, no hace falta que te molestes..."
 
 # game/script-exclusives-sayori.rpy:260
 translate spanish sayori_exclusive_2_5ba710fc:
 
     # m "I'd be happy to go with him."
-    m ""
+    m "Ya voy yo con él, que no me cuesta nada."
 
 # game/script-exclusives-sayori.rpy:263
 translate spanish sayori_exclusive_2_9417fd73:
 
     # s "Aw, but I wanted to go!"
-    s ""
+    s "¡Jo, pero quería ir yo!"
 
 # game/script-exclusives-sayori.rpy:264
 translate spanish sayori_exclusive_2_a99fc349:
 
     # s "It's so much fun exploring empty classrooms and stuff!"
-    s ""
+    s "¡Es muy divertido explorar aulas vacías y esas cosas!"
 
 # game/script-exclusives-sayori.rpy:266
 translate spanish sayori_exclusive_2_cd00b7dc:
 
     # m 2j "Hehe, okay, okay."
-    m 2j ""
+    m 2j "Je, je, je. Vale, vale."
 
 # game/script-exclusives-sayori.rpy:267
 translate spanish sayori_exclusive_2_1ac309ef:
 
     # m 2a "It was just a suggestion."
-    m 2a ""
+    m 2a "Tan solo era una sugerencia."
 
 # game/script-exclusives-sayori.rpy:268
 translate spanish sayori_exclusive_2_255cf63e:
 
     # m "See if you can find poster paper too, okay?"
-    m ""
+    m "No te olvides de traer también papel para hacer los carteles, ¿vale?"
 
 # game/script-exclusives-sayori.rpy:271
 translate spanish sayori_exclusive_2_8f60e528:
 
     # s 1r "Okaay~!"
-    s 1r ""
+    s 1r "¡Vaaale!"
 
 # game/script-exclusives-sayori.rpy:272
 translate spanish sayori_exclusive_2_1b885327:
 
     # s 1a "Ready, [player]?"
-    s 1a ""
+    s 1a "¿Estás listo, [player]?"
 
 # game/script-exclusives-sayori.rpy:273
 translate spanish sayori_exclusive_2_92bcf7c6:
 
     # mc "Yep, let's go."
-    mc ""
+    mc "Sí, vamos."
 
 # game/script-exclusives-sayori.rpy:277
 translate spanish sayori_exclusive_2_0af638b7:
 
     # "Sayori and I exit the clubroom."
-    ""
+    "Sayori y yo salimos de la sala del club."
 
 # game/script-exclusives-sayori.rpy:278
 translate spanish sayori_exclusive_2_a4b4ac63:
 
     # "I follow behind as Sayori hums and skips around the hallway."
-    ""
+    "La sigo mientras ella va tatareando y dando saltitos por el pasillo."
 
 # game/script-exclusives-sayori.rpy:279
 translate spanish sayori_exclusive_2_76811081:
 
     # "Honestly..."
-    ""
+    "Hay que ver..."
 
 # game/script-exclusives-sayori.rpy:280
 translate spanish sayori_exclusive_2_91daf522:
 
     # "It feels like I'm taking a kid to the mall or something."
-    ""
+    "Me siento como si estuviese llevando a una niña al centro comercial o algo así."
 
 # game/script-exclusives-sayori.rpy:281
 translate spanish sayori_exclusive_2_f8d41feb:
