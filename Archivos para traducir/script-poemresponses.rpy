@@ -11740,133 +11740,133 @@ translate spanish m_sayori_1_278cd0cd:
 translate spanish m_yuri_1_8702c778:
 
     # m 1a "Great job, [player]!"
-    m 1a ""
+    m 1a "¡Buen trabajo, [player]!"
 
 # game/script-poemresponses.rpy:2499
 translate spanish m_yuri_1_51d5365e:
 
     # m "I was going 'Ooh' in my head while reading it."
-    m ""
+    m "No debaja de decir '¡Uala!' en mi cabeza mientras lo leía."
 
 # game/script-poemresponses.rpy:2500
 translate spanish m_yuri_1_68322c07:
 
     # m 1j "It's really metaphorical!"
-    m 1j ""
+    m 1j "¡Es muy metafórico!"
 
 # game/script-poemresponses.rpy:2501
 translate spanish m_yuri_1_df8cf596:
 
     # m 1a "I'm not sure why, but I didn't expect you to go for something so deep."
-    m 1a ""
+    m 1a "No sé muy bien por qué, pero no esperaba que escribieses algo tan profundo."
 
 # game/script-poemresponses.rpy:2502
 translate spanish m_yuri_1_a9a4780f:
 
     # m 3b "I guess I underestimated you!"
-    m 3b ""
+    m 3b "Supongo que te he subestimado."
 
 # game/script-poemresponses.rpy:2503
 translate spanish m_yuri_1_3796b1c6:
 
     # mc "It's easiest for me to keep everyone's expectations low."
-    mc ""
+    mc "Para mí, es más fácil cuando la gente tiene pocas expectativas conmigo."
 
 # game/script-poemresponses.rpy:2504
 translate spanish m_yuri_1_b811b3be:
 
     # mc "That way, it always counts when I put in some effort."
-    mc ""
+    mc "Así, siempre se nota cuando hago el mínimo esfuerzo."
 
 # game/script-poemresponses.rpy:2505
 translate spanish m_yuri_1_dc0ab338:
 
     # m 5a "Ahaha! That's not very fair!"
-    m 5a ""
+    m 5a "¡Ja, ja, ja! ¡Eso es hacer trampas!"
 
 # game/script-poemresponses.rpy:2506
 translate spanish m_yuri_1_820fd59f:
 
     # m "Well, I guess it worked, anyway."
-    m ""
+    m "En fin, la cosa es que te ha funcionado."
 
 # game/script-poemresponses.rpy:2507
 translate spanish m_yuri_1_8d0f13fc:
 
     # m 2a "You know that Yuri likes this kind of writing, right?"
-    m 2a ""
+    m 2a "Sabes que a Yuri le encanta esta forma de escribir, ¿verdad?"
 
 # game/script-poemresponses.rpy:2508
 translate spanish m_yuri_1_0ec7a5f5:
 
     # m "Writing that's full of imagery and symbolism."
-    m ""
+    m "Le encanta leer cosas llenas de imaginería y simbolismo."
 
 # game/script-poemresponses.rpy:2509
 translate spanish m_yuri_1_b447b75b:
 
     # m 2d "Unlike Sayori, who likes using simple and direct words to describe happiness and sadness..."
-    m 2d ""
+    m 2d "Algo muy distinto a lo que escribe Sayori, quien prefiere las palabras simples y directas para describir la felicidad y la tristeza..."
 
 # game/script-poemresponses.rpy:2510
 translate spanish m_yuri_1_7721dc77:
 
     # m "Yuri likes it when readers are left to derive their own meaning out of it."
-    m ""
+    m "Yuri busca que sus lectores se queden pensando en el significado de sus palabras."
 
 # game/script-poemresponses.rpy:2511
 translate spanish m_yuri_1_b33751ab:
 
     # m 4d "It's very challenging to write like that effectively."
-    m 4d ""
+    m 4d "Es todo un desafío escribir así y que funcione."
 
 # game/script-poemresponses.rpy:2512
 translate spanish m_yuri_1_5b9f294d:
 
     # m "Both allowing people to get something out of it just by feel..."
-    m ""
+    m "Permite tanto que la gente sienta algo al leerlas..."
 
 # game/script-poemresponses.rpy:2513
 translate spanish m_yuri_1_129d6b25:
 
     # m "Or letting them deeply analyze all of the nuances."
-    m ""
+    m "como que puedan analizar todos sus matices."
 
 # game/script-poemresponses.rpy:2514
 translate spanish m_yuri_1_8dc582a2:
 
     # m "It can take years of practice, which I'm assuming Yuri has at this point."
-    m ""
+    m "Puede llevar años de práctica, algo que Yuri parece tener,"
 
 # game/script-poemresponses.rpy:2515
 translate spanish m_yuri_1_33407c54:
 
     # m 1e "I never really asked, though..."
-    m 1e ""
+    m 1e "aunque nunca se lo he preguntado..."
 
 # game/script-poemresponses.rpy:2516
 translate spanish m_yuri_1_7b4be666:
 
     # mc "I'm sure I'm nowhere near her level yet."
-    mc ""
+    mc "Aún me falta mucho para llegar a su nivel."
 
 # game/script-poemresponses.rpy:2517
 translate spanish m_yuri_1_65ac51ae:
 
     # m 2b "Don't worry so much about that!"
-    m 2b ""
+    m 2b "¡No te preocupes por eso!"
 
 # game/script-poemresponses.rpy:2518
 translate spanish m_yuri_1_e384cb4c:
 
     # m "You do your own thing."
-    m ""
+    m "Tú a tu ritmo."
 
 # game/script-poemresponses.rpy:2519
 translate spanish m_yuri_1_d258e98b:
 
     # m "Just keep exploring, and learn by trying new things!"
-    m ""
+    m "¡Sigue explorando y aprendiendo mientras pruebas cosas nuevas!"
 
 # game/script-poemresponses.rpy:2523
 translate spanish m_natsuki_2_1141cfe5:
