@@ -2560,7 +2560,7 @@ translate spanish ch2_end_ec8f99a2:
 translate spanish ch2_end_9eff646e:
 
     # "Since I'm not exactly confident in my own writing, it's hard to put energy into it."
-    "Como tampoco es confíe mucho en mi calidad literaria, me cuesta echarle ganas."
+    "Como tampoco es que confíe mucho en mi calidad literaria, me cuesta echarle ganas."
 
 # game/script-ch2.rpy:701
 translate spanish ch2_end_c19a5d45:
