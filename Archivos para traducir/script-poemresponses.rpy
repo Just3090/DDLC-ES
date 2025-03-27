@@ -2830,43 +2830,43 @@ translate spanish ch2_m_end_a151287c:
 translate spanish ch2_m_end_3727408b:
 
     # m "You never know when you might change your mind..."
-    m ""
+    m "Nunca se sabe cuándo podrías cambiar de opinión..."
 
 # game/script-poemresponses.rpy:668
 translate spanish ch2_m_end_303c0b3c:
 
     # m "...or when something unexpected may happen!"
-    m ""
+    m "¡... o cuándo podría pasar algo interesante!"
 
 # game/script-poemresponses.rpy:669
 translate spanish ch2_m_end_9f5e28af:
 
     # m 3d "Wait...is this tip even about writing?"
-    m 3d ""
+    m 3d "¿Qué? ¿Esto cuenta como consejo de escritura?"
 
 # game/script-poemresponses.rpy:670
 translate spanish ch2_m_end_abb6063d:
 
     # m 3k "What am I even talking about?"
-    m 3k ""
+    m 3k "No sé ni de qué estoy hablando..."
 
 # game/script-poemresponses.rpy:671
 translate spanish ch2_m_end_30727938:
 
     # m "Ahaha!"
-    m ""
+    m "¡Ja, ja, ja!"
 
 # game/script-poemresponses.rpy:672
 translate spanish ch2_m_end_fb668315:
 
     # m 3b "...That's my advice for today!"
-    m 3b ""
+    m 3b "¡Ese es mi consejo de hoy!"
 
 # game/script-poemresponses.rpy:673
 translate spanish ch2_m_end_d33852a1:
 
     # m "Thanks for listening~"
-    m ""
+    m "Gracias por escucharme."
 
 # game/script-poemresponses.rpy:677
 translate spanish ch3_m_end_0d2947fd:
