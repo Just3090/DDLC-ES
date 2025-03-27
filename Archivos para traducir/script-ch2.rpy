@@ -3130,13 +3130,13 @@ translate spanish ch2_end_a75a398f:
 translate spanish ch2_end_d52b7930:
 
     # "Then again, the festival is only a few days away..."
-    ""
+    "Además, el festival está al caer."
 
 # game/script-ch2.rpy:869
 translate spanish ch2_end_01f64b7c:
 
     # "Who knows what will happen in that time?"
-    ""
+    "Quién sabe lo que ocurrirá hasta entonces."
 
 # game/script-ch2.rpy:872
 translate spanish ch2_end_sayori_e87e0575:
@@ -3148,301 +3148,301 @@ translate spanish ch2_end_sayori_e87e0575:
 translate spanish ch2_end_sayori_24121141:
 
     # mc "You really think I would ditch you for [ch2_winner]?"
-    mc ""
+    mc "¿De verdad piensas que te dejaría tirada por [ch2_winner]?"
 
 # game/script-ch2.rpy:874
 translate spanish ch2_end_sayori_208b890a:
 
     # s 1e "Eh?!"
-    s 1e ""
+    s 1e "¡¿Eh?!"
 
 # game/script-ch2.rpy:875
 translate spanish ch2_end_sayori_2c2dfcfb:
 
     # s "B-But..."
-    s ""
+    s "P-Pero..."
 
 # game/script-ch2.rpy:877
 translate spanish ch2_end_sayori_12830247:
 
     # s "She's so cute and fun to be around..."
-    s ""
+    s "Es cuqui y divertida..."
 
 # game/script-ch2.rpy:879
 translate spanish ch2_end_sayori_8d15488c:
 
     # s "She's so beautiful and smart..."
-    s ""
+    s "Es guapa e inteligente..."
 
 # game/script-ch2.rpy:880
 translate spanish ch2_end_sayori_9098da49:
 
     # mc "Jeez..."
-    mc ""
+    mc "Buf..."
 
 # game/script-ch2.rpy:881
 translate spanish ch2_end_sayori_ef1e53ba:
 
     # mc "I already see her in the club every day."
-    mc ""
+    mc "Ya la veo a diario en el club."
 
 # game/script-ch2.rpy:882
 translate spanish ch2_end_sayori_ec507a66:
 
     # mc "Besides, you always seem to really like going home together..."
-    mc ""
+    mc "Además, parece que te encanta que volvamos juntos a casa."
 
 # game/script-ch2.rpy:883
 translate spanish ch2_end_sayori_d1d27e04:
 
     # mc "I wouldn't just ruin that for you."
-    mc ""
+    mc "No quiero aguarte la fiesta."
 
 # game/script-ch2.rpy:884
 translate spanish ch2_end_sayori_682a5a6a:
 
     # s 1y "You're so silly, [player]..."
-    s 1y ""
+    s 1y "Mira que eres bobo, [player]..."
 
 # game/script-ch2.rpy:885
 translate spanish ch2_end_sayori_ee391249:
 
     # s "You think about me too much sometimes."
-    s ""
+    s "No hace falta que seas tan considerado conmigo."
 
 # game/script-ch2.rpy:886
 translate spanish ch2_end_sayori_bf0a2c77:
 
     # s "[ch2_winner] would deserve it if she wanted it, so..."
-    s ""
+    s "Y [ch2_winner] tendría todo el derecho del mundo si quisiera..."
 
 # game/script-ch2.rpy:887
 translate spanish ch2_end_sayori_d609de76:
 
     # mc "Sayori, I've already made up my mind."
-    mc ""
+    mc "Sayori, lo tengo muy claro."
 
 # game/script-ch2.rpy:888
 translate spanish ch2_end_sayori_715ef421:
 
     # mc "I really can't figure you out sometimes..."
-    mc ""
+    mc "A veces, me cuesta un poco pillarte."
 
 # game/script-ch2.rpy:889
 translate spanish ch2_end_sayori_11b59043:
 
     # s "Sorry..."
-    s ""
+    s "Perdona..."
 
 # game/script-ch2.rpy:890
 translate spanish ch2_end_sayori_3af7afd1:
 
     # mc "Besides, what's the point in speculating something that's never going to happen?"
-    mc ""
+    mc "Además, ¿qué sentido tiene especular sobre algo que no va a suceder?"
 
 # game/script-ch2.rpy:891
 translate spanish ch2_end_sayori_d4eb38f4:
 
     # s 1k "Hm..."
-    s 1k ""
+    s 1k "Mmm..."
 
 # game/script-ch2.rpy:894
 translate spanish ch2_end_sayori_dfa99acb:
 
     # "The conversation trails off."
-    ""
+    "La conversación se apaga."
 
 # game/script-ch2.rpy:895
 translate spanish ch2_end_sayori_a2625442:
 
     # "It's kind of a weird thing for Sayori to care so much about..."
-    ""
+    "Es extraño que Sayori se preocupe tanto por algo."
 
 # game/script-ch2.rpy:896
 translate spanish ch2_end_sayori_00b80506:
 
     # "But I want to respect her and keep her happy, too."
-    ""
+    "Pero la respeto y quiero que sea feliz."
 
 # game/script-ch2.rpy:900
 translate spanish ch2_end_natsuki_0b69a6de:
 
     # mc "Walking home with Natsuki, huh..."
-    mc ""
+    mc "Conque volver a casa con Natsuki..."
 
 # game/script-ch2.rpy:901
 translate spanish ch2_end_natsuki_d626012f:
 
     # "Why does the thought of that make my heart pound...?"
-    ""
+    "El corazón me ha dado un vuelco solo de pensarlo. ¿Por qué será?"
 
 # game/script-ch2.rpy:902
 translate spanish ch2_end_natsuki_7136c946:
 
     # mc "I mean..."
-    mc ""
+    mc "A ver..."
 
 # game/script-ch2.rpy:903
 translate spanish ch2_end_natsuki_b068f01e:
 
     # mc "I think I would be afraid of what she'd do to me if I turned her down..."
-    mc ""
+    mc "Me da miedo pensar lo que me haría si la rechazara."
 
 # game/script-ch2.rpy:904
 translate spanish ch2_end_natsuki_808e1746:
 
     # s 1x "Isn't she so cute and fun to be around?"
-    s 1x ""
+    s 1x "¿Y no te parece cuqui y divertida?"
 
 # game/script-ch2.rpy:908
 translate spanish ch2_end_yuri_f146b61e:
 
     # mc "Walking home with Yuri, huh..."
-    mc ""
+    mc "Conque volver a casa con Yuri..."
 
 # game/script-ch2.rpy:909
 translate spanish ch2_end_yuri_d626012f:
 
     # "Why does the thought of that make my heart pound...?"
-    ""
+    "El corazón me ha dado un vuelco solo de pensarlo. ¿Por qué será?"
 
 # game/script-ch2.rpy:910
 translate spanish ch2_end_yuri_7136c946:
 
     # mc "I mean..."
-    mc ""
+    mc "A ver..."
 
 # game/script-ch2.rpy:911
 translate spanish ch2_end_yuri_db26810f:
 
     # mc "Given how hard it is for her to socialize, I would feel awful turning her down, so..."
-    mc ""
+    mc "Con lo que le cuesta socializar, me sabría fatal decirle que no..."
 
 # game/script-ch2.rpy:912
 translate spanish ch2_end_yuri_8d4d0f16:
 
     # s 1x "Isn't she so beautiful and smart?"
-    s 1x ""
+    s 1x "¿Y no te parece guapa e inteligente?"
 
 # game/script-ch2.rpy:916
 translate spanish ch2_end_shared_4715d2cf:
 
     # mc "That has nothing to do with what I just said!"
-    mc ""
+    mc "¡No tiene nada que ver con lo que te acabo de decir!"
 
 # game/script-ch2.rpy:917
 translate spanish ch2_end_shared_860f6b2b:
 
     # s 4s "Ahaha! You admitted it!"
-    s 4s ""
+    s 4s "¡Ja, ja, ja! ¡Lo has admitido!"
 
 # game/script-ch2.rpy:918
 translate spanish ch2_end_shared_9098da49:
 
     # mc "Jeez..."
-    mc ""
+    mc "Buf..."
 
 # game/script-ch2.rpy:919
 translate spanish ch2_end_shared_eb3aa3a1:
 
     # mc "There's not even any point in speculating something that's never going to happen."
-    mc ""
+    mc "No tiene sentido especular sobre algo que no va a suceder."
 
 # game/script-ch2.rpy:920
 translate spanish ch2_end_shared_171200b4:
 
     # s 1d "Well, maybe..."
-    s 1d ""
+    s 1d "Ya, puede..."
 
 # game/script-ch2.rpy:921
 translate spanish ch2_end_shared_fd709dc3:
 
     # s "But I just like to think about it."
-    s ""
+    s "Pero me gusta darle vueltas al tema."
 
 # game/script-ch2.rpy:922
 translate spanish ch2_end_shared_5dee20eb:
 
     # s 1y "It's not long before you won't need me anymore, you know?"
-    s 1y ""
+    s 1y "Después de todo, dentro de poco no te haré ninguna falta, ¿sabes?"
 
 # game/script-ch2.rpy:923
 translate spanish ch2_end_shared_29551931:
 
     # mc "Need you...?"
-    mc ""
+    mc "¿Que no me harás falta?"
 
 # game/script-ch2.rpy:924
 translate spanish ch2_end_shared_e87e0575:
 
     # mc "Sayori..."
-    mc ""
+    mc "Sayori..."
 
 # game/script-ch2.rpy:925
 translate spanish ch2_end_shared_1aac6df9:
 
     # mc "I can't figure out how you're seeing things in your head right now."
-    mc ""
+    mc "No entiendo muy bien qué te pasa por la cabeza."
 
 # game/script-ch2.rpy:926
 translate spanish ch2_end_shared_11b59043:
 
     # s "Sorry..."
-    s ""
+    s "Perdona..."
 
 # game/script-ch2.rpy:927
 translate spanish ch2_end_shared_3f557db3:
 
     # mc "Everyone is different..."
-    mc ""
+    mc "Todos somos diferentes."
 
 # game/script-ch2.rpy:928
 translate spanish ch2_end_shared_af66983c:
 
     # mc "Nobody in the club is a replacement for you."
-    mc ""
+    mc "No hay nadie en el club que pueda reemplazarte."
 
 # game/script-ch2.rpy:929
 translate spanish ch2_end_shared_4c0e171a:
 
     # s 1k "Hmm..."
-    s 1k ""
+    s 1k "Mmm..."
 
 # game/script-ch2.rpy:930
 translate spanish ch2_end_shared_66bb9612:
 
     # s "If you say so..."
-    s ""
+    s "Si tú lo dices..."
 
 # game/script-ch2.rpy:933
 translate spanish ch2_end_shared_3f8a9632:
 
     # "The conversation trails off, and I'm left feeling awkward."
-    ""
+    "La conversación se apaga y me siento un poco incómodo."
 
 # game/script-ch2.rpy:934
 translate spanish ch2_end_shared_388884dc:
 
     # "But it was kind of her fault for trapping me with such a weird question..."
-    ""
+    "Pero es culpa suya por acorralarme con una pregunta tan extraña."
 
 # game/script-ch2.rpy:935
 translate spanish ch2_end_shared_ac037571:
 
     # "I can't just lie to her."
-    ""
+    "Soy incapaz de mentirle."
 
 # game/script-ch2.rpy:936
 translate spanish ch2_end_shared_57396b14:
 
     # "But if there's something that makes her happy, I would hate to take that away from her."
-    ""
+    "Aunque, si algo la hace feliz, me niego a arrebatárselo por nada del mundo."
 
 # game/script-ch2.rpy:937
 translate spanish ch2_end_shared_8d2027c6:
 
     # "That's why I said there's no point in speculating."
-    ""
+    "Por eso le he dicho que de nada sirve especular.
 
 translate spanish strings:
 
