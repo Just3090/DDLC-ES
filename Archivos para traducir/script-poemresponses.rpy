@@ -6190,19 +6190,19 @@ translate spanish ch2_s_bad_240aea9f:
 translate spanish ch2_s_bad_c0d0bf21:
 
     # s "It's like I never know what I'm going to get!"
-    s "¡porque es como si nunca supiera qué me voy a encontrar!"
+    s "¡porque nunca sé con qué me vas a salir!"
 
 # game/script-poemresponses.rpy:1417
 translate spanish ch2_s_bad_10497bf0:
 
     # mc "So basically you're saying it sucks."
-    mc "Vamos, que apesta."
+    mc "Vamos, que es un desastre."
 
 # game/script-poemresponses.rpy:1418
 translate spanish ch2_s_bad_0582fae9:
 
     # s 4c "No! Not at all!"
-    s 4c "¡No! ¡No del todo!"
+    s 4c "¡No! ¡No, para nada!"
 
 # game/script-poemresponses.rpy:1419
 translate spanish ch2_s_bad_75b9f8e4:
@@ -6220,25 +6220,25 @@ translate spanish ch2_s_bad_6c3e3a85:
 translate spanish ch2_s_bad_b7651ced:
 
     # s "Yuri must have spoiled me a little bit with her poems..."
-    s ""
+    s "Creo que Yuri me ha malacostumbrado con los suyos..."
 
 # game/script-poemresponses.rpy:1422
 translate spanish ch2_s_bad_cc3db8cd:
 
     # s "Ehehe..."
-    s ""
+    s "Je, je..."
 
 # game/script-poemresponses.rpy:1423
 translate spanish ch2_s_bad_4255537f:
 
     # mc "It's fine, it's fine."
-    mc ""
+    mc "Está bien, no pasa nada."
 
 # game/script-poemresponses.rpy:1424
 translate spanish ch2_s_bad_096388fc:
 
     # mc "After all, I still have no idea what kinds of writing you even like."
-    mc "Después de todo, sigo sin saber qué clase de poemas te gustan."
+    mc "Después de todo, sigo sin tener ni idea de qué clase de poemas te gustan."
 
 # game/script-poemresponses.rpy:1426
 translate spanish ch2_s_shared_2fadc9c6:
@@ -6784,7 +6784,7 @@ translate spanish ch2_s_good_4a200b7a:
 translate spanish ch2_s_good_b7f6890f:
 
     # s 1x "I wanna put this on my wall~"
-    s 1x "Quiero colgarlo en la pared..."
+    s 1x "Quiero colgarlo en la pared de mi habitación..."
 
 # game/script-poemresponses.rpy:1534
 translate spanish ch2_s_good_f606b4d4:
@@ -7432,7 +7432,7 @@ translate spanish ch3_s_bad_e1554201:
 translate spanish ch3_s_bad_826ee4b4:
 
     # s 1k "...Hm."
-    s 1k ""
+    s 1k "Mmm..."
 
 # game/script-poemresponses.rpy:1652
 translate spanish ch3_s_bad_15f8d5bb:
