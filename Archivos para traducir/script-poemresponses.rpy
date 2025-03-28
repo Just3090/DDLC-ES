@@ -18,6 +18,7 @@ translate spanish poemresponse_start2_a3fd3750:
     # "I told Natsuki I was interested in her poems yesterday."
     "Ayer le dije a Natsuki que estaba interesado en sus poemas."
 
+
 # game/script-poemresponses.rpy:40
 translate spanish poemresponse_start2_de2677e6:
 
@@ -4666,19 +4667,19 @@ translate spanish ch2_n_good_sharedwithch3_42d61858:
 translate spanish ch3_n_bad12_shared_6bee2785:
 
     # n 5x "Yeah, no thanks."
-    n 5x ""
+    n 5x "Ni de coña, gracias."
 
 # game/script-poemresponses.rpy:1109
 translate spanish ch3_n_bad12_shared_a48dd8d8:
 
     # mc "Eh? You didn't even--"
-    mc ""
+    mc "¿Eh? ¡Pero si ni siquiera...!"
 
 # game/script-poemresponses.rpy:1110
 translate spanish ch3_n_bad12_shared_27be8fb9:
 
     # n 5w "{i}Next!{/i}"
-    n 5w ""
+    n 5w "¡Siguiente!"
 
 # game/script-poemresponses.rpy:1115
 translate spanish ch3_n_bad12_shared_bb2cf764:
@@ -4690,97 +4691,97 @@ translate spanish ch3_n_bad12_shared_bb2cf764:
 translate spanish ch3_n_bad12_shared_58f95e02:
 
     # n 2c "...Meh."
-    n 2c ""
+    n 2c "Bah..."
 
 # game/script-poemresponses.rpy:1117
 translate spanish ch3_n_bad12_shared_7337ee1a:
 
     # n "I guess you really haven't learned anything after all."
-    n ""
+    n "Supongo que todavía no has aprendido nada."
 
 # game/script-poemresponses.rpy:1118
 translate spanish ch3_n_bad12_shared_8e9ab461:
 
     # n "Honestly, I don't know why I got my hopes up in the first place."
-    n ""
+    n "La verdad, no sé ni por qué me hago ilusiones."
 
 # game/script-poemresponses.rpy:1119
 translate spanish ch3_n_bad12_shared_a4bd16ec:
 
     # mc "What? I didn't think this one was that bad..."
-    mc ""
+    mc "¿Qué? No pensaba que fuese a estar tan mal..."
 
 # game/script-poemresponses.rpy:1120
 translate spanish ch3_n_bad12_shared_f33bb08e:
 
     # mc "What did I do wrong?"
-    mc ""
+    mc "¿En qué he fallado?"
 
 # game/script-poemresponses.rpy:1124
 translate spanish ch3_n_bad12_shared_bb2cf764_1:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-poemresponses.rpy:1125
 translate spanish ch3_n_bad12_shared_9cc23ece:
 
     # n 2r "Oh, man."
-    n 2r ""
+    n 2r "Ay, madre..."
 
 # game/script-poemresponses.rpy:1126
 translate spanish ch3_n_bad12_shared_c7c09fee:
 
     # n "This is seriously a step backwards."
-    n ""
+    n "Con este has dado un paso atrás."
 
 # game/script-poemresponses.rpy:1127
 translate spanish ch3_n_bad12_shared_fb2e5377:
 
     # mc "Eh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/script-poemresponses.rpy:1128
 translate spanish ch3_n_bad12_shared_61696799:
 
     # n 2c "I liked your last two way better than this one."
-    n 2c ""
+    n 2c "Tus dos últimos poemas me gustaron mucho más que este."
 
 # game/script-poemresponses.rpy:1129
 translate spanish ch3_n_bad12_shared_77ec542a:
 
     # n 1k "I mean..."
-    n 1k ""
+    n 1k "A ver..."
 
 # game/script-poemresponses.rpy:1130
 translate spanish ch3_n_bad12_shared_aafe93c7:
 
     # n "I guess I can't be mad at you for trying different things."
-    n ""
+    n "Supongo que no puedo enfadarme contigo por probar cosas nuevas...,"
 
 # game/script-poemresponses.rpy:1131
 translate spanish ch3_n_bad12_shared_038d3f17:
 
     # n 1c "As long as you're not just trying to impress Yuri or something like that."
-    n 1c ""
+    n 1c "siempre y cuando no sea para impresionar a Yuri o algo así."
 
 # game/script-poemresponses.rpy:1132
 translate spanish ch3_n_bad12_shared_0c6bd15d:
 
     # n 5x "Gross."
-    n 5x ""
+    n 5x "¡Qué asco, por Dios!"
 
 # game/script-poemresponses.rpy:1133
 translate spanish ch3_n_bad12_shared_c0052b5c:
 
     # mc "Okay, okay."
-    mc ""
+    mc "Vale, vale."
 
 # game/script-poemresponses.rpy:1134
 translate spanish ch3_n_bad12_shared_7330982b:
 
     # mc "Like you said, I'm allowed to try new things."
-    mc ""
+    mc "Como has dicho, se me permite probar cosas nuevas."
 
 # game/script-poemresponses.rpy:1137
 translate spanish ch3_n_shared_b8e7f1ef:
@@ -4906,7 +4907,7 @@ translate spanish ch3_n_shared_f991fa72:
 translate spanish ch3_n_shared_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/script-poemresponses.rpy:1160
 translate spanish ch3_n_shared_bdf2c4c5:
@@ -5182,7 +5183,7 @@ translate spanish ch3_n_good_1b4713a6:
 translate spanish ch3_n_good_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/script-poemresponses.rpy:1223
 translate spanish ch3_n_good_0eb6e6ac:
@@ -5212,7 +5213,7 @@ translate spanish ch3_n_good_e3d92c52:
 translate spanish ch3_n_good_a51de77b:
 
     # n "[player]..."
-    n ""
+    n "[player]..."
 
 # game/script-poemresponses.rpy:1228
 translate spanish ch3_n_good_69ab276f:
@@ -5260,7 +5261,7 @@ translate spanish ch3_n_good_d1d33c65:
 translate spanish ch3_n_good_3aa42c3b_1:
 
     # mc "Natsuki..."
-    mc ""
+    mc "Natsuki..."
 
 # game/script-poemresponses.rpy:1236
 translate spanish ch3_n_good_3bd14e07:
@@ -5554,7 +5555,7 @@ translate spanish ch3_n_good_d3bee692:
 translate spanish ch3_n_good_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-poemresponses.rpy:1294
 translate spanish ch3_n_good_0e8a5f60:
