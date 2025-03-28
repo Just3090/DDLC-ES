@@ -424,229 +424,229 @@ translate spanish ch3_main_4bfa6536:
 translate spanish ch3_main_2a6e770a:
 
     # m "[player]! What's up?"
-    m ""
+    m "¡[player]! ¿Va todo bien?"
 
 # game/script-ch3.rpy:120
 translate spanish ch3_main_e22411e9:
 
     # mc "Hey, this might sound a little strange, but..."
-    mc ""
+    mc "Hola. Mira, puede que suene raro, pero..."
 
 # game/script-ch3.rpy:121
 translate spanish ch3_main_7d89c66d:
 
     # mc "Have you noticed anything up with Sayori recently?"
-    mc ""
+    mc "¿Has notado algo extraño en Sayori estos últimos días?"
 
 # game/script-ch3.rpy:122
 translate spanish ch3_main_2f38f7c6:
 
     # m 1d "Anything up with her...?"
-    m 1d ""
+    m 1d "¿Algo extraño?"
 
 # game/script-ch3.rpy:123
 translate spanish ch3_main_6d065c32:
 
     # m "In what way do you mean?"
-    m ""
+    m "¿En qué sentido?"
 
 # game/script-ch3.rpy:124
 translate spanish ch3_main_4af445be:
 
     # mc "Maybe I'm reading into it a little too much, but she seems a bit downcast today..."
-    mc ""
+    mc "Quizá le estoy dando demasiadas vueltas, pero hoy parece algo abatida."
 
 # game/script-ch3.rpy:125
 translate spanish ch3_main_3d2f1e4f:
 
     # m "Oh? You think so?"
-    m ""
+    m "¿Eh? ¿Tú crees?"
 
 # game/script-ch3.rpy:126
 translate spanish ch3_main_e65999e3:
 
     # m "I can't say I've noticed anything about her..."
-    m ""
+    m "No he notado nada en particular..."
 
 # game/script-ch3.rpy:127
 translate spanish ch3_main_b0f2d760:
 
     # "Monika peers across the room at Sayori, who is idly dragging a rubber eraser up and down her desk."
-    ""
+    "Monika mira a Sayori, que está al otro lado del aula arrastrando distraída una goma de borrar por su pupitre."
 
 # game/script-ch3.rpy:128
 translate spanish ch3_main_20f10b9d:
 
     # m "Maybe there is something on her mind..."
-    m ""
+    m "Puede que le preocupe algo."
 
 # game/script-ch3.rpy:129
 translate spanish ch3_main_f53d8414:
 
     # m 2a "But I'm surprised I'm not the one asking you, [player]."
-    m 2a ""
+    m 2a "Aunque soy yo la que debería preguntarte a ti, [player]."
 
 # game/script-ch3.rpy:130
 translate spanish ch3_main_4f1d9fcf:
 
     # m "You certainly know her a lot better than I do."
-    m ""
+    m "Sin duda la conoces mucho mejor que yo."
 
 # game/script-ch3.rpy:131
 translate spanish ch3_main_5d1a8e6e:
 
     # mc "Yeah, but she's never really like this..."
-    mc ""
+    mc "Sí, pero nunca se había portado de esta forma..."
 
 # game/script-ch3.rpy:132
 translate spanish ch3_main_8e93da88:
 
     # mc "She's always talked to me about things that bothered her."
-    mc ""
+    mc "No dudaba en hablar conmigo cuando algo la atormentaba."
 
 # game/script-ch3.rpy:133
 translate spanish ch3_main_41a46d4e:
 
     # mc "But this time, when I asked her, she was really dismissive."
-    mc ""
+    mc "Pero, esta vez, me ha dado largas cuando le he preguntado."
 
 # game/script-ch3.rpy:134
 translate spanish ch3_main_7806befb:
 
     # mc "...Sorry, I know it's not your problem!"
-    mc ""
+    mc "... Disculpa, ¡sé que no es problema tuyo!"
 
 # game/script-ch3.rpy:135
 translate spanish ch3_main_e84794f0:
 
     # mc "I just wanted to ask if you knew anything, so I'll drop it now..."
-    mc ""
+    mc "Solo quería preguntarte si sabías algo. Ya te dejo en paz."
 
 # game/script-ch3.rpy:136
 translate spanish ch3_main_9a81ed2c:
 
     # m 1g "No, no..."
-    m 1g ""
+    m 1g "No, tranquilo."
 
 # game/script-ch3.rpy:137
 translate spanish ch3_main_1203b368:
 
     # m "It's important to me, too."
-    m ""
+    m "A mí también me importa."
 
 # game/script-ch3.rpy:138
 translate spanish ch3_main_a44abe16:
 
     # m 1e "I mean, I'm also friends with her..."
-    m 1e ""
+    m 1e "A fin de cuentas, también es amiga mía."
 
 # game/script-ch3.rpy:139
 translate spanish ch3_main_4ed92bda:
 
     # m "And I also care about the well-being of my club members, you know?"
-    m ""
+    m "Y me preocupo por los miembros de mi club, ¿sabes?"
 
 # game/script-ch3.rpy:140
 translate spanish ch3_main_19a357cd:
 
     # m 1i "Maybe I'll try talking to her myself..."
-    m 1i ""
+    m 1i "Iré a hablar con ella."
 
 # game/script-ch3.rpy:141
 translate spanish ch3_main_86450641:
 
     # mc "Eh? Are you sure about that...?"
-    mc ""
+    mc "¿Eh? ¿Estás segura?"
 
 # game/script-ch3.rpy:142
 translate spanish ch3_main_8b5282dc:
 
     # mc "She seemed like she wanted to be left alone..."
-    mc ""
+    mc "Parecía que quería estar sola."
 
 # game/script-ch3.rpy:143
 translate spanish ch3_main_eeff158c:
 
     # m "Are you sure?"
-    m ""
+    m "¿Tú crees?"
 
 # game/script-ch3.rpy:144
 translate spanish ch3_main_d06144a2:
 
     # m "Maybe she just has a hard time bringing it up with the person of interest..."
-    m ""
+    m "Puede que lo esté pasando mal pensando en la persona que le interesa..."
 
 # game/script-ch3.rpy:145
 translate spanish ch3_main_af2414ed:
 
     # mc "Person of interest...?"
-    mc ""
+    mc "¿La persona que le interesa?..."
 
 # game/script-ch3.rpy:146
 translate spanish ch3_main_721d4483:
 
     # mc "What do you mean by that?"
-    mc ""
+    mc "¿De qué hablas?"
 
 # game/script-ch3.rpy:147
 translate spanish ch3_main_a8802558:
 
     # m 2e "I'm saying that maybe the thing on her mind is you, [player]."
-    m 2e ""
+    m 2e "Me refiero a que está pensando en ti, [player]."
 
 # game/script-ch3.rpy:148
 translate spanish ch3_main_55dcaef8:
 
     # mc "Me...?"
-    mc ""
+    mc "¿En mí?..."
 
 # game/script-ch3.rpy:149
 translate spanish ch3_main_f21ed1cb:
 
     # mc "How on Earth would you come to that conclusion?"
-    mc ""
+    mc "¿Se puede saber cómo has llegado a esa conclusión?"
 
 # game/script-ch3.rpy:150
 translate spanish ch3_main_3597eef0:
 
     # m 1j "Well..."
-    m 1j ""
+    m 1j "Bueno..."
 
 # game/script-ch3.rpy:151
 translate spanish ch3_main_70cf461c:
 
     # m "I probably shouldn't say too much, but..."
-    m ""
+    m "Probablemente estaría mejor calladita, pero..."
 
 # game/script-ch3.rpy:152
 translate spanish ch3_main_5171073b:
 
     # m 1a "Sayori talks about you more than anything else, you know?"
-    m 1a ""
+    m 1a "Sayori se pasa todo el día hablando de ti, ¿sabes?"
 
 # game/script-ch3.rpy:153
 translate spanish ch3_main_bbe4458e:
 
     # mc "Eh...?"
-    mc ""
+    mc "¿Eh?"
 
 # game/script-ch3.rpy:154
 translate spanish ch3_main_35841dde:
 
     # m "She's been so much happier ever since you've joined the club."
-    m ""
+    m "Está más dicharachera desde que te uniste al club."
 
 # game/script-ch3.rpy:155
 translate spanish ch3_main_d6ca5954:
 
     # m "It's like an extra light was turned on inside of her."
-    m ""
+    m "Como si otra chispita se hubiese encendido dentro de ella."
 
 # game/script-ch3.rpy:156
 translate spanish ch3_main_11455b53:
 
     # mc "What?"
-    mc ""
+    mc "¿Qué?"
 
 # game/script-ch3.rpy:157
 translate spanish ch3_main_84b7a515:
