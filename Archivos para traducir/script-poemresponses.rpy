@@ -725,175 +725,175 @@ translate spanish ch2_y_end_fae43e77:
 translate spanish ch3_y_end_a1300026:
 
     # y "Um..."
-    y ""
+    y "Mmm..."
 
 # game/script-poemresponses.rpy:259
 translate spanish ch3_y_end_8c575607:
 
     # y "I'm aware that the beach is kind of an inane thing to write about."
-    y ""
+    y "Soy consciente de que la playa es algo sosa para escribir sobre ella,"
 
 # game/script-poemresponses.rpy:260
 translate spanish ch3_y_end_39dc46eb:
 
     # y "But I did my best to take a metaphorical approach to it."
-    y ""
+    y "pero me esforcé un montón en darle un tono metafórico."
 
 # game/script-poemresponses.rpy:262
 translate spanish ch3_y_end_c3617635:
 
     # mc "You say that like you didn't even want to write about it..."
-    mc ""
+    mc "Tal y como lo dices, parece como si no quisieses escribir sobre ella..."
 
 # game/script-poemresponses.rpy:263
 translate spanish ch3_y_end_dade8ef0:
 
     # y 2e "Oh, you haven't heard...?"
-    y 2e ""
+    y 2e "Ay, ¿no te has enterado?"
 
 # game/script-poemresponses.rpy:264
 translate spanish ch3_y_end_207456d1:
 
     # y 2h "After yesterday, Natsuki and I...well..."
-    y 2h ""
+    y 2h "Tras lo de ayer, Natsuki y yo..., bueno..."
 
 # game/script-poemresponses.rpy:265
 translate spanish ch3_y_end_884aa2b8:
 
     # y "It was...amusing that we wrote about something similar in such different ways."
-    y ""
+    y "Fue... increíble eso de haber escrito algo tan similar, pero de forma tan diferente."
 
 # game/script-poemresponses.rpy:266
 translate spanish ch3_y_end_91b76390:
 
     # y "So, Natsuki wanted us to write about the same topic as each other again."
-    y ""
+    y "Así que, eso, Natsuki quería que volviésemos a escribir ambas sobre el mismo tema."
 
 # game/script-poemresponses.rpy:269
 translate spanish ch3_y_end_a7bcf340:
 
     # mc "I see..."
-    mc ""
+    mc "Entiendo..."
 
 # game/script-poemresponses.rpy:270
 translate spanish ch3_y_end_9fc21808:
 
     # "Natsuki didn't even let me read her poem, so I don't have much to contribute."
-    ""
+    "Natsuki no me dejó siquiera leer su poema, así que tengo poco que decir."
 
 # game/script-poemresponses.rpy:272
 translate spanish ch3_y_end_a7bcf340_1:
 
     # mc "I see..."
-    mc ""
+    mc "Entiendo..."
 
 # game/script-poemresponses.rpy:273
 translate spanish ch3_y_end_d516d084:
 
     # "Something tells me the poem Natsuki showed me isn't the one she plans on sharing with everyone else..."
-    ""
+    "Algo me dice que el poema que me enseñó Natsuki no era el que debía compartir con el resto..."
 
 # game/script-poemresponses.rpy:274
 translate spanish ch3_y_end_14d09b04:
 
     # "Of course, I choose not to mention that to Yuri."
-    ""
+    "Decido no mencionarle eso a Yuri, obviamente."
 
 # game/script-poemresponses.rpy:276
 translate spanish ch3_y_end_fa563fa8:
 
     # mc "Yeah, Natsuki already told me about it."
-    mc ""
+    mc "Sí, ya me lo ha contado todo Natsuki."
 
 # game/script-poemresponses.rpy:277
 translate spanish ch3_y_end_e0389ed2:
 
     # y 3t "S-She did...?"
-    y 3t ""
+    y 3t "¿E-En serio?"
 
 # game/script-poemresponses.rpy:278
 translate spanish ch3_y_end_e1845edf:
 
     # y "She didn't say anything weird, did she?"
-    y ""
+    y "Pero no te diría nada extraño, ¿no?"
 
 # game/script-poemresponses.rpy:279
 translate spanish ch3_y_end_6ad40ee2:
 
     # y "She just wanted us to write about the same topic again..."
-    y ""
+    y "Tan solo quería que volviésemos a escribir ambas sobre el mismo tema..."
 
 # game/script-poemresponses.rpy:280
 translate spanish ch3_y_end_353b328b:
 
     # y 2f "I suppose to better compare the differences in our writing styles...or thought processes."
-    y 2f ""
+    y 2f "Supongo que para poder comparar mejor las diferencias entre nuestros estilos... o nuestros procesos creativos."
 
 # game/script-poemresponses.rpy:281
 translate spanish ch3_y_end_cd8b294a:
 
     # y 2w "Anyway, it was her idea...!"
-    y 2w ""
+    y 2w "En fin, ¡que ha sido todo idea suya!"
 
 # game/script-poemresponses.rpy:282
 translate spanish ch3_y_end_dc6a3380:
 
     # y "Knowing her, it's no surprise that she'd want to do something like that."
-    y ""
+    y "Conociéndola, no me sorprende que quiera hacer algo así."
 
 # game/script-poemresponses.rpy:283
 translate spanish ch3_y_end_10a5f574:
 
     # y "She probably just wants to show off."
-    y ""
+    y "Seguramente sea todo para intentar lucirse."
 
 # game/script-poemresponses.rpy:284
 translate spanish ch3_y_end_5d22b7d3:
 
     # y 2v "It's not like I have a particular interest in her writing style..."
-    y 2v ""
+    y 2v "Tampoco es que me interese especialmente su estilo a la hora de escribir..."
 
 # game/script-poemresponses.rpy:285
 translate spanish ch3_y_end_afb52001:
 
     # y "I just went with her request."
-    y ""
+    y "Tan solo cumplí su petición."
 
 # game/script-poemresponses.rpy:286
 translate spanish ch3_y_end_e45b137d:
 
     # y "But..."
-    y ""
+    y "Pero..."
 
 # game/script-poemresponses.rpy:287
 translate spanish ch3_y_end_c68d2702:
 
     # y 1s "Well, I suppose it's not so bad to write about something simple on occasion."
-    y 1s ""
+    y 1s "Bueno, supongo que no tiene nada de malo escribir sobre cosas sencillitas."
 
 # game/script-poemresponses.rpy:288
 translate spanish ch3_y_end_79454ffe:
 
     # y 1m "It can be refreshing, you know?"
-    y 1m ""
+    y 1m "Puede ser un soplo de aire fresco, ¿sabes?"
 
 # game/script-poemresponses.rpy:289
 translate spanish ch3_y_end_5d1bb453:
 
     # y "It's good for me to calm my thoughts once in a while."
-    y ""
+    y "No me viene mal apaciguar mis pensamientos de vez en cuando."
 
 # game/script-poemresponses.rpy:290
 translate spanish ch3_y_end_9d91c067:
 
     # mc "Yeah...I think I agree."
-    mc ""
+    mc "Sí... Creo que opino lo mismo."
 
 # game/script-poemresponses.rpy:291
 translate spanish ch3_y_end_aa50b32a:
 
     # mc "Thanks for sharing."
-    mc ""
+    mc "Gracias por compartirlo conmigo."
 
 # game/script-poemresponses.rpy:295
 translate spanish ch3_y_end_special_2a706aa2:
@@ -1727,157 +1727,157 @@ translate spanish ch2_n_end_551f7269:
 translate spanish ch3_n_end_414b5f0c:
 
     # n 2a "Yeah..."
-    n 2a ""
+    n 2a "Sí..."
 
 # game/script-poemresponses.rpy:456
 translate spanish ch3_n_end_a8d27ddf:
 
     # n "I felt like I kept writing about negative things, so I wanted to write something with a nice message for once."
-    n ""
+    n "Me dio la sensación de que tan solo escribía sobre cosas negativas, así que, para variar, quise escribir algo con un mensaje positivo."
 
 # game/script-poemresponses.rpy:457
 translate spanish ch3_n_end_badae2c6:
 
     # n 2z "Besides...the beach is awesome!"
-    n 2z ""
+    n 2z "Además..., ¡la playa mola un montón!"
 
 # game/script-poemresponses.rpy:458
 translate spanish ch3_n_end_d4849c6b:
 
     # n 2j "Kinda hard to write anything negative about the beach."
-    n 2j ""
+    n 2j "Es muy difícil escribir cosas negativas sobre la playa."
 
 # game/script-poemresponses.rpy:460
 translate spanish ch3_n_end_fcf484f2:
 
     # mc "So you decided to write about the beach first, and then came up with the message later?"
-    mc ""
+    mc "¿Así que primero decidiste escribir sobre la playa y luego se te ocurrió el mensaje que querías transmitir?"
 
 # game/script-poemresponses.rpy:461
 translate spanish ch3_n_end_d9e61fcc:
 
     # n 2c "Yeah, well..."
-    n 2c ""
+    n 2c "Sí, bueno..."
 
 # game/script-poemresponses.rpy:462
 translate spanish ch3_n_end_ff427fc5:
 
     # n "It's only because of what happened yesterday."
-    n ""
+    n "Es por lo que pasó ayer."
 
 # game/script-poemresponses.rpy:463
 translate spanish ch3_n_end_a898b508:
 
     # n 5q "I mean, after Yuri and I realized we kind of wrote about the same thing..."
-    n 5q ""
+    n 5q "Me refiero a cuando Yuri y yo nos percatamos de que habíamos escrito sobre el mismo tema..."
 
 # game/script-poemresponses.rpy:464
 translate spanish ch3_n_end_9c8cb24c:
 
     # n "She wanted to pick a topic and have us both write about it, or whatever."
-    n ""
+    n "Yuri quiso elegir un tema común y que las dos escribiésemos sobre él o algo así."
 
 # game/script-poemresponses.rpy:467
 translate spanish ch3_n_end_a7bcf340:
 
     # mc "I see..."
-    mc ""
+    mc "Entiendo..."
 
 # game/script-poemresponses.rpy:468
 translate spanish ch3_n_end_f69d1672:
 
     # "I don't really have much to contribute here, since I didn't actually read Yuri's poem..."
-    ""
+    "Aunque tengo poco que decir, ya que Yuri no me dejó leer su poema..."
 
 # game/script-poemresponses.rpy:470
 translate spanish ch3_n_end_a7bcf340_1:
 
     # mc "I see..."
-    mc ""
+    mc "Entiendo..."
 
 # game/script-poemresponses.rpy:471
 translate spanish ch3_n_end_c5c52c14:
 
     # "Something tells me the poem Yuri showed me isn't the one she plans on sharing with everyone else..."
-    ""
+    "Algo me dice que el poema que me ha enseñado Yuri no es el que planeaba enseñarle al resto..."
 
 # game/script-poemresponses.rpy:472
 translate spanish ch3_n_end_7a8c5a9c:
 
     # "Of course, I choose not to mention that to Natsuki."
-    ""
+    "Elijo no mencionarle eso a Natsuki, obviamente."
 
 # game/script-poemresponses.rpy:474
 translate spanish ch3_n_end_c722c4b2:
 
     # mc "Well, Yuri's take on it was a little more solemn."
-    mc ""
+    mc "A ver, Yuri lo interpretó de una forma un poco más solemne."
 
 # game/script-poemresponses.rpy:475
 translate spanish ch3_n_end_3355af86:
 
     # n 5h "Well, that's--"
-    n 5h ""
+    n 5h "Eso es..."
 
 # game/script-poemresponses.rpy:476
 translate spanish ch3_n_end_e897feb4:
 
     # n 42c "Jeez...she better not have said anything bad about mine!"
-    n 42c ""
+    n 42c "Buf... ¡Espero que no haya dicho nada malo de mi poema!"
 
 # game/script-poemresponses.rpy:477
 translate spanish ch3_n_end_d19ef80f:
 
     # n "After all, she was the one who wanted us to write about the same topic."
-    n ""
+    n "Al fin y al cabo, fue ella quien quiso que escribiésemos sobre el mismo tema."
 
 # game/script-poemresponses.rpy:478
 translate spanish ch3_n_end_4e355357:
 
     # n 1s "Ugh...you can really see her doing that, too."
-    n 1s ""
+    n 1s "Arg... Aunque esto es muy típico de ella."
 
 # game/script-poemresponses.rpy:479
 translate spanish ch3_n_end_415f6d11:
 
     # n "Making us write about a simple topic, then trying to impress me by coming up with something all fancy."
-    n ""
+    n "Sugiere que escribamos sobre un tema sencillito para intentar impresionarme con algo muy rimbombante."
 
 # game/script-poemresponses.rpy:480
 translate spanish ch3_n_end_68618747:
 
     # n 1w "Well, it's not like I care."
-    n 1w ""
+    n 1w "Bah, qué más me dará."
 
 # game/script-poemresponses.rpy:481
 translate spanish ch3_n_end_a70f6259:
 
     # n "I just did it anyway."
-    n ""
+    n "He cumplido mi parte igual."
 
 # game/script-poemresponses.rpy:482
 translate spanish ch3_n_end_11801a2a:
 
     # n 1q "I mean, I guess mine ended up being kind of metaphorical too..."
-    n 1q ""
+    n 1q "A ver, es cierto que el poema me quedó un tanto metafórico y tal..."
 
 # game/script-poemresponses.rpy:483
 translate spanish ch3_n_end_2b3a7296:
 
     # n "...But there's nothing wrong with doing that once in a while!"
-    n ""
+    n "Pero no tiene nada de malo escribir algo así de vez en cuando."
 
 # game/script-poemresponses.rpy:484
 translate spanish ch3_n_end_2221c3bc:
 
     # n "At the very least, it was good practice."
-    n ""
+    n "Como mínimo, ha sido una práctica excelente."
 
 # game/script-poemresponses.rpy:488
 translate spanish ch3_n_end_special_e9173862:
 
     # n 1q "..."
-    n 1q ""
+    n 1q "..."
 
 # game/script-poemresponses.rpy:489
 translate spanish ch3_n_end_special_e6529392:
@@ -4205,13 +4205,13 @@ translate spanish ch2_n_good_sharedwithch3_b7135225:
 translate spanish ch2_n_good_sharedwithch3_8a25ddee:
 
     # n 1e "I'll tell you! You--"
-    n 1e "¡Pues esta claro! Que est..."
+    n 1e "¡Pues esta claro! Que es..."
 
 # game/script-poemresponses.rpy:985
 translate spanish ch2_n_good_sharedwithch3_2486a5e5:
 
     # n 1p "--"
-    n 1p "... ás..."
+    n 1p "... tás..."
 
 # game/script-poemresponses.rpy:986
 translate spanish ch2_n_good_sharedwithch3_8536572a:
@@ -5051,133 +5051,133 @@ translate spanish ch3_n_med_9eab8506:
 translate spanish ch3_n_good_948d065f:
 
     # n 1l "Let's see, let's see!"
-    n 1l ""
+    n 1l "¡A verlo, a verlo!"
 
 # game/script-poemresponses.rpy:1201
 translate spanish ch3_n_good_8e641cfb:
 
     # mc "You're certainly enthusiastic today."
-    mc ""
+    mc "Vaya, qué entusiasmada te veo hoy."
 
 # game/script-poemresponses.rpy:1202
 translate spanish ch3_n_good_ed177b07:
 
     # n 2j "Of course."
-    n 2j ""
+    n 2j "Por supuesto."
 
 # game/script-poemresponses.rpy:1203
 translate spanish ch3_n_good_63b9a72c:
 
     # n "You know I like your writing."
-    n ""
+    n "Ya sabes que me gustan tus creaciones."
 
 # game/script-poemresponses.rpy:1204
 translate spanish ch3_n_good_903fcba2:
 
     # mc "I'm just surprised."
-    mc ""
+    mc "No sé, es algo que me sorprende."
 
 # game/script-poemresponses.rpy:1205
 translate spanish ch3_n_good_398470a1:
 
     # mc "It seemed like you had a lot of trouble admitting that before."
-    mc ""
+    mc "Hasta hace nada, te costaba un montón admitirlo."
 
 # game/script-poemresponses.rpy:1206
 translate spanish ch3_n_good_cc1d37c9:
 
     # n 5w "Well... Well, of course!"
-    n 5w ""
+    n 5w "Bueno... ¡Es normal, hombre!"
 
 # game/script-poemresponses.rpy:1207
 translate spanish ch3_n_good_0fa4fdfa:
 
     # n 5q "I just had to put you in your place a little bit!"
-    n 5q ""
+    n 5q "¡Tenía que apretarte un poco las tuercas!"
 
 # game/script-poemresponses.rpy:1208
 translate spanish ch3_n_good_321de497:
 
     # n "It's not like..."
-    n ""
+    n "No es que..."
 
 # game/script-poemresponses.rpy:1209
 translate spanish ch3_n_good_078f67a3:
 
     # n "I mean, it's not like I was shy or anything stupid like that."
-    n ""
+    n "A ver, no es que fuese tímida o alguna cosa así estúpida."
 
 # game/script-poemresponses.rpy:1210
 translate spanish ch3_n_good_c056cc39:
 
     # n 5t "Or jealous!"
-    n 5t ""
+    n 5t "¡Ni que estuviese celosa!"
 
 # game/script-poemresponses.rpy:1211
 translate spanish ch3_n_good_d9689f56:
 
     # n "I really wasn't jealous."
-    n ""
+    n "Desde luego que no estaba celosa."
 
 # game/script-poemresponses.rpy:1212
 translate spanish ch3_n_good_4298f820:
 
     # n "Just because you happen to be a good writer?"
-    n ""
+    n "¿Celarme porque resulta que eres un buen escritor?"
 
 # game/script-poemresponses.rpy:1213
 translate spanish ch3_n_good_1c88772e:
 
     # n 4y "That's such a dumb thing to get jealous about."
-    n 4y ""
+    n 4y "No se me ocurre un motivo más absurdo que ese para estar celosa."
 
 # game/script-poemresponses.rpy:1214
 translate spanish ch3_n_good_5ba50678:
 
     # n "Ahaha!"
-    n ""
+    n "¡Ja, ja, ja!"
 
 # game/script-poemresponses.rpy:1215
 translate spanish ch3_n_good_3aa42c3b:
 
     # mc "Natsuki..."
-    mc ""
+    mc "Natsuki..."
 
 # game/script-poemresponses.rpy:1216
 translate spanish ch3_n_good_c01486b4:
 
     # n 1h "What??"
-    n 1h ""
+    n 1h "¡¿Qué?!"
 
 # game/script-poemresponses.rpy:1217
 translate spanish ch3_n_good_a8eec28b:
 
     # mc "You're not very confident about your writing, are you?"
-    mc ""
+    mc "No estás demasiado satisfecha con tus poemas, ¿verdad?"
 
 # game/script-poemresponses.rpy:1218
 translate spanish ch3_n_good_607f2dbb:
 
     # n 1n "...Eh?"
-    n 1n ""
+    n 1n "¿Eh?"
 
 # game/script-poemresponses.rpy:1219
 translate spanish ch3_n_good_e96b4a1b:
 
     # n "W-What are you talking about?"
-    n ""
+    n "P-Pero ¿qué dices?"
 
 # game/script-poemresponses.rpy:1220
 translate spanish ch3_n_good_e41cbb41:
 
     # n 1u "My writing is obviously the best..."
-    n 1u ""
+    n 1u "Mis poemas son los mejores del mundo..."
 
 # game/script-poemresponses.rpy:1221
 translate spanish ch3_n_good_1b4713a6:
 
     # n "...Right?"
-    n ""
+    n "... ¿Verdad?"
 
 # game/script-poemresponses.rpy:1222
 translate spanish ch3_n_good_2b35b6fe:
@@ -5189,25 +5189,25 @@ translate spanish ch3_n_good_2b35b6fe:
 translate spanish ch3_n_good_0eb6e6ac:
 
     # "It took me a while to figure out, but I think I finally did."
-    ""
+    "Me ha llevado mi tiempo, pero por fin me he dado cuenta."
 
 # game/script-poemresponses.rpy:1224
 translate spanish ch3_n_good_18295abf:
 
     # "Maybe Natsuki acts so arrogant because she's trying to make up for her own insecurities."
-    ""
+    "Puede que Natsuki tenga esa actitud tan arrogante porque intenta compensar sus propias inseguridades."
 
 # game/script-poemresponses.rpy:1225
 translate spanish ch3_n_good_5345b744:
 
     # "If she acts like she's the best, then other people might think that way, too."
-    ""
+    "Si se comporta como si fuese la mejor, quizá los demás piensen que lo es."
 
 # game/script-poemresponses.rpy:1226
 translate spanish ch3_n_good_e3d92c52:
 
     # n 1m "Right...?"
-    n 1m ""
+    n 1m "¿Verdad?"
 
 # game/script-poemresponses.rpy:1227
 translate spanish ch3_n_good_a51de77b:
@@ -5219,43 +5219,43 @@ translate spanish ch3_n_good_a51de77b:
 translate spanish ch3_n_good_69ab276f:
 
     # n "Please just tell me you like my poems."
-    n ""
+    n "Dime que te gustan mis poemas, por favor..."
 
 # game/script-poemresponses.rpy:1229
 translate spanish ch3_n_good_b301ade1:
 
     # n 1u "I don't care if you hate them."
-    n 1u ""
+    n 1u "Me da igual que los odies con todo tu ser."
 
 # game/script-poemresponses.rpy:1230
 translate spanish ch3_n_good_eb1f460e:
 
     # n "Just please tell me I'm the best."
-    n ""
+    n "Dime que soy la mejor, por favor."
 
 # game/script-poemresponses.rpy:1231
 translate spanish ch3_n_good_77dda759:
 
     # n "I just..."
-    n ""
+    n "Es que..."
 
 # game/script-poemresponses.rpy:1232
 translate spanish ch3_n_good_d20244e7:
 
     # n 1q "I just really need to hear that from someone."
-    n 1q ""
+    n 1q "Tan solo necesito oírselo decir a alguien."
 
 # game/script-poemresponses.rpy:1233
 translate spanish ch3_n_good_946e525c:
 
     # n "I know I sound stupid."
-    n ""
+    n "Sé que parece una tontería,"
 
 # game/script-poemresponses.rpy:1234
 translate spanish ch3_n_good_d1d33c65:
 
     # n "But there's a reason I never shared my poems before this."
-    n ""
+    n "pero hay un motivo por el que nunca compartía mis poemas antes de todo esto."
 
 # game/script-poemresponses.rpy:1235
 translate spanish ch3_n_good_3aa42c3b_1:
@@ -5267,289 +5267,289 @@ translate spanish ch3_n_good_3aa42c3b_1:
 translate spanish ch3_n_good_3bd14e07:
 
     # n "Because..."
-    n ""
+    n "Porque..."
 
 # game/script-poemresponses.rpy:1237
 translate spanish ch3_n_good_cc1abee3:
 
     # n 12c "Because nobody ever takes me seriously!"
-    n 12c ""
+    n 12c "¡Porque nunca nadie me toma en serio!"
 
 # game/script-poemresponses.rpy:1238
 translate spanish ch3_n_good_ff270aab:
 
     # n "What's the point in sharing my poems if people just laugh and say \"That's so cute, just like you, Natsuki!\""
-    n ""
+    n "¿Qué sentido tiene compartir mis poemas si luego la gente se ríe y dice 'qué monada de poema, ¡igualito que tú, Natsuki!'?"
 
 # game/script-poemresponses.rpy:1239
 translate spanish ch3_n_good_39e2ca20:
 
     # n "Sometimes I don't want to be cute!"
-    n ""
+    n "¡A veces no quiero ser mona!"
 
 # game/script-poemresponses.rpy:1240
 translate spanish ch3_n_good_83a8f68b:
 
     # n 12d "But nobody understands that!"
-    n 12d ""
+    n 12d "¡Pero nadie me entiende!"
 
 # game/script-poemresponses.rpy:1241
 translate spanish ch3_n_good_7d9df315:
 
     # n "I try really hard when I write."
-    n ""
+    n "Me esfuerzo un montón al escribir."
 
 # game/script-poemresponses.rpy:1242
 translate spanish ch3_n_good_e545c83d:
 
     # n 12e "The style doesn't matter."
-    n 12e ""
+    n 12e "El estilo da igual."
 
 # game/script-poemresponses.rpy:1243
 translate spanish ch3_n_good_25024747:
 
     # n "The emotions are there."
-    n ""
+    n "Las emociones están ahí."
 
 # game/script-poemresponses.rpy:1244
 translate spanish ch3_n_good_95a09f7c:
 
     # n 1n "Why can't anyone {i}see{/i} that...?"
-    n 1n ""
+    n 1n "¿Por qué nadie las ve?"
 
 # game/script-poemresponses.rpy:1245
 translate spanish ch3_n_good_75b57916:
 
     # n 1u "I just want..."
-    n 1u ""
+    n 1u "Tan solo quiero..."
 
 # game/script-poemresponses.rpy:1246
 translate spanish ch3_n_good_f4008f69:
 
     # "Natsuki trails off."
-    ""
+    "Natsuki deja de hablar."
 
 # game/script-poemresponses.rpy:1247
 translate spanish ch3_n_good_072d63c1:
 
     # "Maybe it's because her lip started to quiver."
-    ""
+    "Puede que sea porque le ha empezado a temblar el labio."
 
 # game/script-poemresponses.rpy:1248
 translate spanish ch3_n_good_f68cfca4:
 
     # "I look down."
-    ""
+    "Miro hacia abajo."
 
 # game/script-poemresponses.rpy:1249
 translate spanish ch3_n_good_fab52c90:
 
     # "Her fists are clenched really tightly."
-    ""
+    "Está apretando los puños con mucha fuerza."
 
 # game/script-poemresponses.rpy:1250
 translate spanish ch3_n_good_fb1c5db2:
 
     # mc "Hey, Natsuki."
-    mc ""
+    mc "Eh, Natsuki..."
 
 # game/script-poemresponses.rpy:1251
 translate spanish ch3_n_good_845be5c2:
 
     # mc "If you're not careful, you'll rip your own poem."
-    mc ""
+    mc "Ten cuidado, que vas a cargarte tu propio poema..."
 
 # game/script-poemresponses.rpy:1252
 translate spanish ch3_n_good_6e9f33a7:
 
     # "I gently grab the poem with my own hand until she relaxes her grip on it."
-    ""
+    "Agarro el poema con cuidado y espero hasta que ella deje de hacer fuerza."
 
 # game/script-poemresponses.rpy:1253
 translate spanish ch3_n_good_5e95f879:
 
     # "I place it flat on the desk and smooth out the wrinkles that she put into it."
-    ""
+    "Después, lo coloco sobre la mesa e intento quitarle las arrugas que le hizo."
 
 # game/script-poemresponses.rpy:1254
 translate spanish ch3_n_good_6ff9a79f:
 
     # n 1h "D-Don't read it!"
-    n 1h ""
+    n 1h "¡N-No lo leas!"
 
 # game/script-poemresponses.rpy:1255
 translate spanish ch3_n_good_f922e360:
 
     # "Before I can pick it back up, Natsuki snatches the poem up from the desk."
-    ""
+    "Natsuki se lleva el poema antes de que me dé tiempo a volver a cogerlo."
 
 # game/script-poemresponses.rpy:1256
 translate spanish ch3_n_good_fd65c270:
 
     # n 5q "It's not any good."
-    n 5q ""
+    n 5q "No merece la pena."
 
 # game/script-poemresponses.rpy:1257
 translate spanish ch3_n_good_395ef125:
 
     # n "And I know you hate my poems."
-    n ""
+    n "Además, sé que odias mis poemas."
 
 # game/script-poemresponses.rpy:1258
 translate spanish ch3_n_good_c7a152d1:
 
     # n "So you don't have to read this one, okay?"
-    n ""
+    n "Siendo así, ¿por qué ibas a querer leer este?"
 
 # game/script-poemresponses.rpy:1259
 translate spanish ch3_n_good_eb802514:
 
     # mc "But I want to read it."
-    mc ""
+    mc "Pero quiero leerlo."
 
 # game/script-poemresponses.rpy:1260
 translate spanish ch3_n_good_2328b9d8:
 
     # n "W-Why?"
-    n ""
+    n "¿P-Por qué?"
 
 # game/script-poemresponses.rpy:1261
 translate spanish ch3_n_good_e4481ad0:
 
     # mc "Because."
-    mc ""
+    mc "Ya lo verás."
 
 # game/script-poemresponses.rpy:1262
 translate spanish ch3_n_good_e6cfa97c:
 
     # mc "I like your poems."
-    mc ""
+    mc "Me gustan tus poemas."
 
 # game/script-poemresponses.rpy:1263
 translate spanish ch3_n_good_e9ca074e:
 
     # mc "I really do."
-    mc ""
+    mc "De verdad que sí."
 
 # game/script-poemresponses.rpy:1265
 translate spanish ch3_n_good_89d63b52:
 
     # mc "Why would I judge you for your style?"
-    mc ""
+    mc "¿Por qué te iba a juzgar por tu estilo?"
 
 # game/script-poemresponses.rpy:1266
 translate spanish ch3_n_good_9a77974b:
 
     # mc "It's not like my own style is anything crazy."
-    mc ""
+    mc "Como si mi estilo fuese para lanzar cohetes..."
 
 # game/script-poemresponses.rpy:1267
 translate spanish ch3_n_good_671d522b:
 
     # mc "I mean, it's true that the first time I read one of your poems, I didn't look much into it."
-    mc ""
+    mc "A ver, es cierto que la primera vez que leí uno de tus poemas no me paré mucho."
 
 # game/script-poemresponses.rpy:1268
 translate spanish ch3_n_good_1e0bda50:
 
     # mc "But I know you better now."
-    mc ""
+    mc "Pero ahora te conozco mucho mejor."
 
 # game/script-poemresponses.rpy:1269
 translate spanish ch3_n_good_ecca07eb:
 
     # mc "And it's wrong for Yuri to think your style is more amateur than hers."
-    mc ""
+    mc "Y Yuri se equivoca si cree que tu estilo es menos profesional que el suyo."
 
 # game/script-poemresponses.rpy:1270
 translate spanish ch3_n_good_67c00169:
 
     # mc "And Sayori... She always means well..."
-    mc ""
+    mc "Y Sayori... Bueno, ella todo lo dice con la mejor intención..."
 
 # game/script-poemresponses.rpy:1271
 translate spanish ch3_n_good_88f16d00:
 
     # mc "But sometimes she's so focused on simple happiness that she doesn't understand what people really want."
-    mc ""
+    mc "Pero a veces se centra tanto en la felicidad más basica que no entiende lo que quiere de verdad la gente."
 
 # game/script-poemresponses.rpy:1272
 translate spanish ch3_n_good_00a2eab2:
 
     # mc "Yeah... I guess I never really thought about how hard it is for you."
-    mc ""
+    mc "En fin... Supongo que nunca me había parado a pensar en lo duro que puede ser esto para ti."
 
 # game/script-poemresponses.rpy:1273
 translate spanish ch3_n_good_8225f539:
 
     # mc "And I'm sorry if I was part of that problem."
-    mc ""
+    mc "Y lamento haber sido parte del problema."
 
 # game/script-poemresponses.rpy:1274
 translate spanish ch3_n_good_6c4a9b78:
 
     # mc "I understand now."
-    mc ""
+    mc "Ahora lo entiendo."
 
 # game/script-poemresponses.rpy:1275
 translate spanish ch3_n_good_c1451a07:
 
     # mc "You're not just cute, you're a lot more than that."
-    mc ""
+    mc "No solo eres una chica mona, eres mucho más que eso."
 
 # game/script-poemresponses.rpy:1277
 translate spanish ch3_n_good_834ac17f:
 
     # mc "Ah-- Natsuki, you're doing it again--"
-    mc ""
+    mc "Ay... Natsuki, ya estás otra vez..."
 
 # game/script-poemresponses.rpy:1278
 translate spanish ch3_n_good_80c2e182:
 
     # "Once again, Natsuki clutches her poem a little too hard."
-    ""
+    "Una vez más, Natsuki agarra el poema con demasiada fuerza."
 
 # game/script-poemresponses.rpy:1279
 translate spanish ch3_n_good_ced2c13d:
 
     # "She looks down, hiding her eyes from me."
-    ""
+    "Baja la mirada para evitar que nuestros ojos se crucen."
 
 # game/script-poemresponses.rpy:1280
 translate spanish ch3_n_good_e149580a:
 
     # "I never realized how difficult this was for her."
-    ""
+    "No era consciente de lo difícil que era esto para ella."
 
 # game/script-poemresponses.rpy:1281
 translate spanish ch3_n_good_70fc924e:
 
     # "But finally, she forces herself to extend her arms and set her poem on the table."
-    ""
+    "Al final, hace un esfuerzo para dejar el poema sobre la mesa."
 
 # game/script-poemresponses.rpy:1282
 translate spanish ch3_n_good_94a91ea6:
 
     # n 12e "You can...read it."
-    n 12e ""
+    n 12e "Puedes... leerlo."
 
 # game/script-poemresponses.rpy:1283
 translate spanish ch3_n_good_9f1d5280:
 
     # n "Just turn that way."
-    n ""
+    n "Pero gírate hacia allá."
 
 # game/script-poemresponses.rpy:1284
 translate spanish ch3_n_good_4aba9521:
 
     # n "I don't want you to...look at my face right now."
-    n ""
+    n "No quiero que... me mires a la cara ahora mismo."
 
 # game/script-poemresponses.rpy:1285
 translate spanish ch3_n_good_d3bee692:
 
     # mc "Okay, I will."
-    mc ""
+    mc "Claro, no te preocupes."
 
 # game/script-poemresponses.rpy:1293
 translate spanish ch3_n_good_bb2cf764:
@@ -9869,313 +9869,313 @@ translate spanish ch3_y_bad12_shared_437aa0a5:
 translate spanish ch3_y_shared_577c823e:
 
     # y 1f "As always, I believe what's most important is exploring and discovering yourself."
-    y 1f ""
+    y 1f "Como siempre, creo que lo más importante es explorar y descubrir qué nos gusta.
 
 # game/script-poemresponses.rpy:2125
 translate spanish ch3_y_shared_2fe267d0:
 
     # mc "That's comforting."
-    mc ""
+    mc "Me gusta cómo piensas."
 
 # game/script-poemresponses.rpy:2126
 translate spanish ch3_y_shared_79aae1ab:
 
     # mc "I'm kind of afraid of disappointing you in some way or another."
-    mc ""
+    mc "Me da algo de miedo decepcionarte, la verdad."
 
 # game/script-poemresponses.rpy:2127
 translate spanish ch3_y_shared_45973046:
 
     # y 2t "Eh...?"
-    y 2t ""
+    y 2t "¿Cómo?"
 
 # game/script-poemresponses.rpy:2128
 translate spanish ch3_y_shared_a2a517f3:
 
     # y "Why me...?"
-    y ""
+    y "¿Por qué dices...?"
 
 # game/script-poemresponses.rpy:2129
 translate spanish ch3_y_shared_8379c136:
 
     # mc "Well, you're always sophisticated with your writing and have the most advice to share."
-    mc ""
+    mc "Es que, jo, siempre escribes de una manera tan sofisticada y tienes tantos consejos para los demás que..."
 
 # game/script-poemresponses.rpy:2130
 translate spanish ch3_y_shared_7fb3257f:
 
     # y 4a "Is that so...?"
-    y 4a ""
+    y 4a "¡No me digas!"
 
 # game/script-poemresponses.rpy:2131
 translate spanish ch3_y_shared_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/script-poemresponses.rpy:2132
 translate spanish ch3_y_shared_ee768c9b:
 
     # "Yuri thinks for a good minute."
-    ""
+    "Yuri se para a pensar un minuto."
 
 # game/script-poemresponses.rpy:2133
 translate spanish ch3_y_shared_6308e345:
 
     # y 4c "...That must be terrible."
-    y 4c ""
+    y 4c "Menudo horror debe de ser eso..."
 
 # game/script-poemresponses.rpy:2134
 translate spanish ch3_y_shared_fb2e5377:
 
     # mc "Eh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/script-poemresponses.rpy:2135
 translate spanish ch3_y_shared_92ba95d4:
 
     # y "For me to have become someone whose opinion is fearsome..."
-    y ""
+    y "Eso de que me haya convertido en alguien cuya opinión impone tanto..."
 
 # game/script-poemresponses.rpy:2136
 translate spanish ch3_y_shared_799e459f:
 
     # y "How unlikable of me..."
-    y ""
+    y "Qué feo por mi parte..."
 
 # game/script-poemresponses.rpy:2137
 translate spanish ch3_y_shared_d90390e4:
 
     # mc "Yuri..."
-    mc ""
+    mc "Yuri..."
 
 # game/script-poemresponses.rpy:2138
 translate spanish ch3_y_shared_f0537c6d:
 
     # mc "It's not as bad as you're making it sound in your head."
-    mc ""
+    mc "No es tan horrible como te lo estás imaginando."
 
 # game/script-poemresponses.rpy:2139
 translate spanish ch3_y_shared_6543ba0e:
 
     # mc "I just meant that I respect your opinion."
-    mc ""
+    mc "Solo significa que respeto tu opinión."
 
 # game/script-poemresponses.rpy:2140
 translate spanish ch3_y_shared_07dea637:
 
     # y 2v "I see..."
-    y 2v ""
+    y 2v "Entiendo..."
 
 # game/script-poemresponses.rpy:2141
 translate spanish ch3_y_shared_098bd730:
 
     # y "I'm sorry that I always overthink and come to those sorts of conclusions..."
-    y ""
+    y "Siento darle tantas vueltas y llegar a ese tipo de conclusiones..."
 
 # game/script-poemresponses.rpy:2142
 translate spanish ch3_y_shared_5b9ca5be:
 
     # y "I'm just...a little too used to it."
-    y ""
+    y "Es solo que... ya me he acostumbrado a ello..."
 
 # game/script-poemresponses.rpy:2143
 translate spanish ch3_y_shared_1add665c:
 
     # mc "Overthinking?"
-    mc ""
+    mc "¿A darles demasiadas vueltas a las cosas?"
 
 # game/script-poemresponses.rpy:2144
 translate spanish ch3_y_shared_e9932589:
 
     # y "Being disliked."
-    y ""
+    y "A que me rechacen."
 
 # game/script-poemresponses.rpy:2145
 translate spanish ch3_y_shared_d90390e4_1:
 
     # mc "Yuri..."
-    mc ""
+    mc "Yuri..."
 
 # game/script-poemresponses.rpy:2146
 translate spanish ch3_y_shared_37bb71fc:
 
     # y 3w "What...what am I saying?"
-    y 3w ""
+    y 3w "¿Qué...? ¿Qué estoy diciendo?"
 
 # game/script-poemresponses.rpy:2147
 translate spanish ch3_y_shared_17f09c33:
 
     # y "I'm sorry, I didn't mean to bring that up..."
-    y ""
+    y "Lo siento, no pretendía hablar de eso..."
 
 # game/script-poemresponses.rpy:2148
 translate spanish ch3_y_shared_564e0659:
 
     # y "Let's move on..."
-    y ""
+    y "Cambiemos de tema..."
 
 # game/script-poemresponses.rpy:2149
 translate spanish ch3_y_shared_b12907fb:
 
     # mc "Alright..."
-    mc ""
+    mc "Vale..."
 
 # game/script-poemresponses.rpy:2150
 translate spanish ch3_y_shared_9cce0e4a:
 
     # mc "Do you want to share your poem now?"
-    mc ""
+    mc "¿Te apetece compartir tu poema?"
 
 # game/script-poemresponses.rpy:2151
 translate spanish ch3_y_shared_46c645e6:
 
     # y 2i "Okay..."
-    y 2i ""
+    y 2i "Vale..."
 
 # game/script-poemresponses.rpy:2152
 translate spanish ch3_y_shared_b10f1203:
 
     # y "Here."
-    y ""
+    y "Toma."
 
 # game/script-poemresponses.rpy:2160
 translate spanish ch3_y_med_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/script-poemresponses.rpy:2161
 translate spanish ch3_y_med_669876fa:
 
     # y 1a "Well done, [player]."
-    y 1a ""
+    y 1a "Buen trabajo, [player]."
 
 # game/script-poemresponses.rpy:2162
 translate spanish ch3_y_med_380fd70c:
 
     # y "You've definitely improved your writing over the course of these few days."
-    y ""
+    y "Tu forma de escribir ha mejorado mucho con el paso de los días."
 
 # game/script-poemresponses.rpy:2163
 translate spanish ch3_y_med_f8ed6357:
 
     # y "Has my advice been helpful to you?"
-    y ""
+    y "¿Te han ayudado mis consejos?"
 
 # game/script-poemresponses.rpy:2164
 translate spanish ch3_y_med_645127f3:
 
     # mc "Yeah... Definitely."
-    mc ""
+    mc "Sí... Vaya que sí."
 
 # game/script-poemresponses.rpy:2165
 translate spanish ch3_y_med_74cdff1d:
 
     # y 2m "I'm glad..."
-    y 2m ""
+    y 2m "Me alegro..."
 
 # game/script-poemresponses.rpy:2166
 translate spanish ch3_y_med_cd3ace5b:
 
     # y "Sharing our writing like this..."
-    y ""
+    y "Compartir lo que escribimos..."
 
 # game/script-poemresponses.rpy:2167
 translate spanish ch3_y_med_179fad61:
 
     # y 2a "It's a lot more fun and rewarding than I anticipated."
-    y 2a ""
+    y 2a "es mucho más divertido y gratificante de lo que esperaba."
 
 # game/script-poemresponses.rpy:2168
 translate spanish ch3_y_med_bdd2dc17:
 
     # y "I need to remember to thank Monika..."
-    y ""
+    y "Tengo que acordarme de darle las gracias a Monika..."
 
 # game/script-poemresponses.rpy:2169
 translate spanish ch3_y_med_91e1d5bc:
 
     # y "I think we all felt a little awkward at first."
-    y ""
+    y "Creo que todos nos sentíamos algo incómodos al principio,"
 
 # game/script-poemresponses.rpy:2170
 translate spanish ch3_y_med_22bdf28f:
 
     # y 1a "But now it seems like everyone is enjoying sharing their writing and seeing what others think."
-    y 1a ""
+    y 1a "pero ahora parece que todo el mundo disfruta compartiendo lo que escribe y escuchando lo que opinan los demás."
 
 # game/script-poemresponses.rpy:2171
 translate spanish ch3_y_med_76d238ae:
 
     # mc "I guess I can't really disagree."
-    mc ""
+    mc "Supongo que tienes razón."
 
 # game/script-poemresponses.rpy:2172
 translate spanish ch3_y_med_521db46f:
 
     # mc "I was afraid this whole thing would be a chore..."
-    mc ""
+    mc "Me daba miedo que todo esto se convirtiese en una especie de tarea pesada...,"
 
 # game/script-poemresponses.rpy:2173
 translate spanish ch3_y_med_07bc2355:
 
     # "But it's a great way for me to spend some personal time with all the girls in the club."
-    ""
+    "pero es una buena manera de pasar tiempo de calidad con las chicas del club."
 
 # game/script-poemresponses.rpy:2174
 translate spanish ch3_y_med_1259b64a:
 
     # mc "But it's been fun getting to know everyone and their writing."
-    mc ""
+    mc "Sin embargo, resulta divertido comoceros mejor a todas y descubrir cómo escribís."
 
 # game/script-poemresponses.rpy:2175
 translate spanish ch3_y_med_a65db07b:
 
     # mc "And I guess doing some writing myself..."
-    mc ""
+    mc "Y supongo que el hecho de que yo escriba también..."
 
 # game/script-poemresponses.rpy:2176
 translate spanish ch3_y_med_ddbc5dc6:
 
     # y 2a "Well..."
-    y 2a ""
+    y 2a "Bueno..."
 
 # game/script-poemresponses.rpy:2177
 translate spanish ch3_y_med_e94d8c8e:
 
     # y "Have you learned anything about yourself, [player]?"
-    y ""
+    y "¿Has descubierto algo interesante sobre ti mismo, [player]?"
 
 # game/script-poemresponses.rpy:2178
 translate spanish ch3_y_med_fb2e5377:
 
     # mc "Eh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/script-poemresponses.rpy:2179
 translate spanish ch3_y_med_c22bb7f1:
 
     # y 2i "Well, you know how I like to say that writing is a very personal way to get in touch with yourself..."
-    y 2i ""
+    y 2i "Ya sabes cuánto me gusta decir que el hecho de escribir es una forma muy personal de conectar contigo mismo..."
 
 # game/script-poemresponses.rpy:2180
 translate spanish ch3_y_med_d5097b5b:
 
     # y 1a "In the end, it doesn't matter if you're a good writer, or a bad writer."
-    y 1a ""
+    y 1a "Al final, no importa lo bien o mal que escribas."
 
 # game/script-poemresponses.rpy:2181
 translate spanish ch3_y_med_3f196977:
 
     # y "And even my opinions are just opinions...you know?"
-    y ""
+    y "Hasta mis opiniones son solo eso, opiniones... ¿Entiendes lo que te digo?"
 
 # game/script-poemresponses.rpy:2184
 translate spanish ch3_y_med_ed5682e0:
 
     # y 1e "..."
-    y 1e ""
+    y 1e "..."
 
 # game/script-poemresponses.rpy:2185
 translate spanish ch3_y_med_6885d9b7:
