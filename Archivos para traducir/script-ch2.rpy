@@ -3442,7 +3442,7 @@ translate spanish ch2_end_shared_57396b14:
 translate spanish ch2_end_shared_8d2027c6:
 
     # "That's why I said there's no point in speculating."
-    "Por eso le he dicho que de nada sirve especular.
+    "Por eso le he dicho que de nada sirve especular."
 
 translate spanish strings:
 

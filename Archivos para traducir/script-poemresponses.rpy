@@ -4445,7 +4445,7 @@ translate spanish ch2_n_good_sharedwithch3_aa90c4d0:
 translate spanish ch2_n_good_sharedwithch3_a4b785d3:
 
     # "Natsuki comes up and snatches the poem out of Monika's hands."
-    "Natsuki aparece y le arrebata el poema a Monika de las manos.
+    "Natsuki aparece y le arrebata el poema a Monika de las manos."
 
 # game/script-poemresponses.rpy:1034
 translate spanish ch2_n_good_sharedwithch3_4cb5cfc0:
@@ -9869,7 +9869,7 @@ translate spanish ch3_y_bad12_shared_437aa0a5:
 translate spanish ch3_y_shared_577c823e:
 
     # y 1f "As always, I believe what's most important is exploring and discovering yourself."
-    y 1f "Como siempre, creo que lo más importante es explorar y descubrir qué nos gusta.
+    y 1f "Como siempre, creo que lo más importante es explorar y descubrir qué nos gusta."
 
 # game/script-poemresponses.rpy:2125
 translate spanish ch3_y_shared_2fe267d0:
