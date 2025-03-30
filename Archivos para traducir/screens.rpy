@@ -220,3 +220,11 @@ translate spanish strings:
 #     old "Change Name"
 #     new ""
 
+# TODO: Translation updated at 2025-03-30 13:33
+
+translate spanish strings:
+
+    # game/screens.rpy:2052
+    old "Please select a language"
+    new ""
+

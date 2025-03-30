@@ -76,7 +76,7 @@ translate spanish ch3_main_c98c2ef3:
 translate spanish ch3_main_c579b59a:
 
     # n "Aaah, I can't wait for the festival!"
-    n "Aaah, ¡qué ganas tengo de que llegue""
+    n "Aaah, ¡qué ganas tengo de que llegue"
 
 # game/script-ch3.rpy:28
 translate spanish ch3_main_0622f046:

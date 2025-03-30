@@ -2326,7 +2326,7 @@ translate spanish ch1_end_yuri_85b7dd24:
 translate spanish ch1_end_yuri_ba8e7514:
 
     # y "I can't believe I acted like that."
-    y "No entiendo cómo he podido comportarme así.
+    y "No entiendo cómo he podido comportarme así."
 
 # game/script-ch1.rpy:655
 translate spanish ch1_end_yuri_718a2f22:
