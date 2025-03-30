@@ -74,5 +74,5 @@ translate spanish strings:
 
     # game/splash.rpy:17
     old "This game is not suitable for children\nor those who are easily disturbed."
-    new ""
+    new "Este juego no es apto para niños ni para personas que se alteren fácilmente."
 

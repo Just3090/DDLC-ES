@@ -235,5 +235,5 @@ translate spanish strings:
     # game/screens.rpy:469
     # CONSERVAR LOS ESPACIOS POR FAVOR
     old "Please enter your name          "
-    new ""
+    new "¿Cómo te llamas?          "
 
