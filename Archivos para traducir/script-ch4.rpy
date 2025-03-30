@@ -4240,25 +4240,25 @@ translate spanish ch4_exclusive_yuri_fb4f44e1:
 translate spanish ch4_exclusive_yuri_7107b767:
 
     # "In just a moment, a thin ray of vapor begins to spout through a small hole on the top."
-    ""
+    "En un segundo, un ligero rayo de vapor emerge del agujerito en la parte de arriba."
 
 # game/script-ch4.rpy:801
 translate spanish ch4_exclusive_yuri_390de38c:
 
     # mc "Wow, that smells wonderful."
-    mc ""
+    mc "Guau, huele de maravilla."
 
 # game/script-ch4.rpy:802
 translate spanish ch4_exclusive_yuri_4b18a6dc:
 
     # mc "What kind of mood is that one for?"
-    mc ""
+    mc "¿Para qué sirve ese aroma?"
 
 # game/script-ch4.rpy:803
 translate spanish ch4_exclusive_yuri_34d80b06:
 
     # y 1ba "This is a Jasmine essential oil."
-    y 1ba ""
+    y 1ba "Es aceite esencial de jazmín."
 
 # game/script-ch4.rpy:804
 translate spanish ch4_exclusive_yuri_24a8c22a:
