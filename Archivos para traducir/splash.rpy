@@ -68,3 +68,11 @@ translate spanish strings:
     old "Hint: You can use the \"Skip\" button to\nfast-forward through text you've already read."
     new "Puedes usar el botón \"Omitir\" para adelantar el texto que ya has leído."
 
+# TODO: Translation updated at 2025-03-30 13:43
+
+translate spanish strings:
+
+    # game/splash.rpy:17
+    old "This game is not suitable for children\nor those who are easily disturbed."
+    new ""
+

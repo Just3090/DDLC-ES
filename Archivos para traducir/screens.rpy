@@ -228,3 +228,12 @@ translate spanish strings:
     old "Please select a language"
     new ""
 
+# TODO: Translation updated at 2025-03-30 13:43
+
+translate spanish strings:
+
+    # game/screens.rpy:469
+    # CONSERVAR LOS ESPACIOS POR FAVOR
+    old "Please enter your name          "
+    new ""
+
