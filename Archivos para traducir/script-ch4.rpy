@@ -4222,19 +4222,19 @@ translate spanish ch4_exclusive_yuri_68bd94eb:
 translate spanish ch4_exclusive_yuri_7a8bf27b:
 
     # y 3bm "Relaxation, positive energy, romance, reflection..."
-    y 3bm ""
+    y 3bm "Relajación, energía positiva, romanticismo, reflexión..."
 
 # game/script-ch4.rpy:797
 translate spanish ch4_exclusive_yuri_63fcc9ac:
 
     # y "It's almost like magic."
-    y ""
+    y "Es casi magia."
 
 # game/script-ch4.rpy:799
 translate spanish ch4_exclusive_yuri_fb4f44e1:
 
     # "Yuri takes the cylinder and pushes a switch on the bottom."
-    ""
+    "Yuri coge el cilindro y pulsa el botón que tiene debajo."
 
 # game/script-ch4.rpy:800
 translate spanish ch4_exclusive_yuri_7107b767:
@@ -4264,7 +4264,7 @@ translate spanish ch4_exclusive_yuri_34d80b06:
 translate spanish ch4_exclusive_yuri_24a8c22a:
 
     # y "It smells a little sweet and flowery, right?"
-    y ""
+    y "Tiene un aroma ligeramente dulce y floral, ¿verdad?"
 
 # game/script-ch4.rpy:805
 translate spanish ch4_exclusive_yuri_b87d6070:
