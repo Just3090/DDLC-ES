@@ -12497,361 +12497,361 @@ translate spanish m_natsuki_3_3049c3ae:
 translate spanish m_sayori_3_716c1a0f:
 
     # m 1k "Ahaha."
-    m 1k ""
+    m 1k "Ja, ja, ja."
 
 # game/script-poemresponses.rpy:2640
 translate spanish m_sayori_3_7f78190d:
 
     # m "It's kind of funny..."
-    m ""
+    m "Qué gracioso..."
 
 # game/script-poemresponses.rpy:2641
 translate spanish m_sayori_3_822aa5c3:
 
     # mc "How so?"
-    mc ""
+    mc "¿Y eso?"
 
 # game/script-poemresponses.rpy:2642
 translate spanish m_sayori_3_e90e3774:
 
     # m 1a "No, not the poem..."
-    m 1a ""
+    m 1a "No, no me refiero al poema..."
 
 # game/script-poemresponses.rpy:2643
 translate spanish m_sayori_3_ccf81afb:
 
     # m 2a "I mean, it's funny how your poems and Sayori's poems have been getting more and more similar to each other every day."
-    m 2a ""
+    m 2a "O sea, es gracioso cómo tus poemas y los de Sayori son cada vez más similares según va pasando el tiempo."
 
 # game/script-poemresponses.rpy:2644
 translate spanish m_sayori_3_9a581250:
 
     # m "I'm surprised you're so in sync with her."
-    m ""
+    m "Me sorprende que tengáis una conexión tan fuerte."
 
 # game/script-poemresponses.rpy:2645
 translate spanish m_sayori_3_4b89f159:
 
     # m 2d "Then again, you've been spending a lot of time together lately, haven't you?"
-    m 2d ""
+    m 2d "Pero, bueno, también es cierto que habéis pasado mucho tiempo juntos últimamente, ¿verdad?"
 
 # game/script-poemresponses.rpy:2646
 translate spanish m_sayori_3_89783ca5:
 
     # mc "Ah, I guess you could say that..."
-    mc ""
+    mc "Sí, supongo que podría decirse que sí..."
 
 # game/script-poemresponses.rpy:2647
 translate spanish m_sayori_3_60d182fc:
 
     # mc "Although we kind of grew up as best friends, I haven't been seeing as much of her this past year..."
-    mc ""
+    mc "A pesar de que crecimos siendo mejores amigos, este último año no nos hemos visto mucho..."
 
 # game/script-poemresponses.rpy:2648
 translate spanish m_sayori_3_aa461243:
 
     # mc "But since I joined the club, we've been spending a lot of time together again."
-    mc ""
+    mc "Sin embargo, desde que me uní al club, hemos vuelto a pasar mucho tiempo juntos."
 
 # game/script-poemresponses.rpy:2649
 translate spanish m_sayori_3_d38bbd3f:
 
     # m 1a "I see, I see~"
-    m 1a ""
+    m 1a "Ajá, ya veo..."
 
 # game/script-poemresponses.rpy:2650
 translate spanish m_sayori_3_5e1add9f:
 
     # m "That reminds me..."
-    m ""
+    m "Eso me recuerda..."
 
 # game/script-poemresponses.rpy:2651
 translate spanish m_sayori_3_db98a6f5:
 
     # m "About how Sayori's been a little bit off today..."
-    m ""
+    m "Sayori está un poco tristona hoy..."
 
 # game/script-poemresponses.rpy:2652
 translate spanish m_sayori_3_9bffe845:
 
     # mc "Yeah? Did she tell you something?"
-    mc ""
+    mc "¿Tú crees? ¿Te ha dicho algo?"
 
 # game/script-poemresponses.rpy:2653
 translate spanish m_sayori_3_b90d1b34:
 
     # m 1n "Ah..."
-    m 1n ""
+    m 1n "Ah..."
 
 # game/script-poemresponses.rpy:2654
 translate spanish m_sayori_3_d3107ef6:
 
     # m "Well..."
-    m ""
+    m "Bueno..."
 
 # game/script-poemresponses.rpy:2655
 translate spanish m_sayori_3_289f055a:
 
     # m 2l "[player], you haven't been flirting with her, have you?"
-    m 2l ""
+    m 2l "[player], no habrás estado tonteando con ella, ¿no?"
 
 # game/script-poemresponses.rpy:2656
 translate spanish m_sayori_3_3ccbf055:
 
     # mc "O-Of course not!"
-    mc ""
+    mc "¡P-Pues claro que no!"
 
 # game/script-poemresponses.rpy:2657
 translate spanish m_sayori_3_1369965e:
 
     # mc "I've been treating her like I always do."
-    mc ""
+    mc "La he tratado como siempre."
 
 # game/script-poemresponses.rpy:2658
 translate spanish m_sayori_3_04700d81:
 
     # m 2a "Alright."
-    m 2a ""
+    m 2a "De acuerdo."
 
 # game/script-poemresponses.rpy:2659
 translate spanish m_sayori_3_17c5aaac:
 
     # m 5 "Just making sure~"
-    m 5 ""
+    m 5 "Solo quería tenerlo claro..."
 
 # game/script-poemresponses.rpy:2660
 translate spanish m_sayori_3_429093d5:
 
     # m "I know how much you care about her..."
-    m ""
+    m "Sé cuánto te importa..."
 
 # game/script-poemresponses.rpy:2661
 translate spanish m_sayori_3_bd32bc7a:
 
     # m "It would be terrible if something bad happened to her, so keep an eye on her."
-    m ""
+    m "Sería horrible que le pasase algo malo, así que cuídala mucho."
 
 # game/script-poemresponses.rpy:2662
 translate spanish m_sayori_3_df3b6f8b:
 
     # m 2d "Sayori's been acting so much happier ever since you joined the club."
-    m 2d ""
+    m 2d "Sayori está mucho más contenta desde que te uniste al club."
 
 # game/script-poemresponses.rpy:2663
 translate spanish m_sayori_3_da4a7a56:
 
     # m "What could have happened all of a sudden...?"
-    m ""
+    m "¿Qué le habrá pasado, así tan de repente?"
 
 # game/script-poemresponses.rpy:2664
 translate spanish m_sayori_3_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/script-poemresponses.rpy:2665
 translate spanish m_sayori_3_38a280bb:
 
     # m 1l "...Well, never mind."
-    m 1l ""
+    m 1l "En fin, da igual..."
 
 # game/script-poemresponses.rpy:2666
 translate spanish m_sayori_3_1a0c7af6:
 
     # m "This really isn't the time to be talking about this..."
-    m ""
+    m "No es el mejor momento para hablar de esto..."
 
 # game/script-poemresponses.rpy:2670
 translate spanish m_yuri_3_0e1b4ab3:
 
     # m 2e "Your style's gotten so refined, [player]."
-    m 2e ""
+    m 2e "Tu estilo ha mejorado mucho, [player]."
 
 # game/script-poemresponses.rpy:2671
 translate spanish m_yuri_3_27dc2b9c:
 
     # m "Yuri's been teaching you a lot of things, hasn't she?"
-    m ""
+    m "Yuri te ha enseñado muchas cosas, ¿verdad?"
 
 # game/script-poemresponses.rpy:2672
 translate spanish m_yuri_3_8c731859:
 
     # mc "Well--"
-    mc ""
+    mc "Bueno..."
 
 # game/script-poemresponses.rpy:2673
 translate spanish m_yuri_3_8cc105c3:
 
     # mc "I guess so."
-    mc ""
+    mc "Supongo."
 
 # game/script-poemresponses.rpy:2674
 translate spanish m_yuri_3_f8705f20:
 
     # m 2a "Yeah... I've been noticing how much time you spend with her."
-    m 2a ""
+    m 2a "Ya... He visto que pasáis mucho tiempo juntos."
 
 # game/script-poemresponses.rpy:2675
 translate spanish m_yuri_3_cc0b9d72:
 
     # m 2d "I think I've heard her say more words these past couple days than she's talked in the whole year."
-    m 2d ""
+    m 2d "Creo que la he oído hablar más veces los últimos días que en todo el año."
 
 # game/script-poemresponses.rpy:2676
 translate spanish m_yuri_3_a6d1671b:
 
     # m "Not sure how you did it, but that's pretty impressive..."
-    m ""
+    m "No sé cómo lo has conseguido, pero es impresionante..."
 
 # game/script-poemresponses.rpy:2677
 translate spanish m_yuri_3_6411ddd7:
 
     # mc "Well, she just needs some patience and a way to talk about all the things in her head, I guess..."
-    mc ""
+    mc "Bueno, supongo que solo necesita algo de paciencia y encontrar la forma de hablar sobre lo que se le pasa por la cabeza..."
 
 # game/script-poemresponses.rpy:2678
 translate spanish m_yuri_3_5f05b29a:
 
     # mc "I'm still getting the hang of it, myself."
-    mc ""
+    mc "Todavía le estoy pillando el tranquillo."
 
 # game/script-poemresponses.rpy:2679
 translate spanish m_yuri_3_14011fc8:
 
     # m 2a "Hm..."
-    m 2a ""
+    m 2a "Mmm..."
 
 # game/script-poemresponses.rpy:2680
 translate spanish m_yuri_3_f1037a7b:
 
     # m "You're certainly putting in a lot of effort."
-    m ""
+    m "Está claro que te estás esforzando mucho."
 
 # game/script-poemresponses.rpy:2681
 translate spanish m_yuri_3_33a54f5d:
 
     # m 2e "You must really like her."
-    m 2e ""
+    m 2e "Debe de gustarte mucho."
 
 # game/script-poemresponses.rpy:2682
 translate spanish m_yuri_3_fa8dc647:
 
     # mc "Eh? That's--"
-    mc ""
+    mc "¿Qué? Pero..."
 
 # game/script-poemresponses.rpy:2683
 translate spanish m_yuri_3_fd6a9371:
 
     # m 5 "Ahaha!"
-    m 5 ""
+    m 5 "¡Ja, ja, ja!"
 
 # game/script-poemresponses.rpy:2684
 translate spanish m_yuri_3_be3ef178:
 
     # m "It's awfully suspicious, you know?"
-    m ""
+    m "Se nota a la legua, ¿sabes?"
 
 # game/script-poemresponses.rpy:2685
 translate spanish m_yuri_3_440f4ad9:
 
     # m "Spending time with her in the clubroom every day..."
-    m ""
+    m "Pasas tanto tiempo con ella en el club todos los días..."
 
 # game/script-poemresponses.rpy:2686
 translate spanish m_yuri_3_c430545e:
 
     # m "Reading that edgy novel with her..."
-    m ""
+    m "Leyendo esa novela tan pretenciosa con ella..."
 
 # game/script-poemresponses.rpy:2687
 translate spanish m_yuri_3_e5293ce8:
 
     # mc "Well--!"
-    mc ""
+    mc "¡B-Bueno...!"
 
 # game/script-poemresponses.rpy:2688
 translate spanish m_yuri_3_b2aaefec:
 
     # mc "I just...feel bad that she has a hard time socializing."
-    mc ""
+    mc "Es solo que... me siento mal sabiendo que le cuesta mucho socializar.
 
 # game/script-poemresponses.rpy:2689
 translate spanish m_yuri_3_909d6afc:
 
     # mc "It makes me want to make sure she doesn't spend all her time alone."
-    mc ""
+    mc "Hace que no quiera que pase tanto tiempo sola."
 
 # game/script-poemresponses.rpy:2690
 translate spanish m_yuri_3_22db7fde:
 
     # mc "Besides, the novel isn't too bad either, you know..."
-    mc ""
+    mc "Además, esa novela no está tan mal, ¿sabes?..."
 
 # game/script-poemresponses.rpy:2691
 translate spanish m_yuri_3_c9922848:
 
     # m 1k "Alright, alright~"
-    m 1k ""
+    m 1k "Vale, vale..."
 
 # game/script-poemresponses.rpy:2692
 translate spanish m_yuri_3_d23928af:
 
     # m "I get you."
-    m ""
+    m "Ya te entiendo."
 
 # game/script-poemresponses.rpy:2693
 translate spanish m_yuri_3_d9cf6136:
 
     # m 1a "Just...be careful, alright?"
-    m 1a ""
+    m 1a "Tú... ten cuidado, ¿vale?"
 
 # game/script-poemresponses.rpy:2694
 translate spanish m_yuri_3_da327170:
 
     # m "I know that Yuri isn't used to opening herself up..."
-    m ""
+    m "Sé que Yuri no suele abrirse mucho..."
 
 # game/script-poemresponses.rpy:2695
 translate spanish m_yuri_3_0dd92aa0:
 
     # m 2d "So if something bad happens while she's vulnerable..."
-    m 2d ""
+    m 2d "Si le pasase algo malo, siendo tan vulnerable como es..."
 
 # game/script-poemresponses.rpy:2696
 translate spanish m_yuri_3_113b7ab9:
 
     # m "Then it could be really hard for her."
-    m ""
+    m "Podría ser algo muy duro para ella."
 
 # game/script-poemresponses.rpy:2697
 translate spanish m_yuri_3_083f2f6a:
 
     # m 2i "Her books aren't a total escape from reality."
-    m 2i ""
+    m 2i "Sus libros no pueden hacer que huya totalmente de la realidad."
 
 # game/script-poemresponses.rpy:2698
 translate spanish m_yuri_3_26c60742:
 
     # m "They're just a bandage."
-    m ""
+    m "Solo son una venda."
 
 # game/script-poemresponses.rpy:2699
 translate spanish m_yuri_3_17a15afe:
 
     # mc "You say that like I'm going to hurt her..."
-    mc ""
+    mc "Dices eso como si fuese a hacerle daño..."
 
 # game/script-poemresponses.rpy:2700
 translate spanish m_yuri_3_d3af29cc:
 
     # m 1l "Sorry, I didn't really mean that~"
-    m 1l ""
+    m 1l "Perdona, no pretendía decir eso..."
 
 # game/script-poemresponses.rpy:2701
 translate spanish m_yuri_3_e903db06:
 
     # m "If anything, she might accidentally hurt herself."
-    m ""
+    m "Como mucho, podría hacerse daño ella misma."
 
 translate spanish strings:
 
