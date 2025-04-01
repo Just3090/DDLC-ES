@@ -226,7 +226,7 @@ translate spanish strings:
 
     # game/screens.rpy:2052
     old "Please select a language"
-    new ""
+    new "Por favor, seleccione un idioma:"
 
 # TODO: Translation updated at 2025-03-30 13:43
 
