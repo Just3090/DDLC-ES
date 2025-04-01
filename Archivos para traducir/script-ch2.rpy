@@ -778,7 +778,7 @@ translate spanish ch2_main_8028ebcd:
 translate spanish ch2_main_11bf06a9:
 
     # "Sayori suddenly leans down and takes a bite out of Natsuki's cookie."
-    "Sayori se agacha de repnte y le da un bocado a la galleta de Natsuki."
+    "Sayori se agacha de repente y le da un bocado a la galleta de Natsuki."
 
 # game/script-ch2.rpy:195
 translate spanish ch2_main_25bf814a:
