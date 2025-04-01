@@ -8279,7 +8279,7 @@ translate spanish ch1_y_shared_fde92c86:
 translate spanish ch1_y_shared_b63ac72e:
 
     # "Her stammering is completely gone, and she sounds like an expert."
-    "EL tartamudeo ha desaparecido y habla como una experta."
+    "El tartamudeo ha desaparecido y habla como una experta."
 
 # game/script-poemresponses.rpy:1810
 translate spanish ch1_y_shared_24743e8b:
