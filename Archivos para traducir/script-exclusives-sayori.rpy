@@ -1300,7 +1300,7 @@ translate spanish sayori_exclusive_2_a41131c3:
 translate spanish sayori_exclusive_2_0d8074de:
 
     # mc "A performance...?"
-    mc "¿Un recital!"
+    mc "¿Un recital?"
 
 # game/script-exclusives-sayori.rpy:292
 translate spanish sayori_exclusive_2_299338ca:
