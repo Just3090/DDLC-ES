@@ -1726,811 +1726,811 @@ translate spanish ch3_start_none_22f0f11e:
 translate spanish ch3_end_84df1cfa:
 
     # m "...Okay, you three!"
-    m ""
+    m "¡Bien, vosotros tres!"
 
 # game/script-ch3.rpy:404
 translate spanish ch3_end_0795937b:
 
     # m "We're all done sharing poems, right?"
-    m ""
+    m "Ya hemos compartido los poemas, ¿no?"
 
 # game/script-ch3.rpy:405
 translate spanish ch3_end_3f9ab9c8:
 
     # m "Why don't we start figuring out--"
-    m ""
+    m "¿Por qué no empezamos a pensar en...?"
 
 # game/script-ch3.rpy:407
 translate spanish ch3_end_6ed1568a:
 
     # n "Hold on a second!"
-    n ""
+    n "¡Quieta ahí!"
 
 # game/script-ch3.rpy:408
 translate spanish ch3_end_ddcdae43:
 
     # n "Is it just me, or did you say something strange just now?"
-    n ""
+    n "¿Es cosa mía o acabas de decir algo muy raro?"
 
 # game/script-ch3.rpy:411
 translate spanish ch3_end_b74e685b:
 
     # m 4d "Eh...?"
-    m 4d ""
+    m 4d "¿Eh?"
 
 # game/script-ch3.rpy:414
 translate spanish ch3_end_d6e4920b:
 
     # y "Something did sound a bit unusual..."
-    y ""
+    y "Es cierto, ha sonado fuera de lo normal..."
 
 # game/script-ch3.rpy:415
 translate spanish ch3_end_d8b24c61:
 
     # y "That's right."
-    y ""
+    y "Sí, cierto."
 
 # game/script-ch3.rpy:416
 translate spanish ch3_end_4d8740f5:
 
     # y 1f "You deviated from your usual catchphrase when addressing the club."
-    y 1f ""
+    y 1f "No te has referido al grupo con tu muletilla habitual."
 
 # game/script-ch3.rpy:419
 translate spanish ch3_end_1c52c004:
 
     # m "C-Catchphrase?"
-    m ""
+    m "¿C-Cómo?"
 
 # game/script-ch3.rpy:420
 translate spanish ch3_end_aa1e6f7a:
 
     # m "I don't have a catchphrase..."
-    m ""
+    m "No tengo ninguna muletilla..."
 
 # game/script-ch3.rpy:423
 translate spanish ch3_end_a8557d5c:
 
     # n "Jeez..."
-    n ""
+    n "Buf..."
 
 # game/script-ch3.rpy:424
 translate spanish ch3_end_2035e967:
 
     # n "Why is the mood so weird today?"
-    n ""
+    n "¿POr qué está tan raro hoy el ambiente?"
 
 # game/script-ch3.rpy:425
 translate spanish ch3_end_42c8edbf:
 
     # n "Look, even Yuri isn't immune to it."
-    n ""
+    n "Hasta Yuri está afectada."
 
 # game/script-ch3.rpy:428
 translate spanish ch3_end_6559e79e:
 
     # y "Uu..."
-    y ""
+    y "Uuuh..."
 
 # game/script-ch3.rpy:429
 translate spanish ch3_end_3d9092ae:
 
     # y "Stagnating air is common foreshadowing that something terrible is about to happen..."
-    y ""
+    y "Un ambiente enrarecido suele presagiar cosas terribles..."
 
 # game/script-ch3.rpy:431
 translate spanish ch3_end_a4addc33:
 
     # mc "In {i}your{/i} books, maybe!"
-    mc ""
+    mc "¡Sí, puede que en tus libros!"
 
 # game/script-ch3.rpy:432
 translate spanish ch3_end_e0420b13:
 
     # mc "Look, the only thing different is that Sayori isn't here."
-    mc ""
+    mc "Mirad, lo único distinto es que Sayori no está aquí."
 
 # game/script-ch3.rpy:434
 translate spanish ch3_end_728dcbc5:
 
     # y "Ah..."
-    y ""
+    y "Ah..."
 
 # game/script-ch3.rpy:435
 translate spanish ch3_end_24e93c44:
 
     # y "...It seems you're right."
-    y ""
+    y "Ya, es verdad."
 
 # game/script-ch3.rpy:438
 translate spanish ch3_end_2a255601:
 
     # m "Sigh..."
-    m ""
+    m "Ay..."
 
 # game/script-ch3.rpy:439
 translate spanish ch3_end_6e2840f0:
 
     # m 2d "Sayori always helps lighten the mood a little bit, doesn't she?"
-    m 2d ""
+    m 2d "Sayori siempre ayuda a levantar el ánimo, ¿no?"
 
 # game/script-ch3.rpy:440
 translate spanish ch3_end_1991d387:
 
     # m "It's almost like everyone's balance is thrown off a little when she's not around..."
-    m ""
+    m "Cuando no está ella, es como si nos faltara algo."
 
 # game/script-ch3.rpy:443
 translate spanish ch3_end_5bb895ac:
 
     # n "Where the heck did she run off to, anyway?"
-    n ""
+    n "¿Dónde narices se ha metido?"
 
 # game/script-ch3.rpy:444
 translate spanish ch3_end_badc8c5a:
 
     # n "I thought she just went to pee."
-    n ""
+    n "Pensaba que se había ido a mear."
 
 # game/script-ch3.rpy:447
 translate spanish ch3_end_c171bf14:
 
     # y "Natsuki, please show some decency..."
-    y ""
+    y "Natsuki, por favor. Esa boquita..."
 
 # game/script-ch3.rpy:450
 translate spanish ch3_end_a4c7577e:
 
     # n "Oh, come on."
-    n ""
+    n "Venga, mujer."
 
 # game/script-ch3.rpy:452
 translate spanish ch3_end_ccde1656:
 
     # mc "Ah, she actually wasn't feeling too well and went home early..."
-    mc ""
+    mc "Lo cierto es que no se encontraba bien y ha vuelto antes a casa..."
 
 # game/script-ch3.rpy:454
 translate spanish ch3_end_a8420f91:
 
     # y "Is that so...?"
-    y ""
+    y "¡No me digas!"
 
 # game/script-ch3.rpy:455
 translate spanish ch3_end_6e3d4ad3:
 
     # y "I hope she's alright..."
-    y ""
+    y "Espero que esté bien..."
 
 # game/script-ch3.rpy:458
 translate spanish ch3_end_1a9d476d:
 
     # n "Seriously?"
-    n ""
+    n "¿En serio?"
 
 # game/script-ch3.rpy:459
 translate spanish ch3_end_27827478:
 
     # n "Of all the times to not go home with her, you pick the time she's not feeling well?"
-    n ""
+    n "Con la de días que había para no ir con ella, ¿la dejas a su suerte justo cuando se encuentra mal?"
 
 # game/script-ch3.rpy:460
 translate spanish ch3_end_02ca53a6:
 
     # n "So much for you two being all lovey-dovey."
-    n ""
+    n "Me da a mí que alguien se ha quedado sin su media naranja."
 
 # game/script-ch3.rpy:462
 translate spanish ch3_end_9b806679:
 
     # mc "Ah--no!"
-    mc ""
+    mc "¿Qué?... ¡No!"
 
 # game/script-ch3.rpy:463
 translate spanish ch3_end_6c0b543e:
 
     # mc "First of all, stop misunderstanding my friendship with Sayori!"
-    mc ""
+    mc "En primer lugar, ¡dejad de malinterpretar mi relación con Sayori!"
 
 # game/script-ch3.rpy:464
 translate spanish ch3_end_c5e9a51b:
 
     # mc "And second..."
-    mc ""
+    mc "Y en segundo lugar..."
 
 # game/script-ch3.rpy:465
 translate spanish ch3_end_ef83d2cf:
 
     # mc "She's kind of been avoiding me today, so I didn't want to force it..."
-    mc ""
+    mc "Hoy ha estado evitándome, así que no quería forzarla..."
 
 # game/script-ch3.rpy:467
 translate spanish ch3_end_f825c637:
 
     # y "Hooooh?"
-    y ""
+    y "¿Eeeh?"
 
 # game/script-ch3.rpy:469
 translate spanish ch3_end_c1dcd516:
 
     # mc "{i}That curious expression coming from Yuri, of all people??{/i}"
-    mc ""
+    mc "¡¿Por qué pone Yuri esa cara de curiosidad?! No me lo esperaba de ella."
 
 # game/script-ch3.rpy:471
 translate spanish ch3_end_23adc179:
 
     # m "Calm down, guys...!"
-    m ""
+    m "¡Venga, vamos a calmarnos!"
 
 # game/script-ch3.rpy:472
 translate spanish ch3_end_9681b087:
 
     # m 1d "I talked to her earlier, and everything is fine."
-    m 1d ""
+    m 1d "He hablado con ella y no hay ningún problema."
 
 # game/script-ch3.rpy:474
 translate spanish ch3_end_3c0d093e:
 
     # mc "What did she say...?"
-    mc ""
+    mc "¿Y qué te ha dicho?..."
 
 # game/script-ch3.rpy:477
 translate spanish ch3_end_f71b2aa3:
 
     # m 1a "Anyway, we need to figure out the rest of the festival preparations, so..."
-    m 1a ""
+    m 1a "En fin, centrémonos en los preparativos para el festival."
 
 # game/script-ch3.rpy:478
 translate spanish ch3_end_4e27f33a:
 
     # m "Let's decide what everyone will be doing this weekend."
-    m ""
+    m "Decidamos qué hará cada uno este fin de semana."
 
 # game/script-ch3.rpy:481
 translate spanish ch3_end_4e7e7ba9:
 
     # n "I already know what {i}I'm{/i} doing!"
-    n ""
+    n "¡Yo ya tengo claro lo que quiero hacer!"
 
 # game/script-ch3.rpy:484
 translate spanish ch3_end_857b34c3:
 
     # m "That's right."
-    m ""
+    m "Es verdad."
 
 # game/script-ch3.rpy:485
 translate spanish ch3_end_517de665:
 
     # m "Natsuki will be making cupcakes."
-    m ""
+    m "Natsuki preparará cupcakes."
 
 # game/script-ch3.rpy:486
 translate spanish ch3_end_bf54fe4b:
 
     # m "But we might need a lot of them, and different flavors..."
-    m ""
+    m "Pero necesitaremos un montón y de distintos sabores..."
 
 # game/script-ch3.rpy:487
 translate spanish ch3_end_40bd1ea9:
 
     # m "Can you handle that all by yourself, Natsuki?"
-    m ""
+    m "Natsuki, ¿podrás hacerlo todo tú sola?"
 
 # game/script-ch3.rpy:490
 translate spanish ch3_end_cb4f44ae:
 
     # n 4z "Challenge accepted!"
-    n 4z ""
+    n 4z "¡Acepto el desafío!"
 
 # game/script-ch3.rpy:493
 translate spanish ch3_end_bcecd721:
 
     # m 1a "And as for myself..."
-    m 1a ""
+    m 1a "En cuanto a mí..."
 
 # game/script-ch3.rpy:494
 translate spanish ch3_end_3e6b0e64:
 
     # m "I'm going to be printing and assembling all the poetry pamphlets."
-    m ""
+    m "Me encargaré de imprimir y reunir los folletos de poesía."
 
 # game/script-ch3.rpy:495
 translate spanish ch3_end_2b382450:
 
     # m "Sayori will be helping me design them."
-    m ""
+    m "Sayori me echará una mano con el diseño."
 
 # game/script-ch3.rpy:496
 translate spanish ch3_end_61a14a34:
 
     # m "And as for Yuri..."
-    m ""
+    m "Y Yuri..."
 
 # game/script-ch3.rpy:497
 translate spanish ch3_end_85faf29d:
 
     # m 1d "..."
-    m 1d ""
+    m 1d "..."
 
 # game/script-ch3.rpy:498
 translate spanish ch3_end_584fd974:
 
     # m 3n "Yuri, you can..."
-    m 3n ""
+    m 3n "Yuri, tú puedes..."
 
 # game/script-ch3.rpy:499
 translate spanish ch3_end_6ab3b3e0:
 
     # m "Ah... Um..."
-    m ""
+    m "Eh... Mmm..."
 
 # game/script-ch3.rpy:502
 translate spanish ch3_end_913a614e:
 
     # n "...?"
-    n ""
+    n "¿...?"
 
 # game/script-ch3.rpy:505
 translate spanish ch3_end_8164653e:
 
     # m "Guys..."
-    m ""
+    m "Chicas..."
 
 # game/script-ch3.rpy:506
 translate spanish ch3_end_87ace600:
 
     # m "Can you help me come up with something for Yuri...?"
-    m ""
+    m "¿Me ayudáis a pensar algo para Yuri?"
 
 # game/script-ch3.rpy:509
 translate spanish ch3_end_507dcdd3:
 
     # y "I..."
-    y ""
+    y "Yo..."
 
 # game/script-ch3.rpy:510
 translate spanish ch3_end_9f89b1eb:
 
     # y "I'm useless..."
-    y ""
+    y "No valgo para nada..."
 
 # game/script-ch3.rpy:513
 translate spanish ch3_end_393eeed6:
 
     # m "N-No!"
-    m ""
+    m "¡N-No!"
 
 # game/script-ch3.rpy:514
 translate spanish ch3_end_a7cf08f9:
 
     # m "That's not it at all!"
-    m ""
+    m "¡Qué va, no es eso!"
 
 # game/script-ch3.rpy:515
 translate spanish ch3_end_f0f62567:
 
     # m "You're the most talented person here, you know!"
-    m ""
+    m "¡Eres la más talentosa de todas, que lo sepas!"
 
 # game/script-ch3.rpy:518
 translate spanish ch3_end_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-ch3.rpy:521
 translate spanish ch3_end_b199ecd4:
 
     # m 1g "N-Now Natsuki's pouting, too??"
-    m 1g ""
+    m 1g "¡¿Natsuki también se ha enfurruñado?!"
 
 # game/script-ch3.rpy:523
 translate spanish ch3_end_b978ddfb:
 
     # mc "Jeez, even I can tell now..."
-    mc ""
+    mc "Jo, qué ciego he estado..."
 
 # game/script-ch3.rpy:524
 translate spanish ch3_end_a013c0b5:
 
     # mc "I guess I never gave Sayori enough credit, but I can tell things are even harder on you when she's not around."
-    mc ""
+    mc "No he sabido valorar a Sayori. Ahora que no está, tienes aún más presión."
 
 # game/script-ch3.rpy:526
 translate spanish ch3_end_f0139694:
 
     # m "Ah..."
-    m ""
+    m "Eh..."
 
 # game/script-ch3.rpy:527
 translate spanish ch3_end_c505dd66:
 
     # m "That may be the case..."
-    m ""
+    m "Sí, es posible..."
 
 # game/script-ch3.rpy:528
 translate spanish ch3_end_28087115:
 
     # m 1i "But if I can't also be a leader on my own, then I won't grow as a person."
-    m 1i ""
+    m 1i "Pero, si no me hago valer como líder, no creceré como persona."
 
 # game/script-ch3.rpy:529
 translate spanish ch3_end_24d5fcdf:
 
     # m 2i "So, Yuri...!"
-    m 2i ""
+    m 2i "¡Vamos, Yuri!"
 
 # game/script-ch3.rpy:530
 translate spanish ch3_end_a1dda444:
 
     # m 2a "You have beautiful handwriting, you know?"
-    m 2a ""
+    m 2a "Tienes una letra preciosa, ¿sabes?"
 
 # game/script-ch3.rpy:531
 translate spanish ch3_end_c7cb7c95:
 
     # m "So you should make some banners and decorations to help set the atmosphere."
-    m ""
+    m "¿Por qué no preparas carteles y decoraciones para crear ambiente?"
 
 # game/script-ch3.rpy:534
 translate spanish ch3_end_1dec6dd6:
 
     # y "Atmosphere...?"
-    y ""
+    y "¿Para crear ambiente?..."
 
 # game/script-ch3.rpy:535
 translate spanish ch3_end_f34c48c6:
 
     # y "Um, about that..."
-    y ""
+    y "Esto, pues..."
 
 # game/script-ch3.rpy:536
 translate spanish ch3_end_507dcdd3_1:
 
     # y "I..."
-    y ""
+    y "Me..."
 
 # game/script-ch3.rpy:537
 translate spanish ch3_end_1d085594:
 
     # y 2r "I love atmosphere!"
-    y 2r ""
+    y 2r "¡Me encanta crear ambiente!"
 
 # game/script-ch3.rpy:539
 translate spanish ch3_end_46322d3e:
 
     # "Yuri's expression suddenly changes as she stares at her desk in focus and starts nodding to herself."
-    ""
+    "La expresión de Yuri cambia de sopetón. Después, se concentra en su pupitre y empieza a asentir."
 
 # game/script-ch3.rpy:541
 translate spanish ch3_end_7c92f7b8:
 
     # mc "Your mind is already racing, I see..."
-    mc ""
+    mc "Parece que tu cabeza va a mil por hora."
 
 # game/script-ch3.rpy:543
 translate spanish ch3_end_bdb3e427:
 
     # m "That's great!"
-    m ""
+    m "¡Fantástico!"
 
 # game/script-ch3.rpy:544
 translate spanish ch3_end_1c28d742:
 
     # m "You'll be a wonderful help, Yuri."
-    m ""
+    m "Serás de muchísima ayuda, Yuri."
 
 # game/script-ch3.rpy:545
 translate spanish ch3_end_7ec87b07:
 
     # m 2a "But anyway..."
-    m 2a ""
+    m 2a "En fin..."
 
 # game/script-ch3.rpy:546
 translate spanish ch3_end_c81e9fcd:
 
     # m "That just leaves you, [player]."
-    m ""
+    m "Solo quedas tú, [player]."
 
 # game/script-ch3.rpy:548
 translate spanish ch3_end_8170e98d:
 
     # mc "The one who is truly useless."
-    mc ""
+    mc "El único y verdadero inútil."
 
 # game/script-ch3.rpy:550
 translate spanish ch3_end_17695396:
 
     # m "Ahaha! Don't say that."
-    m ""
+    m "¡Ja, ja, ja! No digas eso."
 
 # game/script-ch3.rpy:551
 translate spanish ch3_end_f880bf6d:
 
     # m 1b "In fact..."
-    m 1b ""
+    m 1b "De hecho..."
 
 # game/script-ch3.rpy:552
 translate spanish ch3_end_c8d0f130:
 
     # m "Both Natsuki and Yuri have some pretty heavy tasks to handle."
-    m ""
+    m "Natsuki y Yuri tienen bastante faena."
 
 # game/script-ch3.rpy:553
 translate spanish ch3_end_baa41005:
 
     # m "It would probably go a long way to give one of them a hand."
-    m ""
+    m "No estaría de más que les echaras un cable."
 
 # game/script-ch3.rpy:554
 translate spanish ch3_end_2cab0f7d:
 
     # m 1m "You could always help me out, as well..."
-    m 1m ""
+    m 1m "Aunque también podrías ayudarme a mí..."
 
 # game/script-ch3.rpy:555
 translate spanish ch3_end_66cb881c:
 
     # m 1a "I would be really appreciative of that."
-    m 1a ""
+    m 1a "Te lo agradecería un montón."
 
 # game/script-ch3.rpy:557
 translate spanish ch3_end_f9d65918:
 
     # mc "Ah--"
-    mc ""
+    mc "Ah..."
 
 # game/script-ch3.rpy:558
 translate spanish ch3_end_b7f7559b:
 
     # mc "That's..."
-    mc ""
+    mc "Pues..."
 
 # game/script-ch3.rpy:559
 translate spanish ch3_end_790c6cbc:
 
     # "Is Monika suggesting I spend the weekend with one of my club members?"
-    ""
+    "¿Monika insinúa que debería pasar el fin de semana con una de las chicas del club?"
 
 # game/script-ch3.rpy:560
 translate spanish ch3_end_fa8ddbb9:
 
     # "How on Earth are they going to respond to a suggestion like that...?"
-    ""
+    "¿Qué narices se supone que debo decir?"
 
 # game/script-ch3.rpy:562
 translate spanish ch3_end_728dcbc5_1:
 
     # y "Ah..."
-    y ""
+    y "Eh..."
 
 # game/script-ch3.rpy:563
 translate spanish ch3_end_cb62efbe:
 
     # y "I...suppose I wouldn't mind a bit of help..."
-    y ""
+    y "No... No me vendría mal algo de ayuda."
 
 # game/script-ch3.rpy:566
 translate spanish ch3_end_64cf539e:
 
     # n "Well, even if you don't know how to bake, there's always some dirty work I could give to you."
-    n ""
+    n "Bueno, aunque no sepas cocinar, siempre puedes encargarte del trabajo sucio."
 
 # game/script-ch3.rpy:567
 translate spanish ch3_end_c42e0713:
 
     # n 3q "It's not like Monika's going to give me a choice, and you shouldn't be sitting on your butt anyway..."
-    n 3q ""
+    n 3q "Monika no me deja opción y tampoco puedes quedarte de brazos cruzados."
 
 # game/script-ch3.rpy:568
 translate spanish ch3_end_16c45c35:
 
     # "Natsuki tries to mumble a bunch of excuses like that."
-    ""
+    "Natsuki se inventa toda clase de excusas."
 
 # game/script-ch3.rpy:571
 translate spanish ch3_end_a1300026:
 
     # y "Um..."
-    y ""
+    y "Mmm..."
 
 # game/script-ch3.rpy:572
 translate spanish ch3_end_554c5a10:
 
     # y "If I recall, Natsuki..."
-    y ""
+    y "Natsuki, si no recuerdo mal...,"
 
 # game/script-ch3.rpy:573
 translate spanish ch3_end_91c9e13d:
 
     # y 2f "You mentioned that you would like to handle the baking on your own."
-    y 2f ""
+    y 2f "dijiste que podías encargarte tú sola de cocinar, ¿no?"
 
 # game/script-ch3.rpy:574
 translate spanish ch3_end_c75c53b7:
 
     # y "[player] may not like to be around if you only make him out to be a nuisance..."
-    y ""
+    y "Puede que a [player] no le haga gracia ayudarte si lo haces sentir como un estorbo."
 
 # game/script-ch3.rpy:575
 translate spanish ch3_end_61551706:
 
     # y 2i "So therefore..."
-    y 2i ""
+    y 2i "Por tanto...,"
 
 # game/script-ch3.rpy:576
 translate spanish ch3_end_091ad47d:
 
     # y "He may be more suited to assisting with the decorations."
-    y ""
+    y "será mejor que ayude con las decoraciones."
 
 # game/script-ch3.rpy:579
 translate spanish ch3_end_745af0aa:
 
     # n "Hold on! I never said that!"
-    n ""
+    n "¡Espera! ¡Yo no he dicho eso!"
 
 # game/script-ch3.rpy:580
 translate spanish ch3_end_10705a29:
 
     # n 4h "How hard could it be to make a few decorations, anyway?"
-    n 4h ""
+    n 4h "Además, ¿qué tiene de difícil preparar unas pocas decoraciones?"
 
 # game/script-ch3.rpy:581
 translate spanish ch3_end_a62fb946:
 
     # n "Sounds more like you're just making excuses for [player] to--"
-    n ""
+    n "Mucho me temo que estás poniendo excusas para que [player]..."
 
 # game/script-ch3.rpy:584
 translate spanish ch3_end_61efbc65:
 
     # y "W-What are you saying?!"
-    y ""
+    y "¡P-Pero ¿qué dices?!"
 
 # game/script-ch3.rpy:585
 translate spanish ch3_end_2482de44:
 
     # y "It will be extremely meticulous work..."
-    y ""
+    y "Es un trabajo sumamente meticuloso..."
 
 # game/script-ch3.rpy:588
 translate spanish ch3_end_51a03886:
 
     # n "And baking isn't?"
-    n ""
+    n "¿Y cocinar no?"
 
 # game/script-ch3.rpy:589
 translate spanish ch3_end_e341b6f5:
 
     # n "Just what do you think--"
-    n ""
+    n "¿Qué te piensas que...?"
 
 # game/script-ch3.rpy:592
 translate spanish ch3_end_560fd063:
 
     # m "Guys, guys!"
-    m ""
+    m "¡Chicas, chicas!"
 
 # game/script-ch3.rpy:593
 translate spanish ch3_end_b6eb34a3:
 
     # m "Let's settle down for a moment..."
-    m ""
+    m "Relajémonos un poco..."
 
 # game/script-ch3.rpy:594
 translate spanish ch3_end_594b9380:
 
     # m 2d "In the end, I think it's up to [player] to decide how he'd like to contribute."
-    m 2d ""
+    m 2d "Al final, el que debe decidir a quién ayudar es [player]."
 
 # game/script-ch3.rpy:595
 translate spanish ch3_end_85cbc2fa:
 
     # m "Besides..."
-    m ""
+    m "Además...,"
 
 # game/script-ch3.rpy:596
 translate spanish ch3_end_cce2d5ec:
 
     # m 5 "He hasn't really gotten the chance to spend any time with me yet, you know?"
-    m 5 ""
+    m 5 "no ha tenido la oportunidad de pasar mucho tiempo conmigo, ¿sabéis?"
 
 # game/script-ch3.rpy:597
 translate spanish ch3_end_3f602671:
 
     # m "So I'm sure he's interested in--"
-    m ""
+    m "Estoy segura de que quiere..."
 
 # game/script-ch3.rpy:600
 translate spanish ch3_end_8b0b965e:
 
     # n 4f "You {i}literally{/i} just said--"
-    n 4f ""
+    n 4f "¡Acabas de decir que...!"
 
 # game/script-ch3.rpy:603
 translate spanish ch3_end_34eb91a2:
 
     # y "I-I'm surprised as well!"
-    y ""
+    y "¡Y-Yo tampoco me lo esperaba de ti!"
 
 # game/script-ch3.rpy:606
 translate spanish ch3_end_b396bff6:
 
     # m "Sorry, sorry!"
-    m ""
+    m "¡Lo siento, perdón!"
 
 # game/script-ch3.rpy:607
 translate spanish ch3_end_a0ab1942:
 
     # m "I was just saying, though..."
-    m ""
+    m "Solo lo he dejado caer."
 
 # game/script-ch3.rpy:610
 translate spanish ch3_end_a8557d5c_1:
 
     # n "Jeez..."
-    n ""
+    n "Buf..."
 
 # game/script-ch3.rpy:611
 translate spanish ch3_end_6e7afd40:
 
     # n "Can we just settle this already?"
-    n ""
+    n "¿Podemos acabar con esto de una vez?"
 
 # game/script-ch3.rpy:614
 translate spanish ch3_end_7e7f246d:
 
     # m "Yeah..."
-    m ""
+    m "Sí..."
 
 # game/script-ch3.rpy:615
 translate spanish ch3_end_96cefd3a:
 
     # m "[player], you're okay with this, right?"
-    m ""
+    m "[player], estás de acuerdo, ¿no?"
 
 # game/script-ch3.rpy:616
 translate spanish ch3_end_210829fa:
 
     # m 1a "In the end, it's up to you."
-    m 1a ""
+    m 1a "Todo depende de ti."
 
 # game/script-ch3.rpy:618
 translate spanish ch3_end_93deaf69:
 
     # mc "Ah..."
-    mc ""
+    mc "Ah..."
 
 # game/script-ch3.rpy:619
 translate spanish ch3_end_1bf60051:
 
     # mc "Of course."
-    mc ""
+    mc "Por supuesto."
 
 # game/script-ch3.rpy:621
 translate spanish ch3_end_ffa2b290:
 
     # n "Hmph."
-    n ""
+    n "Jum."
 
 # game/script-ch3.rpy:624
 translate spanish ch3_end_51500451:
 
     # y "Very well..."
-    y ""
+    y "Muy bien."
 
 # game/script-ch3.rpy:627
 translate spanish ch3_end_148978dd:
 
     # m "In that case..."
-    m ""
+    m "En ese caso..."
 
 # game/script-ch3.rpy:629
 translate spanish ch3_end_64979231:
 
     # "Everyone looks straight at me."
-    ""
+    "Las chicas me miran fijamente."
 
 # game/script-ch3.rpy:643
 translate spanish ch3_end_8cbb49b3:
@@ -2668,289 +2668,289 @@ translate spanish ch3_end_788cbacd:
 translate spanish ch3_end_sayori_7136c946:
 
     # mc "I mean..."
-    mc ""
+    mc "A ver..."
 
 # game/script-ch3.rpy:672
 translate spanish ch3_end_sayori_6cb4c996:
 
     # mc "If it's going to be anyone, then I prefer helping Sayori."
-    mc ""
+    mc "Si tengo que ayudar a alguien, hubiese preferido a Sayori."
 
 # game/script-ch3.rpy:673
 translate spanish ch3_end_sayori_b9e57242:
 
     # mc "I mean, we're already neighbors, and--"
-    mc ""
+    mc "A fin de cuentas, somos vecinos."
 
 # game/script-ch3.rpy:675
 translate spanish ch3_end_sayori_3e76ae79:
 
     # y "But Monika said--"
-    y ""
+    y "Pero Monika ha dicho..."
 
 # game/script-ch3.rpy:678
 translate spanish ch3_end_sayori_a92bec08:
 
     # n "Monika said that Sayori was helping her!"
-    n ""
+    n "¡Monika ha dicho que Sayori iba a ayudarla!"
 
 # game/script-ch3.rpy:679
 translate spanish ch3_end_sayori_a8557d5c:
 
     # n "Jeez..."
-    n ""
+    n "Buf..."
 
 # game/script-ch3.rpy:680
 translate spanish ch3_end_sayori_0808ca59:
 
     # n 4h "Do you really hate us that much?"
-    n 4h ""
+    n 4h "¿Tanta manía nos tienes?"
 
 # game/script-ch3.rpy:682
 translate spanish ch3_end_sayori_8acab5fb:
 
     # mc "N-No!"
-    mc ""
+    mc "¡N-No!"
 
 # game/script-ch3.rpy:684
 translate spanish ch3_end_sayori_be22acf9:
 
     # m "Sorry, I didn't mean for this to be difficult..."
-    m ""
+    m "Lo siento, no esperaba que me fuera a costar tanto."
 
 # game/script-ch3.rpy:687
 translate spanish ch3_end_sayori_dd9616f1:
 
     # m "Just think of the club, okay?" nointeract
-    m "" nointeract
+    m "Tú haz lo que sea mejor para el club, ¿vale?" nointeract
 
 # game/script-ch3.rpy:699
 translate spanish ch3_end_monika_eddfdb9f:
 
     # mc "Well, I guess I should probably be helping Monika..."
-    mc ""
+    mc "Supongo que debería ayudar a Monika..."
 
 # game/script-ch3.rpy:701
 translate spanish ch3_end_monika_c0f988c6:
 
     # m "Yay, you picked me!"
-    m ""
+    m "¡Yupi, me has elegido a mí!"
 
 # game/script-ch3.rpy:705
 translate spanish ch3_end_monika_49aff3fd:
 
     # n "Hold on one second!"
-    n ""
+    n "¡No tan rápido!"
 
 # game/script-ch3.rpy:708
 translate spanish ch3_end_monika_e0ae7e85:
 
     # y "Y-Yeah!"
-    y ""
+    y "¡S-Sí!"
 
 # game/script-ch3.rpy:712
 translate spanish ch3_end_monika_14815f7c:
 
     # n "Monika, you're the one who needs the least help out of all of us!"
-    n ""
+    n "Monika, ¡eres la que menos ayuda necesita de todas!"
 
 # game/script-ch3.rpy:715
 translate spanish ch3_end_monika_d7f49d58:
 
     # m "Eh? But..."
-    m ""
+    m "¿Eh? Pero..."
 
 # game/script-ch3.rpy:718
 translate spanish ch3_end_monika_025912d2:
 
     # y "I agree with Natsuki."
-    y ""
+    y "Concuerdo con Natsuki."
 
 # game/script-ch3.rpy:719
 translate spanish ch3_end_monika_89c337b8:
 
     # y 1l "Not only is your work already most suitable for one person..."
-    y 1l ""
+    y 1l "Puedes hacer tu trabajo sola perfectamente."
 
 # game/script-ch3.rpy:720
 translate spanish ch3_end_monika_44d7e401:
 
     # y "But you already have Sayori as well."
-    y ""
+    y "Además, también tienes a Sayori."
 
 # game/script-ch3.rpy:723
 translate spanish ch3_end_monika_f953990a:
 
     # m 1p "But [player] was the one who..."
-    m 1p ""
+    m 1p "Pero [player] me ha..."
 
 # game/script-ch3.rpy:724
 translate spanish ch3_end_monika_f0139694:
 
     # m "Ah..."
-    m ""
+    m "Ah..."
 
 # game/script-ch3.rpy:727
 translate spanish ch3_end_monika_e052c63e:
 
     # n "That doesn't matter."
-    n ""
+    n "Eso da igual."
 
 # game/script-ch3.rpy:728
 translate spanish ch3_end_monika_f4ab89bc:
 
     # n "You were the one who scared him into picking you in the first place."
-    n ""
+    n "Lo has intimidado para que te elija."
 
 # game/script-ch3.rpy:729
 translate spanish ch3_end_monika_58de77c3:
 
     # n 3e "You're the club president, Monika."
-    n 3e ""
+    n 3e "Monika, eres la presidenta."
 
 # game/script-ch3.rpy:730
 translate spanish ch3_end_monika_908fcc8b:
 
     # n "You're supposed to make responsible decisions for the club!"
-    n ""
+    n "Debes tomar decisiones responsables por el bien del club."
 
 # game/script-ch3.rpy:733
 translate spanish ch3_end_monika_b5b5f310:
 
     # y "Monika, you shouldn't let any ulterior motives interfere with this decision."
-    y ""
+    y "Monika, no debes dejar que tus deseos ocultos interfieran con esta decisión."
 
 # game/script-ch3.rpy:736
 translate spanish ch3_end_monika_7137b361:
 
     # m "Ulterior motives?"
-    m ""
+    m "¿Mis deseos ocultos?"
 
 # game/script-ch3.rpy:737
 translate spanish ch3_end_monika_c89eb112:
 
     # m "W-What are you saying, Yuri?"
-    m ""
+    m "¡¿D-De qué hablas, Yuri?!"
 
 # game/script-ch3.rpy:738
 translate spanish ch3_end_monika_537b0f2d:
 
     # m "In fact, it sounds like you guys are the ones with ulterior motives!"
-    m ""
+    m "De hecho, ¡diría que las que tenéis deseos ocultos sois vosotras!"
 
 # game/script-ch3.rpy:741
 translate spanish ch3_end_monika_42241b7e:
 
     # n "{i}Excuse{/i} me?"
-    n ""
+    n "¿Perdona?"
 
 # game/script-ch3.rpy:744
 translate spanish ch3_end_monika_391272cd:
 
     # m "Otherwise...this wouldn't have been made into such a big deal in the first place!"
-    m ""
+    m "De lo contrario, ¡no se habría armado semejante follón!"
 
 # game/script-ch3.rpy:747
 translate spanish ch3_end_monika_1ea45023:
 
     # y "That's...completely false, Monika!"
-    y ""
+    y "¡Eso es... totalmente falso, Monika!"
 
 # game/script-ch3.rpy:750
 translate spanish ch3_end_monika_6a9ed22c:
 
     # n "Yeah!"
-    n ""
+    n "¡Sí!"
 
 # game/script-ch3.rpy:751
 translate spanish ch3_end_monika_9b61eb34:
 
     # n "We have a lot of work to do, you know!"
-    n ""
+    n "¡Estamos hasta el cuello de trabajo, so lista!"
 
 # game/script-ch3.rpy:752
 translate spanish ch3_end_monika_32392805:
 
     # n "We won't do as good of a job if you make us work alone."
-    n ""
+    n "¡Es imposible que hagamos un buen papel si nos quedamos solas!"
 
 # game/script-ch3.rpy:755
 translate spanish ch3_end_monika_72f25f1f:
 
     # m "Ah...maybe...that's true..."
-    m ""
+    m "Ah... Quizás tengas razón..."
 
 # game/script-ch3.rpy:758
 translate spanish ch3_end_monika_90309088:
 
     # y "Think of the club, Monika..."
-    y ""
+    y "Tú piensa en el club, Monika..."
 
 # game/script-ch3.rpy:759
 translate spanish ch3_end_monika_099d37d8:
 
     # y "If we want our event to succeed, then we need to appropriately distribute our resources."
-    y ""
+    y "Si queremos que el evento salga bien, tenemos que distribuir la mano de obra con cabeza."
 
 # game/script-ch3.rpy:762
 translate spanish ch3_end_monika_619a4637:
 
     # m "Um..."
-    m ""
+    m "Mmm..."
 
 # game/script-ch3.rpy:763
 translate spanish ch3_end_monika_f0139694_1:
 
     # m "Ah..."
-    m ""
+    m "Eh..."
 
 # game/script-ch3.rpy:766
 translate spanish ch3_end_monika_79ddc100:
 
     # n "So are you going to do the right thing, {i}President{/i}?"
-    n ""
+    n "¿Piensas hacer lo correcto, señorita presidenta?"
 
 # game/script-ch3.rpy:769
 translate spanish ch3_end_monika_a5c16eef:
 
     # m "Okay, okay!"
-    m ""
+    m "¡Vale, como queráis!"
 
 # game/script-ch3.rpy:770
 translate spanish ch3_end_monika_98dba970:
 
     # m "I get it!"
-    m ""
+    m "Ya lo pillo."
 
 # game/script-ch3.rpy:774
 translate spanish ch3_end_monika_628ac17d:
 
     # m 1r "Sigh..."
-    m 1r ""
+    m 1r "Ay..."
 
 # game/script-ch3.rpy:775
 translate spanish ch3_end_monika_8cc24be7:
 
     # m 1g "It's...technically most logical for [player] to help one of you two."
-    m 1g ""
+    m 1g "Lo más lógico es que [player] os ayude a una de vosotras."
 
 # game/script-ch3.rpy:776
 translate spanish ch3_end_monika_252f3573:
 
     # m "So..."
-    m ""
+    m "Pues..."
 
 # game/script-ch3.rpy:777
 translate spanish ch3_end_monika_a5a47c09:
 
     # m 1c "I guess...that's what we'll do."
-    m 1c ""
+    m 1c "En fin, que así sea."
 
 # game/script-ch3.rpy:781
 translate spanish ch3_end_monika_8c85a419:
 
     # m "Do you have a preference, [player]?" nointeract
-    m "" nointeract
+    m "¿Tienes alguna preferencia, [player]?" nointeract
 
 # game/script-ch3.rpy:792
 translate spanish ch3_end_natsuki_72753329:
@@ -4570,13 +4570,13 @@ translate spanish strings:
 
     # game/script-ch3.rpy:630
     old "But of course, I'm going to go with--"
-    new ""
+    new "Sin duda alguna, pienso ayudar a..."
 
     # game/script-ch3.rpy:630
     old "Monika."
-    new ""
+    new "Monika."
 
     # game/script-ch3.rpy:630
     old "Sayori..."
-    new ""
+    new "Sayori..."
 
