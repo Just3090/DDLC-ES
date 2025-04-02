@@ -4,79 +4,79 @@
 translate spanish ch4_main_7f03563e:
 
     # "It's already Sunday."
-    ""
+    "Ya es domingo."
 
 # game/script-ch4.rpy:10
 translate spanish ch4_main_e8881ae0:
 
     # "I've been getting increasingly anxious about Natsuki's upcoming visit."
-    ""
+    "Estoy cada vez más nervioso por la visita de Natsuki."
 
 # game/script-ch4.rpy:11
 translate spanish ch4_main_1e3fd2be:
 
     # "I keep telling myself there's no reason to be nervous, but it doesn't help much."
-    ""
+    "No paro de repetirme que no hay motivo alguno para ponerse así, pero no ayuda mucho."
 
 # game/script-ch4.rpy:12
 translate spanish ch4_main_d63e1a44:
 
     # "I wonder if she'll act any different when it's just the two of us?"
-    ""
+    "Quizá se comporte de otra forma cuando estemos a solas."
 
 # game/script-ch4.rpy:13
 translate spanish ch4_main_c1d95768:
 
     # "Meanwhile, she's been texting me a lot."
-    ""
+    "Estos días me ha escrito un aluvión de mensajes."
 
 # game/script-ch4.rpy:14
 translate spanish ch4_main_a36be6d2:
 
     # "We sent each other one after exchanging numbers to double-check, but it turned into conversation."
-    ""
+    "Nos enviamos algunos para confirmar que nos habíamos dado el número correctamente, pero acabamos charlando."
 
 # game/script-ch4.rpy:15
 translate spanish ch4_main_4ac86efe:
 
     # "She's almost a different personality on the phone, using tons of emoji and cute language."
-    ""
+    "Parece otra persona por teléfono. Emplea muchos emoticonos y palabras cuquis."
 
 # game/script-ch4.rpy:16
 translate spanish ch4_main_51122e85:
 
     # "She also really likes complaining about things, but I kind of saw that one coming."
-    ""
+    "Y también le pirra quejarse, aunque eso ya me lo esperaba."
 
 # game/script-ch4.rpy:17
 translate spanish ch4_main_54fc51cb:
 
     # "But putting Natsuki aside..."
-    ""
+    "Pero dejando a Natsuki de lado..."
 
 # game/script-ch4.rpy:19
 translate spanish ch4_main_533ca6d9:
 
     # "I've been getting increasingly anxious about Yuri's upcoming visit."
-    ""
+    "Estoy cada vez más nevioso por la visita de Yuri."
 
 # game/script-ch4.rpy:20
 translate spanish ch4_main_1e3fd2be_1:
 
     # "I keep telling myself there's no reason to be nervous, but it doesn't help much."
-    ""
+    "No paro de repetirme que no hay motivo alguno para ponerse así, pero no ayuda mucho."
 
 # game/script-ch4.rpy:21
 translate spanish ch4_main_6a261072:
 
     # "Yuri is clearly an introvert and also an intimate person in general."
-    ""
+    "Yuri es muy introvertida y, por lo general, se lo guarda todo para ella."
 
 # game/script-ch4.rpy:22
 translate spanish ch4_main_172e5fe9:
 
     # "There's no doubt that she'll open up a little bit when it's just the two of us."
-    ""
+    "Seguro que se abre un poco cuando estemos los dos a solas."
 
 # game/script-ch4.rpy:23
 translate spanish ch4_main_dcb4a9fe:
