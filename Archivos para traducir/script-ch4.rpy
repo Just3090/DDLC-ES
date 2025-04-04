@@ -3076,595 +3076,595 @@ translate spanish ch4_exclusive_natsuki_099484f7:
 translate spanish ch4_exclusive_natsuki_36e0c7ae:
 
     # "When we're finally finished, Natsuki puts them all side by side to admire our work."
-    ""
+    "Cuando por fin terminamos, Natsuki ordena los cupcakes para que podamos admirar nuestra obra."
 
 # game/script-ch4.rpy:577
 translate spanish ch4_exclusive_natsuki_47bb6978:
 
     # n "Look at how pretty they are together!"
-    n ""
+    n "¡Mira qué bonitos quedan juntitos!"
 
 # game/script-ch4.rpy:578
 translate spanish ch4_exclusive_natsuki_2e14ea6e:
 
     # mc "Yeah, they are, aren't they?"
-    mc ""
+    mc "Y que lo digas. Son una monada."
 
 # game/script-ch4.rpy:579
 translate spanish ch4_exclusive_natsuki_ff581b84:
 
     # n 1bm "Uu... I wish I could have one now!"
-    n 1bm ""
+    n 1bm "Uh... ¡Me encantaría comerme uno!"
 
 # game/script-ch4.rpy:580
 translate spanish ch4_exclusive_natsuki_d403f6fb:
 
     # mc "Well, there's no reason you can't, right?"
-    mc ""
+    mc "¿Y qué te lo impide?"
 
 # game/script-ch4.rpy:581
 translate spanish ch4_exclusive_natsuki_8e8cfa03:
 
     # mc "I don't see any harm in that."
-    mc ""
+    mc "No le veo nada de malo."
 
 # game/script-ch4.rpy:582
 translate spanish ch4_exclusive_natsuki_04c4a45e:
 
     # n 1bc "Well, yeah, but..."
-    n 1bc ""
+    n 1bc "Ya, es verdad, pero..."
 
 # game/script-ch4.rpy:583
 translate spanish ch4_exclusive_natsuki_27aafecd:
 
     # n "My dad's making dinner tonight, so I really need to save my appetite."
-    n ""
+    n "Hoy mi padre se encarga de hacer la cena, así que preferiría no llenarme."
 
 # game/script-ch4.rpy:584
 translate spanish ch4_exclusive_natsuki_ee7d9dbd_2:
 
     # mc "Ahaha."
-    mc ""
+    mc "Ja, ja, ja."
 
 # game/script-ch4.rpy:585
 translate spanish ch4_exclusive_natsuki_ac68524f:
 
     # mc "Sayori's the exact opposite in that regard."
-    mc ""
+    mc "En ese sentido, Sayori y tú sois polos opuestos."
 
 # game/script-ch4.rpy:586
 translate spanish ch4_exclusive_natsuki_f50b65ff:
 
     # mc "If she was here, we'd probably be down ten cupcakes already."
-    mc ""
+    mc "Si estuviese aquí, ya se habría zampado diez cupcakes."
 
 # game/script-ch4.rpy:587
 translate spanish ch4_exclusive_natsuki_bfd3cdaa:
 
     # mc "And she would still eat dinner."
-    mc ""
+    mc "Y aún tendría espacio paa la cena."
 
 # game/script-ch4.rpy:588
 translate spanish ch4_exclusive_natsuki_588a5445:
 
     # n 4bg "Come on, that's just unhealthy!"
-    n 4bg ""
+    n 4bg "¡Eso es un atentado contra la salud!"
 
 # game/script-ch4.rpy:589
 translate spanish ch4_exclusive_natsuki_d1ec6ede:
 
     # n 4bs "Besides, when my dad cooks, I need to eat as much of it as I can..."
-    n 4bs ""
+    n 4bs "Además, cuando cocina mi padre, tengo que comer todo lo que puedo..."
 
 # game/script-ch4.rpy:590
 translate spanish ch4_exclusive_natsuki_d77a0c40:
 
     # n 4bq "...Well, anyway!"
-    n 4bq ""
+    n 4bq "Bueno, cambiando de tema..."
 
 # game/script-ch4.rpy:591
 translate spanish ch4_exclusive_natsuki_9e156483:
 
     # n 4bc "I was hoping we would have time for manga, but I need to be home for dinner..."
-    n 4bc ""
+    n 4bc "Tenía muchas ganas de leer manga, pero debo irme ya."
 
 # game/script-ch4.rpy:592
 translate spanish ch4_exclusive_natsuki_aef079c7:
 
     # mc "Ah, already?"
-    mc ""
+    mc "¿Qué? ¿Tan pronto?"
 
 # game/script-ch4.rpy:593
 translate spanish ch4_exclusive_natsuki_b9ca631b:
 
     # mc "That's a shame."
-    mc ""
+    mc "Qué lástima."
 
 # game/script-ch4.rpy:594
 translate spanish ch4_exclusive_natsuki_28cdf998:
 
     # n 1bg "It's your fault for working so slowly!"
-    n 1bg ""
+    n 1bg "¡La culpa es tuya, por ser tan lento!"
 
 # game/script-ch4.rpy:595
 translate spanish ch4_exclusive_natsuki_26a005bb:
 
     # n "You should have thought about that."
-    n ""
+    n "Tendrías que haberlo tenido en cuenta."
 
 # game/script-ch4.rpy:596
 translate spanish ch4_exclusive_natsuki_b07cb9d8:
 
     # n "It's not like you'll always have this chance."
-    n ""
+    n "Esta oportunidad no se presenta todos los días."
 
 # game/script-ch4.rpy:597
 translate spanish ch4_exclusive_natsuki_3bb3965e_1:
 
     # mc "Man..."
-    mc ""
+    mc "Jolín..."
 
 # game/script-ch4.rpy:598
 translate spanish ch4_exclusive_natsuki_e2ff1fee:
 
     # "As usual, Natsuki places the blame on me."
-    ""
+    "Como es habitual, Natsuki me echa toda la culpa."
 
 # game/script-ch4.rpy:599
 translate spanish ch4_exclusive_natsuki_c0ae346b:
 
     # n 2bk "You can bring the cupcakes tomorrow, right?"
-    n 2bk ""
+    n 2bk "No tendrás problema en llevar los cupcakes mañana, ¿no?"
 
 # game/script-ch4.rpy:600
 translate spanish ch4_exclusive_natsuki_6c24d03d:
 
     # n "If you and Sayori each carry some, then you can probably do it in one trip."
-    n ""
+    n "Si Sayori te echa una mano, podréis hacerlo en un solo viaje."
 
 # game/script-ch4.rpy:601
 translate spanish ch4_exclusive_natsuki_a0fa8927:
 
     # mc "Yeah, I can do that."
-    mc ""
+    mc "Cuenta conmigo."
 
 # game/script-ch4.rpy:602
 translate spanish ch4_exclusive_natsuki_8af9aed2:
 
     # mc "And don't worry, I won't let her eat any."
-    mc ""
+    mc "Y descuida, no dejaré que se coma ni uno."
 
 # game/script-ch4.rpy:603
 translate spanish ch4_exclusive_natsuki_3d04b304:
 
     # n 2ba "Ahaha."
-    n 2ba ""
+    n 2ba "Ja, ja, ja."
 
 # game/script-ch4.rpy:604
 translate spanish ch4_exclusive_natsuki_ed081af3:
 
     # n "I wish she would listen to me the way she listens to you."
-    n ""
+    n "Ojalá me hiciese tanto caso como a ti."
 
 # game/script-ch4.rpy:605
 translate spanish ch4_exclusive_natsuki_93deaf69_1:
 
     # mc "Ah..."
-    mc ""
+    mc "Eh..."
 
 # game/script-ch4.rpy:606
 translate spanish ch4_exclusive_natsuki_cf1adef2:
 
     # mc "Yeah."
-    mc ""
+    mc "Sí."
 
 # game/script-ch4.rpy:609
 translate spanish ch4_exclusive_natsuki_3971d63c:
 
     # "I again think back to the conversation I had with Sayori earlier today."
-    ""
+    "Me viene a la cabeza la conversación que tuve antes con Sayori."
 
 # game/script-ch4.rpy:610
 translate spanish ch4_exclusive_natsuki_d5554afb:
 
     # "I felt so helpless."
-    ""
+    "Me sentí totalmente desarmado."
 
 # game/script-ch4.rpy:611
 translate spanish ch4_exclusive_natsuki_ac4357a4:
 
     # "Sayori always does listen to me, but at that point it felt like she couldn't listen to me at all."
-    ""
+    "Es cierto que Sayori siempre me escucha, pero, en ese momento, parecía incapaz de hacerlo."
 
 # game/script-ch4.rpy:613
 translate spanish ch4_exclusive_natsuki_f74f5f5f:
 
     # n "Okay, I'm all packed up."
-    n ""
+    n "Bien, ya he empaquetado todo."
 
 # game/script-ch4.rpy:614
 translate spanish ch4_exclusive_natsuki_ae2d053c:
 
     # n "Good work today!"
-    n ""
+    n "¡Hoy has hecho un buen trabajo!"
 
 # game/script-ch4.rpy:615
 translate spanish ch4_exclusive_natsuki_0dfdcd09:
 
     # mc "You too."
-    mc ""
+    mc "Igualmente."
 
 # game/script-ch4.rpy:616
 translate spanish ch4_exclusive_natsuki_a19bfb12:
 
     # mc "I'll walk you out...I guess."
-    mc ""
+    mc "Deja que te acompañe."
 
 # game/script-ch4.rpy:619
 translate spanish ch4_exclusive_natsuki_9596bafd:
 
     # "Just like that, Natsuki is already about to leave."
-    ""
+    "Y así, Natsuki está lista para marcharse."
 
 # game/script-ch4.rpy:620
 translate spanish ch4_exclusive_natsuki_21adaaed:
 
     # "It feels like the afternoon went by in a flash."
-    ""
+    "La tarde se me ha pasado en un suspiro."
 
 # game/script-ch4.rpy:621
 translate spanish ch4_exclusive_natsuki_0a2f1618:
 
     # "More than that..."
-    ""
+    "Aun así..."
 
 # game/script-ch4.rpy:622
 translate spanish ch4_exclusive_natsuki_2c2fa4da:
 
     # "Did I even take the opportunity to get closer to her, like I wanted?"
-    ""
+    "Mi intención era ahondar en nuestra relación, pero no estoy seguro de haberlo conseguido."
 
 # game/script-ch4.rpy:624
 translate spanish ch4_exclusive_natsuki_228e3b68:
 
     # n "Well..."
-    n ""
+    n "Bueno..."
 
 # game/script-ch4.rpy:625
 translate spanish ch4_exclusive_natsuki_7646e0cb:
 
     # n "I guess I'll be off, then..."
-    n ""
+    n "Será mejor que vaya tirando, supongo..."
 
 # game/script-ch4.rpy:626
 translate spanish ch4_exclusive_natsuki_2613ee81:
 
     # n 1bq "Thanks for all the help and everything..."
-    n 1bq ""
+    n 1bq "Gracias por ayudarme."
 
 # game/script-ch4.rpy:627
 translate spanish ch4_exclusive_natsuki_07f48ce1:
 
     # n "I'll see you tomorrow."
-    n ""
+    n "Te veo mañana."
 
 # game/script-ch4.rpy:628
 translate spanish ch4_exclusive_natsuki_8a4103bc:
 
     # mc "Wait, Natsuki."
-    mc ""
+    mc "Natsuki, espera."
 
 # game/script-ch4.rpy:629
 translate spanish ch4_exclusive_natsuki_548eadc3_1:
 
     # n 1bh "Eh?"
-    n 1bh ""
+    n 1bh "¿Eh?"
 
 # game/script-ch4.rpy:630
 translate spanish ch4_exclusive_natsuki_7e6f824c:
 
     # mc "What you said before...about not always having this chance."
-    mc ""
+    mc "Antes dijiste que esta oportunidad no se presenta todos los días."
 
 # game/script-ch4.rpy:631
 translate spanish ch4_exclusive_natsuki_3f6cd4b1:
 
     # mc "It doesn't have to be that way at all!"
-    mc ""
+    mc "¡Pero no tiene por qué ser así!"
 
 # game/script-ch4.rpy:632
 translate spanish ch4_exclusive_natsuki_405c1d27:
 
     # mc "I had fun today."
-    mc ""
+    mc "Me lo he pasado muy bien."
 
 # game/script-ch4.rpy:633
 translate spanish ch4_exclusive_natsuki_6d9a97aa:
 
     # mc "You showed me how fun baking can be, like you wanted."
-    mc ""
+    mc "Y me has enseñado lo divertida que es la repostería, tal y como querías."
 
 # game/script-ch4.rpy:634
 translate spanish ch4_exclusive_natsuki_95ec073f:
 
     # mc "But aside from that..."
-    mc ""
+    mc "Pero, dejando eso de lado...,"
 
 # game/script-ch4.rpy:635
 translate spanish ch4_exclusive_natsuki_83a4e9ac:
 
     # mc "You can come over anytime, okay?"
-    mc ""
+    mc "siéntete libre de venir cuando quieras, ¿vale?"
 
 # game/script-ch4.rpy:636
 translate spanish ch4_exclusive_natsuki_0152a549:
 
     # mc "I think that if possible, I'd like to spend more time like this."
-    mc ""
+    mc "Me gustaría que quedásemos más a menudo, si no te importa."
 
 # game/script-ch4.rpy:637
 translate spanish ch4_exclusive_natsuki_66925863:
 
     # mc "If you want to read manga, or go out somewhere--"
-    mc ""
+    mc "Si te apetece leer manga o ir a dar una vuelta, ya sabes..."
 
 # game/script-ch4.rpy:638
 translate spanish ch4_exclusive_natsuki_29362eb3:
 
     # n 1bm "Um--"
-    n 1bm ""
+    n 1bm "Mmm..."
 
 # game/script-ch4.rpy:639
 translate spanish ch4_exclusive_natsuki_434c12f4:
 
     # n "Do you...really mean that?"
-    n ""
+    n "¿Lo... dices en serio?"
 
 # game/script-ch4.rpy:640
 translate spanish ch4_exclusive_natsuki_8f33b5b6:
 
     # "Natsuki looks at me tensely, like she's trying to hide her expression."
-    ""
+    "Natsuki me mira tensa, como si intentara contener su expresión."
 
 # game/script-ch4.rpy:641
 translate spanish ch4_exclusive_natsuki_cf1adef2_1:
 
     # mc "Yeah."
-    mc ""
+    mc "Sí."
 
 # game/script-ch4.rpy:642
 translate spanish ch4_exclusive_natsuki_ce366dd0:
 
     # mc "I want to spend more time with you."
-    mc ""
+    mc "Quiero pasar más tiempo contigo."
 
 # game/script-ch4.rpy:643
 translate spanish ch4_exclusive_natsuki_578e1b37:
 
     # n 1bq "[player]..."
-    n 1bq ""
+    n 1bq "[player]..."
 
 # game/script-ch4.rpy:644
 translate spanish ch4_exclusive_natsuki_e7f19355:
 
     # n "I thought you only cared about getting this done..."
-    n ""
+    n "Pensaba que solo querías despacharme cuanto antes."
 
 # game/script-ch4.rpy:645
 translate spanish ch4_exclusive_natsuki_b2a0bf7e:
 
     # n 1br "Uu..."
-    n 1br ""
+    n 1br "Ah..."
 
 # game/script-ch4.rpy:646
 translate spanish ch4_exclusive_natsuki_ba247806:
 
     # n 1bn "I'm sorry I had to leave so early today."
-    n 1bn ""
+    n 1bn "Siento tener que marcharme tan pronto."
 
 # game/script-ch4.rpy:647
 translate spanish ch4_exclusive_natsuki_0c0c9508:
 
     # n "I really didn't want to!"
-    n ""
+    n "¡No era mi intención, te lo juro!"
 
 # game/script-ch4.rpy:648
 translate spanish ch4_exclusive_natsuki_5b862643:
 
     # n "I would really...stay here longer if I could."
-    n ""
+    n "De haber podido, me habría quedado más tiempo."
 
 # game/script-ch4.rpy:649
 translate spanish ch4_exclusive_natsuki_31bb1625:
 
     # n "I feel the same way as you, so..."
-    n ""
+    n "Opino lo mismo que tú, así que..."
 
 # game/script-ch4.rpy:652
 translate spanish ch4_exclusive_natsuki_b5f4ef0c:
 
     # "Natsuki suddenly gets closer to me."
-    ""
+    "Natsuki se me acerca."
 
 # game/script-ch4.rpy:653
 translate spanish ch4_exclusive_natsuki_b03b71a9:
 
     # mc "Wait, Natsuki--"
-    mc ""
+    mc "Un momento, Natsuki..."
 
 # game/script-ch4.rpy:654
 translate spanish ch4_exclusive_natsuki_d2c5496d:
 
     # "Standing inches from me, Natsuki looks up at me."
-    ""
+    "Me mira fijamente a pocos centímetros de distancia."
 
 # game/script-ch4.rpy:655
 translate spanish ch4_exclusive_natsuki_94a82b0d:
 
     # "I feel her fingers gently clutch at the sides of my shirt, as if holding onto me."
-    ""
+    "Siento cómo sus dedos agarran mi camiseta con delicadeza, como si quisiera aferrarse a mí."
 
 # game/script-ch4.rpy:656
 translate spanish ch4_exclusive_natsuki_8043eaf5:
 
     # "Her rose-colored cheeks and matching eyes fill my vision, along with her slightly-parted lips."
-    ""
+    "Solo puedo verle las mejillas, rosadas como sis ojos, así como sus labios entreabiertos."
 
 # game/script-ch4.rpy:657
 translate spanish ch4_exclusive_natsuki_2d899e99:
 
     # "What is happening...?"
-    ""
+    "¿Qué está pasando?..."
 
 # game/script-ch4.rpy:658
 translate spanish ch4_exclusive_natsuki_ed944824:
 
     # "My head starts to go dizzy as I feel her soft breaths against me."
-    ""
+    "La cabeza empieza a darme vueltas al mismo tiempo que siento su delicada respiración."
 
 # game/script-ch4.rpy:659
 translate spanish ch4_exclusive_natsuki_341e4e51:
 
     # n 1bh "I've felt it..."
-    n 1bh ""
+    n 1bh "Llevo..."
 
 # game/script-ch4.rpy:660
 translate spanish ch4_exclusive_natsuki_b7304ef1:
 
     # n "For a while now..."
-    n ""
+    n "un tiempo sintiéndome así..."
 
 # game/script-ch4.rpy:661
 translate spanish ch4_exclusive_natsuki_6b055c45:
 
     # n 1bo "--!!"
-    n 1bo ""
+    n 1bo "¡¡¡...!!!"
 
 # game/script-ch4.rpy:663
 translate spanish ch4_exclusive_natsuki_817ef322:
 
     # "Natsuki suddenly jumps back."
-    ""
+    "Natsuki salta rápidamente hacia atrás."
 
 # game/script-ch4.rpy:664
 translate spanish ch4_exclusive_natsuki_4f1c9b29:
 
     # n "S-Sayori?!"
-    n ""
+    n "¡¿S-Sayori?!"
 
 # game/script-ch4.rpy:665
 translate spanish ch4_exclusive_natsuki_af40f385:
 
     # mc "Eh?!"
-    mc ""
+    mc "¡¿Cómo?!"
 
 # game/script-ch4.rpy:668
 translate spanish ch4_exclusive_natsuki_699ac020:
 
     # s "Ah..."
-    s ""
+    s "Ah..."
 
 # game/script-ch4.rpy:669
 translate spanish ch4_exclusive_natsuki_072fe968:
 
     # s "H-Hi, [player]..."
-    s ""
+    s "H-Hola, [player]..."
 
 # game/script-ch4.rpy:670
 translate spanish ch4_exclusive_natsuki_48d5b9aa:
 
     # mc "Sayori--!"
-    mc ""
+    mc "¡Sayori!..."
 
 # game/script-ch4.rpy:671
 translate spanish ch4_exclusive_natsuki_5f437551:
 
     # mc "Just now, we weren't--"
-    mc ""
+    mc "¡Te prometo que no estábamos...!"
 
 # game/script-ch4.rpy:672
 translate spanish ch4_exclusive_natsuki_67281b29:
 
     # s 1bq "Ehehe~"
-    s 1bq ""
+    s 1bq "Je, je, je."
 
 # game/script-ch4.rpy:673
 translate spanish ch4_exclusive_natsuki_9751c7af:
 
     # s "It's okay, [player]."
-    s ""
+    s "Tranqui."
 
 # game/script-ch4.rpy:674
 translate spanish ch4_exclusive_natsuki_22ed0333:
 
     # s 1ba "I just stopped by to say hi~"
-    s 1ba ""
+    s 1ba "Solo me pasaba a saludar."
 
 # game/script-ch4.rpy:677
 translate spanish ch4_exclusive_natsuki_8d2a55aa:
 
     # n 5bq "A-Ah..."
-    n 5bq ""
+    n 5bq "A-Ah..."
 
 # game/script-ch4.rpy:678
 translate spanish ch4_exclusive_natsuki_228e3b68_1:
 
     # n "Well..."
-    n ""
+    n "Bueno..."
 
 # game/script-ch4.rpy:679
 translate spanish ch4_exclusive_natsuki_93fa748b:
 
     # n 5bw "Y-You should have come a little earlier!"
-    n 5bw ""
+    n 5bw "¿P-Por qué no has venido antes?"
 
 # game/script-ch4.rpy:680
 translate spanish ch4_exclusive_natsuki_4a7cf3f5:
 
     # n "I'm already on my way out, so..."
-    n ""
+    n "Yo ya me iba..."
 
 # game/script-ch4.rpy:683
 translate spanish ch4_exclusive_natsuki_2b79f5e2:
 
     # s 1bh "Aw, really?"
-    s 1bh ""
+    s 1bh "Jo, ¿en serio?"
 
 # game/script-ch4.rpy:684
 translate spanish ch4_exclusive_natsuki_99f9ae0f:
 
     # s "That's too bad..."
-    s ""
+    s "Qué rabia..."
 
 # game/script-ch4.rpy:687
 translate spanish ch4_exclusive_natsuki_18cb7261:
 
     # n 2bq "Yeah, well..."
-    n 2bq ""
+    n 2bq "Sí, bueno..."
 
 # game/script-ch4.rpy:688
 translate spanish ch4_exclusive_natsuki_81f46482:
 
     # n "I'll still see you at the festival tomorrow, so it's fine."
-    n ""
+    n "Nos veremos mañana en el festival de todas formas."
 
 # game/script-ch4.rpy:689
 translate spanish ch4_exclusive_natsuki_785a98dd:
 
     # n 2bb "Just don't eat any cupcakes before then!"
-    n 2bb ""
+    n 2bb "¡Que no me entere yo de que os habéis comido un cupcake, ¿eh?!"
 
 # game/script-ch4.rpy:690
 translate spanish ch4_exclusive_natsuki_fc835e31:
 
     # n "Anyway, later!"
-    n ""
+    n "En fin, ¡nos vemos!"
 
 # game/script-ch4.rpy:693
 translate spanish ch4_exclusive_natsuki_12421e5c:
 
     # "Clearly flustered, Natsuki hurries off, and Sayori waves goodbye."
-    ""
+    "Visiblemente alterada, Natsuki se aleja a toda prisa mientras Sayori se despide con la mano."
 
 # game/script-ch4.rpy:699
 translate spanish ch4_exclusive_yuri_1a7f6292:
@@ -6436,391 +6436,391 @@ translate spanish ch4_exclusive_yuri_69c28b16:
 translate spanish ch4_end_4de86fac:
 
     # mc "Sayori--"
-    mc ""
+    mc "Sayori..."
 
 # game/script-ch4.rpy:1222
 translate spanish ch4_end_df916532:
 
     # mc "I thought you didn't want to come over today!"
-    mc ""
+    mc "¿No habías dicho que no te apetecía venir?"
 
 # game/script-ch4.rpy:1223
 translate spanish ch4_end_0bce81b2:
 
     # s 2bl "Ahaha, well..."
-    s 2bl ""
+    s 2bl "Ja, ja, ja. Bueno..."
 
 # game/script-ch4.rpy:1224
 translate spanish ch4_end_c25ef746:
 
     # s "I tried staying in my room..."
-    s ""
+    s "Pensaba quedarme en mi cuarto, pero..."
 
 # game/script-ch4.rpy:1225
 translate spanish ch4_end_dbf79f14:
 
     # s "But my imagination was being really mean to me..."
-    s ""
+    s "mi imaginación me estaba jugando una mala pasada."
 
 # game/script-ch4.rpy:1226
 translate spanish ch4_end_970496bc:
 
     # s 1by "So I had to come here and see it for myself."
-    s 1by ""
+    s 1by "Así que decidí venir y comprobarlo por mí misma."
 
 # game/script-ch4.rpy:1227
 translate spanish ch4_end_7b59bc97:
 
     # mc "See what?"
-    mc ""
+    mc "¿Comprobar el qué?"
 
 # game/script-ch4.rpy:1228
 translate spanish ch4_end_3d996037:
 
     # mc "What are you talking about?"
-    mc ""
+    mc "¿De qué estás hablando?"
 
 # game/script-ch4.rpy:1229
 translate spanish ch4_end_f8ac1185:
 
     # s "You know..."
-    s ""
+    s "¿Sabes?..."
 
 # game/script-ch4.rpy:1230
 translate spanish ch4_end_e9eaa5d7:
 
     # s "How much fun you were having with [ch4_name]."
-    s ""
+    s "De lo bien que te lo estabas pasando con [ch4_name]."
 
 # game/script-ch4.rpy:1231
 translate spanish ch4_end_2ce2e237:
 
     # s "And how close you got to her."
-    s ""
+    s "Y de lo mucho que habéis intimado."
 
 # game/script-ch4.rpy:1232
 translate spanish ch4_end_bcdea329:
 
     # s 1bt "It makes me...really happy..."
-    s 1bt ""
+    s 1bt "Me hace... muy feliz..."
 
 # game/script-ch4.rpy:1233
 translate spanish ch4_end_de92f417:
 
     # s "That you've made such good friends."
-    s ""
+    s "Estoy contenta de que tengas buenos amigos."
 
 # game/script-ch4.rpy:1234
 translate spanish ch4_end_194142fb:
 
     # s "That's all that matters to me."
-    s ""
+    s "Eso es lo único que me importa."
 
 # game/script-ch4.rpy:1235
 translate spanish ch4_end_d97a01d7:
 
     # "Tears start to fall down Sayori's face."
-    ""
+    "Las lágrimas empiezan a recorrer las mejillas de Sayori."
 
 # game/script-ch4.rpy:1236
 translate spanish ch4_end_bedd3333:
 
     # s 4bv "That's all that matters to me--!"
-    s 4bv ""
+    s 4bv "¡Eso es lo único que me importa!..."
 
 # game/script-ch4.rpy:1237
 translate spanish ch4_end_cfa94369:
 
     # s "Why am I feeling this way, [player]?"
-    s ""
+    s "¿Por qué me siento así, [player]?"
 
 # game/script-ch4.rpy:1238
 translate spanish ch4_end_c4296c1b:
 
     # s "I'm supposed to be happy for you."
-    s ""
+    s "Debería alegrarme por ti."
 
 # game/script-ch4.rpy:1239
 translate spanish ch4_end_94ef81d5:
 
     # s 4bw "Why does it feel like my heart is splitting in half?"
-    s 4bw ""
+    s 4bw "¿Por qué siento como que el corazón se me ha partido por la mitad?"
 
 # game/script-ch4.rpy:1240
 translate spanish ch4_end_62fe0236:
 
     # s "It hurts so much..."
-    s ""
+    s "Me hace mucho daño..."
 
 # game/script-ch4.rpy:1241
 translate spanish ch4_end_f290081d:
 
     # s "Everything hurts so much..."
-    s ""
+    s "Todo me duele..."
 
 # game/script-ch4.rpy:1242
 translate spanish ch4_end_a6de14fb:
 
     # s "This would be so much better if I could just disappear!"
-    s ""
+    s "¡Estaría mucho mejor si desapareciese de una vez!"
 
 # game/script-ch4.rpy:1243
 translate spanish ch4_end_9d6ea3d7:
 
     # mc "Sayori, don't say that!"
-    mc ""
+    mc "¡No digas eso, Sayori!"
 
 # game/script-ch4.rpy:1244
 translate spanish ch4_end_024365d0:
 
     # s 1bw "It's true, [player]!"
-    s 1bw ""
+    s 1bw "¡Es verdad, [player]!"
 
 # game/script-ch4.rpy:1245
 translate spanish ch4_end_4e3bfbbd:
 
     # s "If I wasn't here, then you wouldn't have to waste your sympathy on me!"
-    s ""
+    s "Si yo no existiese, ¡no tendrías que compadecerte de mí!"
 
 # game/script-ch4.rpy:1246
 translate spanish ch4_end_e8ab76f3:
 
     # s "You wouldn't have to put up with me being selfish!"
-    s ""
+    s "¡No tendrías que soportar mi egoísmo!"
 
 # game/script-ch4.rpy:1247
 translate spanish ch4_end_bb805239:
 
     # s 1bv "Monika was right..."
-    s 1bv ""
+    s 1bv "Monika tiene razón..."
 
 # game/script-ch4.rpy:1248
 translate spanish ch4_end_427d4d4f:
 
     # s "I should just..."
-    s ""
+    s "Debería..."
 
 # game/script-ch4.rpy:1249
 translate spanish ch4_end_bddde58a:
 
     # mc "Monika...?"
-    mc ""
+    mc "¿Monika?..."
 
 # game/script-ch4.rpy:1250
 translate spanish ch4_end_c7aa397f:
 
     # mc "Monika was right about what?"
-    mc ""
+    mc "¿En qué se supone que tiene razón?"
 
 # game/script-ch4.rpy:1251
 translate spanish ch4_end_e1554201:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/script-ch4.rpy:1252
 translate spanish ch4_end_e87e0575:
 
     # mc "Sayori..."
-    mc ""
+    mc "Sayori..."
 
 # game/script-ch4.rpy:1253
 translate spanish ch4_end_afb11ffe:
 
     # mc "What I said before is true."
-    mc ""
+    mc "Lo que te dije antes es cierto."
 
 # game/script-ch4.rpy:1254
 translate spanish ch4_end_35fc502b:
 
     # mc "I'm not going to let this continue."
-    mc ""
+    mc "No pienso dejar que esto vaya a más."
 
 # game/script-ch4.rpy:1255
 translate spanish ch4_end_993d9b77:
 
     # mc "Caring about you like this isn't the burden your mind is making it out to be."
-    mc ""
+    mc "No le hagas caso a tu cabeza. Preocuparme por ti no me importa en absoluto."
 
 # game/script-ch4.rpy:1256
 translate spanish ch4_end_adc9cfd4:
 
     # mc "It's something that makes me happy."
-    mc ""
+    mc "Me hace muy feliz."
 
 # game/script-ch4.rpy:1257
 translate spanish ch4_end_4516b61a:
 
     # mc "It's something that I wouldn't trade for anything else."
-    mc ""
+    mc "No lo cambiaría por nada en el mundo."
 
 # game/script-ch4.rpy:1258
 translate spanish ch4_end_900cd81d:
 
     # mc "So, even if it takes an entire lifetime..."
-    mc ""
+    mc "Aunque me lleve toda la vida...,"
 
 # game/script-ch4.rpy:1259
 translate spanish ch4_end_ad66a1ec:
 
     # mc "I'm going to be by your side until you don't feel any more pain."
-    mc ""
+    mc "estaré a tu lado hasta que dejes de sufrir."
 
 # game/script-ch4.rpy:1260
 translate spanish ch4_end_023a56fd:
 
     # s 1bk "B-But..."
-    s 1bk ""
+    s 1bk "P-Pero..."
 
 # game/script-ch4.rpy:1261
 translate spanish ch4_end_6d934958:
 
     # "Sayori looks away."
-    ""
+    "Sayori aparta la mirada."
 
 # game/script-ch4.rpy:1262
 translate spanish ch4_end_77065901:
 
     # "I put a hand on her shoulder to reassure her."
-    ""
+    "Le pongo la mano en el hombro para reconfortarla."
 
 # game/script-ch4.rpy:1263
 translate spanish ch4_end_603c500f:
 
     # s "I'm scared, [player]..."
-    s ""
+    s "Tengo miedo, [player]..."
 
 # game/script-ch4.rpy:1264
 translate spanish ch4_end_16db0b05:
 
     # s "I'm really scared..."
-    s ""
+    s "Tengo mucho miedo..."
 
 # game/script-ch4.rpy:1265
 translate spanish ch4_end_8409288d:
 
     # mc "What are you scared of, Sayori?"
-    mc ""
+    mc "¿De qué, Sayori?"
 
 # game/script-ch4.rpy:1266
 translate spanish ch4_end_5dfc374d:
 
     # s "I'm scared that..."
-    s ""
+    s "De que..."
 
 # game/script-ch4.rpy:1267
 translate spanish ch4_end_6c58de13:
 
     # s "That I might like you more than you like me..."
-    s ""
+    s "me gustes más de lo que yo te gusto a ti."
 
 # game/script-ch4.rpy:1268
 translate spanish ch4_end_e47a0e88:
 
     # mc "Sayori...?"
-    mc ""
+    mc "¿Sayori?..."
 
 # game/script-ch4.rpy:1269
 translate spanish ch4_end_4ef04544:
 
     # s 1bu "It's true, isn't it?"
-    s 1bu ""
+    s 1bu "Tengo razón, ¿a que sí?"
 
 # game/script-ch4.rpy:1270
 translate spanish ch4_end_6b326e2a:
 
     # s "I was weak and started to like you too much..."
-    s ""
+    s "Me empezaste a gustar cada vez más porque soy débil..."
 
 # game/script-ch4.rpy:1271
 translate spanish ch4_end_1ba21a6b:
 
     # s "I did this to myself."
-    s ""
+    s "Me he provocado esto yo sola."
 
 # game/script-ch4.rpy:1272
 translate spanish ch4_end_23d81314:
 
     # s "[player]..."
-    s ""
+    s "[player]..."
 
 # game/script-ch4.rpy:1273
 translate spanish ch4_end_8572b749:
 
     # s 4bw "I like you so much that I want to die!"
-    s 4bw ""
+    s 4bw "¡Me gustas tanto que me quiero morir!"
 
 # game/script-ch4.rpy:1274
 translate spanish ch4_end_bf0be665:
 
     # s "That's how I feel!"
-    s ""
+    s "¡Eso es lo que siento!"
 
 # game/script-ch4.rpy:1275
 translate spanish ch4_end_b87cca3d:
 
     # s 2bv "And...and..."
-    s 2bv ""
+    s 2bv "Y... Y..."
 
 # game/script-ch4.rpy:1276
 translate spanish ch4_end_383cba1a:
 
     # mc "That's enough, Sayori..."
-    mc ""
+    mc "Ya es suficiente, Sayori..."
 
 # game/script-ch4.rpy:1277
 translate spanish ch4_end_567e006f:
 
     # mc "I don't want you to hurt anymore."
-    mc ""
+    mc "No quiero hacerte más daño."
 
 # game/script-ch4.rpy:1278
 translate spanish ch4_end_d7bdc27f:
 
     # "I slide my hand down Sayori's arm and squeeze her hand in my own."
-    ""
+    "Acaricio el brazo de Sayori y le cojo la mano."
 
 # game/script-ch4.rpy:1279
 translate spanish ch4_end_f9dd9070:
 
     # mc "Do you remember how I said I always know what's best for you?"
-    mc ""
+    mc "Te dije que yo siempre sé lo que más te conviene, ¿recuerdas?"
 
 # game/script-ch4.rpy:1280
 translate spanish ch4_end_defb8343:
 
     # mc "Do you still believe me?"
-    mc ""
+    mc "¿Aún me crees?"
 
 # game/script-ch4.rpy:1281
 translate spanish ch4_end_0bd652ae:
 
     # "Wordlessly, Sayori nods."
-    ""
+    "Sayori asiente sin mediar palabra."
 
 # game/script-ch4.rpy:1282
 translate spanish ch4_end_d2730f55:
 
     # mc "Even if you don't understand all of your own feelings..."
-    mc ""
+    mc "Incluso si no entiendo del todo cómo te sientes...,"
 
 # game/script-ch4.rpy:1283
 translate spanish ch4_end_da690006:
 
     # mc "I know what you need the most right now."
-    mc ""
+    mc "sé perfectamente lo que necesitas en estos momentos."
 
 # game/script-ch4.rpy:1284
 translate spanish ch4_end_a5170f2a:
 
     # mc "And that's what I'm going to give to you."
-    mc ""
+    mc "Y eso es lo que te voy a dar."
 
 # game/script-ch4.rpy:1288
 translate spanish ch4_end_de85ad1e:
 
     # mc "Sayori..." nointeract
-    mc "" nointeract
+    mc "Sayori..." nointeract
 
 # game/script-ch4.rpy:1302
 translate spanish ch4_end_yes_83078e78:
@@ -7504,7 +7504,7 @@ translate spanish ch4_end_no_d91df51b:
 translate spanish ch4_end_no_e1554201:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/script-ch4.rpy:1433
 translate spanish ch4_end_no_94733a37:
@@ -7522,7 +7522,7 @@ translate spanish ch4_end_no_ce62c226:
 translate spanish ch4_end_no_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script-ch4.rpy:1436
 translate spanish ch4_end_no_283d82a4:
@@ -7594,9 +7594,9 @@ translate spanish strings:
 
     # game/script-ch4.rpy:1287
     old "I love you."
-    new ""
+    new "Me gustas."
 
     # game/script-ch4.rpy:1287
     old "You'll always be my dearest friend."
-    new ""
+    new "Siempre serás mi mejor amiga."
 
