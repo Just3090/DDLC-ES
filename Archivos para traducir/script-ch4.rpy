@@ -2050,1027 +2050,1027 @@ translate spanish ch4_exclusive_natsuki_a0bf5abf:
 translate spanish ch4_exclusive_natsuki_1484daec:
 
     # "Spoons, dirty bowls, flour, spilled fluid, and plastic bags are strewn about every countertop."
-    ""
+    "Hay cucharas, boles sucios, harina, líquidos diversos y bolsas de plástico desparramados por toda la encimera."
 
 # game/script-ch4.rpy:384
 translate spanish ch4_exclusive_natsuki_aa72bfa4:
 
     # "The mixer isn't big enough to make all the batter at once, so we've had to do it several times."
-    ""
+    "La batidora eléctrica no es tan grande como para poder mezclar toda la masa de una vez, así que nos toca hacerlo en varios turnos."
 
 # game/script-ch4.rpy:385
 translate spanish ch4_exclusive_natsuki_74c58494:
 
     # "Meanwhile, Natsuki is babysitting all of my movements to make sure I don't mess up her precious baking."
-    ""
+    "Mientras tanto, Natsuki vigila todos mis movimientos para asegurarse de que no arruino sus preciados cupcakes."
 
 # game/script-ch4.rpy:387
 translate spanish ch4_exclusive_natsuki_20607a5c:
 
     # n "[player], where did you put the food coloring?"
-    n ""
+    n "[player], ¿dónde has puesto el colorante alimentario?"
 
 # game/script-ch4.rpy:388
 translate spanish ch4_exclusive_natsuki_aa6c698c:
 
     # n "The batter's going in the oven soon, so I need to fill the trays."
-    n ""
+    n "Voy a meter la masa en el horno, así que necesito llenar las bandejas."
 
 # game/script-ch4.rpy:389
 translate spanish ch4_exclusive_natsuki_25e0f256:
 
     # mc "I think it's still in the bag next to the table."
-    mc ""
+    mc "Creo que está en la bolsa, junto a la mesa."
 
 # game/script-ch4.rpy:390
 translate spanish ch4_exclusive_natsuki_e49ace96:
 
     # mc "What are you using it for?"
-    mc ""
+    mc "¿Para qué lo quieres?"
 
 # game/script-ch4.rpy:391
 translate spanish ch4_exclusive_natsuki_2e67e7d1:
 
     # n 4bl "To color the batter, of course!"
-    n 4bl ""
+    n 4bl "¡Pues para darle color a la masa, claro!"
 
 # game/script-ch4.rpy:392
 translate spanish ch4_exclusive_natsuki_fb4e0e6a:
 
     # n 4bj "I'm making each tray a different color."
-    n 4bj ""
+    n 4bj "Quiero hacer cada bandeja de un color distinto."
 
 # game/script-ch4.rpy:393
 translate spanish ch4_exclusive_natsuki_d3c0e264:
 
     # n "That way, even if the flavors aren't different, everyone can still pick their favorite."
-    n ""
+    n "De esta forma, la gente podrá escoger el que más le guste aunque el sabor sea el mismo."
 
 # game/script-ch4.rpy:394
 translate spanish ch4_exclusive_natsuki_479c05cb:
 
     # mc "Ah, that's a cute idea."
-    mc ""
+    mc "Ah, qué idea tan simpática."
 
 # game/script-ch4.rpy:395
 translate spanish ch4_exclusive_natsuki_df169c48:
 
     # mc "Are we doing anything like that with the icing?"
-    mc ""
+    mc "¿Hacemos lo mismo con el glaseado?"
 
 # game/script-ch4.rpy:396
 translate spanish ch4_exclusive_natsuki_bd9c5ac8:
 
     # n 4bk "Do you want to?"
-    n 4bk ""
+    n 4bk "¿Te apetece?"
 
 # game/script-ch4.rpy:397
 translate spanish ch4_exclusive_natsuki_93deaf69:
 
     # mc "Ah..."
-    mc ""
+    mc "Eh..."
 
 # game/script-ch4.rpy:398
 translate spanish ch4_exclusive_natsuki_f7497de1:
 
     # mc "You're asking me?"
-    mc ""
+    mc "¿Me lo preguntas a mí?"
 
 # game/script-ch4.rpy:399
 translate spanish ch4_exclusive_natsuki_06d5350a:
 
     # mc "I don't really have a preference, so..."
-    mc ""
+    mc "Lo cierto es que me da lo mismo, así que..."
 
 # game/script-ch4.rpy:400
 translate spanish ch4_exclusive_natsuki_0cf63e82:
 
     # n 1bm "Come on..."
-    n 1bm ""
+    n 1bm "Venga ya..."
 
 # game/script-ch4.rpy:401
 translate spanish ch4_exclusive_natsuki_0802a95c:
 
     # n "You're not putting any heart into this at all!"
-    n ""
+    n "¡No le estás echando ningunas ganas!"
 
 # game/script-ch4.rpy:402
 translate spanish ch4_exclusive_natsuki_c50fa74d:
 
     # n "Can't you at least try to have fun?"
-    n ""
+    n "¿Podrías esforzarte un poquito en pasártelo bien?"
 
 # game/script-ch4.rpy:403
 translate spanish ch4_exclusive_natsuki_0a068810:
 
     # mc "I'm having fun..."
-    mc ""
+    mc "Si ya me estoy divirtiendo..."
 
 # game/script-ch4.rpy:404
 translate spanish ch4_exclusive_natsuki_330e2a1e:
 
     # "I'm not really sure what Natsuki is trying to get out of me."
-    ""
+    "No entiendo muy bien qué pretende Natsuki."
 
 # game/script-ch4.rpy:405
 translate spanish ch4_exclusive_natsuki_fa2ce4bf:
 
     # "Meanwhile, I see her separate the batter into smaller bowls and put a few drops of food coloring into each."
-    ""
+    "Mientras le doy vueltas, veo cómo separa la masa en boles pequeños y echa gotitas de colorante en cada uno."
 
 # game/script-ch4.rpy:406
 translate spanish ch4_exclusive_natsuki_34c8fca9:
 
     # mc "Ah, that does look pretty cool."
-    mc ""
+    mc "Hala, cómo mola."
 
 # game/script-ch4.rpy:407
 translate spanish ch4_exclusive_natsuki_54a47c3d:
 
     # n 2bj "See?"
-    n 2bj ""
+    n 2bj "¿Ves?"
 
 # game/script-ch4.rpy:408
 translate spanish ch4_exclusive_natsuki_11c0aecf:
 
     # n "It's not like baking is just about following instructions."
-    n ""
+    n "La repostería no consiste únicamente en seguir instrucciones."
 
 # game/script-ch4.rpy:409
 translate spanish ch4_exclusive_natsuki_8de3d406:
 
     # n "The presentation is where you get to be creative and have the most fun."
-    n ""
+    n "Lo más divertido es preparar la presentación, porque puedes desatar tu creatividad."
 
 # game/script-ch4.rpy:410
 translate spanish ch4_exclusive_natsuki_40de2cf6:
 
     # n "It's a million times more worth it in the end if just looking at it makes everyone's eyes lighten up."
-    n ""
+    n "Ver cómo a todos se les iluminan los ojos cuando descubren tu obra hace que valga muchísimo la pena."
 
 # game/script-ch4.rpy:411
 translate spanish ch4_exclusive_natsuki_15edc139:
 
     # mc "Like the ones you made on my first day, huh?"
-    mc ""
+    mc "Como los que preparaste en mi primer día, ¿no?"
 
 # game/script-ch4.rpy:412
 translate spanish ch4_exclusive_natsuki_0656d64c:
 
     # "I recall Natsuki proudly presenting her cat-shaped cupcakes, and Sayori and Monika's delighted expressions."
-    ""
+    "Recuerdo las caras de asombro de Sayori y Monika cuando Natsuki presentó orgullosa sus cupcakes con forma de gato."
 
 # game/script-ch4.rpy:413
 translate spanish ch4_exclusive_natsuki_bfee687f:
 
     # "I wonder if I can make Natsuki proud like that, too."
-    ""
+    "Me gustaría que se sintiera igual de satisfecha que entonces."
 
 # game/script-ch4.rpy:414
 translate spanish ch4_exclusive_natsuki_69c25b65:
 
     # mc "Yeah..."
-    mc ""
+    mc "Sí..."
 
 # game/script-ch4.rpy:415
 translate spanish ch4_exclusive_natsuki_d886bf01:
 
     # mc "Maybe I will use the food coloring, then."
-    mc ""
+    mc "Vale, yo también echaré colorante."
 
 # game/script-ch4.rpy:416
 translate spanish ch4_exclusive_natsuki_b69e5738:
 
     # n "Sounds like you're starting to understand."
-    n ""
+    n "Bien, empiezas a captar la idea."
 
 # game/script-ch4.rpy:417
 translate spanish ch4_exclusive_natsuki_71795068:
 
     # n "Just make sure you completely finish mixing the icing before you mess with the food coloring."
-    n ""
+    n "Asegúrate de mezclar bien el glaseado antes de darle color."
 
 # game/script-ch4.rpy:418
 translate spanish ch4_exclusive_natsuki_0a06e60f:
 
     # mc "Yeah, it's getting there."
-    mc ""
+    mc "Sí, está casi a punto."
 
 # game/script-ch4.rpy:419
 translate spanish ch4_exclusive_natsuki_59c32b6f:
 
     # "We were using the electric mixer for the batter, so I got stuck with a whisk and a huge bowl for the icing."
-    ""
+    "Como estamos usando la batidora eléctrica para la masa, tengo que preparar el glaseado con un batidor y un bol enorme."
 
 # game/script-ch4.rpy:420
 translate spanish ch4_exclusive_natsuki_ed00bc7f:
 
     # n 4bc "Eh?"
-    n 4bc ""
+    n 4bc "¿Eh?"
 
 # game/script-ch4.rpy:421
 translate spanish ch4_exclusive_natsuki_ab61c1b3:
 
     # n "The icing's still all lumpy!"
-    n ""
+    n "¡El glaseado está lleno de grumos!"
 
 # game/script-ch4.rpy:422
 translate spanish ch4_exclusive_natsuki_b7dca70a:
 
     # n "Are you even trying?"
-    n ""
+    n "Haz el favor de esforzarte un poquito."
 
 # game/script-ch4.rpy:423
 translate spanish ch4_exclusive_natsuki_06097ca0:
 
     # mc "Well, yeah..."
-    mc ""
+    mc "Eso intento..."
 
 # game/script-ch4.rpy:424
 translate spanish ch4_exclusive_natsuki_69eced86:
 
     # mc "It'll just take a little longer."
-    mc ""
+    mc "Pero me llevará un buen rato."
 
 # game/script-ch4.rpy:425
 translate spanish ch4_exclusive_natsuki_e079334e:
 
     # n 4bg "Jeez, I'll be here all night if you do it like that."
-    n 4bg ""
+    n 4bg "Buf... Si lo haces así, nos van a dar las uvas."
 
 # game/script-ch4.rpy:426
 translate spanish ch4_exclusive_natsuki_c34670e5:
 
     # n "Here, look."
-    n ""
+    n "Mira y aprende."
 
 # game/script-ch4.rpy:427
 translate spanish ch4_exclusive_natsuki_906b9348:
 
     # "Natsuki grabs the whisk from me and uses her other hand to tilt the bowl back."
-    ""
+    "Natsuki me quita el batidor e inclina el bol con la otra mano."
 
 # game/script-ch4.rpy:428
 translate spanish ch4_exclusive_natsuki_27cbc539:
 
     # n 4be "You really need to...beat...the crap out of it!"
-    n 4be ""
+    n 4be "Tienes... que batirlo... ¡como si le pegaras una paliza!"
 
 # game/script-ch4.rpy:429
 translate spanish ch4_exclusive_natsuki_588561d6:
 
     # "After a few seconds, the consistency of the icing has already improved."
-    ""
+    "Al cabo de pocos segundos, la consistencia del glaseado ha mejorado bastante."
 
 # game/script-ch4.rpy:430
 translate spanish ch4_exclusive_natsuki_f11f4e0d:
 
     # n 4ba "See?"
-    n 4ba ""
+    n 4ba "¿Ves?"
 
 # game/script-ch4.rpy:431
 translate spanish ch4_exclusive_natsuki_cae08608:
 
     # "As if to emphasize, Natsuki sticks a finger in the icing and pops it in her mouth."
-    ""
+    "Natsuki mete un dedo en el glaseado y se lo lleva a la boca, como si quisiera enfatizarlo."
 
 # game/script-ch4.rpy:432
 translate spanish ch4_exclusive_natsuki_d5da0856:
 
     # "I reluctantly start to do the same."
-    ""
+    "Aunque tengo mis dudas, me dispongo a hacer lo mismo."
 
 # game/script-ch4.rpy:433
 translate spanish ch4_exclusive_natsuki_1b8adaf7:
 
     # n 1bh "Hey!"
-    n 1bh ""
+    n 1bh "¡Eh!"
 
 # game/script-ch4.rpy:434
 translate spanish ch4_exclusive_natsuki_d8ce8964:
 
     # "Natsuki suddenly grabs my wrist."
-    ""
+    "Natsuki me coge de la muñeca."
 
 # game/script-ch4.rpy:435
 translate spanish ch4_exclusive_natsuki_09c60050:
 
     # n 4bh "I don't want {i}your{/i} gross fingers in my icing."
-    n 4bh ""
+    n 4bh "¡Ni se te ocurra meter tus asquerosos dedos en mi glaseado!"
 
 # game/script-ch4.rpy:436
 translate spanish ch4_exclusive_natsuki_0c8f7dd0:
 
     # mc "Your icing, eh?"
-    mc ""
+    mc "¿Cómo que tu glaseado?"
 
 # game/script-ch4.rpy:437
 translate spanish ch4_exclusive_natsuki_25019ce7:
 
     # mc "Are you forgetting who did all the work?"
-    mc ""
+    mc "¿Te has olvidado de quién ha hechio todo el trabajo?"
 
 # game/script-ch4.rpy:438
 translate spanish ch4_exclusive_natsuki_7f8c96f2:
 
     # "I start to fight back, trying to inch my finger toward the bowl."
-    ""
+    "Empiezo a forcejear a la vez que intento acercar el dedo al bol."
 
 # game/script-ch4.rpy:439
 translate spanish ch4_exclusive_natsuki_6766ddcd:
 
     # n 4by "Don't make me beat the crap out of you next!"
-    n 4by ""
+    n 4by "¡No me obligues a darte una paliza a ti también!"
 
 # game/script-ch4.rpy:440
 translate spanish ch4_exclusive_natsuki_a844a440:
 
     # mc "I'd like to see you try!"
-    mc ""
+    mc "¡Inténtalo si puedes!"
 
 # game/script-ch4.rpy:441
 translate spanish ch4_exclusive_natsuki_aa795219:
 
     # "I push harder, just enough for my finger to reach the icing."
-    ""
+    "Empujo con más fuerza, la suficiente como para que mi dedo alcance el glaseado."
 
 # game/script-ch4.rpy:442
 translate spanish ch4_exclusive_natsuki_6a273d3e:
 
     # "I triumphantly scoop some with my finger just as Natsuki tugs with all her might."
-    ""
+    "Triunfal, cojo un poco mientras Natsuki intenta apartarme con todas sus fuerzas."
 
 # game/script-ch4.rpy:443
 translate spanish ch4_exclusive_natsuki_557e43e2:
 
     # mc "Ah--!"
-    mc ""
+    mc "¡Ah!..."
 
 # game/script-ch4.rpy:444
 translate spanish ch4_exclusive_natsuki_90b98a6a:
 
     # "The force of Natsuki pulling me causes me to stumble, making her stumble in turn."
-    ""
+    "Natsuki me empuja con tanta fuerza que hace que los dos nos tambaleemos."
 
 # game/script-ch4.rpy:445
 translate spanish ch4_exclusive_natsuki_1638dc54:
 
     # n 1bx "Gross!"
-    n 1bx ""
+    n 1bx "¡Serás cerdo!"
 
 # game/script-ch4.rpy:446
 translate spanish ch4_exclusive_natsuki_05237a5b:
 
     # n "You got it on my face!"
-    n ""
+    n "¡Me has manchado la cara!"
 
 # game/script-ch4.rpy:447
 translate spanish ch4_exclusive_natsuki_48245ab1:
 
     # mc "Whose fault is that?!"
-    mc ""
+    mc "¡Es culpa tuya!"
 
 # game/script-ch4.rpy:448
 translate spanish ch4_exclusive_natsuki_ae8818cc:
 
     # "There's a big glob of icing on Natsuki's cheek."
-    ""
+    "Natsuki tiene un pegote de glaseado en la mejilla."
 
 # game/script-ch4.rpy:449
 translate spanish ch4_exclusive_natsuki_3a27a866:
 
     # n 1bw "Nnn--"
-    n 1bw ""
+    n 1bw "¡Nnn!..."
 
 # game/script-ch4.rpy:450
 translate spanish ch4_exclusive_natsuki_f3de6fd1:
 
     # "She tries to reach it with her tongue, but it's too far away."
-    ""
+    "Intenta alcanzarlo con la lengua, pero está demasiado lejos."
 
 # game/script-ch4.rpy:451
 translate spanish ch4_exclusive_natsuki_86ad9693:
 
     # n 1br "Jeez..."
-    n 1br ""
+    n 1br "Buf..."
 
 # game/script-ch4.rpy:452
 translate spanish ch4_exclusive_natsuki_d574e730:
 
     # n "You know what?"
-    n ""
+    n "¿Sabes qué?"
 
 # game/script-ch4.rpy:453
 translate spanish ch4_exclusive_natsuki_aa6844d3:
 
     # n 4bd "Take this!"
-    n 4bd ""
+    n 4bd "¡Toma esto!"
 
 # game/script-ch4.rpy:454
 translate spanish ch4_exclusive_natsuki_6da18b6a:
 
     # "Natsuki instead wipes it off with her finger before shoving her finger toward my own face."
-    ""
+    "Natsuki se limpia el pegote con el dedo e intenta estampármelo en la cara."
 
 # game/script-ch4.rpy:455
 translate spanish ch4_exclusive_natsuki_3b48697b:
 
     # mc "You wish--!"
-    mc ""
+    mc "¡Que te lo has creído!"
 
 # game/script-ch4.rpy:456
 translate spanish ch4_exclusive_natsuki_ff8bb9a7:
 
     # "I'm faster."
-    ""
+    "Por suerte, soy más rápido que ella."
 
 # game/script-ch4.rpy:457
 translate spanish ch4_exclusive_natsuki_335fa0f9:
 
     # "I grab her wrist with my hand before it reaches my face."
-    ""
+    "La cojo por la muñeca antes de que me alcance."
 
 # game/script-ch4.rpy:458
 translate spanish ch4_exclusive_natsuki_6370e929:
 
     # "Natsuki tries to use her other hand to fight back, but I grab that one as well."
-    ""
+    "Natsuki lo intenta con la otra mano, pero también se la agarro."
 
 # game/script-ch4.rpy:465
 translate spanish ch4_exclusive_natsuki_c7195d04:
 
     # n "Ahahaha! Stop!"
-    n ""
+    n "¡Ja, ja, ja! ¡Para!"
 
 # game/script-ch4.rpy:466
 translate spanish ch4_exclusive_natsuki_e83d2664:
 
     # mc "Not until you apologize for calling me gross!"
-    mc ""
+    mc "¡Discúlpate por llamarme asqueroso!"
 
 # game/script-ch4.rpy:467
 translate spanish ch4_exclusive_natsuki_798d1a0a:
 
     # n "Fine, fine!"
-    n ""
+    n "¡Vale, tú ganas!"
 
 # game/script-ch4.rpy:468
 translate spanish ch4_exclusive_natsuki_f421a613:
 
     # n "I'm sorry for calling you gross."
-    n ""
+    n "Siento haberte insultado."
 
 # game/script-ch4.rpy:469
 translate spanish ch4_exclusive_natsuki_6f15ffd7:
 
     # n "You know I don't mean it."
-    n ""
+    n "Sabes de sobra que no lo decía en serio."
 
 # game/script-ch4.rpy:470
 translate spanish ch4_exclusive_natsuki_5e35986d:
 
     # n "It's just fun seeing you react to it."
-    n ""
+    n "Es que me gusta ver cómo reaccionas."
 
 # game/script-ch4.rpy:471
 translate spanish ch4_exclusive_natsuki_b6dc0725:
 
     # n "...You do that to me all the time, you know!"
-    n ""
+    n "¡Pero que sepas que tú haces lo mismo!"
 
 # game/script-ch4.rpy:472
 translate spanish ch4_exclusive_natsuki_ae698bfa:
 
     # n "Saying dumb things just to get a reaction out of me."
-    n ""
+    n "Te pasas el día diciendo tonterías para pincharme."
 
 # game/script-ch4.rpy:473
 translate spanish ch4_exclusive_natsuki_e1023c8a:
 
     # n "You really shouldn't tease girls like that."
-    n ""
+    n "No puedes ir por ahí provocando a las chicas."
 
 # game/script-ch4.rpy:474
 translate spanish ch4_exclusive_natsuki_09f2de35:
 
     # mc "Is that so?"
-    mc ""
+    mc "¿Ah, sí?"
 
 # game/script-ch4.rpy:475
 translate spanish ch4_exclusive_natsuki_33633399:
 
     # mc "In that case, I probably shouldn't do this, either..."
-    mc ""
+    mc "Entonces, supongo que tampoco debería hacer esto..."
 
 # game/script-ch4.rpy:478
 translate spanish ch4_exclusive_natsuki_653a9beb:
 
     # "I take Natsuki's finger and put it in my mouth, licking off the icing."
-    ""
+    "Cojo el dedo de Natsuki y me lo meto en la boca para chupar el glaseado."
 
 # game/script-ch4.rpy:482
 translate spanish ch4_exclusive_natsuki_3d22480c:
 
     # n "W-W-What--?"
-    n ""
+    n "¿Q-Q-Qué?"
 
 # game/script-ch4.rpy:483
 translate spanish ch4_exclusive_natsuki_560f9eb4:
 
     # n "D-Did you seriously just--"
-    n ""
+    n "¡¿En serio acabas de...?!"
 
 # game/script-ch4.rpy:484
 translate spanish ch4_exclusive_natsuki_c3b64b42:
 
     # n "A-Ah--"
-    n ""
+    n "¡E-Eh!..."
 
 # game/script-ch4.rpy:485
 translate spanish ch4_exclusive_natsuki_c6648740:
 
     # "Natsuki is so surprised that she can't even figure out how to get mad at me."
-    ""
+    "Natsuki está tan sorprendida que ni siquiera sabe cómo echarme la bronca."
 
 # game/script-ch4.rpy:486
 translate spanish ch4_exclusive_natsuki_5fba981b:
 
     # "Her face is entirely red."
-    ""
+    "Tiene la cara totalmente roja."
 
 # game/script-ch4.rpy:488
 translate spanish ch4_exclusive_natsuki_a51de77b:
 
     # n "[player]..."
-    n ""
+    n "[player]..."
 
 # game/script-ch4.rpy:489
 translate spanish ch4_exclusive_natsuki_e32c6238:
 
     # n "You really shouldn't do that kind of thing to girls...unless you really like them..."
-    n ""
+    n "De verdad, ni se te ocurra hacerle eso a una chica... a no ser que te guste, claro."
 
 # game/script-ch4.rpy:490
 translate spanish ch4_exclusive_natsuki_909d55b8:
 
     # n "You know that...right?"
-    n ""
+    n "Eres consciente, ¿no?..."
 
 # game/script-ch4.rpy:491
 translate spanish ch4_exclusive_natsuki_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/script-ch4.rpy:492
 translate spanish ch4_exclusive_natsuki_7bc28d7b:
 
     # "What kind of question is she asking me, just like that?"
-    ""
+    "¿A cuento de qué me hace esa pregunta?"
 
 # game/script-ch4.rpy:493
 translate spanish ch4_exclusive_natsuki_9a54372b:
 
     # "How did the mood turn to this so quickly?"
-    ""
+    "¿Cómo hemos acabado en esta situación?"
 
 # game/script-ch4.rpy:494
 translate spanish ch4_exclusive_natsuki_2485f494:
 
     # mc "I..."
-    mc ""
+    mc "Yo..."
 
 # game/script-ch4.rpy:495
 translate spanish ch4_exclusive_natsuki_4ca58c5b:
 
     # "Natsuki gazes at me in silence."
-    ""
+    "Natsuki se me queda mirando en silencio."
 
 # game/script-ch4.rpy:496
 translate spanish ch4_exclusive_natsuki_c95039fc:
 
     # "I notice her shallow breaths."
-    ""
+    "Me doy cuenta de lo ligera que es su respiración."
 
 # game/script-ch4.rpy:497
 translate spanish ch4_exclusive_natsuki_950e2463:
 
     # "Why am I starting to feel dizzy...?"
-    ""
+    "¿Por qué estoy empezando a marearme?..."
 
 # game/script-ch4.rpy:498
 translate spanish ch4_exclusive_natsuki_5422c19b:
 
     # n "Eh?!"
-    n ""
+    n "¡¿Eh?!"
 
 # game/script-ch4.rpy:500
 translate spanish ch4_exclusive_natsuki_ce979982:
 
     # "Out of nowhere, the fire alarm starts going off."
-    ""
+    "La alarma antiincendios empieza a sonar de repente."
 
 # game/script-ch4.rpy:501
 translate spanish ch4_exclusive_natsuki_eb46b5ed:
 
     # "Natsuki rushes over to the oven."
-    ""
+    "Natsuki sale pitando hacia el horno."
 
 # game/script-ch4.rpy:502
 translate spanish ch4_exclusive_natsuki_acfa92c5:
 
     # mc "Is something burning?"
-    mc ""
+    mc "¿Se está quemando algo?"
 
 # game/script-ch4.rpy:503
 translate spanish ch4_exclusive_natsuki_16743c57:
 
     # mc "I thought you didn't put the cupcakes in yet."
-    mc ""
+    mc "Pensaba que aún no habías metido los cupcakes en el horno."
 
 # game/script-ch4.rpy:505
 translate spanish ch4_exclusive_natsuki_104a21d2:
 
     # n "{i}*Cough*{/i}"
-    n ""
+    n "¡Cof!"
 
 # game/script-ch4.rpy:506
 translate spanish ch4_exclusive_natsuki_4fbb941a:
 
     # n "No wonder..."
-    n ""
+    n "Claro..."
 
 # game/script-ch4.rpy:507
 translate spanish ch4_exclusive_natsuki_dd994157:
 
     # n 1bb "You left a dirty tray in here, dummy!"
-    n 1bb ""
+    n 1bb "¡Te habías dejado metida una bandeja sucia, cazurro!"
 
 # game/script-ch4.rpy:508
 translate spanish ch4_exclusive_natsuki_0a2c42e8:
 
     # n "How could you make a mistake like that?"
-    n ""
+    n "¿Cómo has podido cometer un error tan tonto?"
 
 # game/script-ch4.rpy:509
 translate spanish ch4_exclusive_natsuki_c3cc419a:
 
     # mc "You should have checked before turning the oven on!"
-    mc ""
+    mc "¡Haber mirado dentro antes de encender el horno!"
 
 # game/script-ch4.rpy:510
 translate spanish ch4_exclusive_natsuki_c9a7ce70:
 
     # n 1bs "Don't blame me for your mistakes!"
-    n 1bs ""
+    n 1bs "¡No me eches la culpa de tus errores!"
 
 # game/script-ch4.rpy:511
 translate spanish ch4_exclusive_natsuki_a8557d5c:
 
     # n "Jeez..."
-    n ""
+    n "Buf..."
 
 # game/script-ch4.rpy:512
 translate spanish ch4_exclusive_natsuki_0aae1803:
 
     # "Natsuki uses an oven mitt to grab the blackened tray out of the oven."
-    ""
+    "Natsuki se pone un guante y saca la bandeja ennegrecida del horno."
 
 # game/script-ch4.rpy:513
 translate spanish ch4_exclusive_natsuki_679f7251:
 
     # "She sets it on top of the stove."
-    ""
+    "La coloca encima de la cocina."
 
 # game/script-ch4.rpy:514
 translate spanish ch4_exclusive_natsuki_5c37080e:
 
     # "In another moment, the fire alarm stops."
-    ""
+    "La alarma deja de sonar de golpe."
 
 # game/script-ch4.rpy:515
 translate spanish ch4_exclusive_natsuki_d30e239a:
 
     # n 1bq "Anyway..."
-    n 1bq ""
+    n 1bq "En fin..."
 
 # game/script-ch4.rpy:516
 translate spanish ch4_exclusive_natsuki_160d12a8:
 
     # n "I'm...putting them in the oven now."
-    n ""
+    n "Voy... a meterlos en el horno."
 
 # game/script-ch4.rpy:517
 translate spanish ch4_exclusive_natsuki_69c25b65_1:
 
     # mc "Yeah..."
-    mc ""
+    mc "Sí..."
 
 # game/script-ch4.rpy:518
 translate spanish ch4_exclusive_natsuki_2d0e864f:
 
     # "The tension from the moment before still lingers over our heads."
-    ""
+    "La tensión de lo sucedido hace un momento sigue palpándose en el ambiente."
 
 # game/script-ch4.rpy:519
 translate spanish ch4_exclusive_natsuki_b5a9d6ef:
 
     # "But the moment has already been lost."
-    ""
+    "Pero ya he perdido la oportunidad."
 
 # game/script-ch4.rpy:520
 translate spanish ch4_exclusive_natsuki_02da55f4:
 
     # "I watch as Natsuki slides the cupcake trays into the oven."
-    ""
+    "Me quedo mirando a Natsuki mientras mete las bandejas de cupcakes en el horno."
 
 # game/script-ch4.rpy:521
 translate spanish ch4_exclusive_natsuki_61989fb8:
 
     # "Then, I reluctantly pick up the whisk and continue with the icing, like nothing ever happened."
-    ""
+    "Entonces, como si no hubiera pasado nada, cojo el batidor y sigo con el glaseado."
 
 # game/script-ch4.rpy:526
 translate spanish ch4_exclusive_natsuki_bf25631f:
 
     # n "Ahh, that smells so good!"
-    n ""
+    n "Aaah, ¡qué bien huele!"
 
 # game/script-ch4.rpy:527
 translate spanish ch4_exclusive_natsuki_ea0dd4c0:
 
     # "The cupcakes are ready to be pulled out of the oven."
-    ""
+    "Los cupcakes ya están listos."
 
 # game/script-ch4.rpy:528
 translate spanish ch4_exclusive_natsuki_ef506997:
 
     # "As soon as Natsuki opens the oven door, a blast of sweet-smelling warm air fills the room."
-    ""
+    "Cuando Natsuki abre la puerta del horno, una explosión de aire caliente y dulzón llena la cocina."
 
 # game/script-ch4.rpy:529
 translate spanish ch4_exclusive_natsuki_15a3f3db:
 
     # n 4bl "Look at how cute they all look!"
-    n 4bl ""
+    n 4bl "¡Mira qué cuquis han quedado!"
 
 # game/script-ch4.rpy:530
 translate spanish ch4_exclusive_natsuki_4ddb17ec:
 
     # "She proudly shows off the different-colored cupcakes in each of the trays."
-    ""
+    "Me enseña orgullosa las distintas bandejas llenas de coloridos cupcakes."
 
 # game/script-ch4.rpy:531
 translate spanish ch4_exclusive_natsuki_c3e36f61:
 
     # mc "They'll look even better once we add the icing."
-    mc ""
+    mc "Quedarán incluso mejor cuando les pongamos el glaseado."
 
 # game/script-ch4.rpy:532
 translate spanish ch4_exclusive_natsuki_877713fd:
 
     # n 2ba "Not like you need to tell {i}me{/i} that!"
-    n 2ba ""
+    n 2ba "¿Me lo dices o me lo cuentas?"
 
 # game/script-ch4.rpy:533
 translate spanish ch4_exclusive_natsuki_f5971121:
 
     # n "I brought decorating stuff, so I hope you can get creative."
-    n ""
+    n "He traído cosas para decorar. ¡Más te vale sacar a relucir tu creatividad!"
 
 # game/script-ch4.rpy:534
 translate spanish ch4_exclusive_natsuki_07a6ed2d:
 
     # n "Here, scoop the icing into these bags."
-    n ""
+    n "Toma, mete el glaseado en estas bolsas."
 
 # game/script-ch4.rpy:535
 translate spanish ch4_exclusive_natsuki_e4ee7df8:
 
     # "Natsuki hands me some plastic bags."
-    ""
+    "Natsuki me entrega unas bolsas de plástico (Nota del traductor: también se conocen como 'mangas pasteleras' o 'brazos pasteleros' y son bolsas de plástico pequeñas donde va el glaseado apretado y, con unas boquillas que se colocan en la punta, se pueden decorar los pasteles con libertad). "
 
 # game/script-ch4.rpy:536
 translate spanish ch4_exclusive_natsuki_a55e0e4c:
 
     # n 2bj "I have these nozzles that will make it look nice and fluffy."
-    n 2bj ""
+    n 2bj "Con estas boquillas, quedará esponjoso y la mar de bonito."
 
 # game/script-ch4.rpy:537
 translate spanish ch4_exclusive_natsuki_5cf6a87d:
 
     # n "This one can even make flowers!"
-    n ""
+    n "¡Mira, con esta otra se pueden hacer flores!"
 
 # game/script-ch4.rpy:538
 translate spanish ch4_exclusive_natsuki_313ffc55:
 
     # n "We probably won't be using it this time, though."
-    n ""
+    n "Aunque hoy no la utilizaremos."
 
 # game/script-ch4.rpy:539
 translate spanish ch4_exclusive_natsuki_b3e35c15:
 
     # mc "What's this one for?"
-    mc ""
+    mc "¿Para qué sirve esta?"
 
 # game/script-ch4.rpy:540
 translate spanish ch4_exclusive_natsuki_cccbea53:
 
     # "I pick up one of the nozzles that has a much thinner tip than the others."
-    ""
+    "Cojo una boquilla con una punta mucho más fina que las demás."
 
 # game/script-ch4.rpy:541
 translate spanish ch4_exclusive_natsuki_a1983e5e:
 
     # n 4bk "That one's really thin, so you can use it to make stripes or other patterns."
-    n 4bk ""
+    n 4bk "Como es muy fina, sirve para dibujar líneas y otras formas."
 
 # game/script-ch4.rpy:542
 translate spanish ch4_exclusive_natsuki_3970918a:
 
     # n "But you can also use it to write stuff on a cake."
-    n ""
+    n "También se usa para escribir en las tartas."
 
 # game/script-ch4.rpy:543
 translate spanish ch4_exclusive_natsuki_1685282e:
 
     # n "Like, 'happy birthday!' or whatever."
-    n ""
+    n "Cosas como '¡Feliz cumpleaños!' y todo eso."
 
 # game/script-ch4.rpy:544
 translate spanish ch4_exclusive_natsuki_c2722d72:
 
     # mc "Huh, I see..."
-    mc ""
+    mc "Ah, ya veo..."
 
 # game/script-ch4.rpy:545
 translate spanish ch4_exclusive_natsuki_2385250d:
 
     # mc "That gives me an idea, actually."
-    mc ""
+    mc "Se me ha ocurrido algo."
 
 # game/script-ch4.rpy:546
 translate spanish ch4_exclusive_natsuki_5adabccb:
 
     # n "Eh?"
-    n ""
+    n "¿Eh?"
 
 # game/script-ch4.rpy:547
 translate spanish ch4_exclusive_natsuki_01f2e029:
 
     # mc "Well, it's a literature event, right?"
-    mc ""
+    mc "Vamos a celebrar un recital de poesía, ¿no?"
 
 # game/script-ch4.rpy:548
 translate spanish ch4_exclusive_natsuki_768ebba6:
 
     # mc "We could make it more literature-themed by writing a different word on each of the cupcakes."
-    mc ""
+    mc "Podríamos darle un aire más literario si escribimos una palabra en cada uno de los cupcakes."
 
 # game/script-ch4.rpy:549
 translate spanish ch4_exclusive_natsuki_8699c01e:
 
     # mc "It would be fun to see people choose their cupcake based on a word they like."
-    mc ""
+    mc "Será divertido ver cómo la gente escoge dependiendo de la palabra que más le guste."
 
 # game/script-ch4.rpy:550
 translate spanish ch4_exclusive_natsuki_f44c40ad:
 
     # n 1bq "Uu..."
-    n 1bq ""
+    n 1bq "Uuuh..."
 
 # game/script-ch4.rpy:551
 translate spanish ch4_exclusive_natsuki_582359ea:
 
     # mc "Hm?"
-    mc ""
+    mc "¿Mmm?"
 
 # game/script-ch4.rpy:552
 translate spanish ch4_exclusive_natsuki_16bd665d:
 
     # n "I was kind of expecting you to say something really stupid..."
-    n ""
+    n "Esperaba que fueses a soltar una tontería..."
 
 # game/script-ch4.rpy:553
 translate spanish ch4_exclusive_natsuki_49111db5:
 
     # n 1bs "But that's actually...a really cute idea, so..."
-    n 1bs ""
+    n 1bs "Pero reconozco que es una idea muy cuqui."
 
 # game/script-ch4.rpy:554
 translate spanish ch4_exclusive_natsuki_ee7d9dbd_1:
 
     # mc "Ahaha."
-    mc ""
+    mc "Ja, ja, ja."
 
 # game/script-ch4.rpy:555
 translate spanish ch4_exclusive_natsuki_7af16939:
 
     # mc "Maybe I'm getting it from you."
-    mc ""
+    mc "Puede que se me haya ocurrido gracias a ti."
 
 # game/script-ch4.rpy:556
 translate spanish ch4_exclusive_natsuki_4bc12b95:
 
     # n 5bh "W-What's that supposed to mean?"
-    n 5bh ""
+    n 5bh "¿Y-Y eso qué significa?"
 
 # game/script-ch4.rpy:557
 translate spanish ch4_exclusive_natsuki_35bc861a:
 
     # n "I'm not cute!"
-    n ""
+    n "¡Que no soy cuqui!"
 
 # game/script-ch4.rpy:558
 translate spanish ch4_exclusive_natsuki_768f756d_1:
 
     # mc "Come on..."
-    mc ""
+    mc "Vamos..."
 
 # game/script-ch4.rpy:559
 translate spanish ch4_exclusive_natsuki_d41b4265:
 
     # mc "We're not at school, nobody's judging."
-    mc ""
+    mc "No estamos en el instituto. Nadie nos juzga."
 
 # game/script-ch4.rpy:560
 translate spanish ch4_exclusive_natsuki_ef1a2b87:
 
     # mc "You can't dress and act like this and not expect me to think you're cute."
-    mc ""
+    mc "¿De verdad esperas que no piense que eres mona? ¿Tú te has visto?"
 
 # game/script-ch4.rpy:561
 translate spanish ch4_exclusive_natsuki_451fa12f:
 
     # n 5bs "W-Well..."
-    n 5bs ""
+    n 5bs "B-Bueno..."
 
 # game/script-ch4.rpy:562
 translate spanish ch4_exclusive_natsuki_b94e347c:
 
     # "Natsuki's voice trails off."
-    ""
+    "La voz de Natsuki se apaga."
 
 # game/script-ch4.rpy:563
 translate spanish ch4_exclusive_natsuki_e5eadc30:
 
     # n "Same with you..."
-    n ""
+    n "Lo mismo te digo..."
 
 # game/script-ch4.rpy:564
 translate spanish ch4_exclusive_natsuki_fb2e5377:
 
     # mc "Eh?"
-    mc ""
+    mc "¿Eh?"
 
 # game/script-ch4.rpy:565
 translate spanish ch4_exclusive_natsuki_8be7a0b3:
 
     # mc "Did you say something?"
-    mc ""
+    mc "¿Has dicho algo?"
 
 # game/script-ch4.rpy:566
 translate spanish ch4_exclusive_natsuki_a4685fa5:
 
     # n 1bw "N-No, nothing!"
-    n 1bw ""
+    n 1bw "¡N-No, nada!"
 
 # game/script-ch4.rpy:567
 translate spanish ch4_exclusive_natsuki_251479be:
 
     # n "Let's just do the icing!"
-    n ""
+    n "¡Venga, hora de glasear!"
 
 # game/script-ch4.rpy:568
 translate spanish ch4_exclusive_natsuki_fc1e895d:
 
     # "Natsuki picks up the pace and fastens a nozzle onto each of the bags."
-    ""
+    "Natsuki empieza a atar las boquillas a las bolsas a toda velocidad."
 
 # game/script-ch4.rpy:569
 translate spanish ch4_exclusive_natsuki_ff4da14f:
 
     # n 1bh "There's a lot to do, so we shouldn't be wasting time!"
-    n 1bh ""
+    n 1bh "Ya basta de perder el tiempo. ¡Queda mucho trabajo por delante!"
 
 # game/script-ch4.rpy:570
 translate spanish ch4_exclusive_natsuki_b1340538:
 
     # n "Here, I'll show you how to do it."
-    n ""
+    n "Ven, te enseñaré cómo se hace."
 
 # game/script-ch4.rpy:571
 translate spanish ch4_exclusive_natsuki_5a7b1cc0:
 
     # "Without giving me a chance to think about before, Natsuki quickly moves on."
-    ""
+    "Natsuki va tan rápido que apenas me da tiempo a pensar."
 
 # game/script-ch4.rpy:572
 translate spanish ch4_exclusive_natsuki_099484f7:
 
     # "She shows me how to apply the icing, and then we each get to work."
-    ""
+    "Me enseña a colocar el glaseado y nos ponemos manos a la obra."
 
 # game/script-ch4.rpy:575
 translate spanish ch4_exclusive_natsuki_36e0c7ae:
