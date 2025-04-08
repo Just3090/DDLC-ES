@@ -1696,7 +1696,7 @@ translate spanish strings:
 
     # game/script-ch23.rpy:410
     old "[gtext]"
-    new ""
+    new "[gtext]"
 
     # game/script-ch23.rpy:410
     old "Monika"
@@ -1704,9 +1704,9 @@ translate spanish strings:
 
     # game/script-ch23.rpy:548
     old "Yes."
-    new ""
+    new "Sí."
 
     # game/script-ch23.rpy:548
     old "No."
-    new ""
+    new "No."
 

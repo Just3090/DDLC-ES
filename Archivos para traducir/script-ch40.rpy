@@ -1836,29 +1836,29 @@ translate spanish strings:
 
     # game/script-ch40.rpy:515
     old "No..."
-    new ""
+    new "No..."
 
     # game/script-ch40.rpy:522
     old "I won't let you hurt him."
-    new ""
+    new "No dejaré que lo lastimes."
 
     # game/script-ch40.rpy:535
     old "I'm sorry... I was wrong."
-    new ""
+    new "Lo siento... Estuve equivocada."
 
     # game/script-ch40.rpy:537
     old "There's no happiness here after all..."
-    new ""
+    new "No hay felicidad aquí después de todo..."
 
     # game/script-ch40.rpy:539
     old "Goodbye, Sayori."
-    new ""
+    new "Adios, Sayori."
 
     # game/script-ch40.rpy:541
     old "Goodbye, [player]."
-    new ""
+    new "Adios, [player]."
 
     # game/script-ch40.rpy:543
     old "Goodbye, Literature Club."
-    new ""
+    new "Adios, Club de Literatura."
 
