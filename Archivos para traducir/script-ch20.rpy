@@ -4,253 +4,253 @@
 translate spanish ch20_main2_b68875d5:
 
     # "It's an ordinary school day, like any other."
-    ""
+    "Es un día de clase normal y corriente, como cualquier otro."
 
 # game/script-ch20.rpy:15
 translate spanish ch20_main2_55a610db:
 
     # "Mornings are usually the worst, being surrounded by couples and friend groups walking to school together."
-    ""
+    "Cada mañana me veo rodeado de parejas y grupos de amigos que van juntos a clase. Suele ser la peor parte del día."
 
 # game/script-ch20.rpy:16
 translate spanish ch20_main2_cf8d9925:
 
     # "Meanwhile, I've always walked to school alone."
-    ""
+    "Yo siempre he ido solo."
 
 # game/script-ch20.rpy:17
 translate spanish ch20_main2_2848646c:
 
     # "I always tell myself it's about time I meet some girls or something like that..."
-    ""
+    "A menudo me digo que ya va siendo hora de que conozca chicas y tal...,"
 
 # game/script-ch20.rpy:18
 translate spanish ch20_main2_e646ec70:
 
     # "But I have no motivation to join any clubs."
-    ""
+    "pero no tengo ganas de unirme a ningún club."
 
 # game/script-ch20.rpy:19
 translate spanish ch20_main2_5b22de21:
 
     # "I'm perfectly content just getting by on the average while spending my free time on games and anime."
-    ""
+    "Me conformo con pasar desapercibido y jugar a videojuegos y ver series en mi tiempo libre."
 
 # game/script-ch20.rpy:20
 translate spanish ch20_main2_cdfda5ab:
 
     # "There's always the anime club, but it's not like there would be any girls in it anyway..."
-    ""
+    "Siempre podría unirme al club de anime, pero, total, allí no hay ninguna chica..."
 
 # game/script-ch20.rpy:25
 translate spanish ch20_main2_d234f771:
 
     # "The school day is as ordinary as ever, and it's over before I know it."
-    ""
+    "Las clases siguen siendo igual de anodinas y, cuando quiero darme cuenta, ya se han acabado."
 
 # game/script-ch20.rpy:26
 translate spanish ch20_main2_7a46ab7f:
 
     # "After I pack up my things, I stare blankly at the wall, looking for an ounce of motivation."
-    ""
+    "Recojo mis cosas y, abstraído, me quedo mirando a la pared en busca de motivación."
 
 # game/script-ch20.rpy:27
 translate spanish ch20_main2_64e92eab:
 
     # mc "Clubs..."
-    mc ""
+    mc "Los clubes..."
 
 # game/script-ch20.rpy:28
 translate spanish ch20_main2_31d6ccab:
 
     # "There really aren't any that interest me."
-    ""
+    "Lo cierto es que no me atrae ninguno."
 
 # game/script-ch20.rpy:29
 translate spanish ch20_main2_581d00cc:
 
     # "Besides, most of them would probably be way too demanding for me to want to deal with."
-    ""
+    "Y seguro que la mayoría me exigen más dedicación de la que estoy dispuesto a darles."
 
 # game/script-ch20.rpy:30
 translate spanish ch20_main2_aded22ad:
 
     # "I guess I have no choice but to start with the anime club..."
-    ""
+    "No me queda otra que probar con el club de anime."
 
 # game/script-ch20.rpy:34
 translate spanish ch20_main2_a92199a4:
 
     # m "...[player]?"
-    m ""
+    m "... ¿[player]?"
 
 # game/script-ch20.rpy:45
 translate spanish ch20_main2_9a60ad41:
 
     # mc "...Monika?"
-    mc ""
+    mc "... ¿Monika?"
 
 # game/script-ch20.rpy:47
 translate spanish ch20_main2_0fbdca71:
 
     # m 1b "Oh my goodness, I totally didn't expect to see you here!"
-    m 1b ""
+    m 1b "¡Ahí va, no esperaba verte aquí!"
 
 # game/script-ch20.rpy:48
 translate spanish ch20_main2_a80abc6a:
 
     # m 5 "It's been a while, right?"
-    m 5 ""
+    m 5 "¡Cuánto tiempo!"
 
 # game/script-ch20.rpy:49
 translate spanish ch20_main2_93deaf69:
 
     # mc "Ah..."
-    mc ""
+    mc "Ah..."
 
 # game/script-ch20.rpy:50
 translate spanish ch20_main2_62e2fb41:
 
     # mc "Yeah, it has."
-    mc ""
+    mc "Y que lo digas."
 
 # game/script-ch20.rpy:51
 translate spanish ch20_main2_3049c3ae:
 
     # "Monika smiles sweetly."
-    ""
+    "Monika sonríe con dulzura."
 
 # game/script-ch20.rpy:52
 translate spanish ch20_main2_7c7cb783:
 
     # "We do know each other - well, we rarely talked, but we were in the same class last year."
-    ""
+    "Nos conocemos. Apenas hemos cruzado unas pocas palabras, pero el año pasado fuimos juntos a clase."
 
 # game/script-ch20.rpy:53
 translate spanish ch20_main2_f583350f:
 
     # "Monika was probably the most popular girl in class - smart, beautiful, athletic."
-    ""
+    "Inteligente, guapa y atlética... Seguro que era la más popular."
 
 # game/script-ch20.rpy:54
 translate spanish ch20_main2_e3e8565d:
 
     # "Basically, completely out of my league."
-    ""
+    "En definitiva, que está fuera de mi alcance."
 
 # game/script-ch20.rpy:55
 translate spanish ch20_main2_f83977c1:
 
     # "So, having her smile at me so genuinely feels a little..."
-    ""
+    "Que me sonría con tanta sinceridad se me hace un poco..."
 
 # game/script-ch20.rpy:56
 translate spanish ch20_main2_36039a80:
 
     # mc "What did you come in here for, anyway?"
-    mc ""
+    mc "En fin, ¿qué te trae por aquí?"
 
 # game/script-ch20.rpy:57
 translate spanish ch20_main2_07a71c86:
 
     # m 1a "Oh, I've just been looking for some supplies to use for my club."
-    m 1a ""
+    m 1a "Ah, estaba buscando materiales para mi club."
 
 # game/script-ch20.rpy:58
 translate spanish ch20_main2_d6fe707b:
 
     # m 1d "Do you know if there's any construction paper in here?"
-    m 1d ""
+    m 1d "¿Sabes si por aquí hay cartulinas?"
 
 # game/script-ch20.rpy:59
 translate spanish ch20_main2_4ed91e88:
 
     # m "Or markers?"
-    m ""
+    m "O rotuladores."
 
 # game/script-ch20.rpy:60
 translate spanish ch20_main2_7793921e:
 
     # mc "I guess you could check the closet."
-    mc ""
+    mc "Echa un vistazo en el armario."
 
 # game/script-ch20.rpy:61
 translate spanish ch20_main2_c1339618:
 
     # mc "...You're in the debate club, right?"
-    mc ""
+    mc "Estás en el club de debate, ¿no?"
 
 # game/script-ch20.rpy:62
 translate spanish ch20_main2_1598c2e2:
 
     # m 5 "Ahaha, about that..."
-    m 5 ""
+    m 5 "Ja, ja, ja. Bueno..."
 
 # game/script-ch20.rpy:63
 translate spanish ch20_main2_e427c62a:
 
     # m "I actually quit the debate club."
-    m ""
+    m "Lo cierto es que lo he dejado."
 
 # game/script-ch20.rpy:64
 translate spanish ch20_main2_e70da75f:
 
     # mc "Really? You quit?"
-    mc ""
+    mc "¿En serio? ¿Lo has dejado?"
 
 # game/script-ch20.rpy:65
 translate spanish ch20_main2_7e7f246d:
 
     # m "Yeah..."
-    m ""
+    m "Sí..."
 
 # game/script-ch20.rpy:66
 translate spanish ch20_main2_45b73312:
 
     # m 2e "To be honest, I can't stand all of the politics around the major clubs."
-    m 2e ""
+    m 2e "Si te soy sincera, me repatea el politiqueo que rodea a los clubes importantes."
 
 # game/script-ch20.rpy:67
 translate spanish ch20_main2_0ee5c447:
 
     # m "It feels like nothing but arguing about the budget and publicity and how to prepare for events..."
-    m ""
+    m "Da la impresión de que te pasas el día hablando de presupuestos, publicidad y cómo preparar eventos."
 
 # game/script-ch20.rpy:68
 translate spanish ch20_main2_874ed9a4:
 
     # m "I'd much rather take something I personally enjoy and make something special out of it."
-    m ""
+    m "Prefiero participar en algo que me guste de verdad y que sea especial para mí."
 
 # game/script-ch20.rpy:69
 translate spanish ch20_main2_1ca09fe2:
 
     # mc "In that case, what club did you decide to join?"
-    mc ""
+    mc "Entonces, ¿a qué club piensas unirte?"
 
 # game/script-ch20.rpy:70
 translate spanish ch20_main2_17805c80:
 
     # m 1b "Actually, I'm starting a new one!"
-    m 1b ""
+    m 1b "Pues mira, ¡he decidido crear uno nuevo!"
 
 # game/script-ch20.rpy:71
 translate spanish ch20_main2_49f35015:
 
     # m "A literature club!{nw}"
-    m ""
+    m "¡Un club de literatura!{nw}"
 
 # game/script-ch20.rpy:79
 translate spanish ch20_main2_3faf8904:
 
     # m "A literature club!{fast}"
-    m ""
+    m "¡Un club de literatura!{fast}"
 
 # game/script-ch20.rpy:81
 translate spanish ch20_main2_a8fe5f7e:
 
     # mc "Literature...?"
-    mc ""
+    mc "¿De literatura?..."
 
 # game/script-ch20.rpy:82
 translate spanish ch20_main2_584e99e4:
