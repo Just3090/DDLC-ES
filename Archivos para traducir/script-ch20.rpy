@@ -256,121 +256,121 @@ translate spanish ch20_main2_a8fe5f7e:
 translate spanish ch20_main2_584e99e4:
 
     # "That sounds kind of...dull?"
-    ""
+    "Suena un poco... soso."
 
 # game/script-ch20.rpy:83
 translate spanish ch20_main2_49c2d156:
 
     # mc "How many members do you have so far?"
-    mc ""
+    mc "¿Cuántos miembros has conseguido hasta ahora?"
 
 # game/script-ch20.rpy:84
 translate spanish ch20_main2_1c8c1053:
 
     # m 5 "Um..."
-    m 5 ""
+    m 5 "Mmm..."
 
 # game/script-ch20.rpy:85
 translate spanish ch20_main2_f6daf90a:
 
     # m "Ahaha..."
-    m ""
+    m "Ja, ja, ja."
 
 # game/script-ch20.rpy:86
 translate spanish ch20_main2_3e48ae26:
 
     # m "It's kind of embarrassing, but there are only three of us so far."
-    m ""
+    m "Me da corte admitirlo, pero solo somos tres por el momento."
 
 # game/script-ch20.rpy:87
 translate spanish ch20_main2_3b257766:
 
     # m "It's really hard to find new members for something that sounds so boring..."
-    m ""
+    m "Es un suplicio encontrar nuevos miembros para un club que suena tan aburrido."
 
 # game/script-ch20.rpy:88
 translate spanish ch20_main2_af2a83ac:
 
     # mc "Well, I can see that..."
-    mc ""
+    mc "Ya, me lo imagino."
 
 # game/script-ch20.rpy:89
 translate spanish ch20_main2_bc1a4311:
 
     # m 3d "But it's really not boring at all, you know!"
-    m 3d ""
+    m 3d "Pero de aburrido no tiene un pelo, que lo sepas."
 
 # game/script-ch20.rpy:90
 translate spanish ch20_main2_e754f821:
 
     # m "Literature can be anything. Reading, writing, poetry..."
-    m ""
+    m "Cualquier cosa puede ser literatura. La lectura, la escritura, la poesía..."
 
 # game/script-ch20.rpy:91
 translate spanish ch20_main2_c7f06a68:
 
     # m 3e "I mean, one of my members even keeps her manga collection in the clubroom..."
-    m 3e ""
+    m 3e "De hecho, ¡tenemos a alguien que guarda su colección de manga en la sala del club!"
 
 # game/script-ch20.rpy:92
 translate spanish ch20_main2_76f46bb5:
 
     # mc "Wait...really?"
-    mc ""
+    mc "¿Lo dices en serio?"
 
 # game/script-ch20.rpy:93
 translate spanish ch20_main2_48209ebb:
 
     # m 2k "Yeah, it's funny, right?"
-    m 2k ""
+    m 2k "¡Totalmente! ¿A que es divertido?"
 
 # game/script-ch20.rpy:94
 translate spanish ch20_main2_43bd010c:
 
     # m 2e "She always insists that manga is literature, too."
-    m 2e ""
+    m 2e "Ella insiste en que el manga también es literatura."
 
 # game/script-ch20.rpy:95
 translate spanish ch20_main2_43d75f5f:
 
     # m "I mean, she's not wrong, I guess..."
-    m ""
+    m "Y, bueno, no se equivoca..."
 
 # game/script-ch20.rpy:96
 translate spanish ch20_main2_bbd414b4:
 
     # m "And besides, a member's a member, right?"
-    m ""
+    m "Además, un miembro es un miembro, ¿no?"
 
 # game/script-ch20.rpy:97
 translate spanish ch20_main2_ef8942cb:
 
     # "...Did Monika say \"she\"?"
-    ""
+    "... ¿Monika acaba de decir 'ella'?"
 
 # game/script-ch20.rpy:98
 translate spanish ch20_main2_11bedf1c:
 
     # "Hmm..."
-    ""
+    "Mmm..."
 
 # game/script-ch20.rpy:99
 translate spanish ch20_main2_0e946372:
 
     # m 1a "Hey, [player]..."
-    m 1a ""
+    m 1a "Una cosita, [player]..."
 
 # game/script-ch20.rpy:100
 translate spanish ch20_main2_d5f8d49c:
 
     # m "By any chance...are you still looking for a club to join?"
-    m ""
+    m "Por casualidad, no estarás buscando un club, ¿verdad?"
 
 # game/script-ch20.rpy:101
 translate spanish ch20_main2_f9d65918:
 
     # mc "Ah--"
-    mc ""
+    mc "Ah..."
 
 # game/script-ch20.rpy:102
 translate spanish ch20_main2_e0a3e98e:
