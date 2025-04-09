@@ -1776,5 +1776,5 @@ translate spanish strings:
 
     # game/script-ch20.rpy:493
     old "You have unlocked a special poem.\nWould you like to read it?"
-    new "Haz desbloqueado un poema especial.\n¿Te gustaría leerlo?"
+    new "Has desbloqueado un poema especial.\n¿Quieres leerlo?"
 
