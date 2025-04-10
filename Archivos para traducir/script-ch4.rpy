@@ -7552,7 +7552,7 @@ translate spanish ch4_end_no_ff0adde9:
 translate spanish ch4_end_no_99473e83:
 
     # "But I'm having as much trouble understanding Sayori's feelings as she is."
-    "pero entenderla me está costando muchísimo.
+    "pero entenderla me está costando muchísimo."
 
 # game/script-ch4.rpy:1441
 translate spanish ch4_end_no_ffcb0f03:

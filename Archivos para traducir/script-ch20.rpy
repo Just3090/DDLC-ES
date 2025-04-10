@@ -472,7 +472,7 @@ translate spanish ch20_main2_fe6b0db2:
 translate spanish ch20_main2_ab62062b:
 
     # "I timidly follow Monika across the school and upstairs - a section of the school I rarely visit, being generally used for third-year classes and activities."
-    "Tímidamente, la sigo por el instituto y subimos unas escaleras que dan a una zona que no suelo frecuentar.
+    "Tímidamente, la sigo por el instituto y subimos unas escaleras que dan a una zona que no suelo frecuentar."
 
 # game/script-ch20.rpy:125
 translate spanish ch20_main2_b2195ace:

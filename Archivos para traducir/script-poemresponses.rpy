@@ -12773,7 +12773,7 @@ translate spanish m_yuri_3_e5293ce8:
 translate spanish m_yuri_3_b2aaefec:
 
     # mc "I just...feel bad that she has a hard time socializing."
-    mc "Es solo que... me siento mal sabiendo que le cuesta mucho socializar.
+    mc "Es solo que... me siento mal sabiendo que le cuesta mucho socializar."
 
 # game/script-poemresponses.rpy:2689
 translate spanish m_yuri_3_909d6afc:
