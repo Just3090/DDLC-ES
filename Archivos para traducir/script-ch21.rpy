@@ -4,349 +4,349 @@
 translate spanish ch21_main_0f077782:
 
     # m "Hi again, [player]!"
-    m ""
+    m "¡Hola de nuevo, [player]!"
 
 # game/script-ch21.rpy:11
 translate spanish ch21_main_95ea4bac:
 
     # m "Glad to see you didn't run away on us. Hahaha!"
-    m ""
+    m "Qué bien, no has huído con el rabo entre las piernas. ¡Ja, ja, ja!"
 
 # game/script-ch21.rpy:12
 translate spanish ch21_main_ecaf5654:
 
     # mc "Nah, don't worry."
-    mc ""
+    mc "Qué va, yo no hago esas cosas."
 
 # game/script-ch21.rpy:13
 translate spanish ch21_main_a0e98f5a:
 
     # mc "This might be a little strange for me, but I at least keep my word."
-    mc ""
+    mc "Se me hace un poco raro, pero pienso cumplir mi palabra."
 
 # game/script-ch21.rpy:16
 translate spanish ch21_main_5bff8fb6:
 
     # "Well, I'm back at the Literature Club."
-    ""
+    "Bien, he vuelto al club de literatura."
 
 # game/script-ch21.rpy:17
 translate spanish ch21_main_0565e928:
 
     # "I was the last to come in, so everyone else is already hanging out."
-    ""
+    "He sido el último en llegar, así que las chicas ya están pasando el rato."
 
 # game/script-ch21.rpy:19
 translate spanish ch21_main_209577b0:
 
     # y "Thanks for keeping your promise, [player]."
-    y ""
+    y "Gracias por mantener tu promesa, [player]."
 
 # game/script-ch21.rpy:20
 translate spanish ch21_main_0762f28d:
 
     # y 1a "I hope this isn't too overwhelming of a commitment for you."
-    y 1a ""
+    y 1a "Espero que este compromiso no se te haga muy cuesta arriba."
 
 # game/script-ch21.rpy:21
 translate spanish ch21_main_0b033aa0:
 
     # y 1u "Making you dive headfirst into literature when you're not accustomed to it..."
-    y 1u ""
+    y 1u "Es duro que te obliguen a zambullirte en la literatura cuando no estás acostumbrado..."
 
 # game/script-ch21.rpy:23
 translate spanish ch21_main_4bc8df14:
 
     # n "Oh, come on! Like he deserves any slack."
-    n ""
+    n "¡Venga ya! No hace falta que te compadezcas de él."
 
 # game/script-ch21.rpy:24
 translate spanish ch21_main_f114fc18:
 
     # n 4e "You already had to be dragged here by Monika."
-    n 4e ""
+    n 4e "Fue Monika la que tuvo que arrastrarte hasta aquí."
 
 # game/script-ch21.rpy:25
 translate spanish ch21_main_e6e52d65:
 
     # n "I don't know if you plan to just come here and hang out, or what..."
-    n ""
+    n "No sé si piensas venir a hacer el zángano..."
 
 # game/script-ch21.rpy:26
 translate spanish ch21_main_8ef8abd3:
 
     # n "But if you don't take us seriously, then you won't see the end of it."
-    n ""
+    n "Pero, si te pitorreas de nosotras, te prometo que te las verás conmigo."
 
 # game/script-ch21.rpy:28
 translate spanish ch21_main_e8cad960:
 
     # m "Natsuki, you certainly have a big mouth for someone who keeps her manga collection in the clubroom."
-    m ""
+    m "Natsuki, guardas tus mangas en el club. No eres quién para ponerte bravucona."
 
 # game/script-ch21.rpy:29
 translate spanish ch21_main_28526ae4:
 
     # n 4o "M-M-M...!!"
-    n 4o ""
+    n 4o "¡¡¡E-E-E...!!!"
 
 # game/script-ch21.rpy:32
 translate spanish ch21_main_6ff88347:
 
     # "Natsuki finds herself stuck between saying \"Monika\" and \"Manga\"."
-    ""
+    "Natsuki no sabe si justificarse o replicarle a Monika."
 
 # game/script-ch21.rpy:34
 translate spanish ch21_main_8e1ee84b:
 
     # n 1v "Manga is literature!!"
-    n 1v ""
+    n 1v "¡¡¡El manga también es literatura!!!"
 
 # game/script-ch21.rpy:37
 translate spanish ch21_main_036357ba:
 
     # "Swiftly defeated, Natsuki plops back into her seat."
-    ""
+    "Derrotada de un plumazo, Natsuki se deja caer en su silla."
 
 # game/script-ch21.rpy:39
 translate spanish ch21_main_134f5bf0:
 
     # y "I'm sorry, [player]..."
-    y ""
+    y "Disculpa, [player]..."
 
 # game/script-ch21.rpy:40
 translate spanish ch21_main_13b672c8:
 
     # y "We'll make sure to put your comfort first, okay?"
-    y ""
+    y "Procuraremos que tu comodidad sea nuestra prioridad, ¿vale?"
 
 # game/script-ch21.rpy:42
 translate spanish ch21_main_0f6b17e0:
 
     # "Yuri shoots Natsuki with a disappointed glance."
-    ""
+    "Yuri mira decepcionada a Natsuki."
 
 # game/script-ch21.rpy:43
 translate spanish ch21_main_98f2c2ea:
 
     # y 1a "Um, anyway..."
-    y 1a ""
+    y 1a "Jum, en fin."
 
 # game/script-ch21.rpy:44
 translate spanish ch21_main_1d2411ac:
 
     # y "Now that you're in the club and all..."
-    y ""
+    y "Ahora que formas parte del club,"
 
 # game/script-ch21.rpy:45
 translate spanish ch21_main_15cca953:
 
     # y "...Perhaps you might have interest in picking up a book to read?"
-    y ""
+    y "¿no te apetecería escoger un libro para leer?"
 
 # game/script-ch21.rpy:46
 translate spanish ch21_main_c14c584c:
 
     # mc "Well..."
-    mc ""
+    mc "Bueno..."
 
 # game/script-ch21.rpy:47
 translate spanish ch21_main_89fd5cc7:
 
     # mc "I can't really say no either way."
-    mc ""
+    mc "Tampoco puedo negarme."
 
 # game/script-ch21.rpy:48
 translate spanish ch21_main_7c680eca:
 
     # mc "Like you said, I'm in this club now."
-    mc ""
+    mc "Como bien has dicho, ya soy parte del club."
 
 # game/script-ch21.rpy:49
 translate spanish ch21_main_47b42db1:
 
     # mc "So it only feels right for me to do something like that, if you ask."
-    mc ""
+    mc "Supongo que estoy en la obligación de hacer algo así."
 
 # game/script-ch21.rpy:50
 translate spanish ch21_main_014522fc:
 
     # y 4b "W-Wait..."
-    y 4b ""
+    y 4b "E-Espera..."
 
 # game/script-ch21.rpy:51
 translate spanish ch21_main_4031f60f:
 
     # y "I didn't mean it like that!"
-    y ""
+    y "¡No hablaba de eso!"
 
 # game/script-ch21.rpy:52
 translate spanish ch21_main_6559e79e:
 
     # y "Uu..."
-    y ""
+    y "Uuuh..."
 
 # game/script-ch21.rpy:53
 translate spanish ch21_main_2add5b01:
 
     # y "If you don't really want to, then forget I said anything, I guess..."
-    y ""
+    y "Si en realidad no te apetece, no he dicho nada..."
 
 # game/script-ch21.rpy:54
 translate spanish ch21_main_1bbe57dc:
 
     # mc "Ah--No, it's not that, Yuri."
-    mc ""
+    mc "Ah... No es eso, Yuri."
 
 # game/script-ch21.rpy:55
 translate spanish ch21_main_a3efbc9a:
 
     # mc "I want to try to be a part of this club."
-    mc ""
+    mc "Quiero integrarme en este club."
 
 # game/script-ch21.rpy:56
 translate spanish ch21_main_720ff8ea:
 
     # mc "So even if I don't read often, I'd be happy to pick up a book if you wanted me to."
-    mc ""
+    mc "Aunque no lea a menudo, estaré encantado de coger un libro si así lo deseas."
 
 # game/script-ch21.rpy:57
 translate spanish ch21_main_d39c2555:
 
     # y 3t "A-Are you sure...?"
-    y 3t ""
+    y 3t "¿E-Estás seguro?..."
 
 # game/script-ch21.rpy:58
 translate spanish ch21_main_6234a550:
 
     # y "I just felt like..."
-    y ""
+    y "Pensaba que..."
 
 # game/script-ch21.rpy:59
 translate spanish ch21_main_5cc899a6:
 
     # y 3u "...Well, as Vice President and all..."
-    y 3u ""
+    y 3u "Bueno, como soy la vicepresidenta...,"
 
 # game/script-ch21.rpy:60
 translate spanish ch21_main_400ef1e7:
 
     # y "...That I should help you get started on something you might like."
-    y ""
+    y "era mi deber ayudarte a elegir algo que pudiera gustarte."
 
 # game/script-ch21.rpy:61
 translate spanish ch21_main_5c6d9095:
 
     # "Yuri reaches into her bag and pulls out a book."
-    ""
+    "Yuri mete la mano en su bolsa y saca un libro."
 
 # game/script-ch21.rpy:62
 translate spanish ch21_main_bb6c4878:
 
     # y 1s "I didn't want you to feel left out..."
-    y 1s ""
+    y 1s "No quería que te sintieses excluido."
 
 # game/script-ch21.rpy:63
 translate spanish ch21_main_1879c00c:
 
     # y "So I picked out a book that I thought you might enjoy."
-    y ""
+    y "Así que he escogido un libro que podrías disfrutar."
 
 # game/script-ch21.rpy:64
 translate spanish ch21_main_c76bcbd9:
 
     # y "It's a short read, so it should keep your attention, even if you don't usually read."
-    y ""
+    y "Es cortito. Te tendrá enganchado aunque no estés acostumbrado a leer."
 
 # game/script-ch21.rpy:65
 translate spanish ch21_main_1c1fa68f:
 
     # y "And we could, you know..."
-    y ""
+    y "Y, si te apetece, podríamos..."
 
 # game/script-ch21.rpy:67
 translate spanish ch21_main_262616a0:
 
     # y 4b "Discuss it...if you wanted..."
-    y 4b ""
+    y 4b "Ya sabes, comentarlo..."
 
 # game/script-ch21.rpy:68
 translate spanish ch21_main_257a5a4c:
 
     # "Th-This is..."
-    ""
+    "N-No fastidies..."
 
 # game/script-ch21.rpy:69
 translate spanish ch21_main_dbd79240:
 
     # "How is this girl accidentally being so cute?"
-    ""
+    "Esta chica no podría ser más mona ni queriendo."
 
 # game/script-ch21.rpy:70
 translate spanish ch21_main_067cb0c1:
 
     # "She even picked out a book she thinks I'll like, despite me not reading much..."
-    ""
+    "Ha escogido un libro que podría gustarme a pesar de que soy un lector pésimo."
 
 # game/script-ch21.rpy:71
 translate spanish ch21_main_063782d3:
 
     # mc "Yuri, thank you! I'll definitely read this!"
-    mc ""
+    mc "¡Gracias, Yuri! ¡Lo leeré sin falta!"
 
 # game/script-ch21.rpy:72
 translate spanish ch21_main_a0d526be:
 
     # "I enthusiastically take the book."
-    ""
+    "Cojo el libro entusiasmado."
 
 # game/script-ch21.rpy:74
 translate spanish ch21_main_f6554ff6:
 
     # y "Phew..."
-    y ""
+    y "Uf..."
 
 # game/script-ch21.rpy:75
 translate spanish ch21_main_3b5e8d6c:
 
     # y 2a "Well, you can read it at your own pace."
-    y 2a ""
+    y 2a "Bueno, tómate el tiempo que quieras para leerlo."
 
 # game/script-ch21.rpy:76
 translate spanish ch21_main_17c99d12:
 
     # y "I look forward to hearing what you think."
-    y ""
+    y "Tengo ganas de saber tu opinión."
 
 # game/script-ch21.rpy:82
 translate spanish ch21_main_5d35cc1a:
 
     # "Now that everyone's settled in, I expected Monika to kick off some scheduled activities for the club."
-    ""
+    "Ahora que todo el mundo está en su sitio, esperaba que Monika empezase con las actividades del club."
 
 # game/script-ch21.rpy:83
 translate spanish ch21_main_be0f213d:
 
     # "But that doesn't seem to be the case."
-    ""
+    "Pero no parece que sea el caso."
 
 # game/script-ch21.rpy:84
 translate spanish ch21_main_301982d1:
 
     # "Yuri's face is already buried in a book."
-    ""
+    "Yuri está concentrada en su libro."
 
 # game/script-ch21.rpy:85
 translate spanish ch21_main_b18fd321:
 
     # "I can't help but notice her intense expression, like she was waiting for this chance."
-    ""
+    "No puedo evitar fijarme en su expresión apasionada. Diría que estaba esperando esta oportunidad."
 
 # game/script-ch21.rpy:86
 translate spanish ch21_main_6713a333:
 
     # "Meanwhile, Natsuki is rummaging around in the closet."
-    ""
+    "Mientras tanto, Natsuki rebusca en el armario."
 
 # game/script-ch21.rpy:100
 translate spanish ch21_end_d91458f0:
