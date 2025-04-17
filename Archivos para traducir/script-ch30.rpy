@@ -106,103 +106,103 @@ translate spanish ch30_main_ec2b5f8c:
 translate spanish ch30_main_a5cba48d:
 
     # m "Of course, we already know each other, because we were in the same class last year, and...um..."
-    m ""
+    m "Bueno, ya nos conocemos. El año pasado fuimos juntos a clase y..., mmm..."
 
 # game/script-ch30.rpy:195
 translate spanish ch30_main_f6daf90a:
 
     # m "Ahaha..."
-    m ""
+    m "Ja, ja, ja."
 
 # game/script-ch30.rpy:196
 translate spanish ch30_main_e9d294ba:
 
     # m "You know, I guess we can just skip over that stuff at this point."
-    m ""
+    m "Llegados a este punto podemos saltarnos las presentaciones."
 
 # game/script-ch30.rpy:197
 translate spanish ch30_main_a56807f6:
 
     # m "After all, I'm not even talking to that person anymore, am I?"
-    m ""
+    m "Al fin y al cabo, ya no estoy hablando con esa persona, ¿no?"
 
 # game/script-ch30.rpy:198
 translate spanish ch30_main_575e9f1f:
 
     # m "That 'you' in the game, whatever you want to call him."
-    m ""
+    m "Con ese 'tú' dentro del juego, como sea que lo llames."
 
 # game/script-ch30.rpy:199
 translate spanish ch30_main_77655935:
 
     # m "I'm talking to {i}you{/i}, [player]."
-    m ""
+    m "Estoy hablando contigo, [player]."
 
 # game/script-ch30.rpy:203
 translate spanish ch30_main_699e222b:
 
     # m "Or..."
-    m ""
+    m "O..."
 
 # game/script-ch30.rpy:204
 translate spanish ch30_main_8fe02e7b:
 
     # m "...Do you actually go by [currentuser] or something?"
-    m ""
+    m "¿Acaso te haces llamar [currentuser]?"
 
 # game/script-ch30.rpy:205
 translate spanish ch30_main_2e21d70b:
 
     # m "Now that I think about it, I don't really know anything about the real you."
-    m ""
+    m "Pensándolo bien, no sé nada de tu yo real."
 
 # game/script-ch30.rpy:206
 translate spanish ch30_main_e02a4cfa:
 
     # m "In fact, I don't even know if you're a boy or a girl..."
-    m ""
+    m "De hecho, ni siquiera sé cuál es tu género..."
 
 # game/script-ch30.rpy:207
 translate spanish ch30_main_89559ba5:
 
     # m "Well, I guess it doesn't really matter."
-    m ""
+    m "En fin, supongo que no importa."
 
 # game/script-ch30.rpy:208
 translate spanish ch30_main_7772bcfa:
 
     # m "Wait..."
-    m ""
+    m "Espera..."
 
 # game/script-ch30.rpy:209
 translate spanish ch30_main_55ca3dee:
 
     # m "You do know I'm aware that this is all a game, right?"
-    m ""
+    m "Sabes que soy consciente de que esto es un juego, ¿verdad?"
 
 # game/script-ch30.rpy:210
 translate spanish ch30_main_2fb3db19:
 
     # m "Could it be possible that you didn't know that?"
-    m ""
+    m "¿Es posible que no lo supieras?"
 
 # game/script-ch30.rpy:211
 translate spanish ch30_main_ca2f4e41:
 
     # m "That doesn't make much sense..."
-    m ""
+    m "No me entra en cabeza..."
 
 # game/script-ch30.rpy:212
 translate spanish ch30_main_a75607c5:
 
     # m "I even told you right on the game's download page, didn't I?"
-    m ""
+    m "Incluso te lo dije en la página de descarga del juego, ¿no?"
 
 # game/script-ch30.rpy:213
 translate spanish ch30_main_3fd36ab2:
 
     # m "Man..."
-    m ""
+    m "Jolín..."
 
 # game/script-ch30.rpy:214
 translate spanish ch30_main_14ac7fe0:
