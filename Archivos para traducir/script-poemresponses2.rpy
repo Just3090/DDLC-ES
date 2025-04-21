@@ -478,13 +478,13 @@ translate spanish ch23_n_end_708e8f2f:
 translate spanish ch23_n_end_51c11221:
 
     # n "Just Monika."
-    n ""
+    n "Solo Monika."
 
 # game/script-poemresponses2.rpy:178
 translate spanish ch23_n_end_24b5bc76:
 
     # "Just Monika."
-    ""
+    "Solo Monika."
 
 # game/script-poemresponses2.rpy:210
 translate spanish ch22_m_end_83c4f89d:
@@ -1252,7 +1252,7 @@ translate spanish ch23_n_shared_48a6b58c:
 translate spanish ch23_n_shared_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-poemresponses2.rpy:420
 translate spanish ch23_n_shared_3e89254a:
@@ -1372,7 +1372,7 @@ translate spanish ch22_y_med_e1432eef:
 translate spanish ch22_y_med_2c087461:
 
     # y 3m "..."
-    y 3m ""
+    y 3m "..."
 
 # game/script-poemresponses2.rpy:461
 translate spanish ch22_y_med_b995a929:
@@ -1390,7 +1390,7 @@ translate spanish ch22_y_med_0aa09258:
 translate spanish ch22_y_med_652650d3:
 
     # mc "...?"
-    mc ""
+    mc "¿...?"
 
 # game/script-poemresponses2.rpy:464
 translate spanish ch22_y_med_e2d6fa5d:
@@ -2296,205 +2296,205 @@ translate spanish m2_natsuki_1_ca758e44:
 translate spanish m2_yuri_1_8702c778:
 
     # m 1a "Great job, [player]!"
-    m 1a ""
+    m 1a "¡Buen trabajo, [player]!"
 
 # game/script-poemresponses2.rpy:679
 translate spanish m2_yuri_1_51d5365e:
 
     # m "I was going 'Ooh' in my head while reading it."
-    m ""
+    m "No dejaba de decir '¡Uala!' en mi cabeza mientras lo leía."
 
 # game/script-poemresponses2.rpy:680
 translate spanish m2_yuri_1_68322c07:
 
     # m 1j "It's really metaphorical!"
-    m 1j ""
+    m 1j "¡Es muy metafórico!"
 
 # game/script-poemresponses2.rpy:681
 translate spanish m2_yuri_1_df8cf596:
 
     # m 1a "I'm not sure why, but I didn't expect you to go for something so deep."
-    m 1a ""
+    m 1a "No sé muy bien por qué, pero no esperaba que escribieses algo tan profundo."
 
 # game/script-poemresponses2.rpy:682
 translate spanish m2_yuri_1_a9a4780f:
 
     # m 3b "I guess I underestimated you!"
-    m 3b ""
+    m 3b "Supongo que te he subestimado."
 
 # game/script-poemresponses2.rpy:683
 translate spanish m2_yuri_1_3796b1c6:
 
     # mc "It's easiest for me to keep everyone's expectations low."
-    mc ""
+    mc "Para mí, es más fácil cuando la gente tiene pocas expectativas conmigo."
 
 # game/script-poemresponses2.rpy:684
 translate spanish m2_yuri_1_b811b3be:
 
     # mc "That way, it always counts when I put in some effort."
-    mc ""
+    mc "Así, siempre se nota cuando hago el mínimo esfuerzo."
 
 # game/script-poemresponses2.rpy:685
 translate spanish m2_yuri_1_dc0ab338:
 
     # m 5a "Ahaha! That's not very fair!"
-    m 5a ""
+    m 5a "¡Ja, ja, ja! ¡Eso es hacer trampas!"
 
 # game/script-poemresponses2.rpy:686
 translate spanish m2_yuri_1_820fd59f:
 
     # m "Well, I guess it worked, anyway."
-    m ""
+    m "En fin, la cosa es que te ha funcionado."
 
 # game/script-poemresponses2.rpy:687
 translate spanish m2_yuri_1_8d0f13fc:
 
     # m 2a "You know that Yuri likes this kind of writing, right?"
-    m 2a ""
+    m 2a "Sabes que a Yuri le gusta esta forma de escribir, ¿no?"
 
 # game/script-poemresponses2.rpy:688
 translate spanish m2_yuri_1_0ec7a5f5:
 
     # m "Writing that's full of imagery and symbolism."
-    m ""
+    m "Le encanta leer cosas llenas de imaginería y simbolismo."
 
 # game/script-poemresponses2.rpy:689
 translate spanish m2_yuri_1_920fac83:
 
     # m 2d "Sometimes I feel like Yuri's mind is just totally detached from reality."
-    m 2d ""
+    m 2d "A veces creo que la cabeza de Yuri ve una realidad totalmente distinta a la nuestra."
 
 # game/script-poemresponses2.rpy:690
 translate spanish m2_yuri_1_30867f56:
 
     # m "I don't mean that like it's a bad thing, though."
-    m ""
+    m "No me entiendas mal, no lo digo en el mal sentido."
 
 # game/script-poemresponses2.rpy:691
 translate spanish m2_yuri_1_6682efb9:
 
     # m 2a "But sometimes I get the impression that she's just totally given up on people."
-    m 2a ""
+    m 2a "Pero, a veces, tengo la sensación de que ya no le interesa la gente."
 
 # game/script-poemresponses2.rpy:692
 translate spanish m2_yuri_1_665ab325:
 
     # m "She spends so much time in her own head that it's probably a much more interesting place for her..."
-    m ""
+    m "Se pasa tanto tiempo dentro de su propia cabeza que seguramente le parezca mucho más interesante estar ahí dentro que con gente..."
 
 # game/script-poemresponses2.rpy:693
 translate spanish m2_yuri_1_94cfdf9c:
 
     # m 2b "But that's why she gets so happy when you treat her with a lot of kindness."
-    m 2b ""
+    m 2b "Supongo que por eso se pone tan contenta cuando la tratas con tanta amabilidad."
 
 # game/script-poemresponses2.rpy:694
 translate spanish m2_yuri_1_4b711bfe:
 
     # m "I don't think she's used to being indulged like that."
-    m ""
+    m "No creo que esté acostumbrada a que la mimen así."
 
 # game/script-poemresponses2.rpy:695
 translate spanish m2_yuri_1_b80a49f1:
 
     # m 2j "She must be really starved for social interaction, so don't blame her for coming on a little strongly."
-    m 2j ""
+    m 2j "Debe de estar con unas ganas de socializar terribles, así que no la culpo por venirse un poco arriba de más."
 
 # game/script-poemresponses2.rpy:696
 translate spanish m2_yuri_1_a4104638:
 
     # m 2d "Like earlier..."
-    m 2d ""
+    m 2d "Igual que le pasó antes..."
 
 # game/script-poemresponses2.rpy:697
 translate spanish m2_yuri_1_24d60780:
 
     # m "I think if she gets too stimulated, she ends up withdrawing and looking for alone time."
-    m ""
+    m "Creo que, cuando se emociona demasiado, tiende a marcharse corriendo para estar sola."
 
 # game/script-poemresponses2.rpy:698
 translate spanish m2_yuri_1_bcce4482:
 
     # "Suddenly, the door opens."
-    ""
+    "De pronto, la puerta se abre."
 
 # game/script-poemresponses2.rpy:699
 translate spanish m2_yuri_1_c8ec6983:
 
     # m 2b "Yuri!"
-    m 2b ""
+    m 2b "¡Yuri!"
 
 # game/script-poemresponses2.rpy:702
 translate spanish m2_yuri_1_3f26578c:
 
     # y "I'm back..."
-    y ""
+    y "He vuelto..."
 
 # game/script-poemresponses2.rpy:703
 translate spanish m2_yuri_1_8e53004c:
 
     # y "Did I miss anything?"
-    y ""
+    y "¿Me he perdido algo?"
 
 # game/script-poemresponses2.rpy:706
 translate spanish m2_yuri_1_b6c1b501:
 
     # m 2a "Not really..."
-    m 2a ""
+    m 2a "Lo cierto es que no..."
 
 # game/script-poemresponses2.rpy:707
 translate spanish m2_yuri_1_363271bd:
 
     # m "Well, we all started sharing our poems with each other."
-    m ""
+    m "Bueno, hemos empezado a compartir nuestros poemas."
 
 # game/script-poemresponses2.rpy:710
 translate spanish m2_yuri_1_4729869b:
 
     # y 2t "Eh?"
-    y 2t ""
+    y 2t "¿Eh?"
 
 # game/script-poemresponses2.rpy:711
 translate spanish m2_yuri_1_cebc9ddc:
 
     # y "Already?"
-    y ""
+    y "¿Ya?"
 
 # game/script-poemresponses2.rpy:712
 translate spanish m2_yuri_1_bc6892c1:
 
     # y 2v "I-I'm sorry for being late..."
-    y 2v ""
+    y 2v "S-Siento llegar tan tarde..."
 
 # game/script-poemresponses2.rpy:715
 translate spanish m2_yuri_1_7fc8ae5b:
 
     # m 2j "No need to apologize!"
-    m 2j ""
+    m 2j "¡No hace falta que te disculpes!"
 
 # game/script-poemresponses2.rpy:716
 translate spanish m2_yuri_1_bc53640f:
 
     # m 2a "We still have plenty of time, so I'm more glad that you took all the time you needed."
-    m 2a ""
+    m 2a "Todavía tenemos tiempo de sobra, así que tranquila. Me alegra que te hayas tomado el tiempo que necesitabas."
 
 # game/script-poemresponses2.rpy:719
 translate spanish m2_yuri_1_ea1ffe31:
 
     # y 1s "Alright..."
-    y 1s ""
+    y 1s "Vale..."
 
 # game/script-poemresponses2.rpy:720
 translate spanish m2_yuri_1_f0ffd929:
 
     # y "Thanks, Monika."
-    y ""
+    y "Gracias, Monika."
 
 # game/script-poemresponses2.rpy:721
 translate spanish m2_yuri_1_0b61bbc2:
 
     # y "I suppose I should go get my poem now."
-    y ""
+    y "Supongo que ahora toca leer mi poema."
 
 # game/script-poemresponses2.rpy:728
 translate spanish m2_yuri_2_089aaea9:
