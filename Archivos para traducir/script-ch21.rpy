@@ -352,619 +352,619 @@ translate spanish ch21_main_6713a333:
 translate spanish ch21_end_d91458f0:
 
     # mc "Phew..."
-    mc ""
+    mc "Uf..."
 
 # game/script-ch21.rpy:101
 translate spanish ch21_end_1782371d:
 
     # "I guess that's everyone."
-    ""
+    "Supongo que no falta nadie."
 
 # game/script-ch21.rpy:102
 translate spanish ch21_end_58e4d71b:
 
     # "I glance around the room."
-    ""
+    "Echo un vistazo por el aula."
 
 # game/script-ch21.rpy:103
 translate spanish ch21_end_21f37dea:
 
     # "That was a little more stressful than I anticipated."
-    ""
+    "Ha sido más estresante de lo que pensaba."
 
 # game/script-ch21.rpy:104
 translate spanish ch21_end_5b12ad4c:
 
     # "It's as if everyone is judging me for my mediocre writing abilities..."
-    ""
+    "Es como si todas me estuviesen juzgando por lo mal que escribo."
 
 # game/script-ch21.rpy:105
 translate spanish ch21_end_72e6b5de:
 
     # "Even if they're just being nice, there's no way my poems can stand up to theirs."
-    ""
+    "Aunque intenten ser amables, es imposible que mis poemas estén a la altura de los suyos."
 
 # game/script-ch21.rpy:106
 translate spanish ch21_end_3e6d2aa1:
 
     # "This is a literature club, after all."
-    ""
+    "Después de todo, este es un club de literatura."
 
 # game/script-ch21.rpy:107
 translate spanish ch21_end_3f739ce1:
 
     # "I sigh."
-    ""
+    "Lanzo un suspiro."
 
 # game/script-ch21.rpy:108
 translate spanish ch21_end_e55af38e:
 
     # "I guess that's what I ended up getting myself into."
-    ""
+    "Supongo que es culpa mía, por meterme en este fregado."
 
 # game/script-ch21.rpy:109
 translate spanish ch21_end_ad956e20:
 
     # "Across the room, Monika is writing something in her notebook."
-    ""
+    "Al otro lado del aula, Monika anota algo en su cuaderno."
 
 # game/script-ch21.rpy:110
 translate spanish ch21_end_841184ee:
 
     # "My eyes land on Yuri and Natsuki."
-    ""
+    "Mi mirada se clava en Yuri y Natsuki."
 
 # game/script-ch21.rpy:113
 translate spanish ch21_end_1705c9fe:
 
     # "They gingerly exchange sheets of paper, sharing their respective poems."
-    ""
+    "Intercambian hojas de papel con cuidado. Están compartiendo sus poemas."
 
 # game/script-ch21.rpy:115
 translate spanish ch21_end_37b74d39:
 
     # "As they read in tandem, I watch each of their expressions change."
-    ""
+    "Me fijo en cómo cambian sus expresiones a medida que leen."
 
 # game/script-ch21.rpy:116
 translate spanish ch21_end_f3def454:
 
     # "Natsuki's eyebrows furrow in frustration."
-    ""
+    "Natsuki, frustrada, frunce el ceño."
 
 # game/script-ch21.rpy:117
 translate spanish ch21_end_1583e001:
 
     # "Meanwhile, Yuri smiles sadly."
-    ""
+    "Por su parte, Yuri sonríe con amargura."
 
 # game/script-ch21.rpy:119
 translate spanish ch21_end_36ce7fb5:
 
     # n 1q "{i}(What's with this language...?){/i}"
-    n 1q ""
+    n 1q "(Este vocabulario se las trae...)"
 
 # game/script-ch21.rpy:122
 translate spanish ch21_end_5f1028e8:
 
     # y 2f "Eh?"
-    y 2f ""
+    y 2f "¿Eh?"
 
 # game/script-ch21.rpy:123
 translate spanish ch21_end_392e3f64:
 
     # y "Um...did you say something?"
-    y ""
+    y "Perdona, ¿has dicho algo?"
 
 # game/script-ch21.rpy:126
 translate spanish ch21_end_5a23a338:
 
     # n 2c "Oh, it's nothing."
-    n 2c ""
+    n 2c "Ah, no es nada."
 
 # game/script-ch21.rpy:127
 translate spanish ch21_end_73b87d84:
 
     # "Natsuki dismissively returns the poem to the desk with one hand."
-    ""
+    "Natsuki devuelve el poema al pupitre desdeñosamente con una sola mano."
 
 # game/script-ch21.rpy:128
 translate spanish ch21_end_678d666c:
 
     # n "I guess you could say it's fancy."
-    n ""
+    n "Es bastante sofisticado, supongo."
 
 # game/script-ch21.rpy:131
 translate spanish ch21_end_ee8faee5:
 
     # y 2i "Ah-- Thanks..."
-    y 2i ""
+    y 2i "Ah... Gracias."
 
 # game/script-ch21.rpy:132
 translate spanish ch21_end_1705b12d:
 
     # y "Yours is...cute..."
-    y ""
+    y "El tuyo es... cuqui."
 
 # game/script-ch21.rpy:135
 translate spanish ch21_end_d53cb64f:
 
     # n 2h "Cute?"
-    n 2h ""
+    n 2h "¿Cómo que cuqui?"
 
 # game/script-ch21.rpy:136
 translate spanish ch21_end_d7a2229c:
 
     # n 1h "Did you completely miss the symbolism or something?"
-    n 1h ""
+    n 1h "¿Acaso no entiendes el simbolismo que guarda?"
 
 # game/script-ch21.rpy:137
 translate spanish ch21_end_a5b7430f:
 
     # n "It's clearly about the feeling of giving up."
-    n ""
+    n "Es evidente que trata sobre el sentimiento de desidia."
 
 # game/script-ch21.rpy:138
 translate spanish ch21_end_0db745ab:
 
     # n "How can that be cute?"
-    n ""
+    n "¿Qué tiene eso de cuqui?"
 
 # game/script-ch21.rpy:141
 translate spanish ch21_end_d42c351b:
 
     # y 3f "I-I know that!"
-    y 3f ""
+    y 3f "¡Y-Ya lo sé!"
 
 # game/script-ch21.rpy:142
 translate spanish ch21_end_b698ba3b:
 
     # y "I just meant..."
-    y ""
+    y "Hablaba..."
 
 # game/script-ch21.rpy:143
 translate spanish ch21_end_2c3a3a03:
 
     # y 3h "The language, I guess..."
-    y 3h ""
+    y 3h "del vocabulario, supongo..."
 
 # game/script-ch21.rpy:144
 translate spanish ch21_end_678374ea:
 
     # y "I was trying to say something nice..."
-    y ""
+    y "Solo intentaba decir algo agradable..."
 
 # game/script-ch21.rpy:147
 translate spanish ch21_end_5adabccb:
 
     # n "Eh?"
-    n ""
+    n "¿Eh?"
 
 # game/script-ch21.rpy:148
 translate spanish ch21_end_b10ead8d:
 
     # n 4w "You mean you have to try that hard to come up with something nice to say?"
-    n 4w ""
+    n 4w "¿En serio te ha costado decir algo positivo?"
 
 # game/script-ch21.rpy:149
 translate spanish ch21_end_f9cdd784:
 
     # n "Thanks, but it really didn't come out nice at all!"
-    n ""
+    n "Gracias, ¡pero ha sido de todo menos agradable!"
 
 # game/script-ch21.rpy:152
 translate spanish ch21_end_64c0a3eb:
 
     # y 1i "Um..."
-    y 1i ""
+    y 1i "Mmm..."
 
 # game/script-ch21.rpy:153
 translate spanish ch21_end_15db327d:
 
     # y "Well, I do have a couple suggestions..."
-    y ""
+    y "Bueno, podría hacerte un par de sugerencias..."
 
 # game/script-ch21.rpy:156
 translate spanish ch21_end_ebd6a743:
 
     # n 5x "Hmph."
-    n 5x ""
+    n 5x "Jum."
 
 # game/script-ch21.rpy:157
 translate spanish ch21_end_a87c36dd:
 
     # n "If I was looking for suggestions, I would have asked someone who actually liked it."
-    n ""
+    n "Si quisiera sugerencias, se las pediría a alguien que le hubiese gustado."
 
 # game/script-ch21.rpy:158
 translate spanish ch21_end_4466dbb0:
 
     # n "Which people {i}did{/i}, by the way."
-    n ""
+    n "Y, para tu información, sí que ha gustado."
 
 # game/script-ch21.rpy:159
 translate spanish ch21_end_321942a4:
 
     # n 5e "Monika liked it."
-    n 5e ""
+    n 5e "A Monika, por ejemplo."
 
 # game/script-ch21.rpy:160
 translate spanish ch21_end_0ea3372f:
 
     # n "And [player] did, too!"
-    n ""
+    n "¡Y también a [player]!"
 
 # game/script-ch21.rpy:161
 translate spanish ch21_end_3afcd245:
 
     # n "So based on that, I'll gladly give you some suggestions of my own."
-    n ""
+    n "Por tanto, soy yo la que te daré encantada algunos consejos."
 
 # game/script-ch21.rpy:162
 translate spanish ch21_end_4fda8f5a:
 
     # n "First of all--"
-    n ""
+    n "Para empezar..."
 
 # game/script-ch21.rpy:165
 translate spanish ch21_end_0b794b70:
 
     # y 2l "Excuse me..."
-    y 2l ""
+    y 2l "Disculpa..."
 
 # game/script-ch21.rpy:166
 translate spanish ch21_end_166ab7be:
 
     # y "I appreciate the offer, but I've spent a long time establishing my writing style."
-    y ""
+    y "Agradezco tu oferta, pero me ha llevado mucho tiempo crear mi propio estilo."
 
 # game/script-ch21.rpy:167
 translate spanish ch21_end_0d2b663b:
 
     # y 2h "I don't expect it to change anytime soon, unless of course I come across something particularly inspiring."
-    y 2h ""
+    y 2h "No pienso cambiarlo en un futuro próximo, a no ser que me cruce con algo especialmente inspirador."
 
 # game/script-ch21.rpy:168
 translate spanish ch21_end_7cad6bf8:
 
     # y "Which I haven't yet."
-    y ""
+    y "Y, por el momento, no es el caso."
 
 # game/script-ch21.rpy:171
 translate spanish ch21_end_8487fc0c:
 
     # n 1o "Nn...!"
-    n 1o ""
+    n 1o "¡Nnng!"
 
 # game/script-ch21.rpy:174
 translate spanish ch21_end_f72b1c71:
 
     # y 1k "And [player] liked my poem too, you know."
-    y 1k ""
+    y 1k "A [player] también le ha gustado mi poema, que lo sepas."
 
 # game/script-ch21.rpy:175
 translate spanish ch21_end_75dd3224:
 
     # y "He even told me he was impressed by it."
-    y ""
+    y "Incluso me ha dicho que le ha impresionado."
 
 # game/script-ch21.rpy:177
 translate spanish ch21_end_a5061963:
 
     # "Natsuki suddenly stands up."
-    ""
+    "Natsuki se levanta de golpe."
 
 # game/script-ch21.rpy:180
 translate spanish ch21_end_2824bf93:
 
     # n 4y "Oh?"
-    n 4y ""
+    n 4y "¿Eh?"
 
 # game/script-ch21.rpy:181
 translate spanish ch21_end_693f0dc5:
 
     # n "I didn't realize you were so invested in trying to impress our new member, Yuri."
-    n ""
+    n "No sabía que tenías tantas ganas de impresionar al nuevo, Yuri."
 
 # game/script-ch21.rpy:185
 translate spanish ch21_end_b63049e5:
 
     # y 1n "E-Eh?!"
-    y 1n ""
+    y 1n "¡¿E-Eh?!"
 
 # game/script-ch21.rpy:186
 translate spanish ch21_end_3df614f2:
 
     # y "That's not what I...!"
-    y ""
+    y "¡Eso no es...!"
 
 # game/script-ch21.rpy:187
 translate spanish ch21_end_803d0e3c:
 
     # y 1o "Uu..."
-    y 1o ""
+    y 1o "Uuuh..."
 
 # game/script-ch21.rpy:188
 translate spanish ch21_end_acc94b27:
 
     # y "You...You're just..."
-    y ""
+    y "Lo... Lo que pasa..."
 
 # game/script-ch21.rpy:189
 translate spanish ch21_end_6a5c0c7b:
 
     # "Yuri stands up as well."
-    ""
+    "Yuri también se pone de pie."
 
 # game/script-ch21.rpy:190
 translate spanish ch21_end_fb24704f:
 
     # y 2r "Maybe you're just jealous that [player] appreciates my advice more than he appreciated yours!"
-    y 2r ""
+    y 2r "¡Es que estás celosa porque [player] aprecia más mis consejos que los tuyos!"
 
 # game/script-ch21.rpy:193
 translate spanish ch21_end_ee52e8e3:
 
     # n 1e "Huh! And how do you know he didn't appreciate {i}my{/i} advice more?"
-    n 1e ""
+    n 1e "¿Qué? ¿Y tú cómo sabes que no prefiere los míos?"
 
 # game/script-ch21.rpy:194
 translate spanish ch21_end_6d2144a0:
 
     # n "Are you that full of yourself?"
-    n ""
+    n "¿Tan creído te lo tienes?"
 
 # game/script-ch21.rpy:197
 translate spanish ch21_end_c1eb1e36:
 
     # y 3h "I...!"
-    y 3h ""
+    y 3h "¡Yo...!"
 
 # game/script-ch21.rpy:198
 translate spanish ch21_end_bfadd2bc:
 
     # y "No..."
-    y ""
+    y "No..."
 
 # game/script-ch21.rpy:199
 translate spanish ch21_end_8d1dcf35:
 
     # y "If I was full of myself..."
-    y ""
+    y "Si me lo tuviese tan creído..."
 
 # game/script-ch21.rpy:200
 translate spanish ch21_end_5e4e458d:
 
     # y 1r "...I would deliberately go out of my way to make everything I do overly cutesy!"
-    y 1r ""
+    y 1r "¡me esforzaría para que todo lo que hiciera quedase rematadamente cuqui!"
 
 # game/script-ch21.rpy:203
 translate spanish ch21_end_ccdb66db:
 
     # n 1o "Uuuuuu...!"
-    n 1o ""
+    n 1o "¡Uuuh!..."
 
 # game/script-ch21.rpy:204
 translate spanish ch21_end_daedfb90:
 
     # n "Well, you know what?!"
-    n ""
+    n "¡¿Sí?! Pues ¡¿sabes qué?!"
 
 # game/script-ch21.rpy:205
 translate spanish ch21_end_09b7047e:
 
     # n "I wasn't the one whose boobs magically grew a size bigger as soon as [player] started showing up!!"
-    n ""
+    n "¡No es a mí a quien le han crecido las tetas por arte de magia en cuanto apareció [player]!"
 
 # game/script-ch21.rpy:208
 translate spanish ch21_end_9b07aefd:
 
     # y "N-Natsuki!!"
-    y ""
+    y "¡N-Natsuki!"
 
 # game/script-ch21.rpy:212
 translate spanish ch21_end_d6f8c030:
 
     # m "Um, Natsuki, that's a little--"
-    m ""
+    m "Oye, Natsuki, eso es un poco..."
 
 # game/script-ch21.rpy:216
 translate spanish ch21_end_6f0acf5a:
 
     # ny "This doesn't involve you!"
-    ny ""
+    ny "¡Tú no te metas!"
 
 # game/script-ch21.rpy:227
 translate spanish ch21_end_0a64f0ef:
 
     # y "Taking out your own insecurities on others like that..."
-    y ""
+    y "¿Cómo te atreves a insultar a los demás con tus propias inseguridades?"
 
 # game/script-ch21.rpy:228
 translate spanish ch21_end_9bc5cf9f:
 
     # y "You really act as young as you look, Natsuki."
-    y ""
+    y "Natsuki, tu actitud es tan infantil como tu aspecto."
 
 # game/script-ch21.rpy:231
 translate spanish ch21_end_43ed1d91:
 
     # n 4o "{i}Me?{/i} Look who's talking, you wannabe edgy bitch!"
-    n 4o ""
+    n 4o "¿Yo? No eres la más adecuada para hablar, ¡zorra pretenciosa!"
 
 # game/script-ch21.rpy:234
 translate spanish ch21_end_92e2b02f:
 
     # y "Edgy...?"
-    y ""
+    y "¿Pretenciosa?..."
 
 # game/script-ch21.rpy:235
 translate spanish ch21_end_0d84550c:
 
     # y 2r "Sorry that my lifestyle is too much for someone of your mental age to comprehend!"
-    y 2r ""
+    y 2r "¡Siento que mi estilo sea tan difícil de entender para alguien de tu edad mental!"
 
 # game/script-ch21.rpy:238
 translate spanish ch21_end_90bf09b2:
 
     # n 4f "See??"
-    n 4f ""
+    n 4f "¿¿Ves??"
 
 # game/script-ch21.rpy:239
 translate spanish ch21_end_63390205:
 
     # n "Just saying that proves my point!"
-    n ""
+    n "¡Acabas de darme la razón!"
 
 # game/script-ch21.rpy:240
 translate spanish ch21_end_f5bbcc4e:
 
     # n 4e "Most people learn to get over themselves after they graduate middle school, you know."
-    n 4e ""
+    n 4e "A la gente normal se le bajan los humos cuando se gradúa del insti, ¿sabes?"
 
 # game/script-ch21.rpy:243
 translate spanish ch21_end_3171f8f3:
 
     # y "If you want to prove anything, then stop harassing others with your sickening attitude!"
-    y ""
+    y "Si quieres que te den la razón, ¡deja de atacar a los demás con tu asquerosa actitud!"
 
 # game/script-ch21.rpy:244
 translate spanish ch21_end_d558e8d9:
 
     # y "You think you can counterbalance your toxic personality just by dressing and acting cute?"
-    y ""
+    y "¿Piensas que puedes ocultar lo tóxica que eres vistiéndote y actuando de forma cuqui?"
 
 # game/script-ch21.rpy:245
 translate spanish ch21_end_22920899:
 
     # y 1k "The only cute thing about you is how hard you try."
-    y 1k ""
+    y 1k "Lo único mono de ti es lo mucho que te esfuerzas."
 
 # game/script-ch21.rpy:248
 translate spanish ch21_end_380c7903:
 
     # n 2y "Whoa, be careful or you might cut yourself on that edge, Yuri."
-    n 2y ""
+    n 2y "Ándate con ojo, Yuri, no te vayas a cortar con esa lengua tan afilada que tienes."
 
 # game/script-ch21.rpy:249
 translate spanish ch21_end_7e404b8d:
 
     # n "Oh, my bad... You already do, don't you?"
-    n ""
+    n "Ups, perdona... Ya lo haces, ¿no?"
 
 # game/script-ch21.rpy:252
 translate spanish ch21_end_10c6da39:
 
     # y 3n "D-Did you just accuse me of cutting myself??"
-    y 3n ""
+    y 3n "¡¿A-Acabas de insinuar que me corto?!"
 
 # game/script-ch21.rpy:253
 translate spanish ch21_end_73f33284:
 
     # y 3r "What the fuck is wrong with your head?!"
-    y 3r ""
+    y 3r "¡¿Qué cojones te pasa?!"
 
 # game/script-ch21.rpy:256
 translate spanish ch21_end_44ab981f:
 
     # n 1e "Yeah, go on!"
-    n 1e ""
+    n 1e "¡Adelante, sigue!"
 
 # game/script-ch21.rpy:257
 translate spanish ch21_end_07dadfb4:
 
     # n "Let [player] hear everything you really think!"
-    n ""
+    n "¡Deja que [player] escuche lo que piensas de verdad!"
 
 # game/script-ch21.rpy:258
 translate spanish ch21_end_a42a7d2b:
 
     # n "I'm sure he'll be head over heels for you after this!"
-    n ""
+    n "¡FIjo que acaba loquito por ti después de esto!"
 
 # game/script-ch21.rpy:261
 translate spanish ch21_end_c64d04ee:
 
     # y 3n "A-Ah--!"
-    y 3n ""
+    y 3n "¡A-Ah!..."
 
 # game/script-ch21.rpy:263
 translate spanish ch21_end_d2e9959c:
 
     # "Suddenly, Yuri turns toward me, as if she just noticed I was standing here."
-    ""
+    "De repente, Yuri se hacia mí, como si se acabara de percatar de mi presencia."
 
 # game/script-ch21.rpy:265
 translate spanish ch21_end_1e4f93b8:
 
     # y 2n "[player]...!"
-    y 2n ""
+    y 2n "¡[player]!..."
 
 # game/script-ch21.rpy:266
 translate spanish ch21_end_470c0d03:
 
     # y "She-- She's just trying to make me look bad...!"
-    y ""
+    y "Está... ¡Está intentando hacerme quedar como la mala!"
 
 # game/script-ch21.rpy:269
 translate spanish ch21_end_c5e00378:
 
     # n 4w "That's not true!"
-    n 4w ""
+    n 4w "¡Eso no es verdad!"
 
 # game/script-ch21.rpy:270
 translate spanish ch21_end_0c50491a:
 
     # n "She started it!"
-    n ""
+    n "¡Ha empezado ella!"
 
 # game/script-ch21.rpy:274
 translate spanish ch21_end_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/script-ch21.rpy:276
 translate spanish ch21_end_96c06797:
 
     # "{cps=*2}How did I get dragged into this in the first place?!{/cps}{nw}"
-    ""
+    "{cps=*2}¡Un segundo! ¿Cómo he acabado metido en esta situación?{/cps}{nw}"
 
 # game/script-ch21.rpy:277
 translate spanish ch21_end_2541ac61:
 
     # "{cps=*2}It's not like I know anything about writing...{/cps}{nw}"
-    ""
+    "{cps=*2}Ni siquiera sé escribir...{/cps}{nw}"
 
 # game/script-ch21.rpy:278
 translate spanish ch21_end_7d9d98c4:
 
     # "{cps=*2}But whomever I agree with, they'll probably think more highly of me!{/cps}{nw}"
-    ""
+    "{cps=*2}¡Pero es posible que me gane la simpatía de la chica con la que coincida!{/cps}{nw}"
 
 # game/script-ch21.rpy:279
 translate spanish ch21_end_41c4781c:
 
     # "{cps=*2}So, of course that's going to be...!{/cps}{nw}"
-    ""
+    "{cps=*2}¡Conque tiene que ser...!{/cps}{nw}"
 
 # game/script-ch21.rpy:329
 translate spanish menu_click_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script-ch21.rpy:335
 translate spanish menu_click_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script-ch21.rpy:337
 translate spanish menu_click_e612037c_2:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script-ch21.rpy:340
 translate spanish menu_click_619a4637:
