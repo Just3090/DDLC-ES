@@ -1300,7 +1300,7 @@ translate spanish yuri_exclusive_2_58cac761:
 translate spanish yuri_exclusive_2_8849a940:
 
     # y 2m "Ah, no..."
-    y 2m "Ah, no...."
+    y 2m "Ah, no..."
 
 # game/script-exclusives-yuri.rpy:259
 translate spanish yuri_exclusive_2_043b8fc5:
