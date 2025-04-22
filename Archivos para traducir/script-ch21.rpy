@@ -970,383 +970,383 @@ translate spanish menu_click_e612037c_2:
 translate spanish menu_click_619a4637:
 
     # m "Um..."
-    m ""
+    m "Mmm..."
 
 # game/script-ch21.rpy:342
 translate spanish menu_click_a6fb49ba:
 
     # m "Hey, [player]..."
-    m ""
+    m "Una cosita, [player]..."
 
 # game/script-ch21.rpy:345
 translate spanish menu_click_cf6f7c57:
 
     # m "Why don't we\nstep outside for\na little bit?"
-    m ""
+    m "¿Qué te parece si\nsalimos un\nmomentito?"
 
 # game/script-ch21.rpy:347
 translate spanish menu_click_dd97e600:
 
     # m "Okay?"
-    m ""
+    m "¿Qué me dices?"
 
 # game/script-ch21.rpy:353
 translate spanish menu_click_2f9f306e:
 
     # m "Sorry about that..."
-    m ""
+    m "Lo siento mucho..."
 
 # game/script-ch21.rpy:354
 translate spanish menu_click_67ee9bb9:
 
     # m "They really shouldn't have tried to get you involved."
-    m ""
+    m "No tendrían que haberte involucrado."
 
 # game/script-ch21.rpy:355
 translate spanish menu_click_11a2229c:
 
     # m 1e "It's probably better for us to stay out of this..."
-    m 1e ""
+    m 1e "Será mejor que nos mantengamos al margen."
 
 # game/script-ch21.rpy:356
 translate spanish menu_click_f2dd2e3d:
 
     # m "We'll go back inside once they're done yelling."
-    m ""
+    m "Volveremos cuando acaben de gritar."
 
 # game/script-ch21.rpy:357
 translate spanish menu_click_4e571793:
 
     # m 5 "Ahaha..."
-    m 5 ""
+    m 5 "Ja, ja, ja."
 
 # game/script-ch21.rpy:358
 translate spanish menu_click_cb621371:
 
     # m "Some president I am, right?"
-    m ""
+    m "Menuda presidenta estoy hecha, ¿eh?"
 
 # game/script-ch21.rpy:359
 translate spanish menu_click_1a371204:
 
     # m 1m "I can't even confront my own club members properly..."
-    m 1m ""
+    m 1m "Ni siquiera puedo enfrentarme a los miembros de mi club como es debido."
 
 # game/script-ch21.rpy:360
 translate spanish menu_click_b7464616:
 
     # m "I just wish I was able to be a little more assertive sometimes."
-    m ""
+    m "A veces, me gustaría ser más echada para adelante."
 
 # game/script-ch21.rpy:361
 translate spanish menu_click_cfaea3b3:
 
     # m "But I never have it in me to put my foot down against others..."
-    m ""
+    m "Pero nunca he tenido el coraje suficiente como para hacerme valer."
 
 # game/script-ch21.rpy:362
 translate spanish menu_click_b1450be3:
 
     # m 1e "You understand, right?"
-    m 1e ""
+    m 1e "Me entiendes, ¿no?"
 
 # game/script-ch21.rpy:363
 translate spanish menu_click_c9062bfa:
 
     # m "Anyway..."
-    m ""
+    m "En fin..."
 
 # game/script-ch21.rpy:364
 translate spanish menu_click_e113be5f:
 
     # m 1a "If this makes you want to spend less time with the others, then that's fine."
-    m 1a ""
+    m 1a "No pasa nada si se te quitan las ganas de pasar el rato con las demás."
 
 # game/script-ch21.rpy:365
 translate spanish menu_click_7c0419af:
 
     # m 1j "I'd be happy to spend time with you instead..."
-    m 1j ""
+    m 1j "Estaré encantada de pasar más tiempo contigo..."
 
 # game/script-ch21.rpy:368
 translate spanish menu_click_f62b9f71:
 
     # "Suddenly, Natsuki runs out of the classroom."
-    ""
+    "Natsuki sale pitando del aula."
 
 # game/script-ch21.rpy:370
 translate spanish menu_click_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-ch21.rpy:374
 translate spanish menu_click_105c6c9a:
 
     # "She quickly runs away."
-    ""
+    "Se va corriendo a toda prisa."
 
 # game/script-ch21.rpy:376
 translate spanish menu_click_15225d9f:
 
     # m "Oh dear..."
-    m ""
+    m "Ay, madre..."
 
 # game/script-ch21.rpy:377
 translate spanish menu_click_0aa55db2:
 
     # m "...Well, it looks like they're done..."
-    m ""
+    m "Bien, parece que han acabado."
 
 # game/script-ch21.rpy:380
 translate spanish menu_click_e464b6e5:
 
     # y "I didn't mean it..."
-    y ""
+    y "No era mi intención..."
 
 # game/script-ch21.rpy:381
 translate spanish menu_click_e464b6e5_1:
 
     # y "I didn't mean it..."
-    y ""
+    y "No era mi intención..."
 
 # game/script-ch21.rpy:382
 translate spanish menu_click_e464b6e5_2:
 
     # y "I didn't mean it..."
-    y ""
+    y "No era mi intención..."
 
 # game/script-ch21.rpy:383
 translate spanish menu_click_5eb4546c:
 
     # "Yuri is rocking back and forth in her desk with her palms on her forehead."
-    ""
+    "Yuri se balancea adelante y atrás en su pupitre, con las palmas en la frente."
 
 # game/script-ch21.rpy:384
 translate spanish menu_click_c934e5a0:
 
     # mc "Yuri...?"
-    mc ""
+    mc "¿Yuri?..."
 
 # game/script-ch21.rpy:386
 translate spanish menu_click_463d1bed:
 
     # y "I didn't mean it!!"
-    y ""
+    y "¡¡¡NO ERA MI INTENCIÓN!!!"
 
 # game/script-ch21.rpy:387
 translate spanish menu_click_dd4d3f4b:
 
     # mc "I-I believe you..."
-    mc ""
+    mc "T-Te creo..."
 
 # game/script-ch21.rpy:388
 translate spanish menu_click_7031a8ce:
 
     # "I have no idea what Yuri might have said to Natsuki."
-    ""
+    "No tengo ni idea de qué le ha dicho Yuri a Natsuki."
 
 # game/script-ch21.rpy:389
 translate spanish menu_click_1e020a7e:
 
     # "Or did."
-    ""
+    "O sí..."
 
 # game/script-ch21.rpy:390
 translate spanish menu_click_2f37247c:
 
     # y "[player]."
-    y ""
+    y "[player]."
 
 # game/script-ch21.rpy:391
 translate spanish menu_click_b5fc3340:
 
     # y "Please don't hate me."
-    y ""
+    y "No me odies, por favor."
 
 # game/script-ch21.rpy:392
 translate spanish menu_click_d02fdb85:
 
     # y "Please!"
-    y ""
+    y "¡Te lo ruego!"
 
 # game/script-ch21.rpy:393
 translate spanish menu_click_7c4ea4ee:
 
     # y "I'm not like this!"
-    y ""
+    y "¡Yo no soy así!"
 
 # game/script-ch21.rpy:394
 translate spanish menu_click_fac4e8e9:
 
     # y "There's something wrong with me today..."
-    y ""
+    y "Hoy no estoy en mis cabales..."
 
 # game/script-ch21.rpy:396
 translate spanish menu_click_f74888eb:
 
     # m "It's fine, Yuri."
-    m ""
+    m "Tranquila, Yuri."
 
 # game/script-ch21.rpy:397
 translate spanish menu_click_f4e93bf7:
 
     # m "We know you didn't mean it."
-    m ""
+    m "Sabemos que no lo decías en serio."
 
 # game/script-ch21.rpy:398
 translate spanish menu_click_35d4e88d:
 
     # m 1j "Besides, I'm sure Natsuki will forget all about it by tomorrow."
-    m 1j ""
+    m 1j "Además, seguro que mañana Natsuki ya se habrá olvidado del tema."
 
 # game/script-ch21.rpy:399
 translate spanish menu_click_51f3751d:
 
     # m 1a "Completely."
-    m 1a ""
+    m 1a "Por completo."
 
 # game/script-ch21.rpy:402
 translate spanish menu_click_0dbaabdd:
 
     # y 4b "..."
-    y 4b ""
+    y 4b "..."
 
 # game/script-ch21.rpy:405
 translate spanish menu_click_78755f7e:
 
     # m "Anyway, the meeting is over, so you can go home now if you want."
-    m ""
+    m "Pues nada, la reunión se ha acabado. Puedes irte a casa si quieres."
 
 # game/script-ch21.rpy:408
 translate spanish menu_click_1588679c:
 
     # y 4a "..."
-    y 4a ""
+    y 4a "..."
 
 # game/script-ch21.rpy:410
 translate spanish menu_click_2bd1e4a4:
 
     # "Yuri looks at me like she wants to say something."
-    ""
+    "Yuri me mira como si quisiera decirme algo."
 
 # game/script-ch21.rpy:411
 translate spanish menu_click_f5925d23:
 
     # "But she keeps glancing at Monika."
-    ""
+    "Pero no para de vigilar a Monika por el rabillo del ojo."
 
 # game/script-ch21.rpy:413
 translate spanish menu_click_81a77c4f:
 
     # y 2v "Y-You can go first, Monika..."
-    y 2v ""
+    y 2v "V-Vete tú primero, Monika..."
 
 # game/script-ch21.rpy:414
 translate spanish menu_click_da187b06:
 
     # y "I'd like to stay a little bit longer."
-    y ""
+    y "Me gustaría quedarme un poco más."
 
 # game/script-ch21.rpy:417
 translate spanish menu_click_53c405bf:
 
     # m 2k "I'm the President, so I should be the last one out."
-    m 2k ""
+    m 2k "Soy la presidenta. Debería ser la última en marcharme."
 
 # game/script-ch21.rpy:418
 translate spanish menu_click_6d467e1f:
 
     # m "I'll wait for you to be done."
-    m ""
+    m "Esperaré a que acabéis."
 
 # game/script-ch21.rpy:421
 translate spanish menu_click_0dbaabdd_1:
 
     # y 4b "..."
-    y 4b ""
+    y 4b "..."
 
 # game/script-ch21.rpy:422
 translate spanish menu_click_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/script-ch21.rpy:423
 translate spanish menu_click_e5298b26:
 
     # y "Well-- I'm Vice President, so..."
-    y ""
+    y "Bueno, yo soy la vicepresidenta, así que..."
 
 # game/script-ch21.rpy:424
 translate spanish menu_click_fd86d333:
 
     # y "Please let me take that responsibility today."
-    y ""
+    y "Deja que hoy me encargue yo, por favor."
 
 # game/script-ch21.rpy:427
 translate spanish menu_click_b187a000:
 
     # m 2i "It kind of sounds like you don't want me around for something, Yuri."
-    m 2i ""
+    m 2i "Por algún motivo, parece que no quieras que esté yo presente, Yuri."
 
 # game/script-ch21.rpy:430
 translate spanish menu_click_ee5208e3:
 
     # y 3p "I-It's not that!"
-    y 3p ""
+    y 3p "¡N-No es eso!"
 
 # game/script-ch21.rpy:431
 translate spanish menu_click_472923e1:
 
     # y 3o "It's not that..."
-    y 3o ""
+    y 3o "Para nada..."
 
 # game/script-ch21.rpy:432
 translate spanish menu_click_4cdfda49:
 
     # y 3n "I just..."
-    y 3n ""
+    y 3n "Es que..."
 
 # game/script-ch21.rpy:433
 translate spanish menu_click_fba950a3:
 
     # y 3q "I didn't get much of a chance to discuss my book with [player]..."
-    y 3q ""
+    y 3q "No he tenido la oportunidad de hablar de mi libro con [player]..."
 
 # game/script-ch21.rpy:434
 translate spanish menu_click_f5ffdbaa:
 
     # y "It would just be...embarrassing with you listening..."
-    y ""
+    y "Y... me daría mucha vergüenza que estuvieras escuchando."
 
 # game/script-ch21.rpy:437
 translate spanish menu_click_256540cd:
 
     # m 1r "{i}*Sigh*{/i}"
-    m 1r ""
+    m 1r "Aish..."
 
 # game/script-ch21.rpy:438
 translate spanish menu_click_87fe856c:
 
     # m 1d "I guess I don't really have a choice, do I?"
-    m 1d ""
+    m 1d "Supongo que no tengo opción, ¿eh?"
 
 # game/script-ch21.rpy:441
 translate spanish menu_click_f742ec5e:
 
     # y 1t "I-I'm sorry for causing trouble..."
-    y 1t ""
+    y 1t "S-Siento las molestias..."
 
 # game/script-ch21.rpy:443
 translate spanish menu_click_3ff20095:
 
     # y 1s "But I really appreciate you understan{nw}"
-    y 1s ""
+    y 1s "Pero agradezco tu compren{nw}"
 
 # game/script-ch21.rpy:446
 translate spanish menu_click_d7508341:
 
     # y glitch "But I really appreciate you understan{fast}[gtext] [gtext][gtext]{nw}"
-    y glitch ""
+    y glitch "Pero agradezco tu compren{fast}[gtext] [gtext][gtext]{nw}"
 
