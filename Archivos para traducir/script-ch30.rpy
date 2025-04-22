@@ -1786,19 +1786,19 @@ translate spanish ch30_reload_4_64bd3fc8:
 translate spanish ch30_reload_4_0e02b198:
 
     # m "Well, you're playing on Steam, so you can just go into the game's properties and find the 'Browse Local Files' button."
-    m ""
+    m "Bien, si juegas en Steaam, ve a las propiedades del juego y 'Buscar archivos locales'."
 
 # game/script-ch30.rpy:841
 translate spanish ch30_reload_4_2609a2e9:
 
     # m "Since you're on a Mac, you have to right-click the app and select 'Show Package Contents' to find the game folder."
-    m ""
+    m "Mientras que en Mac, click derecho en la app y sellecionar 'mostar contenido del paquete' para entrar a la carptea del juego."
 
 # game/script-ch30.rpy:842
 translate spanish ch30_reload_4_d102bae5:
 
     # m "It's in the 'Resources' folder, or 'autorun' folder, or something..."
-    m ""
+    m "O en Android, asegurate de no desinstalarme o pulsar en el boton 'Borrala'."
 
 # game/script-ch30.rpy:843
 translate spanish ch30_reload_4_059e870a:
@@ -2140,67 +2140,67 @@ translate spanish ch30_3_3afc32b7:
 translate spanish ch30_4_221a75c8:
 
     # m "[player], do you get good sleep?"
-    m ""
+    m "[player], ¿has dormido bien?"
 
 # game/script-ch30.rpy:957
 translate spanish ch30_4_47ad7347:
 
     # m "It can be really hard to get enough sleep nowadays."
-    m ""
+    m "Es difícil conciliar el sueño hoy en día."
 
 # game/script-ch30.rpy:958
 translate spanish ch30_4_057219d4:
 
     # m "Especially in high school, when you're forced to wake up so early every day..."
-    m ""
+    m "Y más cuando vas al instituo. Estás obligado a madrugar cada día..."
 
 # game/script-ch30.rpy:959
 translate spanish ch30_4_7598bc03:
 
     # m "I'm sure college is a little bit better, since you probably have a more flexible schedule."
-    m ""
+    m "Seguro que la cosa mejora en la universidad. Allí tendrás un horario más flexible."
 
 # game/script-ch30.rpy:960
 translate spanish ch30_4_9e468e70:
 
     # m "Then again, I hear a lot of people in college stay up all night anyway, for no real reason."
-    m ""
+    m "De todas formas, tengo entendido que muchos universitarios se pasan la noche en vela sin motivo aparente."
 
 # game/script-ch30.rpy:961
 translate spanish ch30_4_e4468107:
 
     # m "Is that true?"
-    m ""
+    m "¿Será cierto?"
 
 # game/script-ch30.rpy:962
 translate spanish ch30_4_bc2c2832:
 
     # m "Anyway, I saw some studies that talked about the horrible short-term and long-term effects caused by lack of sleep."
-    m ""
+    m "En fin, he leído algunos estudios que hablan de las terribles consecuencias a corto y largo plazo de la falta de sueño."
 
 # game/script-ch30.rpy:963
 translate spanish ch30_4_994f3ccc:
 
     # m "It seems like mental functions, health, and even lifespan can be dramatically impacted by it."
-    m ""
+    m "Parece que puede afectar mucho a la capacidad mental, a la salud e incluso a la esperanza de vida."
 
 # game/script-ch30.rpy:964
 translate spanish ch30_4_cb58ab59:
 
     # m "I just think you're really great and wanted to make sure you're not accidentally destroying yourself."
-    m ""
+    m "Pienso que eres una persona fantástica y quería asegurarme de que no te estás perjudicando sin querer."
 
 # game/script-ch30.rpy:965
 translate spanish ch30_4_40ae4da9:
 
     # m "So try to keep your sleep on track, okay?"
-    m ""
+    m "Así que procura dormir bien, ¿vale?"
 
 # game/script-ch30.rpy:966
 translate spanish ch30_4_840cd328:
 
     # m "I'll always wait for you in the morning, so make sure you put your own well-being before anything else."
-    m ""
+    m "Tú prioriza tu bienestar, que yo te estaré esperando a la mañana siguiente."
 
 # game/script-ch30.rpy:970
 translate spanish ch30_5_31762a47:
@@ -5878,127 +5878,127 @@ translate spanish ch30_45_6a993ca7:
 translate spanish ch30_46_bfbc22fb:
 
     # m "Back in my debate club days, I learned a whole lot about arguing..."
-    m ""
+    m "Cuando estaba en el club de debate, aprendí mucho sobre discusiones."
 
 # game/script-ch30.rpy:1703
 translate spanish ch30_46_13d39a80:
 
     # m "The problem with arguing is that each person sees their opinion as the superior one."
-    m ""
+    m "El problema de discutir es que muchas personas creen que su opinión es la correcta."
 
 # game/script-ch30.rpy:1704
 translate spanish ch30_46_7aaf0783:
 
     # m "That's kind of stating the obvious, but it affects the way they try to get their point across."
-    m ""
+    m "Lo que digo parece evidente, pero afecta a la forma en la que intentan explicar sus razonamientos."
 
 # game/script-ch30.rpy:1705
 translate spanish ch30_46_50b71c3b:
 
     # m "Let's say you really like a certain movie, right?"
-    m ""
+    m "Pongamos que te chifla una película."
 
 # game/script-ch30.rpy:1706
 translate spanish ch30_46_d26a661d:
 
     # m "If someone comes along and tells you the movie sucks, because it did X and Y wrong..."
-    m ""
+    m "Pero, entonces, aparece alguien de un bote de la basura que te dice que es una porquería esto y lo otro está mal.   "
 
 # game/script-ch30.rpy:1707
 translate spanish ch30_46_9a0b9b58:
 
     # m "Doesn't that make you feel kind of personally attacked?"
-    m ""
+    m "¿No te lo tomas un poco como un ataque personal?"
 
 # game/script-ch30.rpy:1708
 translate spanish ch30_46_e722acc3:
 
     # m "It's because by saying that, it's like they're implying that you have bad taste."
-    m ""
+    m "Se debe a que, cuando te dicen algo así, es como si estuvieran diciendo que tienes mal gusto de forma implícita."
 
 # game/script-ch30.rpy:1709
 translate spanish ch30_46_a4e2f1b6:
 
     # m "And once emotions enter the picture, it's almost guaranteed that both people will be left sour."
-    m ""
+    m "Cuando entran al juego las emociones, es casi seguro que ambos interlocutores se quedarán con mal sabor de boca."
 
 # game/script-ch30.rpy:1710
 translate spanish ch30_46_1eb1583d:
 
     # m "But it's all about language!"
-    m ""
+    m "¡Pero el secreto está en el lenguaje!"
 
 # game/script-ch30.rpy:1711
 translate spanish ch30_46_67a170ee:
 
     # m "If you make everything as subjective-sounding as possible, then people will listen to you without feeling attacked."
-    m ""
+    m "Si procuras explicarlo todo de la forma más subjetiva posible, la gente te escuchará sin sentirse atacada."
 
 # game/script-ch30.rpy:1712
 translate spanish ch30_46_9a9d659f:
 
     # m "You could say 'I'm personally not a fan of it' and 'I felt that I'd like it more if it did X and Y'...things like that."
-    m ""
+    m "Puedes decir que a ti no te gusta especialmente, que hubieses preferido que lo hicieran de otra forma... Cosas así."
 
 # game/script-ch30.rpy:1713
 translate spanish ch30_46_7fdbb335:
 
     # m "It even works when you're citing facts about things."
-    m ""
+    m "Sirve incluso cuando citas hechos incuestionables."
 
 # game/script-ch30.rpy:1714
 translate spanish ch30_46_c540e5d0:
 
     # m "If you say 'I read on this website that it works like this'..."
-    m ""
+    m "Si comentas que leíste en una página web que algo funciona de una determinada manera..."
 
 # game/script-ch30.rpy:1715
 translate spanish ch30_46_595eb640:
 
     # m "Or if you admit that you're not an expert on it..."
-    m ""
+    m "O admites que no sabes mucho del tema..."
 
 # game/script-ch30.rpy:1716
 translate spanish ch30_46_6b12bb5c:
 
     # m "Then it's much more like you're putting your knowledge on the table, rather than forcing it onto them."
-    m ""
+    m "Es como si estuvieras demostrando tus conocimientos en lugar de imponerlos."
 
 # game/script-ch30.rpy:1717
 translate spanish ch30_46_b8edf0ee:
 
     # m "If you put in an active effort to keep the discussion mutual and level, they usually follow suit."
-    m ""
+    m "En una conversación, si procuras ponerte al mismo nivel que ti interlocutor, él hará lo mismo."
 
 # game/script-ch30.rpy:1718
 translate spanish ch30_46_ae4db85b:
 
     # m "Then, you can share your opinions without anyone getting upset just from a disagreement."
-    m ""
+    m "De esta manera, podrás compartir tus opiniones sin que nadie se moleste por una desvenencia."
 
 # game/script-ch30.rpy:1719
 translate spanish ch30_46_c92ce38d:
 
     # m "Plus, people will start seeing you as open-minded and a good listener!"
-    m ""
+    m "Y lo que es mejor, ¡pensarán que tienes una mentalidad abierta y que sabes escuchar!"
 
 # game/script-ch30.rpy:1720
 translate spanish ch30_46_25db6398:
 
     # m "It's a win-win, you know?"
-    m ""
+    m "Son todas ventajas, no crees?"
 
 # game/script-ch30.rpy:1721
 translate spanish ch30_46_34f411b7:
 
     # m "...Well, I guess that would be Monika's Debate Tip of the Day!"
-    m ""
+    m "Muy bien, ¡pues ese ha sido el consejo debatil del día!"
 
 # game/script-ch30.rpy:1722
 translate spanish ch30_46_cd579537:
 
     # m "Ahaha! That sounds a little silly. Thanks for listening, though."
-    m ""
+    m "¡Ja, ja, ja! Esto suena un poco tonto. Gracias por escucharme."
 
 # game/script-ch30.rpy:1726
 translate spanish ch30_47_9ec3357e:
