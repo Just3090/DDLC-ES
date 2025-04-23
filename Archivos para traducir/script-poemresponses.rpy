@@ -3527,7 +3527,7 @@ translate spanish ch2_n_bad_sharedwithch3_fb2e5377:
 translate spanish ch2_n_bad_sharedwithch3_241edb08:
 
     # n "You're not...you're not just trying to impress Yuri, are you?!"
-    n "No estarás... No estarás escribiendo así solo para impresionar a Yuro, ¡¿verdad?!"
+    n "No estarás... No estarás escribiendo así solo para impresionar a Yuri, ¡¿verdad?!"
 
 # game/script-poemresponses.rpy:844
 translate spanish ch2_n_bad_sharedwithch3_e942cdcc:
