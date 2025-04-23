@@ -1000,385 +1000,385 @@ translate spanish ch22_end_90de9c4d:
 translate spanish ch22_end_1fabc1ae:
 
     # m "We're all done reading each other's poems, right?"
-    m ""
+    m "Ya hemos acabado de compartir los poemas, ¿no?"
 
 # game/script-ch22.rpy:354
 translate spanish ch22_end_6367144f:
 
     # m "We have something we need to go over today, so if everyone could come sit at the front of the room..."
-    m ""
+    m "Hay un tema que me gustaría comentaros. ¿Os importaría sentaros en primera fila?"
 
 # game/script-ch22.rpy:356
 translate spanish ch22_end_b36c642f:
 
     # n "Is this about the festival?"
-    n ""
+    n "¿Te refieres al festival?"
 
 # game/script-ch22.rpy:359
 translate spanish ch22_end_e5e5ca00:
 
     # m "Well, sort of~"
-    m ""
+    m "Bueno, más o menos."
 
 # game/script-ch22.rpy:362
 translate spanish ch22_end_2dd4b404:
 
     # n "Ugh. Do we really have to do something for the festival?"
-    n ""
+    n "Arg. ¿En serio tenemos que hacer algo para el festival?"
 
 # game/script-ch22.rpy:363
 translate spanish ch22_end_a8b0c466:
 
     # n "It's not like we can put together anything good in just a few days."
-    n ""
+    n "Apenas queda tiempo para preparar nada decente."
 
 # game/script-ch22.rpy:364
 translate spanish ch22_end_0ce4e5b7:
 
     # n "We'll just end up embarrassing ourselves instead of getting any new members."
-    n ""
+    n "En lugar de miembros, lo único que conseguiremos será hacer el ridículo."
 
 # game/script-ch22.rpy:373
 translate spanish ch22_end_d738eef9:
 
     # y "That's a concern of mine as well."
-    y ""
+    y "A mí también me preocupa."
 
 # game/script-ch22.rpy:382
 translate spanish ch22_end_ff8199d8:
 
     # y "I don't really do well with last-minute preparations..."
-    y ""
+    y "No se me da bien trabajar deprisa y corriendo."
 
 # game/script-ch22.rpy:385
 translate spanish ch22_end_1d7cd41c:
 
     # m 1b "Don't worry so much!"
-    m 1b ""
+    m 1b "¡No os comáis la cabeza!"
 
 # game/script-ch22.rpy:386
 translate spanish ch22_end_439c726d:
 
     # m "We're going to keep it simple, okay?"
-    m ""
+    m "Haremos algo sencillo, ¿vale?"
 
 # game/script-ch22.rpy:387
 translate spanish ch22_end_8d31b15d:
 
     # m 2a "Look..."
-    m 2a ""
+    m 2a "A ver..."
 
 # game/script-ch22.rpy:388
 translate spanish ch22_end_fa51a326:
 
     # m 2m "I know everyone's been a little more...lively...ever since [player] joined and we've started with some club activities."
-    m 2m ""
+    m 2m "Sé que hemos estado más animadas desde que se unió [player] y empezamos a hacer algunas actividades como club."
 
 # game/script-ch22.rpy:389
 translate spanish ch22_end_2df82c1c:
 
     # m 2d "But this isn't the time for us to become complacent."
-    m 2d ""
+    m 2d "Pero no debemos relajarnos."
 
 # game/script-ch22.rpy:390
 translate spanish ch22_end_9e6a5d0a:
 
     # m "We still only have four members..."
-    m ""
+    m "De momento, solo somos cuatro miembros."
 
 # game/script-ch22.rpy:391
 translate spanish ch22_end_941fb421:
 
     # m 2a "And the festival is our only real chance to find more, you know?"
-    m 2a ""
+    m 2a "Y el festival es nuestra única oportunidad de conseguir más."
 
 # game/script-ch22.rpy:394
 translate spanish ch22_end_0135757f:
 
     # n 5g "What's so great about getting new members, anyway?"
-    n 5g ""
+    n 5g "¿Qué tiene de bueno que se una más gente?"
 
 # game/script-ch22.rpy:395
 translate spanish ch22_end_13f2aecc:
 
     # n "We already have enough to be considered an official club."
-    n ""
+    n "Somos suficientes para que nos consideren un club odicial."
 
 # game/script-ch22.rpy:396
 translate spanish ch22_end_2cc197fd:
 
     # n "More members will just mean everything gets noisier and more difficult to manage."
-    n ""
+    n "Que se unan más miembros significa que habrá más follón y será más difícil gestionar nada."
 
 # game/script-ch22.rpy:399
 translate spanish ch22_end_2583fcd7:
 
     # m 1g "Natsuki..."
-    m 1g ""
+    m 1g "Natsuki..."
 
 # game/script-ch22.rpy:400
 translate spanish ch22_end_fe447082:
 
     # m "I don't think you're looking at it the right way at all."
-    m ""
+    m "No lo estás enfocando desde el punto de vista correcto."
 
 # game/script-ch22.rpy:401
 translate spanish ch22_end_bf40fa9f:
 
     # m "Don't you want to share your passion with as many people as you can?"
-    m ""
+    m "¿No te gustaría compartir tu pasión con tanta gente como te fuera posible?"
 
 # game/script-ch22.rpy:402
 translate spanish ch22_end_bf57beec:
 
     # m 3e "To inspire them to find the same feelings that brought you here in the first place?"
-    m 3e ""
+    m 3e "¿Inspirarlos para que sientan las mismas emociones que os trajeron aquí?"
 
 # game/script-ch22.rpy:403
 translate spanish ch22_end_583b5cf7:
 
     # m "The Literature Club should be a place where people can express themselves like they can't do anywhere else."
-    m ""
+    m "El club de literatura debe ser un cobijo donde la gente pueda expresarse como en ningún otro sitio."
 
 # game/script-ch22.rpy:404
 translate spanish ch22_end_8273ee6d:
 
     # m "It should be a place so intimate that you never want to leave."
-    m ""
+    m "Un lugar tan íntimo del que nunca querrías marcharte."
 
 # game/script-ch22.rpy:405
 translate spanish ch22_end_7dc02f3b:
 
     # m 2e "I know you feel that way, too."
-    m 2e ""
+    m 2e "Sé que tú sientes lo mismo."
 
 # game/script-ch22.rpy:406
 translate spanish ch22_end_e23e8f3d:
 
     # m 2b "I know we all do!"
-    m 2b ""
+    m 2b "¡Todos lo sentimos!"
 
 # game/script-ch22.rpy:407
 translate spanish ch22_end_de0150db:
 
     # m "So that's why we should work hard and put something together for the festival...even if it's something small!"
-    m ""
+    m "Por eso debemos esforzarnos y pensar algo para el festival, ¡por pequeño que sea!"
 
 # game/script-ch22.rpy:408
 translate spanish ch22_end_df6c8239:
 
     # m "Right, [player]?"
-    m ""
+    m "¿A que sí, [player]?"
 
 # game/script-ch22.rpy:410
 translate spanish ch22_end_93deaf69:
 
     # mc "Ah..."
-    mc ""
+    mc "Ah..."
 
 # game/script-ch22.rpy:412
 translate spanish ch22_end_326824d1:
 
     # n 42c "Oh, come on!"
-    n 42c ""
+    n 42c "¡Venga ya!"
 
 # game/script-ch22.rpy:413
 translate spanish ch22_end_772d841d:
 
     # n "You can't take advantage of [player] to agree with you just because he doesn't know how to say no to anything."
-    n ""
+    n "¡No te aproveches de que [player] es incapaz de decir que 'no' para ponerlo de tu lado!"
 
 # game/script-ch22.rpy:415
 translate spanish ch22_end_bc6194b1:
 
     # n 1c "Look, Monika."
-    n 1c ""
+    n 1c "Monika, seamos sinceras."
 
 # game/script-ch22.rpy:416
 translate spanish ch22_end_f7f8e773:
 
     # n "Do you really think any of us here joined the club with other people in mind?"
-    n ""
+    n "¿De verdad crees que nos hemos unido porque nos importan los demás?"
 
 # game/script-ch22.rpy:417
 translate spanish ch22_end_7f7bc3f4:
 
     # n "Yuri never even talked until [player] joined."
-    n ""
+    n "Yuri no decía ni pío hasta que se unió [player]."
 
 # game/script-ch22.rpy:418
 translate spanish ch22_end_a1cfaa1d:
 
     # n 2b "As for me, I just like it better here than I do at home."
-    n 2b ""
+    n 2b "En cuanto a mí, estoy más cómoda aquí que en casa."
 
 # game/script-ch22.rpy:419
 translate spanish ch22_end_813a70b7:
 
     # n "And [player] isn't even passionate about literature in the first place."
-    n ""
+    n "Y a [player] ni siquiera le va la literatura."
 
 # game/script-ch22.rpy:420
 translate spanish ch22_end_cf98f760:
 
     # n "And that's everyone."
-    n ""
+    n "No hay más."
 
 # game/script-ch22.rpy:421
 translate spanish ch22_end_1dc6b489:
 
     # n 4w "Sorry, but you're really the only one who's so interested in finding new members."
-    n 4w ""
+    n 4w "Lo siento, pero eres la única interesada en reclutar nuevos miembros.
 
 # game/script-ch22.rpy:422
 translate spanish ch22_end_e29549e3:
 
     # n "The rest of us are fine like this."
-    n ""
+    n "Los demás nos sentimos a gusto tal y como estamos."
 
 # game/script-ch22.rpy:423
 translate spanish ch22_end_b72c2a23:
 
     # n 4q "I know you're President and all, but you should really consider our opinions for once."
-    n 4q ""
+    n 4q "Sé que eres la presidenta, pero podrías tener en cuenta nuestra opinión por una vez."
 
 # game/script-ch22.rpy:426
 translate spanish ch22_end_17c84a13:
 
     # m 1g "..."
-    m 1g ""
+    m 1g "..."
 
 # game/script-ch22.rpy:427
 translate spanish ch22_end_f3c681f9:
 
     # "Monika is clearly taken aback by Natsuki's words."
-    ""
+    "Monika está claramente sorprendida por las palabras de Natsuki."
 
 # game/script-ch22.rpy:429
 translate spanish ch22_end_c037bc52:
 
     # m 1m "That's...not true at all."
-    m 1m ""
+    m 1m "No... No es cierto."
 
 # game/script-ch22.rpy:430
 translate spanish ch22_end_571a481b:
 
     # m 2m "I'm sure Yuri and [player] want to get more members too..."
-    m 2m ""
+    m 2m "Estoy segura de que Yuri y [player] también quieren conseguir más miembros..."
 
 # game/script-ch22.rpy:431
 translate spanish ch22_end_1df58135:
 
     # m 2p "...Right?"
-    m 2p ""
+    m 2p "... ¿Verdad?"
 
 # game/script-ch22.rpy:434
 translate spanish ch22_end_0dbaabdd:
 
     # y 4b "..."
-    y 4b ""
+    y 4b "..."
 
 # game/script-ch22.rpy:436
 translate spanish ch22_end_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/script-ch22.rpy:437
 translate spanish ch22_end_58f56fbf:
 
     # "I don't know about Yuri, but I'm kind of indifferent."
-    ""
+    "No sé a Yuri, pero a mí me da lo mismo."
 
 # game/script-ch22.rpy:438
 translate spanish ch22_end_17b238ab:
 
     # "If I showed as much enthusiasm as Monika wanted, then I would probably be lying."
-    ""
+    "Estaría mintiendo si me mostrase tan entusiasmado como Monika."
 
 # game/script-ch22.rpy:439
 translate spanish ch22_end_cf24d816:
 
     # "Still, if it's up to me to rescue this situation..."
-    ""
+    "Aun así, si de mí depende solventar la situación..."
 
 # game/script-ch22.rpy:440
 translate spanish ch22_end_cdf45e22:
 
     # mc "Um--"
-    mc ""
+    mc "Mmm..."
 
 # game/script-ch22.rpy:442
 translate spanish ch22_end_503abe6a:
 
     # m 1i "No."
-    m 1i ""
+    m 1i "No."
 
 # game/script-ch22.rpy:443
 translate spanish ch22_end_01972c84:
 
     # m "Natsuki's right, isn't she?"
-    m ""
+    m "Natsuki tiene razón, ¿verdad?"
 
 # game/script-ch22.rpy:444
 translate spanish ch22_end_19daf7a1:
 
     # m 1g "This club..."
-    m 1g ""
+    m 1g "Este club..."
 
 # game/script-ch22.rpy:445
 translate spanish ch22_end_a0608654:
 
     # m "It's nothing more than a place for a few people to hang out."
-    m ""
+    m "No es más que un lugar para pasar el rato."
 
 # game/script-ch22.rpy:446
 translate spanish ch22_end_80c6659b:
 
     # m 1r "Why did I think that everyone here saw it the same way as I did?"
-    m 1r ""
+    m 1r "No sé por qué, pero pensaba que lo veíais de la misma forma que yo."
 
 # game/script-ch22.rpy:448
 translate spanish ch22_end_d780d4d2:
 
     # mc "But that doesn't mean that we're against getting new members or anything..."
-    mc ""
+    mc "Eso tampoco significa que estemos en contra de reclutar nuevos miembros..."
 
 # game/script-ch22.rpy:450
 translate spanish ch22_end_dad5846a:
 
     # m 1i "[player], why did you even join this club?"
-    m 1i ""
+    m 1i "[player], ¿por qué te uniste a este club?"
 
 # game/script-ch22.rpy:451
 translate spanish ch22_end_20c5026b:
 
     # m "What were you hoping to get out of it?"
-    m ""
+    m "¿Qué esperabas que te aportase?"
 
 # game/script-ch22.rpy:453
 translate spanish ch22_end_8c731859:
 
     # mc "Well--"
-    mc ""
+    mc "Bueno..."
 
 # game/script-ch22.rpy:454
 translate spanish ch22_end_e43f371d:
 
     # "That's not really something I can be honest about, is it?"
-    ""
+    "Me temo que no puedo responder con franqueza a esa pregunta."
 
 # game/script-ch22.rpy:456
 translate spanish ch22_end_c067a3a2:
 
     # m 1p "In fact..."
-    m 1p ""
+    m 1p "De hecho..."
 
 # game/script-ch22.rpy:457
 translate spanish ch22_end_3baaeeef:
 
     # m "If I remember, you weren't even given a choice not to join."
-    m ""
+    m "Si no recuerdo mal, prácticamente te obligamos a unirte."
 
 # game/script-ch22.rpy:460
 translate spanish ch22_end_3bc0c7c5:
