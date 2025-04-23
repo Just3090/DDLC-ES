@@ -1786,19 +1786,19 @@ translate spanish ch30_reload_4_64bd3fc8:
 translate spanish ch30_reload_4_0e02b198:
 
     # m "Well, you're playing on Steam, so you can just go into the game's properties and find the 'Browse Local Files' button."
-    m "Bien, si juegas en Steaam, ve a las propiedades del juego y 'Buscar archivos locales'."
+    m "Aunque bueno, estás jugando en Steam, por lo que es tan simple como ir a las propiedades del juego y pulsar en 'Buscar archivos locales'."
 
 # game/script-ch30.rpy:841
 translate spanish ch30_reload_4_2609a2e9:
 
     # m "Since you're on a Mac, you have to right-click the app and select 'Show Package Contents' to find the game folder."
-    m "Mientras que en Mac, click derecho en la app y sellecionar 'mostar contenido del paquete' para entrar a la carptea del juego."
+    m "Como estás jugando en Mac, tienes que hacer clic derecho en el juego y seleccionar 'mostar contenido del paquete' para entrar a la carpeta del juego."
 
 # game/script-ch30.rpy:842
 translate spanish ch30_reload_4_d102bae5:
 
     # m "It's in the 'Resources' folder, or 'autorun' folder, or something..."
-    m "O en Android, asegurate de no desinstalarme o pulsar en el boton 'Borrala'."
+    m "O en Android, asegúrate de no desinstalarme o pulsar en el boton 'Bórrala' ubicado en los ajustes."
 
 # game/script-ch30.rpy:843
 translate spanish ch30_reload_4_059e870a:
@@ -2152,7 +2152,7 @@ translate spanish ch30_4_47ad7347:
 translate spanish ch30_4_057219d4:
 
     # m "Especially in high school, when you're forced to wake up so early every day..."
-    m "Y más cuando vas al instituo. Estás obligado a madrugar cada día..."
+    m "Y más cuando vas al instituto. Estás obligado a madrugar cada día..."
 
 # game/script-ch30.rpy:959
 translate spanish ch30_4_7598bc03:
@@ -5902,7 +5902,7 @@ translate spanish ch30_46_50b71c3b:
 translate spanish ch30_46_d26a661d:
 
     # m "If someone comes along and tells you the movie sucks, because it did X and Y wrong..."
-    m "Pero, entonces, aparece alguien de un bote de la basura que te dice que es una porquería esto y lo otro está mal.   "
+    m "Pero, entonces, aparece alguien de un cubo de la basura que te dice que es una porquería esto y lo otro está mal.   "
 
 # game/script-ch30.rpy:1707
 translate spanish ch30_46_9a0b9b58:
@@ -5968,13 +5968,13 @@ translate spanish ch30_46_6b12bb5c:
 translate spanish ch30_46_b8edf0ee:
 
     # m "If you put in an active effort to keep the discussion mutual and level, they usually follow suit."
-    m "En una conversación, si procuras ponerte al mismo nivel que ti interlocutor, él hará lo mismo."
+    m "En una conversación, si procuras ponerte al mismo nivel que tu interlocutor, él hará lo mismo."
 
 # game/script-ch30.rpy:1718
 translate spanish ch30_46_ae4db85b:
 
     # m "Then, you can share your opinions without anyone getting upset just from a disagreement."
-    m "De esta manera, podrás compartir tus opiniones sin que nadie se moleste por una desvenencia."
+    m "De esta manera, podrás compartir tus opiniones sin que nadie se moleste por una desavenencia."
 
 # game/script-ch30.rpy:1719
 translate spanish ch30_46_c92ce38d:
@@ -5986,7 +5986,7 @@ translate spanish ch30_46_c92ce38d:
 translate spanish ch30_46_25db6398:
 
     # m "It's a win-win, you know?"
-    m "Son todas ventajas, no crees?"
+    m "Son todo ventajas, ¿no crees?"
 
 # game/script-ch30.rpy:1721
 translate spanish ch30_46_34f411b7:
