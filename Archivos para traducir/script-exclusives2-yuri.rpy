@@ -2560,37 +2560,37 @@ translate spanish yuri_exclusive2_2_ch22_ee16f3da:
 translate spanish yuri_exclusive2_2_ch22_dd745922:
 
     # y "...Haah..."
-    y ""
+    y "Aaah..."
 
 # game/script-exclusives2-yuri.rpy:573
 translate spanish yuri_exclusive2_2_ch22_dd745922_1:
 
     # y "...Haah..."
-    y ""
+    y "Aaah..."
 
 # game/script-exclusives2-yuri.rpy:575
 translate spanish yuri_exclusive2_2_ch22_dd745922_2:
 
     # y "...Haah..."
-    y ""
+    y "Aaah..."
 
 # game/script-exclusives2-yuri.rpy:587
 translate spanish yuri_exclusive2_2_ch22_d0015b90:
 
     # m "U-Um..."
-    m ""
+    m "Mmm..."
 
 # game/script-exclusives2-yuri.rpy:588
 translate spanish yuri_exclusive2_2_ch22_5f395221:
 
     # m "It's...time to share poems..."
-    m ""
+    m "Es hora... de compartir poemas..."
 
 # game/script-exclusives2-yuri.rpy:613
 translate spanish yuri_exclusive2_2_ch23_7461c080:
 
     # y "{cps=70}[gtext]{nw}"
-    y ""
+    y "{cps=70}[gtext]{nw}"
 
 # game/script-exclusives2-yuri.rpy:618
 translate spanish yuri_exclusive2_2_ch23_a1300026:
