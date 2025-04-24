@@ -237,3 +237,14 @@ translate spanish strings:
     old "Please enter your name          "
     new "¿Cómo te llamas?          "
 
+# TODO: Translation updated at 2025-04-23 20:41
+
+translate spanish strings:
+
+    # game/screens.rpy:494
+    old "Gallery"
+    new ""
+
+    # game/screens.rpy:496
+    old "Music"
+    new ""
