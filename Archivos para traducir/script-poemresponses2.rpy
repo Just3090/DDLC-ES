@@ -1162,19 +1162,19 @@ translate spanish ch23_n_bad_shared_61696799:
 translate spanish ch23_n_med_bb2cf764:
 
     # n "..."
-    n ""
+    n "..."
 
 # game/script-poemresponses2.rpy:402
 translate spanish ch23_n_med_3e89254a:
 
     # n 2k "...This one's alright."
-    n 2k ""
+    n 2k "Pues no está mal..."
 
 # game/script-poemresponses2.rpy:403
 translate spanish ch23_n_med_9790cac2:
 
     # mc "Alright?"
-    mc ""
+    mc "¿No está mal?"
 
 # game/script-poemresponses2.rpy:404
 translate spanish ch23_n_med_384289aa:
@@ -1186,67 +1186,67 @@ translate spanish ch23_n_med_384289aa:
 translate spanish ch23_n_shared_919cece6:
 
     # n 2c "I still can't really tell how much you actually care about writing, but either way, you're doing alright."
-    n 2c ""
+    n 2c "Sigo sin saber cuánto te importa de verdad lo bien o mal que escribes, pero, bueno, no lo estás haciendo mal."
 
 # game/script-poemresponses2.rpy:407
 translate spanish ch23_n_shared_8b4ca590:
 
     # n 4r "Even though you're not really spending time with anyone but Yuri..."
-    n 4r ""
+    n 4r "Y eso que no estás pasando tiempo con nadie más que con Yuri..."
 
 # game/script-poemresponses2.rpy:408
 translate spanish ch23_n_shared_1b1f785e:
 
     # n 4h "I still think it's nice to have activities that we all participate in."
-    n 4h ""
+    n 4h "Sigo pensando que estaría bien hacer actividades en las que todos pudiéramos participar."
 
 # game/script-poemresponses2.rpy:409
 translate spanish ch23_n_shared_9dcaea88:
 
     # n 4w "So you better keep working hard!"
-    n 4w ""
+    n 4w "¡Así que sigue trabajando duro!"
 
 # game/script-poemresponses2.rpy:410
 translate spanish ch23_n_shared_d97c576a:
 
     # n "I mean..."
-    n ""
+    n "A ver..."
 
 # game/script-poemresponses2.rpy:411
 translate spanish ch23_n_shared_256f5427:
 
     # n 1h "I know I'm not President or Vice President or anything..."
-    n 1h ""
+    n 1h "Sé que no soy la presidenta ni la vicepresidenta ni nada así...,"
 
 # game/script-poemresponses2.rpy:412
 translate spanish ch23_n_shared_c114d92a:
 
     # n "But that doesn't mean you can let me down, okay?"
-    n ""
+    n "pero eso no significa que puedas decepcionarme, ¿vale?"
 
 # game/script-poemresponses2.rpy:413
 translate spanish ch23_n_shared_bd025d78:
 
     # n 1q "So, at least read mine too for now."
-    n 1q ""
+    n 1q "Bueno, al menos lee también el mío."
 
 # game/script-poemresponses2.rpy:414
 translate spanish ch23_n_shared_514531ab:
 
     # n "But just to be clear..."
-    n ""
+    n "Solo para que quede claro..."
 
 # game/script-poemresponses2.rpy:415
 translate spanish ch23_n_shared_6772410a:
 
     # n 1h "This poem...means a lot to me."
-    n 1h ""
+    n 1h "Este poema... significa mucho para mí,"
 
 # game/script-poemresponses2.rpy:416
 translate spanish ch23_n_shared_48a6b58c:
 
     # n "So read it carefully, okay?"
-    n ""
+    n "así que léelo con atención, ¿vale?"
 
 # game/script-poemresponses2.rpy:419
 translate spanish ch23_n_shared_bb2cf764:
@@ -1258,25 +1258,25 @@ translate spanish ch23_n_shared_bb2cf764:
 translate spanish ch23_n_shared_3e89254a:
 
     # n 2k "...This one's alright."
-    n 2k ""
+    n 2k "Pues no está mal..."
 
 # game/script-poemresponses2.rpy:421
 translate spanish ch23_n_shared_9790cac2:
 
     # mc "Alright?"
-    mc ""
+    mc "¿No está mal?"
 
 # game/script-poemresponses2.rpy:422
 translate spanish ch23_n_shared_37f7579e:
 
     # n "Well, yeah."
-    n ""
+    n "Bueno sí."
 
 # game/script-poemresponses2.rpy:423
 translate spanish ch23_n_shared_ef787c01:
 
     # n "About as good as yesterday's, anyway."
-    n ""
+    n "Está más o menos al nivel del de ayer."
 
 # game/script-poemresponses2.rpy:427
 translate spanish ch23_n_ygave_2337e9fd:
