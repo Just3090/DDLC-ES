@@ -243,8 +243,8 @@ translate spanish strings:
 
     # game/screens.rpy:494
     old "Gallery"
-    new ""
+    new "Imágenes"
 
     # game/screens.rpy:496
     old "Music"
-    new ""
+    new "Música"
