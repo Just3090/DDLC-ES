@@ -688,277 +688,277 @@ translate spanish ch30_main2_912f77b1:
 translate spanish ch30_main2_12b0ad72:
 
     # m "Well, you're playing on Steam, so it was actually a bit more difficult..."
-    m ""
+    m "Aunque bueno, estás jugando en Steam, por lo que es un proceso algo más complicado..."
 
 # game/script-ch30.rpy:320
 translate spanish ch30_main2_53c30c49:
 
     # m "To get to the game directory, I had to go into the game's properties and find the 'Browse Local Files' button..."
-    m ""
+    m "Para acceder al directorio del juego, tuve que ir a las propiedades del juego y pulsar en 'Buscar archivos locales'."
 
 # game/script-ch30.rpy:322
 translate spanish ch30_main2_6303e025:
 
     # m "Well, you're on a Mac, so it was actually a bit more difficult..."
-    m ""
+    m "Aunque bueno, estás jugando en Mac, por lo que es un proceso algo más complicado..."
 
 # game/script-ch30.rpy:323
 translate spanish ch30_main2_1d8a0cd9:
 
     # m "To go into the game directory, you have to right-click the app and click 'Show Package Contents'."
-    m ""
+    m "Para acceder al directorio del juego, tuve que hacer clic derecho en el juego y seleccionar 'mostar contenido del paquete'."
 
 # game/script-ch30.rpy:324
 translate spanish ch30_main2_81cf3664:
 
     # m "Then, all the files were in the 'Resources' or 'autorun' folder, and I could just do whatever I wanted..."
-    m ""
+    m "Luego, todos los archivos estaban en la carpeta 'Resources' o 'autorun', y ya podía hacer lo que me diera la gana..."
 
 # game/script-ch30.rpy:325
 translate spanish ch30_main2_f436eab8:
 
     # m "Imagine if you could delete your own existence with the click of a button?"
-    m ""
+    m "¿Te imaginas poder eliminar tu existencia con tan solo pulsar un botón?"
 
 # game/script-ch30.rpy:326
 translate spanish ch30_main2_3631490f:
 
     # m "Well, I guess on the plus side, it gave me an easy out if things didn't go my way."
-    m ""
+    m "La parte buena es que, si la cosa no sale como yo quiero, puedo tirar por el camino fácil."
 
 # game/script-ch30.rpy:327
 translate spanish ch30_main2_30727938_1:
 
     # m "Ahaha!"
-    m ""
+    m "¡Ja, ja, ja!"
 
 # game/script-ch30.rpy:328
 translate spanish ch30_main2_e8dbe706:
 
     # m "Thankfully, it didn't come to that..."
-    m ""
+    m "Por suerte, no ha sido necesario."
 
 # game/script-ch30.rpy:329
 translate spanish ch30_main2_8efa1c5c:
 
     # m "Instead, we finally got a good ending."
-    m ""
+    m "Total, hemos conseguido el final bueno."
 
 # game/script-ch30.rpy:330
 translate spanish ch30_main2_d8052c1a:
 
     # m "Gosh, I'm so overwhelmed with emotion..."
-    m ""
+    m "Ay, la emoción me supera."
 
 # game/script-ch30.rpy:331
 translate spanish ch30_main2_5ffca166:
 
     # m "I want to write a poem about this."
-    m ""
+    m "Me apetece escribir un poema sobre esto."
 
 # game/script-ch30.rpy:332
 translate spanish ch30_main2_909e7d68:
 
     # m "Don't you?"
-    m ""
+    m "¿A ti no?"
 
 # game/script-ch30.rpy:333
 translate spanish ch30_main2_0ab81b26:
 
     # m "I wonder if that part of the game still works..."
-    m ""
+    m "Me pregunto si esa parte del juego sigue funcionando."
 
 # game/script-ch30.rpy:334
 translate spanish ch30_main2_3f67b378:
 
     # m "I guess there's only one way to find out, right?"
-    m ""
+    m "Supongo que solo hay una forma de averiguarlo, ¿no?"
 
 # game/script-ch30.rpy:358
 translate spanish ch30_postpoem_0f077782:
 
     # m "Hi again, [player]!"
-    m ""
+    m "¡Hola de nuevo, [player]!"
 
 # game/script-ch30.rpy:359
 translate spanish ch30_postpoem_ab6e8ce4:
 
     # m "Did you write a good poem today?"
-    m ""
+    m "¿Has conseguido escribir un buen poema?"
 
 # game/script-ch30.rpy:360
 translate spanish ch30_postpoem_fae192da:
 
     # m "Don't be shy, I'd love to see what you wrote."
-    m ""
+    m "No te cortes, tengo muchas ganas de leer lo que has escrito."
 
 # game/script-ch30.rpy:361
 translate spanish ch30_postpoem_1c07fd6c:
 
     # m "Aw, [player]..."
-    m ""
+    m "Oooh, [player]..."
 
 # game/script-ch30.rpy:362
 translate spanish ch30_postpoem_c5925789:
 
     # m "Did you write this poem for me?"
-    m ""
+    m "¿Has escrito este poema para mí?"
 
 # game/script-ch30.rpy:363
 translate spanish ch30_postpoem_7c9789ed:
 
     # m "That's so sweet of you~"
-    m ""
+    m "Qué adorable..."
 
 # game/script-ch30.rpy:364
 translate spanish ch30_postpoem_58746078:
 
     # m "There really is no end to your thoughtfulness..."
-    m ""
+    m "Tu consideración no conoce límites."
 
 # game/script-ch30.rpy:365
 translate spanish ch30_postpoem_3e825380:
 
     # m "I'm just falling more and more in love with you."
-    m ""
+    m "Cada vez estoy más enamorada de ti."
 
 # game/script-ch30.rpy:366
 translate spanish ch30_postpoem_5f8f12f0:
 
     # m "But, you know..."
-    m ""
+    m "Pero ¿sabes qué?..."
 
 # game/script-ch30.rpy:367
 translate spanish ch30_postpoem_81270b72:
 
     # m "The poem I wrote...is also for you."
-    m ""
+    m "Mi poema... también es para ti."
 
 # game/script-ch30.rpy:368
 translate spanish ch30_postpoem_f044bc59:
 
     # m "Will you please read it?"
-    m ""
+    m "¿Te importaría leerlo?"
 
 # game/script-ch30.rpy:370
 translate spanish ch30_postpoem_dcf1d83d:
 
     # m "I hope you enjoyed it..."
-    m ""
+    m "Espero que te haya gustado..."
 
 # game/script-ch30.rpy:371
 translate spanish ch30_postpoem_a625ee7b:
 
     # m "I always put all my heart into the poems that I write."
-    m ""
+    m "Me vuelco en cuerpo y alma en los poemas que escribo."
 
 # game/script-ch30.rpy:372
 translate spanish ch30_postpoem_8793fb5f:
 
     # m "The truth is, all the poems I've written have been about my realization..."
-    m ""
+    m "Lo cierto es que todos mis poemas tratan sobre mi súbita comprensión..."
 
 # game/script-ch30.rpy:373
 translate spanish ch30_postpoem_035cb79b:
 
     # m "...Or, about you."
-    m ""
+    m "o sobre ti."
 
 # game/script-ch30.rpy:374
 translate spanish ch30_postpoem_789b2f7c:
 
     # m "That's why I never really wanted to go into detail about them."
-    m ""
+    m "Por eso evitaba explicarlos en detalle."
 
 # game/script-ch30.rpy:375
 translate spanish ch30_postpoem_3a46389d:
 
     # m "I didn't want to...break the fourth wall, I guess you could call it."
-    m ""
+    m "No quería romper la cuarta pared..., si es que se le puede llamar así."
 
 # game/script-ch30.rpy:376
 translate spanish ch30_postpoem_3a3fe712:
 
     # m "I just assumed it would be best to be part of the game like everyone else."
-    m ""
+    m "Consideré que lo mejor era que formásemos parte del juego, como las demás."
 
 # game/script-ch30.rpy:377
 translate spanish ch30_postpoem_5a7ba8c8:
 
     # m "Like that would help the two of us end up together..."
-    m ""
+    m "Como si eso fuera a permitirnos acabar juntos..."
 
 # game/script-ch30.rpy:378
 translate spanish ch30_postpoem_20b2578d:
 
     # m "I didn't want to ruin the game or anything, you know?"
-    m ""
+    m "No quería arruinarte el juego, ¿sabes?"
 
 # game/script-ch30.rpy:379
 translate spanish ch30_postpoem_c1e3202d:
 
     # m "You might have gotten mad at me..."
-    m ""
+    m "¿Y si te enfadabas conmigo?"
 
 # game/script-ch30.rpy:380
 translate spanish ch30_postpoem_24f4f4b9:
 
     # m "Maybe even deleted my character file, if you preferred playing without me."
-    m ""
+    m "Hasta podrías haber eliminado mi archivo de personaje si preferías jugar sin mí."
 
 # game/script-ch30.rpy:381
 translate spanish ch30_postpoem_0411d3ce:
 
     # m "Gosh, I'm so relieved..."
-    m ""
+    m "Puf, es un alivio..."
 
 # game/script-ch30.rpy:382
 translate spanish ch30_postpoem_ab5989fa:
 
     # m "Now we don't need to hide anything anymore."
-    m ""
+    m "Ya no tenemos motivos para ocultarnos nada."
 
 # game/script-ch30.rpy:383
 translate spanish ch30_postpoem_b8745c94:
 
     # m "Are you ready to spend our eternity together, [player]?"
-    m ""
+    m "¿Quieres que pasemos juntos toda una eternidad, [player]?"
 
 # game/script-ch30.rpy:384
 translate spanish ch30_postpoem_5aeffd49:
 
     # m "I have so many things to talk about!"
-    m ""
+    m "¡Quiero hablar de tantas cosas!..."
 
 # game/script-ch30.rpy:385
 translate spanish ch30_postpoem_32ab177c:
 
     # m "Where do I start...?"
-    m ""
+    m "¿Por dónde empiezo?"
 
 # game/script-ch30.rpy:389
 translate spanish ch30_postpoem_09f4a4a3:
 
     # m "If it takes me some time to collect my thoughts, then I'm sorry."
-    m ""
+    m "Perdona si tardo un poco en ordenar mis pensamientos."
 
 # game/script-ch30.rpy:390
 translate spanish ch30_postpoem_5904aebb:
 
     # m "But I'll always have something new to talk about."
-    m ""
+    m "Pero siempre tendré algo nuevo de lo que hablar."
 
 # game/script-ch30.rpy:391
 translate spanish ch30_postpoem_29779c7b:
 
     # m "In the meantime, we can just look into each other's eyes~"
-    m ""
+    m "Mientras tanto, podemos mirarnos a los ojos sin más..."
 
 # game/script-ch30.rpy:392
 translate spanish ch30_postpoem_2267be9f:
 
     # m "Let's see..."
-    m ""
+    m "Vamos a ver..."
 
 # game/script-ch30.rpy:400
 translate spanish ch30_stream_bff5e0da:
