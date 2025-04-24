@@ -1384,677 +1384,677 @@ translate spanish ch22_end_3baaeeef:
 translate spanish ch22_end_3bc0c7c5:
 
     # "Monika sits down and stares at her desk."
-    ""
+    "Monika se sienta y se queda mirando su pupitre."
 
 # game/script-ch22.rpy:461
 translate spanish ch22_end_b66bc109:
 
     # m "What's the point of all this, anyway?"
-    m ""
+    m "¿Qué sentido tiene todo esto?"
 
 # game/script-ch22.rpy:462
 translate spanish ch22_end_781f555a:
 
     # m "What if starting this club was a mistake?"
-    m ""
+    m "Quizá fue un error empezar este club."
 
 # game/script-ch22.rpy:463
 translate spanish ch22_end_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/script-ch22.rpy:465
 translate spanish ch22_end_6e77d0eb:
 
     # y 2g "Now you've done it, Natsuki..."
-    y 2g ""
+    y 2g "Bonita forma de meter la pata, Natsuki."
 
 # game/script-ch22.rpy:468
 translate spanish ch22_end_c6573abf:
 
     # n 1p "What, me?"
-    n 1p ""
+    n 1p "¿Quién, yo?"
 
 # game/script-ch22.rpy:469
 translate spanish ch22_end_80ed7127:
 
     # n 1s "I just spoke my mind..."
-    n 1s ""
+    n 1s "Solo he dicho lo que pienso."
 
 # game/script-ch22.rpy:470
 translate spanish ch22_end_ce4a0b73:
 
     # n "Is it a crime to be honest?"
-    n ""
+    n "Ni que fuera pecado ser sincera."
 
 # game/script-ch22.rpy:473
 translate spanish ch22_end_287ca0d5:
 
     # y 2l "It's not about being honest."
-    y 2l ""
+    y 2l "No se trata de ser sincera."
 
 # game/script-ch22.rpy:474
 translate spanish ch22_end_45374400:
 
     # y "It's about word choice."
-    y ""
+    y "Se trata de escoger las palabras adecuadas."
 
 # game/script-ch22.rpy:475
 translate spanish ch22_end_a4120b64:
 
     # y 2h "Besides, you have no right to speak for everyone else in the club like that..."
-    y 2h ""
+    y 2h "Además, no tienes ningún derecho a hablar por los demás de esa forma."
 
 # game/script-ch22.rpy:478
 translate spanish ch22_end_65c48c99:
 
     # n 1e "You don't understand at all!"
-    n 1e ""
+    n 1e "¡No te enteras de nada!"
 
 # game/script-ch22.rpy:479
 translate spanish ch22_end_bd0ce5a7:
 
     # n 5s "I just..."
-    n 5s ""
+    n 5s "Es que..."
 
 # game/script-ch22.rpy:480
 translate spanish ch22_end_f5aaf804:
 
     # n "I just want a place that feels nice to hang out with a few friends."
-    n ""
+    n "Yo solo quiero un lugar agradable donde quedar con mis amigos."
 
 # game/script-ch22.rpy:481
 translate spanish ch22_end_bc8c3dba:
 
     # n 5u "Is there a problem with the club being that for me?"
-    n 5u ""
+    n 5u "¿Qué problema hay con que el club signifique eso para mí?"
 
 # game/script-ch22.rpy:482
 translate spanish ch22_end_2077196f:
 
     # n "There aren't...there aren't many other places like that for me..."
-    n ""
+    n "No... No tengo muchos sitios donde pueda sentirme de esta forma."
 
 # game/script-ch22.rpy:483
 translate spanish ch22_end_cbc7c5f9:
 
     # n 5x "And now Monika wants to take it away from me!"
-    n 5x ""
+    n 5x "¡Y ahora Monika quiere arrebatármelo!"
 
 # game/script-ch22.rpy:485
 translate spanish ch22_end_4f2b129e:
 
     # mc "She's not taking anything away--"
-    mc ""
+    mc "No te va a arrebatar nada..."
 
 # game/script-ch22.rpy:487
 translate spanish ch22_end_257eaeb5:
 
     # n 1g "No, [player]."
-    n 1g ""
+    n 1g "No, [player]."
 
 # game/script-ch22.rpy:488
 translate spanish ch22_end_d0a28886:
 
     # n "It's not the same."
-    n ""
+    n "No es lo mismo."
 
 # game/script-ch22.rpy:489
 translate spanish ch22_end_708ce7dd:
 
     # n 1q "It won't be the same with the direction she wants to take it."
-    n 1q ""
+    n 1q "Con el enfoque que ella le quiere dar, ya nada será igual."
 
 # game/script-ch22.rpy:490
 translate spanish ch22_end_46000853:
 
     # n "If I wanted that, then I could have just joined any other stupid club."
-    n ""
+    n "Si ese hubiese sido mi objetivo, me habría unido a cualquier otro club."
 
 # game/script-ch22.rpy:491
 translate spanish ch22_end_de720d71:
 
     # n 12d "But this one..."
-    n 12d ""
+    n 12d "Pero en este..."
 
 # game/script-ch22.rpy:492
 translate spanish ch22_end_d97c576a:
 
     # n "I mean..."
-    n ""
+    n "A ver..."
 
 # game/script-ch22.rpy:493
 translate spanish ch22_end_1b585c2d:
 
     # n 12e "At least for a little bit of time..."
-    n 12e ""
+    n 12e "Al menos, aunque fuese por poco tiempo..."
 
 # game/script-ch22.rpy:494
 translate spanish ch22_end_58f236c5:
 
     # n "Things were nice."
-    n ""
+    n "Todo iba bien."
 
 # game/script-ch22.rpy:495
 translate spanish ch22_end_b3b0536d:
 
     # "Natsuki starts packing up her things."
-    ""
+    "Natsuki empieza a recoger sus cosas."
 
 # game/script-ch22.rpy:496
 translate spanish ch22_end_abd5901d:
 
     # n 12d "I'm going home."
-    n 12d ""
+    n 12d "Me voy a casa."
 
 # game/script-ch22.rpy:497
 translate spanish ch22_end_f28730ce:
 
     # n "I feel like...I don't belong here right now."
-    n ""
+    n "Siento... que ya no pertenezco a este lugar."
 
 # game/script-ch22.rpy:500
 translate spanish ch22_end_8007c5bb:
 
     # y 3t "Natsuki..."
-    y 3t ""
+    y 3t "Natsuki..."
 
 # game/script-ch22.rpy:503
 translate spanish ch22_end_35e71b50:
 
     # "Natsuki ignores Yuri and walks right out of the classroom."
-    ""
+    "Natsuki ignora a Yuri y sale decidida del aula."
 
 # game/script-ch22.rpy:505
 translate spanish ch22_end_bcdc5cb9:
 
     # y 3v "..."
-    y 3v ""
+    y 3v "..."
 
 # game/script-ch22.rpy:506
 translate spanish ch22_end_0679cd5d:
 
     # y "This is bad..."
-    y ""
+    y "Es terrible..."
 
 # game/script-ch22.rpy:507
 translate spanish ch22_end_e3bc4d12:
 
     # y "I don't know what to do..."
-    y ""
+    y "No sé qué hacer..."
 
 # game/script-ch22.rpy:508
 translate spanish ch22_end_c14c584c:
 
     # mc "Well..."
-    mc ""
+    mc "Bueno..."
 
 # game/script-ch22.rpy:509
 translate spanish ch22_end_7bf7b653:
 
     # mc "Do you have an opinion on the festival?"
-    mc ""
+    mc "¿Qué opinas del festival?"
 
 # game/script-ch22.rpy:510
 translate spanish ch22_end_4b96e34d:
 
     # y 4b "I-I don't know..."
-    y 4b ""
+    y 4b "N-No tengo ni idea..."
 
 # game/script-ch22.rpy:512
 translate spanish ch22_end_7380ec27:
 
     # y "I'm kind of indifferent, I guess..."
-    y ""
+    y "Me es indiferente, la verdad..."
 
 # game/script-ch22.rpy:519
 translate spanish ch22_end_b8c8caa2:
 
     # y "Who cares about that obnoxious brat?"
-    y ""
+    y "Bah, ¿a quién le importa esa niñata pesada?"
 
 # game/script-ch22.rpy:525
 translate spanish ch22_end_9ee72c5f:
 
     # y "I mean, I like how nice and quiet the club is right now..."
-    y ""
+    y "Mira qué tranquilo está el club ahora."
 
 # game/script-ch22.rpy:526
 translate spanish ch22_end_e4561a6b:
 
     # y "And I'm just...happy with you here..."
-    y ""
+    y "Además, estoy tan feliz aquí contigo..."
 
 # game/script-ch22.rpy:527
 translate spanish ch22_end_78a3ac15:
 
     # y 2t "But still!"
-    y 2t ""
+    y 2t "Aun así..."
 
 # game/script-ch22.rpy:528
 translate spanish ch22_end_54e17d2b:
 
     # y "I'm the Vice President..."
-    y ""
+    y "Soy la vicepresidenta..."
 
 # game/script-ch22.rpy:529
 translate spanish ch22_end_53ec556b:
 
     # y "It's not right for me to ignore my responsibilities like that..."
-    y ""
+    y "No puedo ignorar mis responsabilidades de esta forma..."
 
 # game/script-ch22.rpy:536
 translate spanish ch22_end_2a40ece1:
 
     # y "Nobody would cry if she killed herself."
-    y ""
+    y "Nadie iba a llorar por ella si se suicidase."
 
 # game/script-ch22.rpy:550
 translate spanish ch22_end_8d0f2d2e:
 
     # y 2l "I should do my best to consider everyone's perspective and make the decision that's right for the club."
-    y 2l ""
+    y 2l "Debo esforzarme por tener en cuenta la opinión de todos y tomar la decisión correcta para el club."
 
 # game/script-ch22.rpy:551
 translate spanish ch22_end_f0acf027:
 
     # y 1t "But what about you, [player]?"
-    y 1t ""
+    y 1t "Pero ¿qué hay de ti, [player]?"
 
 # game/script-ch22.rpy:552
 translate spanish ch22_end_5d7de35c:
 
     # y "What do you want to get out of this club?"
-    y ""
+    y "¿Qué es lo que esperas de este club?"
 
 # game/script-ch22.rpy:553
 translate spanish ch22_end_8a1efaa0:
 
     # "Yuri repeats the same question as Monika."
-    ""
+    "Yuri repite la misma pregunta que Monika."
 
 # game/script-ch22.rpy:554
 translate spanish ch22_end_47a8a389:
 
     # "I decide giving an indirect answer is better than nothing."
-    ""
+    "Supongo que responder con evasivas es mejor que nada."
 
 # game/script-ch22.rpy:555
 translate spanish ch22_end_4b247fc6:
 
     # mc "...I think the most important thing is for everyone to get along..."
-    mc ""
+    mc "Creo que lo más importante es que todos nos llevemos bien..."
 
 # game/script-ch22.rpy:556
 translate spanish ch22_end_a03311e0:
 
     # mc "...And for the club to provide something that you can't get anywhere else."
-    mc ""
+    mc "y que el club nos aporte algo que no se pueda conseguir en ningún otro sitio."
 
 # game/script-ch22.rpy:557
 translate spanish ch22_end_13e800d6:
 
     # mc "I don't think it's about how many members, but rather the quality of each member."
-    mc ""
+    mc "Debe primar la calidad de los miembros, no la cantidad."
 
 # game/script-ch22.rpy:558
 translate spanish ch22_end_4a14c427:
 
     # mc "That's what will end up making the Literature Club a special place."
-    mc ""
+    mc "Eso es lo que hará que el club de literatura sea un sitio especial."
 
 # game/script-ch22.rpy:559
 translate spanish ch22_end_a85b1d65:
 
     # y 1u "I see..."
-    y 1u ""
+    y 1u "Entiendo..."
 
 # game/script-ch22.rpy:560
 translate spanish ch22_end_87b6ffda:
 
     # y "I really agree with you."
-    y ""
+    y "No podría estar más de acuerdo contigo."
 
 # game/script-ch22.rpy:563
 translate spanish ch22_end_d32f6531:
 
     # y 1f "Each member contributes their own qualities in a special way."
-    y 1f ""
+    y 1f "Cada miembro contribuye a su manera con sus propias cualidades."
 
 # game/script-ch22.rpy:564
 translate spanish ch22_end_ca5990e9:
 
     # y "With each change in members, the identity of the club as a whole will change, too."
-    y ""
+    y "Que cambien los miembros implica un cambio en la mismísima identidad del club."
 
 # game/script-ch22.rpy:565
 translate spanish ch22_end_72289e3b:
 
     # y 1h "I don't think that's necessarily a bad thing."
-    y 1h ""
+    y 1h "Aunque, en mi opinión, eso no es algo malo."
 
 # game/script-ch22.rpy:566
 translate spanish ch22_end_35ccd42b:
 
     # y "Stepping out of your comfort zone once in a while..."
-    y ""
+    y "No está mal salir de tu zona de confort de vez en cuando."
 
 # game/script-ch22.rpy:567
 translate spanish ch22_end_32715faa:
 
     # y 1a "So if you would like to help Monika with the festival, then I'm on your side as well."
-    y 1a ""
+    y 1a "Si decides ayudar a Monika con el festival, puedes contar conmigo."
 
 # game/script-ch22.rpy:569
 translate spanish ch22_end_6651ab87:
 
     # mc "Alright."
-    mc ""
+    mc "De acuerdo."
 
 # game/script-ch22.rpy:570
 translate spanish ch22_end_44bcfb97:
 
     # mc "Well, maybe we can all talk to Natsuki tomorrow..."
-    mc ""
+    mc "Quizá mañana podamos hacer entrar en razón a Natsuki."
 
 # game/script-ch22.rpy:571
 translate spanish ch22_end_c588c8d6:
 
     # "Yuri nods."
-    ""
+    "Yuri asiente."
 
 # game/script-ch22.rpy:574
 translate spanish ch22_end_a8fa5cc4:
 
     # m "Hey, Yuri..."
-    m ""
+    m "Oye, Yuri..."
 
 # game/script-ch22.rpy:577
 translate spanish ch22_end_4874c190:
 
     # y 1t "Eh?"
-    y 1t ""
+    y 1t "¿Eh?"
 
 # game/script-ch22.rpy:580
 translate spanish ch22_end_938e8ccc:
 
     # m 1p "Um, I know things were a little awkward yesterday..."
-    m 1p ""
+    m 1p "Mmm, sé que ayer la cosa no estaba para tirar cohetes...,"
 
 # game/script-ch22.rpy:581
 translate spanish ch22_end_71185c69:
 
     # m "But I feel like you deserve to know that I still think you're a wonderful vice president."
-    m ""
+    m "pero, a pesar de todo, mereces saber que eres una vicepresidenta estupenda."
 
 # game/script-ch22.rpy:582
 translate spanish ch22_end_117f9036:
 
     # m 1e "And also, a wonderful friend."
-    m 1e ""
+    m 1e "Y también una gran amiga."
 
 # game/script-ch22.rpy:585
 translate spanish ch22_end_85507443:
 
     # y 3s "M-Monika..."
-    y 3s ""
+    y 3s "M-Monika..."
 
 # game/script-ch22.rpy:588
 translate spanish ch22_end_a1af8e90:
 
     # m 2e "I want to do everything I can to make this the best club ever."
-    m 2e ""
+    m 2e "Haré todo lo que pueda para hacer de este el mejor club del mundo."
 
 # game/script-ch22.rpy:589
 translate spanish ch22_end_dd97e600:
 
     # m "Okay?"
-    m ""
+    m "¿Qué me dices?"
 
 # game/script-ch22.rpy:592
 translate spanish ch22_end_d9ed8713:
 
     # y "...Me too."
-    y ""
+    y "... Yo también."
 
 # game/script-ch22.rpy:595
 translate spanish ch22_end_479c6697:
 
     # m 1a "Yeah..."
-    m 1a ""
+    m 1a "Sí..."
 
 # game/script-ch22.rpy:596
 translate spanish ch22_end_1e1487cf:
 
     # m "Let's all go home for today."
-    m ""
+    m "Volvamos a casa por hoy."
 
 # game/script-ch22.rpy:597
 translate spanish ch22_end_fcee625a:
 
     # m "We'll talk about the festival tomorrow."
-    m ""
+    m "Ya hablaremos mañana del festival."
 
 # game/script-ch22.rpy:600
 translate spanish ch22_end_40f3f0f5:
 
     # y 1m "Okay."
-    y 1m ""
+    y 1m "Vale."
 
 # game/script-ch22.rpy:601
 translate spanish ch22_end_795d2cfb:
 
     # y "I look forward to it."
-    y ""
+    y "Tengo muchas ganas."
 
 # game/script-ch22.rpy:602
 translate spanish ch22_end_2336314d:
 
     # y 1a "Shall we go, [player]?"
-    y 1a ""
+    y 1a "¿Vamos, [player]?"
 
 # game/script-ch22.rpy:605
 translate spanish ch22_end_97752aee:
 
     # m 1d "Um--"
-    m 1d ""
+    m 1d "Mmm..."
 
 # game/script-ch22.rpy:606
 translate spanish ch22_end_b43b7c4d:
 
     # m 1p "Please don't take this the wrong way, but..."
-    m 1p ""
+    m 1p "No me malinterpretes, pero..."
 
 # game/script-ch22.rpy:607
 translate spanish ch22_end_da739202:
 
     # m "I'm going to chat a little bit with [player] before we leave."
-    m ""
+    m "Querría hablar con [player] antes de marcharnos."
 
 # game/script-ch22.rpy:608
 translate spanish ch22_end_d3635fb7:
 
     # m 1d "Just to see what he thinks of his time here and all that..."
-    m 1d ""
+    m 1d "Me gustaría saber qué piensa sobre su tiempo aquí y demás..."
 
 # game/script-ch22.rpy:609
 translate spanish ch22_end_8a11ce5c:
 
     # m "It's important to me, as President."
-    m ""
+    m "Como presidenta, es importante para mí."
 
 # game/script-ch22.rpy:612
 translate spanish ch22_end_a3dfe221:
 
     # y 2v "..."
-    y 2v ""
+    y 2v "..."
 
 # game/script-ch22.rpy:613
 translate spanish ch22_end_043d7f4b:
 
     # "Yuri looks a little troubled, but she doesn't protest."
-    ""
+    "Yuri parece contrariada, pero no se queja."
 
 # game/script-ch22.rpy:614
 translate spanish ch22_end_55494016:
 
     # y 2t "Okay."
-    y 2t ""
+    y 2t "Vale."
 
 # game/script-ch22.rpy:615
 translate spanish ch22_end_4ed2c539:
 
     # y 2s "I trust your judgment, Monika."
-    y 2s ""
+    y 2s "Confío en tu buen juicio, Monika."
 
 # game/script-ch22.rpy:616
 translate spanish ch22_end_3420e858:
 
     # y "In that case, I'll see the two of you tomorrow."
-    y ""
+    y "Muy bien, os veo a los dos mañana."
 
 # game/script-ch22.rpy:619
 translate spanish ch22_end_3b3793d9:
 
     # m 1j "See you tomorrow~"
-    m 1j ""
+    m 1j "Hasta mañana."
 
 # game/script-ch22.rpy:622
 translate spanish ch22_end_b6403be2:
 
     # "Monika waves as Yuri exits the classroom."
-    ""
+    "Monika se despide con la mano al tiempo que Yuri sale del aula."
 
 # game/script-ch22.rpy:625
 translate spanish ch22_end_8085152d:
 
     # m "Phew..."
-    m ""
+    m "Uf..."
 
 # game/script-ch22.rpy:626
 translate spanish ch22_end_18d8766c:
 
     # m 2e "Things have been a bit hectic lately, haven't they?"
-    m 2e ""
+    m 2e "Las cosas han estado un tanto agitadas últimamente, ¿eh?"
 
 # game/script-ch22.rpy:634
 translate spanish ch22_end_e54cec20:
 
     # m "[player], I just wanted to make sure you're enjoying your time at this club."
-    m ""
+    m "[player], quería asegurarme de que estás disfrutando en el club."
 
 # game/script-ch22.rpy:635
 translate spanish ch22_end_5008fdb7:
 
     # m "I would really hate to see you unhappy."
-    m ""
+    m "Me sabría fatal que lo estuvieras pasando mal."
 
 # game/script-ch22.rpy:636
 translate spanish ch22_end_d6986044:
 
     # m 2m "I feel kind of like I'm responsible for that, as President..."
-    m 2m ""
+    m 2m "Soy la presidenta, así que no puedo evitar sentirme responsable."
 
 # game/script-ch22.rpy:638
 translate spanish ch22_end_c99edde7:
 
     # m 4e "And I really do care about you...you know?"
-    m 4e ""
+    m 4e "Me preocupo mucho por ti, ¿sabes?"
 
 # game/script-ch22.rpy:639
 translate spanish ch22_end_011299d4:
 
     # m "I don't like seeing the other girls give you a hard time."
-    m ""
+    m "No me gusta que las chicas te hagan pasar por un mal trago."
 
 # game/script-ch22.rpy:640
 translate spanish ch22_end_43ecdfef:
 
     # m 4r "With how mean Natsuki is and everything..."
-    m 4r ""
+    m 4r "Natsuki tiene muy mal genio..."
 
 # game/script-ch22.rpy:641
 translate spanish ch22_end_6e822e2e:
 
     # m 4m "And Yuri being a little bit...you know."
-    m 4m ""
+    m 4m "Y Yuri es un poco..., bueno, ya sabes."
 
 # game/script-ch22.rpy:642
 translate spanish ch22_end_77bb8890:
 
     # m 5a "Ahaha..."
-    m 5a ""
+    m 5a "Ja, ja, ja."
 
 # game/script-ch22.rpy:643
 translate spanish ch22_end_8ba70b28:
 
     # m "Sometimes it feels like you and I are the only real people here."
-    m ""
+    m "A veces, siento que las únicas personas reales aquí somos tú y yo."
 
 # game/script-ch22.rpy:644
 translate spanish ch22_end_0f0846ba:
 
     # m "You know what I mean?"
-    m ""
+    m "¿Entiendes por dónde voy?"
 
 # game/script-ch22.rpy:645
 translate spanish ch22_end_c2457032:
 
     # m 1g "But it's weird, because in all the time you've been here, we've hardly gotten to spend any time together."
-    m 1g ""
+    m 1g "Lo cual es raro porque, en todo el tiempo que llevas aquí, apenas hemos pasado tiempo juntos."
 
 # game/script-ch22.rpy:646
 translate spanish ch22_end_98c60e88:
 
     # m 1n "Ah...I mean..."
-    m 1n ""
+    m 1n "Ah, es decir..."
 
 # game/script-ch22.rpy:647
 translate spanish ch22_end_1a2636b3:
 
     # m "I guess it's technically only been a couple days..."
-    m ""
+    m "Técnicamente, solo han sido dos días..."
 
 # game/script-ch22.rpy:648
 translate spanish ch22_end_8cd8c881:
 
     # m 1l "Sorry, I didn't mean to say something weird!"
-    m 1l ""
+    m 1l "¡Perdona, ha quedado un tanto extraño!"
 
 # game/script-ch22.rpy:649
 translate spanish ch22_end_e552ed88:
 
     # m 1e "There are just some things I've been hoping to talk about with you..."
-    m 1e ""
+    m 1e "Es que hay algunas cosas que quería hablar contigo."
 
 # game/script-ch22.rpy:650
 translate spanish ch22_end_d1080c20:
 
     # m "Things I know only you could understand."
-    m ""
+    m "Cosas que solo tú puedes entender."
 
 # game/script-ch22.rpy:656
 translate spanish ch22_end_b290e9fb:
 
     # m "So that's why--\"{space=5000}{w=0.75}{nw}"
-    m ""
+    m "Por eso...\"{space=5000}{w=0.75}{nw}"
 
 # game/script-ch22.rpy:657
 translate spanish ch22_end_fac3f0f0:
 
     # m 1g "Wait, not yet!\"{space=5000}{w=0.5}{nw}"
-    m 1g ""
+    m 1g "¡Espera, aún no!\"{space=5000}{w=0.5}{nw}"
 
 # game/script-ch22.rpy:658
 translate spanish ch22_end_13ae2bd2:
 
     # m "No!\"{space=5000}{w=0.5}{nw}"
-    m ""
+    m "¡No!\"{space=5000}{w=0.5}{nw}"
 
 # game/script-ch22.rpy:659
 translate spanish ch22_end_22e3a165:
 
     # m "Stop it!\"{space=5000}{w=1.0}{nw}"
-    m ""
+    m "¡Para!\"{space=5000}{w=1.0}{nw}"
 
