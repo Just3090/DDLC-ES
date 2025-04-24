@@ -1228,7 +1228,7 @@ translate spanish ch22_end_cf98f760:
 translate spanish ch22_end_1dc6b489:
 
     # n 4w "Sorry, but you're really the only one who's so interested in finding new members."
-    n 4w "Lo siento, pero eres la única interesada en reclutar nuevos miembros.
+    n 4w "Lo siento, pero eres la única interesada en reclutar nuevos miembros."
 
 # game/script-ch22.rpy:422
 translate spanish ch22_end_e29549e3:
