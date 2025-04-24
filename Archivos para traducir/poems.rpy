@@ -332,16 +332,16 @@ Por ti, por ti, por ti."""
     author = "natsuki",
     title = "",
     text = """\
-No sé cómo sacar este tema, pero hay algo que me preocupa mucho.
-Yuri ha estado actuando de forma extraña últimamente. Solo llevas aquí unos días, así que quizá no sepas a qué me refiero. Pero ella no suele ser así. Siempre ha sido tranquila, educada y atenta... cosas así.
+No sé de qué otra manera sacar esto. Pero hay algo que me preocupa últimamente.
+Yuri lleva un tiempo comportándose de forma extraña. Solo llevas aquí unos días y a lo mejor no entiendes lo que digo. Pero normalmente no así. Siempre ha sido callada, educada y atenta... Esa es su personalidad.
 
-Esto es realmente embarazoso, pero me estoy obligando a afrontarlo. La verdad es que estoy REALMENTE preocupada por ella. Pero si intento hablar con ella, solo se enfadará conmigo otra vez. No sé qué hacer. Creo que eres la única persona a la que ella escucharía. No sé por qué, pero por favor, intenta hacer algo. Quizá puedas convencerla de que hable con un terapeuta.
+Vale... Esto da un poco de vergüenza, pero me obligaré a superarlo. Lo cierto es que estoy MUY preocupada por ella. Pero si intento que hablemos, se enfadará conmigo otra vez. No sé qué hacer. Creo que eres la única persona a la que escuchará. No sé por qué. Pero intenta hacer algo, por favor. Quizá puedas convencerla para que hable con un profesional.
 
-Siempre he querido intentar ser mejor amiga de Yuri, y me duele mucho verla así. Sé que me odiaré más tarde por admitir esto, pero ahora mismo no me importa. Me siento tan impotente. Por favor, mira si puedes hacer algo para ayudarla. No quiero que le pase nada malo. Haré cupcakes si es necesario. Solo, por favor, intenta hacer algo.
+Siempre he querido hacerme más amiga de Yuri y me duele ver lo que está pasando. Sé que después me odiaré a mí misma por admitirlo, pero ahora mismo me da igual. Me siento tan inútil. Por favor, intenta ayudarla de alguna manera. No quiero que le pase nada. Te haré cupcakes si quieres. Pero haz algo, por favor.
 
-En cuanto a Monika... No sé por qué, pero ha estado muy indiferente sobre esto. Es como si quisiera que lo ignoremos. Estoy enfadada con ella ahora mismo, y por eso vengo a ti con esto.
+En cuando a Monika... No sé por qué, pero no deja de quitarle importancia a todo esto. Es como si quisiera que pasásemos de todo. Así que estoy enfadada con ella y por eso recurro a ti.
 
-¡¡¡NO LE DIGAS QUE TE ESCRIBÍ ESTO!!! Solo finge que te di un poema realmente bueno, ¿de acuerdo? Confío en ti. Gracias por leer."""
+¡¡¡NO LE DIGAS QUE HE ESCRITO NADA DE ESTO!!! Tú haz como si te hubiera dado un poema buenísimo, ¿vale? Cuento contigo. Gracias por leer mi mensaje."""
     )
 
     poem_s1_spanish = Poem(
@@ -359,7 +359,7 @@ Miro hacia arriba. El cielo es azul.
 Es un secreto, pero yo también confío en ti.
 
 Si no fuera por ti, podría dormir para siempre.
-Pero no estoy enfadado.
+Pero no estoy enfadada.
 
 Quiero desayunar."""
     )
