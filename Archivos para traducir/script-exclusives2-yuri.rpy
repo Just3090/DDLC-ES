@@ -2596,473 +2596,473 @@ translate spanish yuri_exclusive2_2_ch23_7461c080:
 translate spanish yuri_exclusive2_2_ch23_a1300026:
 
     # y "Um..."
-    y ""
+    y "Mmm..."
 
 # game/script-exclusives2-yuri.rpy:619
 translate spanish yuri_exclusive2_2_ch23_eaa24d5f:
 
     # y "Wait..."
-    y ""
+    y "Espera..."
 
 # game/script-exclusives2-yuri.rpy:620
 translate spanish yuri_exclusive2_2_ch23_e59a21cd:
 
     # y 2o "How did I..."
-    y 2o ""
+    y 2o "¿Cómo he...?"
 
 # game/script-exclusives2-yuri.rpy:621
 translate spanish yuri_exclusive2_2_ch23_a41c7fe0:
 
     # y 2y6 "...Sorry, I just had a really weird déjà vu..."
-    y 2y6 ""
+    y 2y6 "Lo siento, he tenido un déjà vu de lo más raro..."
 
 # game/script-exclusives2-yuri.rpy:622
 translate spanish yuri_exclusive2_2_ch23_43020291:
 
     # y "This hasn't happened before or anything...right?"
-    y ""
+    y "Esto no ha ocurrido ya en el pasado..., ¿no?"
 
 # game/script-exclusives2-yuri.rpy:623
 translate spanish yuri_exclusive2_2_ch23_cc28ec22:
 
     # y 2t "My head has been a little fuzzy lately..."
-    y 2t ""
+    y 2t "Últimamente, tengo la cabeza un poco embotada..."
 
 # game/script-exclusives2-yuri.rpy:624
 translate spanish yuri_exclusive2_2_ch23_c581930f:
 
     # y 3t "I hope it hasn't really been showing or anything!"
-    y 3t ""
+    y 3t "¡Espero que no se me haya notado mucho!"
 
 # game/script-exclusives2-yuri.rpy:625
 translate spanish yuri_exclusive2_2_ch23_3aa2ff40:
 
     # y "I would hate for you to think I'm weird just after we started spending time together..."
-    y ""
+    y "No me gustaría que pensases que soy rara justo ahora, que estamos empezando a pasar tiempo juntos..."
 
 # game/script-exclusives2-yuri.rpy:626
 translate spanish yuri_exclusive2_2_ch23_e70a97ca:
 
     # y "I mean..."
-    y ""
+    y "A ver..."
 
 # game/script-exclusives2-yuri.rpy:649
 translate spanish yuri_exclusive2_2_ch23_2cbb2905:
 
     # y "Everyone has a few unusual things about them."
-    y ""
+    y "Todo el mundo tiene sus cosillas."
 
 # game/script-exclusives2-yuri.rpy:650
 translate spanish yuri_exclusive2_2_ch23_ca668879:
 
     # y 1v "But expressing those things so soon after meeting someone is usually seen as inappropriate...or unlikable."
-    y 1v ""
+    y 1v "Sin embargo, mostrarlas cuando acabas de conocer a alguien suele considerarse una actitud inapropiada... o que podría generar rechazo en los demás."
 
 # game/script-exclusives2-yuri.rpy:651
 translate spanish yuri_exclusive2_2_ch23_ef82f4ff:
 
     # y "At least, that's what I've discovered."
-    y ""
+    y "Por lo menos, eso es lo que me he encontrado yo toda la vida."
 
 # game/script-exclusives2-yuri.rpy:652
 translate spanish yuri_exclusive2_2_ch23_738f216d:
 
     # y "When I was a bit younger, I think I would come on really strongly and get a little too intense..."
-    y ""
+    y "Cuando era joven, creo que iba demasiado a saco y me ponía demasiado intensita..."
 
 # game/script-exclusives2-yuri.rpy:653
 translate spanish yuri_exclusive2_2_ch23_6f9e2416:
 
     # y "It made people not want to be around me."
-    y ""
+    y "Como consecuencia, la gente me rehuía."
 
 # game/script-exclusives2-yuri.rpy:654
 translate spanish yuri_exclusive2_2_ch23_3a913476:
 
     # y 2w "So...I started hating those things about myself."
-    y 2w ""
+    y 2w "Y a raíz de eso..., empecé a odiar esos aspectos de mi personalidad."
 
 # game/script-exclusives2-yuri.rpy:655
 translate spanish yuri_exclusive2_2_ch23_a8f348de:
 
     # y "My obsession with certain hobbies."
-    y ""
+    y "Como, por ejemplo, mi obsesión con ciertas aficiones."
 
 # game/script-exclusives2-yuri.rpy:656
 translate spanish yuri_exclusive2_2_ch23_44f7a0aa:
 
     # y "And the way I can't control myself when I get too excited about something."
-    y ""
+    y "O cómo me cuesta controlarme cuando me emociono demasiado por algo."
 
 # game/script-exclusives2-yuri.rpy:657
 translate spanish yuri_exclusive2_2_ch23_87f9f194:
 
     # y "So..."
-    y ""
+    y "Pues..."
 
 # game/script-exclusives2-yuri.rpy:658
 translate spanish yuri_exclusive2_2_ch23_89d13a9a:
 
     # y 1v "I eventually stopped trying to talk to people."
-    y 1v ""
+    y 1v "con el tiempo, acabé dejando de intentar hablar con la gente."
 
 # game/script-exclusives2-yuri.rpy:659
 translate spanish yuri_exclusive2_2_ch23_381c8c0e:
 
     # y "If nobody could ever like me for the things that matter most to me..."
-    y ""
+    y "Total, si nadie me iba a apreciar por las cosas que más me importan en esta vida...,"
 
 # game/script-exclusives2-yuri.rpy:660
 translate spanish yuri_exclusive2_2_ch23_4c886802:
 
     # y 1u "...Then it's just easier if I close myself off."
-    y 1u ""
+    y 1u "pues es más fácil encerrarme en mí misma y ya."
 
 # game/script-exclusives2-yuri.rpy:661
 translate spanish yuri_exclusive2_2_ch23_54893c14:
 
     # y 1h "But recently, something's been wrong."
-    y 1h ""
+    y 1h "Sin embargo, últimamente pasa algo raro,"
 
 # game/script-exclusives2-yuri.rpy:662
 translate spanish yuri_exclusive2_2_ch23_395e518a:
 
     # y "I don't know what it is."
-    y ""
+    y "aunque no consigo saber de qué se trata."
 
 # game/script-exclusives2-yuri.rpy:663
 translate spanish yuri_exclusive2_2_ch23_9d91c401:
 
     # y 2y6 "But every time we come to the club, my heart starts to go crazy."
-    y 2y6 ""
+    y 2y6 "Cada vez que venimos al club, el corazón se me desboca."
 
 # game/script-exclusives2-yuri.rpy:664
 translate spanish yuri_exclusive2_2_ch23_a1554ded:
 
     # y "Like it's going to rip out of my chest."
-    y ""
+    y "Es como si se me fuese a salir del pecho."
 
 # game/script-exclusives2-yuri.rpy:665
 translate spanish yuri_exclusive2_2_ch23_5b616b7e:
 
     # y "It overwhelms me with energy and emotions that I can't let out."
-    y ""
+    y "Me veo desbordante de energía y emociones que no puedo exteriorizar..."
 
 # game/script-exclusives2-yuri.rpy:666
 translate spanish yuri_exclusive2_2_ch23_02da2bfb:
 
     # y "It's been making me do weird things."
-    y ""
+    y "Es algo que me impulsa a hacer cosas raras."
 
 # game/script-exclusives2-yuri.rpy:667
 translate spanish yuri_exclusive2_2_ch23_f6492765:
 
     # y 2t "I don't know why it's happening!"
-    y 2t ""
+    y 2t "¡Pero no sé a qué se debe!"
 
 # game/script-exclusives2-yuri.rpy:669
 translate spanish yuri_exclusive2_2_ch23_35c52eb9:
 
     # y 1t "[player]..."
-    y 1t ""
+    y 1t "[player]..."
 
 # game/script-exclusives2-yuri.rpy:670
 translate spanish yuri_exclusive2_2_ch23_7c954359:
 
     # y "Is it just me, or has Monika been acting a little off lately?"
-    y ""
+    y "¿Es cosa mía o Monika se ha estado comportando de forma un tanto rara últimamente?"
 
 # game/script-exclusives2-yuri.rpy:671
 translate spanish yuri_exclusive2_2_ch23_a00a2313:
 
     # y 1v "She's always been a sweetheart ever since I joined the club..."
-    y 1v ""
+    y 1v "Ha sido un amor desde el día que me uní al club..."
 
 # game/script-exclusives2-yuri.rpy:672
 translate spanish yuri_exclusive2_2_ch23_ff2cf4af:
 
     # y "But recently, I've been feeling something sharp whenever she's around."
-    y ""
+    y "Pero, últimamente, tengo una sensación muy rara cuando la tengo cerca."
 
 # game/script-exclusives2-yuri.rpy:673
 translate spanish yuri_exclusive2_2_ch23_fef409f9:
 
     # y 2y4 "I'm not crazy, right?"
-    y 2y4 ""
+    y 2y4 "Dime que no estoy loca, por favor."
 
 # game/script-exclusives2-yuri.rpy:674
 translate spanish yuri_exclusive2_2_ch23_e36cb463:
 
     # y 2y1 "Please tell me I'm not!"
-    y 2y1 ""
+    y 2y1 "¡Dime que no es cosa mía!"
 
 # game/script-exclusives2-yuri.rpy:675
 translate spanish yuri_exclusive2_2_ch23_a4b9217e:
 
     # y "I couldn't say anything before, because she's always listening!"
-    y ""
+    y "¡No te lo pude decir antes porque ella está siempre oyéndolo todo!"
 
 # game/script-exclusives2-yuri.rpy:676
 translate spanish yuri_exclusive2_2_ch23_aa31091b:
 
     # y 2y3 "But finally, we're alone..."
-    y 2y3 ""
+    y 2y3 "Ahora que por fin estamos a solas..."
 
 # game/script-exclusives2-yuri.rpy:677
 translate spanish yuri_exclusive2_2_ch23_a13c78e2:
 
     # y "Can we just stay here for a while?"
-    y ""
+    y "¿Podríamos quedarnos aquí un ratito?"
 
 # game/script-exclusives2-yuri.rpy:678
 translate spanish yuri_exclusive2_2_ch23_3cbd3d18:
 
     # y 1m "Yeah..."
-    y 1m ""
+    y 1m "Sí..."
 
 # game/script-exclusives2-yuri.rpy:679
 translate spanish yuri_exclusive2_2_ch23_71a86863:
 
     # y "..."
-    y ""
+    y "..."
 
 # game/script-exclusives2-yuri.rpy:697
 translate spanish yuri_exclusive2_2_ch23_4feeb32b:
 
     # y 1s "I just want to stay here."
-    y 1s ""
+    y 1s "Tan solo quiero estar aquí un rato."
 
 # game/script-exclusives2-yuri.rpy:700
 translate spanish yuri_exclusive2_2_ch23_e5b9c767:
 
     # y "Just the two of us."
-    y ""
+    y "Solo nosotros dos."
 
 # game/script-exclusives2-yuri.rpy:703
 translate spanish yuri_exclusive2_2_ch23_7765130f:
 
     # y "We can stay here until the club ends."
-    y ""
+    y "Podríamos quedarnos aquí hasta que cierre el club."
 
 # game/script-exclusives2-yuri.rpy:706
 translate spanish yuri_exclusive2_2_ch23_9cd0b4f3:
 
     # y 1m "And then we'll have the clubroom all to ourselves."
-    y 1m ""
+    y 1m "Así, tendríamos el aula toda para nosotros."
 
 # game/script-exclusives2-yuri.rpy:709
 translate spanish yuri_exclusive2_2_ch23_66f5f2c5:
 
     # y "Nobody to interfere with our reading time."
-    y ""
+    y "Sin nadie que interfiera en nuestro tiempo de lectura."
 
 # game/script-exclusives2-yuri.rpy:712
 translate spanish yuri_exclusive2_2_ch23_c8630bd0:
 
     # y 1y4 "Nobody to make me feel like stabbing myself in the throat."
-    y 1y4 ""
+    y 1y4 "Sin nadie que me haga tener ganas de clavarme algo en la garganta."
 
 # game/script-exclusives2-yuri.rpy:715
 translate spanish yuri_exclusive2_2_ch23_005963c5:
 
     # y 1q "Ahaha..."
-    y 1q ""
+    y 1q "Ja, ja, ja."
 
 # game/script-exclusives2-yuri.rpy:718
 translate spanish yuri_exclusive2_2_ch23_d51fbac1:
 
     # y "That was a joke!"
-    y ""
+    y "¡Eso tan solo era una broma!"
 
 # game/script-exclusives2-yuri.rpy:721
 translate spanish yuri_exclusive2_2_ch23_f1b4cee4:
 
     # y "Just a joke."
-    y ""
+    y "Tan solo era una broma..."
 
 # game/script-exclusives2-yuri.rpy:724
 translate spanish yuri_exclusive2_2_ch23_5f26be37:
 
     # y 1i "I do like knives, though..."
-    y 1i ""
+    y 1i "Aunque me gustan los cuchillos, eso sí..."
 
 # game/script-exclusives2-yuri.rpy:727
 translate spanish yuri_exclusive2_2_ch23_f22eb532:
 
     # y "It sounds strange, but you wouldn't understand if you've never seen how beautiful they can be."
-    y ""
+    y "Sé que suena raro decirlo, pero es imposible que lo entiendas si nunca has llegado a abrazar lo hermosos que pueden ser."
 
 # game/script-exclusives2-yuri.rpy:730
 translate spanish yuri_exclusive2_2_ch23_f28e832b:
 
     # y 1f "I have an idea."
-    y 1f ""
+    y 1f "Tengo una idea."
 
 # game/script-exclusives2-yuri.rpy:733
 translate spanish yuri_exclusive2_2_ch23_3a824372:
 
     # y "Why don't you come to my house sometime?"
-    y ""
+    y "¿Por qué no vienes a mi casa un día de estos?"
 
 # game/script-exclusives2-yuri.rpy:736
 translate spanish yuri_exclusive2_2_ch23_6889177e:
 
     # y 1y6 "I can show you my collection."
-    y 1y6 ""
+    y 1y6 "Así te puedo enseñar mi colección."
 
 # game/script-exclusives2-yuri.rpy:739
 translate spanish yuri_exclusive2_2_ch23_fb548a0a:
 
     # y "I've gotten them all from various artisans."
-    y ""
+    y "Tengo cuchillos de todo tipo, obra de artesanos de lo más variados."
 
 # game/script-exclusives2-yuri.rpy:742
 translate spanish yuri_exclusive2_2_ch23_80953160:
 
     # y 1a "I make sure to give them all their fair share of use."
-    y 1a ""
+    y 1a "Intento usarlos tanto como se merecen."
 
 # game/script-exclusives2-yuri.rpy:745
 translate spanish yuri_exclusive2_2_ch23_17db3fe0:
 
     # y 1m "I don't want them to get lonely or anything..."
-    y 1m ""
+    y 1m "No quiero que se sientan abandonados ni nada así, ¿sabes?"
 
 # game/script-exclusives2-yuri.rpy:748
 translate spanish yuri_exclusive2_2_ch23_cbb586c0:
 
     # y 1y6 "Nobody deserves to be lonely."
-    y 1y6 ""
+    y 1y6 "Nadie se merece sufrir la soledad."
 
 # game/script-exclusives2-yuri.rpy:751
 translate spanish yuri_exclusive2_2_ch23_dc605710:
 
     # y 1y4 "Nobody."
-    y 1y4 ""
+    y 1y4 "Nadie."
 
 # game/script-exclusives2-yuri.rpy:754
 translate spanish yuri_exclusive2_2_ch23_baa8fe98:
 
     # y 1c "And that's why I'm so happy you joined the Literature Club, [player]."
-    y 1c ""
+    y 1c "Y por eso me alegro tanto de que te hayas unido al club de literatura, [player]."
 
 # game/script-exclusives2-yuri.rpy:757
 translate spanish yuri_exclusive2_2_ch23_a3a8a9dc:
 
     # y 1a "Now we don't need to be lonely anymore."
-    y 1a ""
+    y 1a "Ahora ya nunca tendremos que estar solos,"
 
 # game/script-exclusives2-yuri.rpy:760
 translate spanish yuri_exclusive2_2_ch23_464732f9:
 
     # y "Because we have each other."
-    y ""
+    y "porque nos tenemos el uno al otro."
 
 # game/script-exclusives2-yuri.rpy:763
 translate spanish yuri_exclusive2_2_ch23_04a4a8fa:
 
     # y "Every day."
-    y ""
+    y "Estaremos juntos todos los días."
 
 # game/script-exclusives2-yuri.rpy:766
 translate spanish yuri_exclusive2_2_ch23_b39fee82:
 
     # y "That's all we need."
-    y ""
+    y "Es lo único que necesitamos."
 
 # game/script-exclusives2-yuri.rpy:769
 translate spanish yuri_exclusive2_2_ch23_74f96658:
 
     # y 1y6 "You know what?"
-    y 1y6 ""
+    y 1y6 "¿Sabes qué?"
 
 # game/script-exclusives2-yuri.rpy:772
 translate spanish yuri_exclusive2_2_ch23_5b22e0ca:
 
     # y "Let's quit the Literature Club."
-    y ""
+    y "Deberíamos dejar el club de literatura."
 
 # game/script-exclusives2-yuri.rpy:775
 translate spanish yuri_exclusive2_2_ch23_7eac0191:
 
     # y "There's no need for us to be around Monika's slimy tongue anymore."
-    y ""
+    y "No veo motivo alguno para seguir cerca de esa lenguaraz de Monika."
 
 # game/script-exclusives2-yuri.rpy:778
 translate spanish yuri_exclusive2_2_ch23_1bda629e:
 
     # y 1y4 "Not to mention that other pathetic child."
-    y 1y4 ""
+    y 1y4 "Por no hablar de esa otra niñata patética..."
 
 # game/script-exclusives2-yuri.rpy:781
 translate spanish yuri_exclusive2_2_ch23_a56f179c:
 
     # y 1s "We can walk home together every day after school."
-    y 1s ""
+    y 1s "Así, podríamos irnos a casa juntos todos los días después de clase."
 
 # game/script-exclusives2-yuri.rpy:784
 translate spanish yuri_exclusive2_2_ch23_2a27761b:
 
     # y "And read together."
-    y ""
+    y "Y leer juntos."
 
 # game/script-exclusives2-yuri.rpy:787
 translate spanish yuri_exclusive2_2_ch23_09d3f053:
 
     # y 1m "Eat together."
-    y 1m ""
+    y 1m "Comer juntos."
 
 # game/script-exclusives2-yuri.rpy:790
 translate spanish yuri_exclusive2_2_ch23_4d3956a3:
 
     # y "Sleep together."
-    y ""
+    y "Dormir juntos."
 
 # game/script-exclusives2-yuri.rpy:793
 translate spanish yuri_exclusive2_2_ch23_3c4f300f:
 
     # y 1s "Doesn't that sound perfect?"
-    y 1s ""
+    y 1s "¿A que suena perfecto?"
 
 # game/script-exclusives2-yuri.rpy:796
 translate spanish yuri_exclusive2_2_ch23_1f89728f:
 
     # y "It's everything we could ever want."
-    y ""
+    y "No le podríamos pedir nada más a la vida."
 
 # game/script-exclusives2-yuri.rpy:799
 translate spanish yuri_exclusive2_2_ch23_9ada9c67:
 
     # y 1a "Isn't that why you joined the club in the first place?"
-    y 1a ""
+    y 1a "¿Acaso no fue por eso por lo que te uniste al club?"
 
 # game/script-exclusives2-yuri.rpy:802
 translate spanish yuri_exclusive2_2_ch23_76ed8bee:
 
     # y "It's almost like it was fate."
-    y ""
+    y "Siento que ha sido todo cosa del destino."
 
 # game/script-exclusives2-yuri.rpy:805
 translate spanish yuri_exclusive2_2_ch23_0805f258:
 
     # y "Fate that we would meet each other."
-    y ""
+    y "Estaba predestinado que nos íbamos a conocer."
 
 # game/script-exclusives2-yuri.rpy:808
 translate spanish yuri_exclusive2_2_ch23_ae9873ce:
 
     # y "And now we get the happy ending that I've patiently waited years for."
-    y ""
+    y "Ahora, por fin podremos tener el final feliz por el que he esperado pacientemente durante tantos años."
 
 # game/script-exclusives2-yuri.rpy:811
 translate spanish yuri_exclusive2_2_ch23_ab92186d:
 
     # y "Will you do that with me, [player]?"
-    y ""
+    y "¿Quieres que lo hagamos, [player]?"
 
 # game/script-exclusives2-yuri.rpy:815
 translate spanish yuri_exclusive2_2_ch23_993e4d8e:
 
     # y "Will{space=60}[gtext]{nw}"
-    y ""
+    y "¿Quieres{space=60}[gtext]{nw}"
 
