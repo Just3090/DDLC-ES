@@ -10,13 +10,13 @@ translate spanish splashscreen_f490803a:
 translate spanish splashscreen_365de68f:
 
     # "This game is not suitable for children or those who are easily disturbed."
-    "Este juego no es adecuado para niños ni personas sensibles o impresionables."
+    "Este juego incluye contenido perturbador, por lo que no es adecuado para niños ni personas sensibles o impresionables."
 
 # game/splash.rpy:322
 translate spanish splashscreen_b895d9b1:
 
     # "Individuals suffering from anxiety or depression may not have a safe experience playing this game. For content warnings, please visit: http://ddlc.moe/warning.html"
-    "Las personas que sufran de ansiedad o depresión pueden no disfrutar de una experiencia reconfortante jugando este juego. Para consultar los avisos de contenido, visita: http://ddlc.moe/warning.html"
+    "Alguien que padezca de ansiedad o depresión podría sufrir una experiencia negativa jugando a este juego. Para consultar los avisos de contenido, visita: http://ddlc.moe/warning.html"
 
 # game/splash.rpy:555
 translate spanish after_load_78a4e9dc:
