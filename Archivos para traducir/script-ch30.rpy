@@ -6606,3 +6606,65 @@ translate spanish ch30_56_8e50647f:
     # m "I really don't..."
     m ""
 
+# TODO: Translation updated at 2025-04-24 20:01
+
+# game/script-ch30.rpy:317
+translate spanish ch30_main2_a29e57d6:
+
+    # m "Well, you're playing on Windows, so it was actually a bit more difficult..."
+    m ""
+
+# game/script-ch30.rpy:318
+translate spanish ch30_main2_8e063b99:
+
+    # m "You need to locate the game directory, characters dir..."
+    m ""
+
+# game/script-ch30.rpy:324
+translate spanish ch30_main2_caf15850:
+
+    # m "Well, you're on a Android, so it was actually a bit more difficult.."
+    m ""
+
+# game/script-ch30.rpy:325
+translate spanish ch30_main2_95c30b55:
+
+    # m "To go into the game directory, you have to find the directory 'data/data/com.just6889port.ddlc/files/characters'."
+    m ""
+
+# game/script-ch30.rpy:326
+translate spanish ch30_main2_0227a652:
+
+    # m "But, to modify the files you need root acces."
+    m ""
+
+# game/script-ch30.rpy:327
+translate spanish ch30_main2_86d96467:
+
+    # m "In the settings screen there is a button to delete something..."
+    m ""
+
+# game/script-ch30.rpy:825
+translate spanish ch30_reload_2_4294f4f0:
+
+    # m "Well, you're playing on Windows, so you can just go into the game folder and find the characters dir."
+    m ""
+
+# game/script-ch30.rpy:830
+translate spanish ch30_reload_2_8f84243d:
+
+    # m "Since you're on a Android, just be sure to avoid touching anything you shouldn't, okay?"
+    m ""
+
+# game/script-ch30.rpy:850
+translate spanish ch30_reload_4_4294f4f0:
+
+    # m "Well, you're playing on Windows, so you can just go into the game folder and find the characters dir."
+    m ""
+
+# game/script-ch30.rpy:855
+translate spanish ch30_reload_4_8f84243d:
+
+    # m "Since you're on a Android, just be sure to avoid touching anything you shouldn't, okay?"
+    m ""
+
