@@ -3,26 +3,26 @@ translate spanish strings:
     # galley and music menu
 
     old "Previous"
-    new ""
+    new "Anterior"
 
     old "Next"
-    new ""
+    new "Siguiente"
 
     # music menu
 
     old "Play"
-    new ""
+    new "Reproducir"
 
     old "Pause"
-    new ""
+    new "Pausar"
 
     old "Playing:"
-    new ""
+    new "Reproduciendo:"
 
     # random stuff to translate:
 
     old "Who should I show my poem to first?"
-    new ""
+    new "¿A quién le enseño mi poema primero?"
 
     old "Who should I show my poem to next?"
-    new ""
+    new "¿A quién le enseño ahora mi poema?"
