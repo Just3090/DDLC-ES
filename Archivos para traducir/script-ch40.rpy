@@ -1528,163 +1528,163 @@ translate spanish ch40_main_202ffda4:
 translate spanish ch40_clearnormal_7ccd759f:
 
     # s "I wanted to thank you for getting rid of Monika."
-    s ""
+    s "También te agradezco que te hayas librado de Monika."
 
 # game/script-ch40.rpy:459
 translate spanish ch40_clearnormal_7b77cef2:
 
     # s 1b "That's right..."
-    s 1b ""
+    s 1b "Sí, cieeto..."
 
 # game/script-ch40.rpy:460
 translate spanish ch40_clearnormal_885c1c89:
 
     # s "I know everything that she did."
-    s ""
+    s "Estoy al tanto de todas sus tropelías."
 
 # game/script-ch40.rpy:461
 translate spanish ch40_clearnormal_002a8efc:
 
     # s 1x "Maybe it's because I'm the President now."
-    s 1x ""
+    s 1x "Quizá se deba al hecho de que ahora soy yo la presidenta."
 
 # game/script-ch40.rpy:462
 translate spanish ch40_clearnormal_e6699bdd:
 
     # s "But I really know everything, [player]."
-    s ""
+    s "[player], créeme cuando digo que lo sé todo."
 
 # game/script-ch40.rpy:463
 translate spanish ch40_clearnormal_4fe8273d:
 
     # s 1q "Ehehe~"
-    s 1q ""
+    s 1q "Je, je, je."
 
 # game/script-ch40.rpy:464
 translate spanish ch40_clearnormal_76bfc1fb:
 
     # s 1d "I know how hard you tried to make everyone happy."
-    s 1d ""
+    s 1d "Sé lo mucho que te has esforzado para que todas estemos contentas."
 
 # game/script-ch40.rpy:465
 translate spanish ch40_clearnormal_9542c607:
 
     # s "I know about all of the awful things that Monika did to make everyone really sad..."
-    s ""
+    s "Sé la de atrocidades que Monika nos ha hecho para fastidiarnos."
 
 # game/script-ch40.rpy:466
 translate spanish ch40_clearnormal_6da97eb6:
 
     # s 1b "But none of that matters anymore."
-    s 1b ""
+    s 1b "Pero ya no importa."
 
 # game/script-ch40.rpy:467
 translate spanish ch40_clearnormal_448b97df:
 
     # s "It's just us now.{nw}"
-    s ""
+    s "Ahora solo quedamos nosotros.{nw}"
 
 # game/script-ch40.rpy:482
 translate spanish ch40_clearnormal_a33c2035:
 
     # s "It's just us now.{fast}"
-    s ""
+    s "Ahora solo quedamos nosotros.{fast}"
 
 # game/script-ch40.rpy:484
 translate spanish ch40_clearnormal_55730271:
 
     # s 1d "And you made me the happiest girl in the whole world."
-    s 1d ""
+    s 1d "Y me has hecho la chica más feliz de la tierra."
 
 # game/script-ch40.rpy:485
 translate spanish ch40_clearnormal_3dc32bca:
 
     # s "I can't wait to spend every day like this..."
-    s ""
+    s "Qué ganas tengo de pasar cada día así..."
 
 # game/script-ch40.rpy:486
 translate spanish ch40_clearnormal_125bc8cb:
 
     # s "With you."
-    s ""
+    s "Contigo a mi lado."
 
 # game/script-ch40.rpy:499
 translate spanish ch40_clearnormal_3e7dcf81:
 
     # s 1q "Forever and ever..."
-    s 1q ""
+    s 1q "Eternamente..."
 
 # game/script-ch40.rpy:502
 translate spanish ch40_clearnormal_8c4452f1:
 
     # s "F"
-    s ""
+    s "E"
 
 # game/script-ch40.rpy:503
 translate spanish ch40_clearnormal_2be9a6aa:
 
     # s "o"
-    s ""
+    s "t"
 
 # game/script-ch40.rpy:504
 translate spanish ch40_clearnormal_4a0af362:
 
     # s "r"
-    s ""
+    s "e"
 
 # game/script-ch40.rpy:510
 translate spanish ch40_clearnormal_19f106c1:
 
     # s "e"
-    s ""
+    s "r"
 
 # game/script-ch40.rpy:511
 translate spanish ch40_clearnormal_96103152:
 
     # s "v"
-    s ""
+    s "n"
 
 # game/script-ch40.rpy:512
 translate spanish ch40_clearnormal_19f106c1_1:
 
     # s "e"
-    s ""
+    s "a"
 
 # game/script-ch40.rpy:519
 translate spanish ch40_clearnormal_c209040d:
 
     # s "...Eh?"
-    s ""
+    s "¿Eh?"
 
 # game/script-ch40.rpy:520
 translate spanish ch40_clearnormal_98e66791:
 
     # s "W-What's happening...?"
-    s ""
+    s "¿Qué está pasando?..."
 
 # game/script-ch40.rpy:522
 translate spanish ch40_clearnormal_e5a493e9:
 
     # s "Who..."
-    s ""
+    s "¿Quién...?"
 
 # game/script-ch40.rpy:523
 translate spanish ch40_clearnormal_0b07019b:
 
     # s "I-It hurts--"
-    s ""
+    s "D-Duele..."
 
 # game/script-ch40.rpy:532
 translate spanish ch40_clearnormal_57cb4d56:
 
     # s "Ah--"
-    s ""
+    s "Ah..."
 
 # game/script-ch40.rpy:539
 translate spanish ch40_clearnormal_45bacf8a:
 
     # s "[gtext]{nw}"
-    s ""
+    s "[gtext]{nw}"
 
 # game/script-ch40.rpy:551
 translate spanish ch40_clearall_fda76630:
@@ -1844,11 +1844,11 @@ translate spanish strings:
 
     # game/script-ch40.rpy:535
     old "I'm sorry... I was wrong."
-    new "Lo siento... Me equivoqué."
+    new "Lo siento... Me he equivocado."
 
     # game/script-ch40.rpy:537
     old "There's no happiness here after all..."
-    new "Después de todo, la felicidad no existe en este lugar..."
+    new "La felicidad no tiene cabida aquí..."
 
     # game/script-ch40.rpy:539
     old "Goodbye, Sayori."
