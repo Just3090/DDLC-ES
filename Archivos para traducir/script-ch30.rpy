@@ -634,7 +634,7 @@ translate spanish ch30_main2_3a2d419e:
 translate spanish ch30_main2_fdc1263a:
 
     # m "We can be together forever."
-    m "Podemos estae juntos para siempre."
+    m "Podemos estar juntos para siempre."
 
 # game/script-ch30.rpy:310
 translate spanish ch30_main2_9c850044:
