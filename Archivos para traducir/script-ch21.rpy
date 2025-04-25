@@ -892,7 +892,7 @@ translate spanish ch21_end_c64d04ee:
 translate spanish ch21_end_d2e9959c:
 
     # "Suddenly, Yuri turns toward me, as if she just noticed I was standing here."
-    "De repente, Yuri se hacia mí, como si se acabara de percatar de mi presencia."
+    "De repente, Yuri se gira hacia mí, como si se acabara de percatar de mi presencia."
 
 # game/script-ch21.rpy:265
 translate spanish ch21_end_1e4f93b8:
