@@ -2752,7 +2752,7 @@ translate spanish ch2_end_23cc3e2e:
 translate spanish ch2_end_b3a4b9d7:
 
     # n 2q "But when it's just my friends..."
-    n 2q "Pero cuandi tengo delante a mis amigas..."
+    n 2q "Pero cuando tengo delante a mis amigas..."
 
 # game/script-ch2.rpy:754
 translate spanish ch2_end_4ffc8529:

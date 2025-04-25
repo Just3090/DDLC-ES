@@ -396,7 +396,7 @@ translate spanish strings:
 
     # renpy/common/00keymap.rpy:325
     old "Failed to save screenshot as %s."
-    new "¿Falló al guardar la captura de pantalla como %s?"
+    new "Error al guardar la captura de pantalla como %s."
 
     # renpy/common/00keymap.rpy:346
     old "Saved screenshot as %s."

@@ -12,7 +12,7 @@ translate spanish strings:
 
     # game/credits.rpy:572
     old "n_cg1.png deleted successfully."
-    new "n_cg1.png eliminado con éxito.."
+    new "n_cg1.png eliminado con éxito."
 
     # game/credits.rpy:585
     old "n_cg2.png deleted successfully."
@@ -68,5 +68,5 @@ translate spanish strings:
 
     # game/credits.rpy:732
     old "Error: Script file is missing or corrupt.\nPlease reinstall the game."
-    new "Error: el script se ha eliminado o está corrupto.\nPor favor, reinstala el juego."
+    new "Error: El script se ha eliminado o está corrupto.\nPor favor, reinstala el juego."
 

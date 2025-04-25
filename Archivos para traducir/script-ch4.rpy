@@ -58,7 +58,7 @@ translate spanish ch4_main_54fc51cb:
 translate spanish ch4_main_533ca6d9:
 
     # "I've been getting increasingly anxious about Yuri's upcoming visit."
-    "Estoy cada vez más nevioso por la visita de Yuri."
+    "Estoy cada vez más nervioso por la visita de Yuri."
 
 # game/script-ch4.rpy:20
 translate spanish ch4_main_1e3fd2be_1:
@@ -100,7 +100,7 @@ translate spanish ch4_main_3adbf0d5:
 translate spanish ch4_main_e9699a3e:
 
     # "I haven't heard a thing from Sayori since she left club early the other day."
-    "no he sabido nada de Sayori desde el otro día, cuando se marchó termprano del club."
+    "no he sabido nada de Sayori desde el otro día, cuando se marchó temprano del club."
 
 # game/script-ch4.rpy:27
 translate spanish ch4_main_25706431:
@@ -340,7 +340,7 @@ translate spanish ch4_main_755e2699:
 translate spanish ch4_main_95fc3bb8:
 
     # mc "Ah, so it's just me and [ch4_name], then..."
-    mc "Entonces, los únicos que hemnos quedado en persona somos [ch4_name] y yo..."
+    mc "Entonces, los únicos que hemos quedado en persona somos [ch4_name] y yo..."
 
 # game/script-ch4.rpy:76
 translate spanish ch4_main_df50d1be:
@@ -634,7 +634,7 @@ translate spanish ch4_main_068d9aad:
 translate spanish ch4_main_b9a43929:
 
     # s "I've had really bad depression my whole life."
-    s "he estado lidiando con una depresión bastante fuerte toda mi vida."
+    s "He estado lidiando con una depresión bastante fuerte toda mi vida."
 
 # game/script-ch4.rpy:127
 translate spanish ch4_main_54937bac:
@@ -2020,7 +2020,7 @@ translate spanish ch4_exclusive_natsuki_43c527f1:
 translate spanish ch4_exclusive_natsuki_6f531a13:
 
     # "Natsuki smiles deviously."
-    "Batsuki sonríe con malicia."
+    "Natsuki sonríe con malicia."
 
 # game/script-ch4.rpy:376
 translate spanish ch4_exclusive_natsuki_488fc279:
@@ -3142,7 +3142,7 @@ translate spanish ch4_exclusive_natsuki_f50b65ff:
 translate spanish ch4_exclusive_natsuki_bfd3cdaa:
 
     # mc "And she would still eat dinner."
-    mc "Y aún tendría espacio paa la cena."
+    mc "Y aún tendría espacio para la cena."
 
 # game/script-ch4.rpy:588
 translate spanish ch4_exclusive_natsuki_588a5445:
@@ -3706,7 +3706,7 @@ translate spanish ch4_exclusive_yuri_c2f0d2a5:
 translate spanish ch4_exclusive_yuri_5bc7b00f:
 
     # mc "Were you waiting for a long time?"
-    mc "¿LLevas mucho rato esperando?"
+    mc "¿Llevas mucho rato esperando?"
 
 # game/script-ch4.rpy:707
 translate spanish ch4_exclusive_yuri_41ee4e0d:
@@ -3754,7 +3754,7 @@ translate spanish ch4_exclusive_yuri_2657ff20:
 translate spanish ch4_exclusive_yuri_96b4e74a:
 
     # mc "Anyway...let's go inside."
-    mc "Muy bien, ¿entramos?ª"
+    mc "Muy bien, ¿entramos?"
 
 # game/script-ch4.rpy:715
 translate spanish ch4_exclusive_yuri_a88731d1:

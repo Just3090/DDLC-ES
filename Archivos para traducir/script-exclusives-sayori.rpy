@@ -2314,7 +2314,7 @@ translate spanish sayori_exclusive_2_dd3c98d4:
 translate spanish sayori_exclusive_2_723967cd:
 
     # "Sayori hops to her feet."
-    "Sayori se pone de pie un saltito."
+    "Sayori se pone de pie de un saltito."
 
 # game/script-exclusives-sayori.rpy:510
 translate spanish sayori_exclusive_2_5c3181d9:
@@ -2350,7 +2350,7 @@ translate spanish sayori_exclusive_2_d61cd406:
 translate spanish sayori_exclusive_2_ab004c1f:
 
     # mc "Anyway, let's go."
-    mc "venga, volvamos."
+    mc "Venga, volvamos."
 
 # game/script-exclusives-sayori.rpy:518
 translate spanish sayori_exclusive_2_272a0f53:

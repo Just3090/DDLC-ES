@@ -676,7 +676,7 @@ translate spanish yuri_exclusive2_1_ch22_79904e73:
 translate spanish yuri_exclusive2_1_ch22_ffe5cfa7:
 
     # "I realize that she's not actually looking at her own book."
-    "Mi fijo en que, en realidad, no está leyendo su libro."
+    "Me fijo en que, en realidad, no está leyendo su libro."
 
 # game/script-exclusives2-yuri.rpy:131
 translate spanish yuri_exclusive2_1_ch22_e241e6b4:

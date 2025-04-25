@@ -1102,7 +1102,7 @@ translate spanish ch22_end_0135757f:
 translate spanish ch22_end_13f2aecc:
 
     # n "We already have enough to be considered an official club."
-    n "Somos suficientes para que nos consideren un club odicial."
+    n "Somos suficientes para que nos consideren un club oficial."
 
 # game/script-ch22.rpy:396
 translate spanish ch22_end_2cc197fd:

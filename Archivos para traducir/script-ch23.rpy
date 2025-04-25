@@ -1672,7 +1672,7 @@ translate spanish yuri_kill_3_38b79e4c:
 translate spanish yuri_kill_3_19b43c0c:
 
     # m 2a "You know, before they stop existing and everything."
-    m 2a "Después de todo, pronto dejarán de exisitir."
+    m 2a "Después de todo, pronto dejarán de existir."
 
 # game/script-ch23.rpy:722
 translate spanish yuri_kill_3_0b28b069:

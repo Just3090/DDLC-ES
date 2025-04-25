@@ -706,7 +706,7 @@ translate spanish ch0_main_3049c3ae:
 translate spanish ch0_main_7c7cb783:
 
     # "We do know each other - well, we rarely talked, but we were in the same class last year."
-    "Nos concemos. Apenas hemos cruzado unas pocas palabras, pero el año pasado fuimos juntos a clase."
+    "Nos conocemos. Apenas hemos cruzado unas pocas palabras, pero el año pasado fuimos juntos a clase."
 
 # game/script-ch0.rpy:195
 translate spanish ch0_main_f583350f:

@@ -5782,7 +5782,7 @@ translate spanish ch30_44_f36e78f1:
 translate spanish ch30_44_377760a3:
 
     # m "I think I got pretty good at that over the years."
-    m "He conseguido que se me dé muy bien con el plaso de los años."
+    m "He conseguido que se me dé muy bien con el paso de los años."
 
 # game/script-ch30.rpy:1681
 translate spanish ch30_44_eea804ca:
@@ -5800,7 +5800,7 @@ translate spanish ch30_44_dc3e7c63:
 translate spanish ch30_44_6d3c0ed4:
 
     # m "I mean, when do you reach the point in a friendship where you can start expressing your vulnerabilities?"
-    m "Es decir, en una amistad, ¿a partir de qué punto puedes empezar a hablar de tus volnerabilidades?"
+    m "Es decir, en una amistad, ¿a partir de qué punto puedes empezar a hablar de tus vulnerabilidades?"
 
 # game/script-ch30.rpy:1684
 translate spanish ch30_44_11f2c61f:
@@ -6660,7 +6660,7 @@ translate spanish ch30_reload_2_8f84243d:
 translate spanish ch30_reload_4_4294f4f0:
 
     # m "Well, you're playing on Windows, so you can just go into the game folder and find the characters dir."
-    m "Aunque bueno, estás jugando en Windows. SOlo has de acceder a la carpeta del juego para encontrar la de los personajes."
+    m "Aunque bueno, estás jugando en Windows. Solo has de acceder a la carpeta del juego para encontrar la de los personajes."
 
 # game/script-ch30.rpy:855
 translate spanish ch30_reload_4_8f84243d:

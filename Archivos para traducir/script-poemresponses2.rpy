@@ -202,7 +202,7 @@ translate spanish ch22_n_end_81bb56c3:
 translate spanish ch22_n_end_ff0627ba:
 
     # n 5q "Something that you're afraid if people find out, they'd make fun of you or think less of you."
-    n 5q "ALgo que te dé miedo que la gente descubra por si se ríen de ti o se les cae la imagen que tengan de ti."
+    n 5q "Algo que te dé miedo que la gente descubra por si se ríen de ti o se les cae la imagen que tengan de ti."
 
 # game/script-poemresponses2.rpy:70
 translate spanish ch22_n_end_a24ab514:
@@ -1072,7 +1072,7 @@ translate spanish ch23_n_bad_shared_38cf2868:
 translate spanish ch23_n_bad_shared_12cacc14:
 
     # n "Spending all this time with her in the club..."
-    n "Pasas tanto tiempo con ella en erl club..."
+    n "Pasas tanto tiempo con ella en el club..."
 
 # game/script-poemresponses2.rpy:375
 translate spanish ch23_n_bad_shared_ca96819f:
@@ -1678,7 +1678,7 @@ translate spanish ch22_y_good_shared_0b22d8b2:
 translate spanish ch23_y_good_475d4e53:
 
     # y 1d "Finally..."
-    y 1d "´Por fin..."
+    y 1d "Por fin..."
 
 # game/script-poemresponses2.rpy:532
 translate spanish ch23_y_good_e36a0b82:
@@ -1978,7 +1978,7 @@ translate spanish ch21_m_start_9d47e097:
 translate spanish ch21_m_start_59efb257:
 
     # m 1e "Don't worry, I'm not very good..."
-    m 1e "No te preocupes, no se me da muy bien..:"
+    m 1e "No te preocupes, no se me da muy bien..."
 
 # game/script-poemresponses2.rpy:602
 translate spanish ch21_m_start_1c27ea40:

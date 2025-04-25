@@ -2782,5 +2782,5 @@ translate spanish yuri_exclusive_2_ch3_34290ea1:
 translate spanish yuri_exclusive_2_ch3_5c8a9cca:
 
     # "I get the feeling this is something neither of us will have the courage to bring up..."
-    "Tengo la sensación de que nignuno de los dos tenemos el valor de comentarlo en voz alta..."
+    "Tengo la sensación de que ninguno de los dos tenemos el valor de comentarlo en voz alta..."
 

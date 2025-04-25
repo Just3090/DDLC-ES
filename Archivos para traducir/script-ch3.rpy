@@ -76,7 +76,7 @@ translate spanish ch3_main_c98c2ef3:
 translate spanish ch3_main_c579b59a:
 
     # n "Aaah, I can't wait for the festival!"
-    n "Aaah, ¡qué ganas tengo de que llegue"
+    n "Aaah, ¡qué ganas tengo de que llegue!"
 
 # game/script-ch3.rpy:28
 translate spanish ch3_main_0622f046:
@@ -1798,7 +1798,7 @@ translate spanish ch3_end_a8557d5c:
 translate spanish ch3_end_2035e967:
 
     # n "Why is the mood so weird today?"
-    n "¿POr qué está tan raro hoy el ambiente?"
+    n "¿Por qué está tan raro hoy el ambiente?"
 
 # game/script-ch3.rpy:425
 translate spanish ch3_end_42c8edbf:

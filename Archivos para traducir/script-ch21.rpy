@@ -10,7 +10,7 @@ translate spanish ch21_main_0f077782:
 translate spanish ch21_main_95ea4bac:
 
     # m "Glad to see you didn't run away on us. Hahaha!"
-    m "Qué bien, no has huído con el rabo entre las piernas. ¡Ja, ja, ja!"
+    m "Qué bien, no has huido con el rabo entre las piernas. ¡Ja, ja, ja!"
 
 # game/script-ch21.rpy:12
 translate spanish ch21_main_ecaf5654:

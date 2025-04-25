@@ -430,7 +430,7 @@ translate spanish ch40_main_4ae7e887:
 translate spanish ch40_main_60902a07:
 
     # "The tall one, whose name is apparently Yuri, seems to be quite shy compared to the others."
-    "Parece que la alta se llama Yuri y es bastánte tímida comparada con las demás."
+    "Parece que la alta se llama Yuri y es bastante tímida comparada con las demás."
 
 # game/script-ch40.rpy:136
 translate spanish ch40_main_005915a3:
@@ -772,7 +772,7 @@ translate spanish ch40_main_39d8bc27:
 translate spanish ch40_main_781be425:
 
     # "As Natsuki struggles to accept the compliment, Yuri returns to the table, carrying a tea set."
-    "Mientras Natsuki acepta el cumpplido a regañadientes, Yuri vuelve a la mesa con un juego de té."
+    "Mientras Natsuki acepta el cumplido a regañadientes, Yuri vuelve a la mesa con un juego de té."
 
 # game/script-ch40.rpy:232
 translate spanish ch40_main_3b0ad38e:
@@ -892,7 +892,7 @@ translate spanish ch40_main_c6e48974:
 translate spanish ch40_main_9101cacb:
 
     # "It looks like she wants to say something, but she keeps quiet."
-    "Parece que quiere decir alfo, pero se queda en silencio."
+    "Parece que quiere decir algo, pero se queda en silencio."
 
 # game/script-ch40.rpy:262
 translate spanish ch40_main_8c105e2a:
@@ -1486,7 +1486,7 @@ translate spanish ch40_main_84fcec65:
 translate spanish ch40_main_93dec7b0:
 
     # s 1x "Now that you joined, every day is gonna be so much fun."
-    s 1x "Y ahora que te has unico, nos lo pasaremos pipa cada día."
+    s 1x "Y ahora que te has unido, nos lo pasaremos pipa cada día."
 
 # game/script-ch40.rpy:428
 translate spanish ch40_main_023927ad:
@@ -1534,7 +1534,7 @@ translate spanish ch40_clearnormal_7ccd759f:
 translate spanish ch40_clearnormal_7b77cef2:
 
     # s 1b "That's right..."
-    s 1b "Sí, cieeto..."
+    s 1b "Sí, cierto..."
 
 # game/script-ch40.rpy:460
 translate spanish ch40_clearnormal_885c1c89:

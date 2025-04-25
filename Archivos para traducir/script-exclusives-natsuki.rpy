@@ -46,7 +46,7 @@ translate spanish natsuki_exclusive_1_0e3ba913:
 translate spanish natsuki_exclusive_1_bbbe4215:
 
     # n "What's the point in keeping your collection organized if someone else is just gonna mess it up?"
-    n "¿De qué sirve matarse a tener tu colección toda organizadita cuando la primera persona que pasa te lo deja todo echo un caos?"
+    n "¿De qué sirve matarse a tener tu colección toda organizadita cuando la primera persona que pasa te lo deja todo hecho un caos?"
 
 # game/script-exclusives-natsuki.rpy:16
 translate spanish natsuki_exclusive_1_19933c2f:
@@ -238,7 +238,7 @@ translate spanish natsuki_exclusive_1_55994a4c:
 translate spanish natsuki_exclusive_1_c864c1c4:
 
     # "Natsuki pulls out the first volume of Parfait Girls from the box."
-    "natsuki saca el primer tomo de Parfait Girls de la caja."
+    "Natsuki saca el primer tomo de Parfait Girls de la caja."
 
 # game/script-exclusives-natsuki.rpy:48
 translate spanish natsuki_exclusive_1_6ca1c062:
@@ -2884,7 +2884,7 @@ translate spanish natsuki_exclusive_2_ch3_da95669b:
 translate spanish natsuki_exclusive_2_ch3_13d8e7da:
 
     # "I hop off the stool."
-    "Pero un saltito para bajarme del taburete."
+    "Doy un saltito para bajarme del taburete."
 
 # game/script-exclusives-natsuki.rpy:607
 translate spanish natsuki_exclusive_2_ch3_5868bb1a:
