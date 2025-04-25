@@ -562,7 +562,7 @@ translate spanish ch20_main2_5dd39c1a:
 translate spanish ch20_main2_9d91e589:
 
     # n "You're Monika's boyfriend, right?"
-    n "Eres el novio de MOnika, ¿me equivoco?"
+    n "Eres el novio de Monika, ¿me equivoco?"
 
 # game/script-ch20.rpy:158
 translate spanish ch20_main2_109fa1ce:
