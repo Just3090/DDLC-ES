@@ -1990,7 +1990,7 @@ translate spanish ch21_m_start_1c27ea40:
 translate spanish ch21_m_start_e7765480:
 
     # m 1j "Well...that's 'cause I have to sound confident."
-    m 1j "bueno..., es que tiene que parecer que soy una persona segura."
+    m 1j "Bueno..., es que tiene que parecer que soy una persona segura."
 
 # game/script-poemresponses2.rpy:604
 translate spanish ch21_m_start_5f9f46a2:
