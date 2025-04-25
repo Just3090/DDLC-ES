@@ -4,325 +4,325 @@
 translate spanish ch40_main_b68875d5:
 
     # "It's an ordinary school day, like any other."
-    ""
+    "Es un día de clase normal y corriente, como cualquier otro."
 
 # game/script-ch40.rpy:36
 translate spanish ch40_main_ee6fbe40:
 
     # "As usual, I'm surrounded by couples and friend groups walking to school together."
-    ""
+    "Como es habitual, me veo rodeado de parejas y grupos de amigos que van juntos a clase."
 
 # game/script-ch40.rpy:37
 translate spanish ch40_main_2848646c:
 
     # "I always tell myself it's about time I meet some girls or something like that..."
-    ""
+    "A menudo me digo que ya va siendo hora de que conozca chicas y tal...,"
 
 # game/script-ch40.rpy:39
 translate spanish ch40_main_63ef6bb1:
 
     # s "Hey, [player]..."
-    s ""
+    s "Una cosita, [player]..."
 
 # game/script-ch40.rpy:40
 translate spanish ch40_main_3c88e505:
 
     # "...Well, there already is one girl."
-    ""
+    "aunque, a decir verdad, ya hay una chica."
 
 # game/script-ch40.rpy:41
 translate spanish ch40_main_80f1ba46:
 
     # "That girl is Sayori, my neighbor and good friend since we were children."
-    ""
+    "Es Sayori, mi vecina y buena amiga de la infancia."
 
 # game/script-ch40.rpy:42
 translate spanish ch40_main_1c9ccf9b:
 
     # "We used to walk to school together every day..."
-    ""
+    "Solíamos ir caminando a clase juntos cada día."
 
 # game/script-ch40.rpy:43
 translate spanish ch40_main_cf52369a:
 
     # "...And recently, we've picked up that habit once again."
-    ""
+    "Y, últimamente, hemos retomado el hábito."
 
 # game/script-ch40.rpy:44
 translate spanish ch40_main_7e0bee55:
 
     # s "[player], are you proud of me?"
-    s ""
+    s "[player], ¿estás orgulloso de mí?"
 
 # game/script-ch40.rpy:45
 translate spanish ch40_main_8543d31a:
 
     # mc "Eh? For what?"
-    mc ""
+    mc "¿Eh? ¿Por qué?"
 
 # game/script-ch40.rpy:46
 translate spanish ch40_main_f76e9b54:
 
     # s 1c "You know..."
-    s 1c ""
+    s 1c "¿Sabes?..."
 
 # game/script-ch40.rpy:47
 translate spanish ch40_main_aa2880a0:
 
     # s "For waking up on time!"
-    s ""
+    s "¡Por levantarme a la hora!"
 
 # game/script-ch40.rpy:48
 translate spanish ch40_main_9536b810:
 
     # mc "Well, you've been doing that for a while now..."
-    mc ""
+    mc "Ya llevas haciéndolo un tiempo."
 
 # game/script-ch40.rpy:49
 translate spanish ch40_main_846c723f:
 
     # s "Uh-huh!"
-    s ""
+    s "¡Eh!"
 
 # game/script-ch40.rpy:50
 translate spanish ch40_main_f6da251f:
 
     # s 4h "But you never even said anything about it!"
-    s 4h ""
+    s 4h "¡Pero nunca lo habías mencionado!"
 
 # game/script-ch40.rpy:52
 translate spanish ch40_main_e3994ac6:
 
     # s "Even though we walk to school together every day..."
-    s ""
+    s "Y eso que vamos a clase juntos cada día..."
 
 # game/script-ch40.rpy:53
 translate spanish ch40_main_06097ca0:
 
     # mc "Well, yeah..."
-    mc ""
+    mc "Eso intento..."
 
 # game/script-ch40.rpy:54
 translate spanish ch40_main_3ff7743d:
 
     # mc "I always thought it was implied."
-    mc ""
+    mc "No sé, creía que sobraba decirlo."
 
 # game/script-ch40.rpy:55
 translate spanish ch40_main_6da71713:
 
     # mc "It's embarrassing to say out loud."
-    mc ""
+    mc "Da corte decirlo en voz alta."
 
 # game/script-ch40.rpy:56
 translate spanish ch40_main_772f4ee7:
 
     # s 1d "C'mon, please?"
-    s 1d ""
+    s 1d "¡Venga, porfa!"
 
 # game/script-ch40.rpy:57
 translate spanish ch40_main_defa84d9:
 
     # s "It's good motivation~"
-    s ""
+    s "Es una motivación estupenda."
 
 # game/script-ch40.rpy:58
 translate spanish ch40_main_e65657c9:
 
     # mc "Fine, fine..."
-    mc ""
+    mc "Vale, vale..."
 
 # game/script-ch40.rpy:59
 translate spanish ch40_main_550a4957:
 
     # mc "I'm proud of you, Sayori."
-    mc ""
+    mc "Estoy muy orgulloso de ti, Sayori."
 
 # game/script-ch40.rpy:61
 translate spanish ch40_main_4fe8273d:
 
     # s 1q "Ehehe~"
-    s 1q ""
+    s 1q "Je, je, je."
 
 # game/script-ch40.rpy:64
 translate spanish ch40_main_f870d325:
 
     # "We cross the street together and make our way to school."
-    ""
+    "Cruzamos la calle y llegamos al instituto."
 
 # game/script-ch40.rpy:65
 translate spanish ch40_main_6fc63fca:
 
     # "As we draw near, the streets become increasingly speckled with other students making their daily commute."
-    ""
+    "Al ir acercándonos, las calles están cada vez más plagadas de estudiantes que hacen su trayecto diario."
 
 # game/script-ch40.rpy:67
 translate spanish ch40_main_3142c5a4:
 
     # s "By the way, [player]..."
-    s ""
+    s "Por cierto, [player]..."
 
 # game/script-ch40.rpy:68
 translate spanish ch40_main_02182e1b:
 
     # s "Have you decided on a club to join yet?"
-    s ""
+    s "¿Has decidido ya el club al que vas a unirte?"
 
 # game/script-ch40.rpy:69
 translate spanish ch40_main_0855e33f:
 
     # mc "A club?"
-    mc ""
+    mc "¿Un club?"
 
 # game/script-ch40.rpy:70
 translate spanish ch40_main_74072316:
 
     # mc "I told you already, I'm really not--"
-    mc ""
+    mc "Ya te lo he dicho; no me..."
 
 # game/script-ch40.rpy:71
 translate spanish ch40_main_94a7f0e4:
 
     # "I start to say what I always do - that I'm not interested in joining any clubs."
-    ""
+    "Empiezo a responder lo de siempre: que no me interesa unirme a ningún club."
 
 # game/script-ch40.rpy:72
 translate spanish ch40_main_b9300a78:
 
     # "But something tells me Sayori would take more offense to that now."
-    ""
+    "Pero algo me dice que, en estos momentos, Sayori se lo tomaría peor que de costumbre."
 
 # game/script-ch40.rpy:73
 translate spanish ch40_main_9e6d8d68:
 
     # "After all, how could I tell her that clubs are a waste of time..."
-    ""
+    "A fin de cuentas, no le puedo decir que los clubes son una pérdida de tiempo..."
 
 # game/script-ch40.rpy:74
 translate spanish ch40_main_3e5004bd:
 
     # "...when she's starting a club of her very own?"
-    ""
+    "cuando ella está empezando uno."
 
 # game/script-ch40.rpy:75
 translate spanish ch40_main_0021b572:
 
     # mc "...Actually, yeah."
-    mc ""
+    mc "En realidad, sí."
 
 # game/script-ch40.rpy:76
 translate spanish ch40_main_73917420:
 
     # mc "I think I've decided on a club."
-    mc ""
+    mc "Tengo muy claro a cuál quiero apuntarme."
 
 # game/script-ch40.rpy:78
 translate spanish ch40_main_33f39455:
 
     # s 1m "Really?!"
-    s 1m ""
+    s 1m "¡¿En serio?!"
 
 # game/script-ch40.rpy:79
 translate spanish ch40_main_87e83572:
 
     # s 1r "Which one? Tell me!"
-    s 1r ""
+    s 1r "¿A cuál? ¡Dímelo!"
 
 # game/script-ch40.rpy:80
 translate spanish ch40_main_8fea2db2:
 
     # mc "Hmm..."
-    mc ""
+    mc "Mmm..."
 
 # game/script-ch40.rpy:81
 translate spanish ch40_main_1388d67c:
 
     # mc "I think I'll keep it a surprise."
-    mc ""
+    mc "Me guardaré la sorpresa."
 
 # game/script-ch40.rpy:82
 translate spanish ch40_main_5ae4488f:
 
     # s 5d "Boo..."
-    s 5d ""
+    s 5d "Buuu."
 
 # game/script-ch40.rpy:83
 translate spanish ch40_main_9c920c3b:
 
     # s "You meanie."
-    s ""
+    s "¡Qué mala persona!"
 
 # game/script-ch40.rpy:84
 translate spanish ch40_main_50b00ba6:
 
     # mc "Be patient, you'll find out soon enough."
-    mc ""
+    mc "Paciencia, pronto lo descubrirás."
 
 # game/script-ch40.rpy:85
 translate spanish ch40_main_0cf67faf:
 
     # "I used to ask myself why I let myself get lectured by such a carefree girl."
-    ""
+    "Solía preguntarme por qué dejaba que me diera lecciones una chica tan inconsciente."
 
 # game/script-ch40.rpy:86
 translate spanish ch40_main_1b029c8d:
 
     # "But I started to realize that in a way, I envy her."
-    ""
+    "Pero me he dado cuenta de que, en cierta forma, la envidio."
 
 # game/script-ch40.rpy:87
 translate spanish ch40_main_d6fe55c3:
 
     # "When Sayori puts her mind to something, she can accomplish great things."
-    ""
+    "Cuando se empeña en algo, puede conseguir grandes cosas."
 
 # game/script-ch40.rpy:88
 translate spanish ch40_main_302f642e:
 
     # "So that's why I feel like I should do something special for her."
-    ""
+    "Por ese motivo, creo que debo hacer algo especial por ella."
 
 # game/script-ch40.rpy:93
 translate spanish ch40_main_d234f771:
 
     # "The school day is as ordinary as ever, and it's over before I know it."
-    ""
+    "Las clases siguen siendo igual de anodinas y, cuando quiero darme cuenta, ya se han acabado."
 
 # game/script-ch40.rpy:94
 translate spanish ch40_main_b631cf1e:
 
     # "After I pack up my things, I stand up, gathering my motivation."
-    ""
+    "Recojo mis cosas, me levanto y hago acopio de motivación."
 
 # game/script-ch40.rpy:95
 translate spanish ch40_main_d24bc72b:
 
     # mc "Let's see..."
-    mc ""
+    mc "Vamos a ver..."
 
 # game/script-ch40.rpy:100
 translate spanish ch40_main_22b81a23:
 
     # "I recall the room number of the club from a flier I saw."
-    ""
+    "Recuerdo el número del aula del club que vi en un panfleto."
 
 # game/script-ch40.rpy:101
 translate spanish ch40_main_62b4dcc5:
 
     # "I walk across the school and upstairs - a section of the school I rarely visit, being generally used for third-year classes and activities."
-    ""
+    "Cruzo el instituto y subo unas escaleras para llegar a una zona que no suelo frecuentar."
 
 # game/script-ch40.rpy:102
 translate spanish ch40_main_708503c4:
 
     # "Before long, I find the room."
-    ""
+    "Doy con el aula al cabo de poco rato."
 
 # game/script-ch40.rpy:103
 translate spanish ch40_main_999eef35:
 
     # "I timidly open the door in front of me."
-    ""
+    "Abro la puerta tímidamente."
 
 # game/script-ch40.rpy:107
 translate spanish ch40_main_a9e9fbb4:
