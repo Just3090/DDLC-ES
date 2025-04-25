@@ -130,7 +130,7 @@ translate spanish natsuki_exclusive2_1_e06f14e6:
 translate spanish natsuki_exclusive2_1_02dc322f:
 
     # n 1b "{i}There{/i} it is!"
-    n 1b "¡Ahí está?"
+    n 1b "¡Ahí está!"
 
 # game/script-exclusives2-natsuki.rpy:101
 translate spanish natsuki_exclusive2_1_df52ab96:
@@ -898,7 +898,7 @@ translate spanish natsuki_exclusive2_1_cc15366d:
 translate spanish natsuki_exclusive2_1_0a45cac5:
 
     # "Monika reaches into her bag and pulls out some kind of protein bar."
-    "Monika mete la mano en su bolsa t saca una especie de barrita de proteínas."
+    "Monika mete la mano en su bolsa y saca una especie de barrita de proteínas."
 
 # game/script-exclusives2-natsuki.rpy:291
 translate spanish natsuki_exclusive2_1_69169128:
