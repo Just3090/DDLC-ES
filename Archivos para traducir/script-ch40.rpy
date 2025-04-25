@@ -1840,7 +1840,7 @@ translate spanish strings:
 
     # game/script-ch40.rpy:522
     old "I won't let you hurt him."
-    new "No dejaré que le hagas daño."
+    new "No permitiré que le hagas daño."
 
     # game/script-ch40.rpy:535
     old "I'm sorry... I was wrong."
