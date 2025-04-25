@@ -6612,59 +6612,59 @@ translate spanish ch30_56_8e50647f:
 translate spanish ch30_main2_a29e57d6:
 
     # m "Well, you're playing on Windows, so it was actually a bit more difficult..."
-    m ""
+    m "Aunque bueno, estás jugando en Windows, por lo que es un proceso algo más complicado..."
 
 # game/script-ch30.rpy:318
 translate spanish ch30_main2_8e063b99:
 
     # m "You need to locate the game directory, characters dir..."
-    m ""
+    m "Tuve que buscar yo misma el directorio del juego, en el que se encontraba la carpeta de personajes..."
 
 # game/script-ch30.rpy:324
 translate spanish ch30_main2_caf15850:
 
     # m "Well, you're on a Android, so it was actually a bit more difficult.."
-    m ""
+    m "Aunque bueno, estás jugando en Android, por lo que es un proceso algo más complicado..."
 
 # game/script-ch30.rpy:325
 translate spanish ch30_main2_95c30b55:
 
     # m "To go into the game directory, you have to find the directory 'data/data/com.just6889port.ddlc/files/characters'."
-    m ""
+    m "Para acceder al directorio del juego, necesitas ir por la ruta 'data/data/com.just6889port.ddlc/files/characters'."
 
 # game/script-ch30.rpy:326
 translate spanish ch30_main2_0227a652:
 
     # m "But, to modify the files you need root acces."
-    m ""
+    m "Peeero... hacerlo así te haría modificar el dispositivo mediante root, ya que de normal no puedes acceder por bloqueos de seguridad."
 
 # game/script-ch30.rpy:327
 translate spanish ch30_main2_86d96467:
 
     # m "In the settings screen there is a button to delete something..."
-    m ""
+    m "Pero es extraño que, al acceder a los ajustes del juego, encontrase un botón para borrar a alguien..."
 
 # game/script-ch30.rpy:825
 translate spanish ch30_reload_2_4294f4f0:
 
     # m "Well, you're playing on Windows, so you can just go into the game folder and find the characters dir."
-    m ""
+    m "Aunque bueno, estás jugando en Windows. Solo has de acceder a la carpeta del juego para encontrar la de los personajes."
 
 # game/script-ch30.rpy:830
 translate spanish ch30_reload_2_8f84243d:
 
     # m "Since you're on a Android, just be sure to avoid touching anything you shouldn't, okay?"
-    m ""
+    m "Como juegas en Android, asegúrate de dejar las manos quietecitas y no tocar lo que no debes, ¿vale, [player]?"
 
 # game/script-ch30.rpy:850
 translate spanish ch30_reload_4_4294f4f0:
 
     # m "Well, you're playing on Windows, so you can just go into the game folder and find the characters dir."
-    m ""
+    m "Aunque bueno, estás jugando en Windows. SOlo has de acceder a la carpeta del juego para encontrar la de los personajes."
 
 # game/script-ch30.rpy:855
 translate spanish ch30_reload_4_8f84243d:
 
     # m "Since you're on a Android, just be sure to avoid touching anything you shouldn't, okay?"
-    m ""
+    m "Como juegas en Android, asegúrate de dejar las manos quietecitas y no tocar lo que no debes, ¿vale, [player]?"
 
