@@ -7486,7 +7486,7 @@ translate spanish ch4_end_no_5cfbaaf6:
 translate spanish ch4_end_no_afb35a0b:
 
     # s "{i}AAAAAaaaaAAAAAAAAHH!!!!{/i}"
-    s "{i}¡¡¡AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!!!{/i}"
+    s "{i}¡¡¡AAAAAAAAAAAAAAAAAAAH!!!{/i}"
 
 # game/script-ch4.rpy:1427
 translate spanish ch4_end_no_8de5cc24:
