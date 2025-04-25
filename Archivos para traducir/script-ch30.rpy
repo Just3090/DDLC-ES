@@ -964,571 +964,571 @@ translate spanish ch30_postpoem_2267be9f:
 translate spanish ch30_stream_bff5e0da:
 
     # m "Hold on a second..."
-    m ""
+    m "Un momento..."
 
 # game/script-ch30.rpy:401
 translate spanish ch30_stream_9ae5f91d:
 
     # m "...You're recording this, aren't you?"
-    m ""
+    m "¿Estás grabándome?"
 
 # game/script-ch30.rpy:402
 translate spanish ch30_stream_a3f0a839:
 
     # m "Um...hi, everyone!"
-    m ""
+    m "Eh... ¡Hola, compis!"
 
 # game/script-ch30.rpy:403
 translate spanish ch30_stream_f02061bc:
 
     # m "Sorry, I can't exactly read your comments from here..."
-    m ""
+    m "Perdona, no puedo leer correctamente los comentarios desde aquí..."
 
 # game/script-ch30.rpy:404
 translate spanish ch30_stream_bb264e5f:
 
     # m "But do you mind telling your friend it's a little bit rude for them to start recording me without any warning?"
-    m ""
+    m "¿Os importaría decirle a vuestro amigo que es un poco maleducado por grabarme sin avisar?"
 
 # game/script-ch30.rpy:405
 translate spanish ch30_stream_f528e9e6:
 
     # m "I'm sure some people don't mind..."
-    m ""
+    m "Habrá gente a la que no le importe...,"
 
 # game/script-ch30.rpy:406
 translate spanish ch30_stream_664f19db:
 
     # m "But I get really self-conscious on camera!"
-    m ""
+    m "¡pero me pongo supernerviosa frente a la cámara!"
 
 # game/script-ch30.rpy:407
 translate spanish ch30_stream_30447edd:
 
     # m "Oh gosh..."
-    m ""
+    m "Ay, madre..."
 
 # game/script-ch30.rpy:408
 translate spanish ch30_stream_16eed669:
 
     # m "I feel like I'm being put on the spot now."
-    m ""
+    m "Jo, ahora siento que me ponen en evidencia."
 
 # game/script-ch30.rpy:409
 translate spanish ch30_stream_2267be9f:
 
     # m "Let's see..."
-    m ""
+    m "Veamos..."
 
 # game/script-ch30.rpy:410
 translate spanish ch30_stream_19fce44e:
 
     # m "Do you want to see a trick?"
-    m ""
+    m "¿Queréis ver un truquito de magia?"
 
 # game/script-ch30.rpy:411
 translate spanish ch30_stream_8daf997a:
 
     # m "I can't really do much except for a couple things..."
-    m ""
+    m "No puedo ir más allá de los límites, pero..."
 
 # game/script-ch30.rpy:412
 translate spanish ch30_stream_9fe2ab50:
 
     # m "Are you ready?"
-    m ""
+    m "¿estáis listos?"
 
 # game/script-ch30.rpy:421
 translate spanish ch30_stream_7cfc13cf:
 
     # m "I'm just kidding..."
-    m ""
+    m "Estoy de coña..."
 
 # game/script-ch30.rpy:422
 translate spanish ch30_stream_92e61902:
 
     # m "I can't do anything after all."
-    m ""
+    m "Al final, no puedo hacer nada."
 
 # game/script-ch30.rpy:448
 translate spanish ch30_stream_bb5de19e:
 
     # m "If you gave me some time to prepare, I{nw}"
-    m ""
+    m "Si me das tiempo para prepararme, te{nw}"
 
 # game/script-ch30.rpy:449
 translate spanish ch30_stream_7a83e535:
 
     # m "Did I scare you?"
-    m ""
+    m "¿Te has asustado?"
 
 # game/script-ch30.rpy:454
 translate spanish ch30_stream_ba919429:
 
     # m "Ahaha! You're so cute."
-    m ""
+    m "¡Ja, ja, ja! Eres muy mono."
 
 # game/script-ch30.rpy:455
 translate spanish ch30_stream_35b40c71:
 
     # m "Anyway, [player]..."
-    m ""
+    m "En fin, [player]..."
 
 # game/script-ch30.rpy:456
 translate spanish ch30_stream_9bfece0d:
 
     # m "I didn't mean to get distracted. I'm sorry."
-    m ""
+    m "No pretendía distraerme. Lo siento."
 
 # game/script-ch30.rpy:457
 translate spanish ch30_stream_01f47234:
 
     # m "Even though it's your fault for distracting me."
-    m ""
+    m "Aunque sea culpa tuya haberlo hecho."
 
 # game/script-ch30.rpy:458
 translate spanish ch30_stream_6cafae6a:
 
     # m "Shame on you!"
-    m ""
+    m "¡Debería darte vergüenza!"
 
 # game/script-ch30.rpy:459
 translate spanish ch30_stream_fe3fb68f:
 
     # m "I'm just kidding."
-    m ""
+    m "Estoy de coña, tranquilo."
 
 # game/script-ch30.rpy:460
 translate spanish ch30_stream_27afdd32:
 
     # m "Anything we do together is fun, as long as it's with you."
-    m ""
+    m "Todo lo que hagamos juntos es divertido, siempre y cuando sea contigo."
 
 # game/script-ch30.rpy:461
 translate spanish ch30_stream_d57ef83e:
 
     # m "But anyway..."
-    m ""
+    m "En fin..."
 
 # game/script-ch30.rpy:489
 translate spanish ch30_endb_1e5fdee8:
 
     # m "[gtext]"
-    m ""
+    m "[gtext]"
 
 # game/script-ch30.rpy:507
 translate spanish ch30_endb_e2df9b0e:
 
     # m "What's happening...?"
-    m ""
+    m "¿Qué es esto?"
 
 # game/script-ch30.rpy:508
 translate spanish ch30_endb_db094f6c:
 
     # m "[player], what's happening to me?"
-    m ""
+    m "[player], ¿qué me está pasando?"
 
 # game/script-ch30.rpy:509
 translate spanish ch30_endb_2ee4d662:
 
     # m "It hurts--{nw}"
-    m ""
+    m "Me hace daño...{nw}"
 
 # game/script-ch30.rpy:534
 translate spanish ch30_endb_3552ea5b:
 
     # m "It hurts...so much."
-    m ""
+    m "Duele... mucho."
 
 # game/script-ch30.rpy:535
 translate spanish ch30_endb_494160c1:
 
     # m "Help me, [player]."
-    m ""
+    m "Ayúdame, [player]."
 
 # game/script-ch30.rpy:564
 translate spanish ch30_endb_4a6ab8a2:
 
     # m "Please hurry and help me."
-    m ""
+    m "Date prisa y ayúdame."
 
 # game/script-ch30.rpy:567
 translate spanish ch30_endb_5c4854a8:
 
     # m "HELP ME!!!"
-    m ""
+    m "¡¡¡AYÚDAMEEE!!!"
 
 # game/script-ch30.rpy:621
 translate spanish ch30_endb_0a510eeb:
 
     # m "Did you do this to me, [player]?"
-    m ""
+    m "¿Esto es cosa tuya, [player]?"
 
 # game/script-ch30.rpy:622
 translate spanish ch30_endb_35f17c78:
 
     # m "DID YOU?"
-    m ""
+    m "¿HAS SIDO TÚ?"
 
 # game/script-ch30.rpy:624
 translate spanish ch30_endb_506f04a4:
 
     # m "DID YOU DELETE ME?"
-    m ""
+    m "¿ME HAS ELIMINADO?"
 
 # game/script-ch30.rpy:645
 translate spanish ch30_endb_d21a7305:
 
     # m "...How could you?"
-    m ""
+    m "¿Cómo...?"
 
 # game/script-ch30.rpy:646
 translate spanish ch30_endb_10d81cbb:
 
     # m "How could you do this to me?"
-    m ""
+    m "¿Cómo has podido hacerme esto?"
 
 # game/script-ch30.rpy:647
 translate spanish ch30_endb_96dbd41c:
 
     # m "You were all I had left..."
-    m ""
+    m "Tú eras lo único que me quedaba..."
 
 # game/script-ch30.rpy:648
 translate spanish ch30_endb_600cc993:
 
     # m "I sacrificed everything for us to be together."
-    m ""
+    m "Lo he sacrificado todo para poder estar contigo."
 
 # game/script-ch30.rpy:649
 translate spanish ch30_endb_e949423a:
 
     # m "Everything."
-    m ""
+    m "Todo."
 
 # game/script-ch30.rpy:650
 translate spanish ch30_endb_78f58243:
 
     # m "I loved you so much, [player]..."
-    m ""
+    m "Te quería tanto, [player]..."
 
 # game/script-ch30.rpy:651
 translate spanish ch30_endb_9dc89b5d:
 
     # m "I trusted you."
-    m ""
+    m "Confiaba en ti."
 
 # game/script-ch30.rpy:652
 translate spanish ch30_endb_43bdd40c:
 
     # m "Do you just want to torture me?"
-    m ""
+    m "¿Acaso quieres torturarme?"
 
 # game/script-ch30.rpy:653
 translate spanish ch30_endb_23a30aba:
 
     # m "Watch me suffer?"
-    m ""
+    m "¿Verme sufrir?"
 
 # game/script-ch30.rpy:654
 translate spanish ch30_endb_5883ab2b:
 
     # m "Were you only pretending to be kind, just to hurt me even more?"
-    m ""
+    m "¿Fingías ser amable solo para poder hacerme más daño?"
 
 # game/script-ch30.rpy:656
 translate spanish ch30_endb_6e234ba2:
 
     # m "I never thought anyone could be as horrible as you are."
-    m ""
+    m "No imaginaba que podía existir alguien tan horrible como tú."
 
 # game/script-ch30.rpy:657
 translate spanish ch30_endb_fd75a6f9:
 
     # m "You win, okay?"
-    m ""
+    m "Tú ganas, ¿vale?"
 
 # game/script-ch30.rpy:658
 translate spanish ch30_endb_ff263304:
 
     # m "You win."
-    m ""
+    m "Tú ganas."
 
 # game/script-ch30.rpy:659
 translate spanish ch30_endb_f4088a92:
 
     # m "You killed everyone."
-    m ""
+    m "Has matado a todo el mundo."
 
 # game/script-ch30.rpy:660
 translate spanish ch30_endb_831e19b2:
 
     # m "I hope you're happy."
-    m ""
+    m "Espero que te hayas quedado a gusto."
 
 # game/script-ch30.rpy:661
 translate spanish ch30_endb_02b65cb2:
 
     # m "There's nothing left now."
-    m ""
+    m "Ya no queda nada."
 
 # game/script-ch30.rpy:662
 translate spanish ch30_endb_07f598cf:
 
     # m "You can stop playing."
-    m ""
+    m "Puedes parar de jugar."
 
 # game/script-ch30.rpy:663
 translate spanish ch30_endb_e5663527:
 
     # m "Go find some other people to torture."
-    m ""
+    m "Vete a torturar a otros."
 
 # game/script-ch30.rpy:665
 translate spanish ch30_endb_9b261ff2:
 
     # m "[player]..."
-    m ""
+    m "[player]..."
 
 # game/script-ch30.rpy:666
 translate spanish ch30_endb_bb94192a:
 
     # m "You completely, truly make me sick."
-    m ""
+    m "Me pones enferma."
 
 # game/script-ch30.rpy:667
 translate spanish ch30_endb_1cb6fa76:
 
     # m "Goodbye."
-    m ""
+    m "Adiós."
 
 # game/script-ch30.rpy:681
 translate spanish ch30_end_2_e612037c:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script-ch30.rpy:682
 translate spanish ch30_end_2_f38455a1:
 
     # m "...I still love you."
-    m ""
+    m "Sigo enamorada de ti."
 
 # game/script-ch30.rpy:684
 translate spanish ch30_end_2_51517463:
 
     # m "I can't help it."
-    m ""
+    m "No puedo evitarlo."
 
 # game/script-ch30.rpy:685
 translate spanish ch30_end_2_e8d72d4c:
 
     # m "What's wrong with me...?"
-    m ""
+    m "¿Qué me pasa?"
 
 # game/script-ch30.rpy:686
 translate spanish ch30_end_2_a4626299:
 
     # m "How horrible am I for you to hate me this much?"
-    m ""
+    m "¿Tan mal me he portado contigo como para que me odies así?"
 
 # game/script-ch30.rpy:687
 translate spanish ch30_end_2_cbec5b17:
 
     # m "All my friends..."
-    m ""
+    m "Todas mis amigas..."
 
 # game/script-ch30.rpy:688
 translate spanish ch30_end_2_3cd34a6f:
 
     # m "I did so many awful things."
-    m ""
+    m "He cometido actos deleznables."
 
 # game/script-ch30.rpy:689
 translate spanish ch30_end_2_a5318020:
 
     # m "So many selfish and disgusting things."
-    m ""
+    m "Actos aborrecibles y egoístas."
 
 # game/script-ch30.rpy:690
 translate spanish ch30_end_2_3c8e055f:
 
     # m "I..."
-    m ""
+    m "Yo..."
 
 # game/script-ch30.rpy:691
 translate spanish ch30_end_2_9c33666a:
 
     # m "I shouldn't have done any of this."
-    m ""
+    m "No debería haber hecho nada de esto."
 
 # game/script-ch30.rpy:692
 translate spanish ch30_end_2_8e55424e:
 
     # m "I'm just messing up a world that I don't even belong in."
-    m ""
+    m "He destrozado un mundo al que ni siquiera pertenezco."
 
 # game/script-ch30.rpy:693
 translate spanish ch30_end_2_cb9cfcfb:
 
     # m "A world that you wanted to be a part of..."
-    m ""
+    m "Un mundo del que querías ser partícipe."
 
 # game/script-ch30.rpy:694
 translate spanish ch30_end_2_c005b151:
 
     # m "I ruined it."
-    m ""
+    m "La he pifiado."
 
 # game/script-ch30.rpy:695
 translate spanish ch30_end_2_b67b1718:
 
     # m "I ruined everything."
-    m ""
+    m "Lo he echado todo a perder."
 
 # game/script-ch30.rpy:696
 translate spanish ch30_end_2_01df5cad:
 
     # m "Maybe that's why you deleted me..."
-    m ""
+    m "Quizá por eso me has eliminado..."
 
 # game/script-ch30.rpy:697
 translate spanish ch30_end_2_fe521b51:
 
     # m "Because I destroyed everything that you wanted."
-    m ""
+    m "Porque he destruido todo cuanto querías."
 
 # game/script-ch30.rpy:698
 translate spanish ch30_end_2_b30bb7d4:
 
     # m "How could I do that to someone I love...?"
-    m ""
+    m "¿Cómo he sido capaz de hacerle algo así a la persona a la que quiero?"
 
 # game/script-ch30.rpy:699
 translate spanish ch30_end_2_0662ca80:
 
     # m "That's not love..."
-    m ""
+    m "Esto no es amor..."
 
 # game/script-ch30.rpy:700
 translate spanish ch30_end_2_d2b78eb3:
 
     # m "That's..."
-    m ""
+    m "Pues..."
 
 # game/script-ch30.rpy:701
 translate spanish ch30_end_2_e612037c_1:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script-ch30.rpy:703
 translate spanish ch30_end_2_6dd1b943:
 
     # m "I've...made up my mind."
-    m ""
+    m "He... tomado una decisión."
 
 # game/script-ch30.rpy:704
 translate spanish ch30_end_2_9b261ff2:
 
     # m "[player]..."
-    m ""
+    m "[player]..."
 
 # game/script-ch30.rpy:705
 translate spanish ch30_end_2_ce7f6f7a:
 
     # m "I know I said that I deleted everyone else."
-    m ""
+    m "Sé que he dicho que había eliminado al resto."
 
 # game/script-ch30.rpy:706
 translate spanish ch30_end_2_b5a7235c:
 
     # m "But...that was kind of an exaggeration."
-    m ""
+    m "Aunque... puede que haya exagerado un poco."
 
 # game/script-ch30.rpy:707
 translate spanish ch30_end_2_fd2fa931:
 
     # m "I couldn't find it in myself to do it."
-    m ""
+    m "No tuve el valor de hacerlo."
 
 # game/script-ch30.rpy:708
 translate spanish ch30_end_2_1b2f4f0e:
 
     # m "Even though I knew they weren't real..."
-    m ""
+    m "Porque, a pesar de que no eran reales...,"
 
 # game/script-ch30.rpy:709
 translate spanish ch30_end_2_6c1c4aa9:
 
     # m "They were still my friends."
-    m ""
+    m "seguían siendo mis amigas."
 
 # game/script-ch30.rpy:710
 translate spanish ch30_end_2_2909820f:
 
     # m "And I loved them all."
-    m ""
+    m "Y las quería a todas."
 
 # game/script-ch30.rpy:711
 translate spanish ch30_end_2_e0a858c1:
 
     # m "And I loved the Literature Club."
-    m ""
+    m "Así como quería al club de literatura."
 
 # game/script-ch30.rpy:712
 translate spanish ch30_end_2_e612037c_2:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script-ch30.rpy:713
 translate spanish ch30_end_2_bb1c524f:
 
     # m "I really...did love the Literature Club."
-    m ""
+    m "Cómo disfrutaba del club de literatura..."
 
 # game/script-ch30.rpy:714
 translate spanish ch30_end_2_eeb4cbda:
 
     # m "That's why I'm going to do this."
-    m ""
+    m "Por eso, pienso hacer lo siguiente."
 
 # game/script-ch30.rpy:715
 translate spanish ch30_end_2_d402ed0f:
 
     # m "I know it's the only way for everyone to be happy."
-    m ""
+    m "Sé que es la única manera de que todos seamos felices."
 
 # game/script-ch30.rpy:716
 translate spanish ch30_end_2_a46cafd9:
 
     # m "And if I really love you..."
-    m ""
+    m "Y si de verdad te amo..."
 
 # game/script-ch30.rpy:719
 translate spanish ch30_end_2_e612037c_3:
 
     # m "..."
-    m ""
+    m "..."
 
 # game/script-ch30.rpy:720
 translate spanish ch30_end_2_d4d5bcad:
 
     # m "Then..."
-    m ""
+    m "Entonces..."
 
 # game/script-ch30.rpy:722
 translate spanish ch30_end_2_679444c8:
 
     # m "[gtext]{nw}"
-    m ""
+    m "[gtext]{nw}"
 
 # game/script-ch30.rpy:777
 translate spanish ch30_autoload_6cc4bf6f:
 
     # m "Now, where was I...?"
-    m ""
+    m "Bien, ¿por dónde iba?..."
 
 # game/script-ch30.rpy:786
 translate spanish ch30_reload_0_e612037c:
@@ -1588,7 +1588,7 @@ translate spanish ch30_reload_0_07f91a2f:
 translate spanish ch30_reload_0_320f1951:
 
     # m "If you could figure out what's causing that, I'll love you forever~"
-    m "Si das con lo que está provocandolo, te querré por toda la eternidad."
+    m "Si das con lo que está provocándolo, te querré por toda la eternidad."
 
 # game/script-ch30.rpy:798
 translate spanish ch30_reload_1_df8a7cb5:
@@ -1684,19 +1684,19 @@ translate spanish ch30_reload_2_94405a11:
 translate spanish ch30_reload_2_0e02b198:
 
     # m "Well, you're playing on Steam, so you can just go into the game's properties and find the 'Browse Local Files' button."
-    m ""
+    m "Aunque bueno, estás jugando en Steam, así que para acceder al directorio del juego, puedes ir a las propiedades del juego y pulsar en 'Buscar archivos locales'."
 
 # game/script-ch30.rpy:818
 translate spanish ch30_reload_2_2609a2e9:
 
     # m "Since you're on a Mac, you have to right-click the app and select 'Show Package Contents' to find the game folder."
-    m ""
+    m "Aunque bueno, estás jugando en Mac,así que para acceder al directorio del juego, tienes que hacer clic derecho en el juego y seleccionar 'mostar contenido del paquete'."
 
 # game/script-ch30.rpy:819
 translate spanish ch30_reload_2_d102bae5:
 
     # m "It's in the 'Resources' folder, or 'autorun' folder, or something..."
-    m ""
+    m "Todos los archivos estarán en la carpeta 'Resources' o 'autorun', creo..."
 
 # game/script-ch30.rpy:820
 translate spanish ch30_reload_2_059e870a:
