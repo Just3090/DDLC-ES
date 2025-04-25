@@ -328,7 +328,7 @@ translate spanish ch5_main_b1ac94f7:
 translate spanish ch5_main_cf774ef8:
 
     # "I grab one of the pamphlets laid out on the desks."
-    "Cojo uno de los folletosque hay sobre un pupitre."
+    "Cojo uno de los folletos que hay sobre un pupitre."
 
 # game/script-ch5.rpy:151
 translate spanish ch5_main_c358e345:
