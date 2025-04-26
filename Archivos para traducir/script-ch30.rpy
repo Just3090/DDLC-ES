@@ -4450,127 +4450,127 @@ translate spanish ch30_29_b72a1ed5:
 translate spanish ch30_30_26c28a15:
 
     # m "You know, it's around the time that everyone my year starts to think about college..."
-    m ""
+    m "¿Sabes qué? La gente, cuando llega a mi edad, suele empezar a pensar en la universidad."
 
 # game/script-ch30.rpy:1417
 translate spanish ch30_30_642b8e5c:
 
     # m "It's a really turbulent time for education."
-    m ""
+    m "En lo que a educación se refiere, es un momento muy movido."
 
 # game/script-ch30.rpy:1418
 translate spanish ch30_30_03f5ca61:
 
     # m "We're at the height of this modern expectation that everyone has to go to college, you know?"
-    m ""
+    m "Nunca antes había habido tanta presión para que todo el mundo fuera a la universidad."
 
 # game/script-ch30.rpy:1419
 translate spanish ch30_30_6601d60a:
 
     # m "Finish high school, go to college, get a job - or go to grad school, I guess."
-    m ""
+    m "Acaba el instituto, ve a la universidad, consigue un trabajo..., aunque también puedes hacer un posgrado."
 
 # game/script-ch30.rpy:1420
 translate spanish ch30_30_da335152:
 
     # m "It's like a universal expectation that people just assume is the only option for them."
-    m ""
+    m "Es como sí todo el mundo te hiciera creer que esa es la única opción posible."
 
 # game/script-ch30.rpy:1421
 translate spanish ch30_30_f3831be7:
 
     # m "They don't teach us in high school that there are other options out there."
-    m ""
+    m "En el instituto, no nos enseñan la inmensa cantidad de posibilidades que existen."
 
 # game/script-ch30.rpy:1422
 translate spanish ch30_30_bf9f0147:
 
     # m "Like trade schools and stuff, you know?"
-    m ""
+    m "Como la ofrmación profesional, por ejemplo."
 
 # game/script-ch30.rpy:1423
 translate spanish ch30_30_a6ffb14c:
 
     # m "Or freelance work."
-    m ""
+    m "O hacerse autónomo."
 
 # game/script-ch30.rpy:1424
 translate spanish ch30_30_0693a3c5:
 
     # m "Or the many industries that value skill and experience more than formal education."
-    m ""
+    m "O las muchas empresas que valoran la habilidad y la experiencia por encima de los títulos."
 
 # game/script-ch30.rpy:1425
 translate spanish ch30_30_aa2f6122:
 
     # m "But you have all these students who have no idea what they want to do with their life..."
-    m ""
+    m "Hay un montón de estudiantes que no tienen ni idea de qué hacer con sus vidas."
 
 # game/script-ch30.rpy:1426
 translate spanish ch30_30_cd65fc21:
 
     # m "And instead of taking the time to figure it out, they go to college for business, or communication, or psychology."
-    m ""
+    m "Y, en lugar de tomarse el tiempo para pensarlo, estudian negocios, comunicación o psicología."
 
 # game/script-ch30.rpy:1427
 translate spanish ch30_30_ba7d9728:
 
     # m "Not because they have an interest in those fields..."
-    m ""
+    m "Y no porque estén interesados en esos campos,"
 
 # game/script-ch30.rpy:1428
 translate spanish ch30_30_0b4f4649:
 
     # m "...but because they just hope the degree will get them some kind of job after college."
-    m ""
+    m "sino porque esperan que les dé un empleo cuando acaben la universidad."
 
 # game/script-ch30.rpy:1429
 translate spanish ch30_30_c00d6c77:
 
     # m "So the end result is that there are fewer jobs to go around for those entry-level degrees, right?"
-    m ""
+    m "Y el resultado es que hay menos trabajo disponible para los recién graduados, ¿no?"
 
 # game/script-ch30.rpy:1430
 translate spanish ch30_30_ba8add1b:
 
     # m "So the basic job requirements get higher, which forces even more people to go to college."
-    m ""
+    m "Los requisitos para los distintos puestos se vuelven más exigentes, lo que obliga a más gente a ir a la universidad."
 
 # game/script-ch30.rpy:1431
 translate spanish ch30_30_ac2c26ae:
 
     # m "And colleges are also businesses, so they just keep raising their prices due to the demand..."
-    m ""
+    m "Y las universidades tambíen son negocios, así que suben los precios por culpa de la demanda..."
 
 # game/script-ch30.rpy:1432
 translate spanish ch30_30_83bc4ef9:
 
     # m "...So now we have all these young adults, tens of thousands of dollars in debt, with no job."
-    m ""
+    m "Lo que resulta en muchos jóvvenes adultos desempleados con deudas astronómicas."
 
 # game/script-ch30.rpy:1433
 translate spanish ch30_30_72243f86:
 
     # m "But despite all that, the routine stays the same."
-    m ""
+    m "Aun así, todo sigue igual."
 
 # game/script-ch30.rpy:1434
 translate spanish ch30_30_7f37e1e4:
 
     # m "Well, I think it's going to start getting better soon."
-    m ""
+    m "Bueno, creo que todo irá a mejor dentro de poco."
 
 # game/script-ch30.rpy:1435
 translate spanish ch30_30_70401165:
 
     # m "But until then, our generation is definitely suffering from the worst of it."
-    m ""
+    m "Pero, ahsta entonces, nuestra generación se está llevando la peor parte."
 
 # game/script-ch30.rpy:1436
 translate spanish ch30_30_97f0818c:
 
     # m "I just wish high school prepared us a little better with the knowledge we need to make the decision that's right for us."
-    m ""
+    m "Desearía que nos hubiesen formado mejor en el instituto para que tomásemos la decisión más adecuada para nosotros."
 
 # game/script-ch30.rpy:1440
 translate spanish ch30_31_70b8bca7:
