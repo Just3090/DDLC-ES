@@ -922,7 +922,7 @@ translate spanish ch2_main_89e08697:
 translate spanish ch2_main_f7e6cfc6:
 
     # s "You don't think she..."
-    s "¿No pensaras que...?"
+    s "¿No pensarás que...?"
 
 # game/script-ch2.rpy:236
 translate spanish ch2_main_646110e5:

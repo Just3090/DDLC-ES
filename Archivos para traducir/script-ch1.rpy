@@ -340,7 +340,7 @@ translate spanish ch1_main_5c6d9095:
 translate spanish ch1_main_394a6121:
 
     # y "I didn't want you to feel left out..."
-    y "No quería que te sintieses excluído."
+    y "No quería que te sintieses excluido."
 
 # game/script-ch1.rpy:106
 translate spanish ch1_main_1879c00c:

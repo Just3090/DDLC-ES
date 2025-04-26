@@ -250,7 +250,7 @@ translate spanish ch3_main_d07bdb0a:
 translate spanish ch3_main_bf3989ea:
 
     # mc "Where is Sayori, anyway...?"
-    mc "A todo esto, ¿dónde esta Sayori?"
+    mc "A todo esto, ¿dónde está Sayori?"
 
 # game/script-ch3.rpy:82
 translate spanish ch3_main_e0642a0e:
@@ -3358,7 +3358,7 @@ translate spanish ch3_end_natsuki_f6652a81:
 translate spanish ch3_end_natsuki_c95f033e:
 
     # "Because Sayori always helps everyone smile and feel good about themselves."
-    "Porque ella siempre procura hacer sonreír a los demás y que se sientan bien consigos mismos."
+    "Porque ella siempre procura hacer sonreír a los demás y que se sientan bien consigo mismos."
 
 # game/script-ch3.rpy:900
 translate spanish ch3_end_natsuki_79221067:
