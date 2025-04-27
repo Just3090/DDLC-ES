@@ -4012,7 +4012,7 @@ translate spanish ch3_end_yuri_62a736ae:
 translate spanish ch3_end_yuri_066d8e4a:
 
     # y 2v "I don't really know why [player] picked me..."
-    y 2v "No sé por qué Fran me ha elegido a mí..."
+    y 2v "No sé por qué [player] me ha elegido a mí..."
 
 # game/script-ch3.rpy:1060
 translate spanish ch3_end_yuri_54029fe6:
