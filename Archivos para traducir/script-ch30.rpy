@@ -2206,175 +2206,175 @@ translate spanish ch30_4_840cd328:
 translate spanish ch30_5_31762a47:
 
     # m "I was thinking about Sayori earlier..."
-    m ""
+    m "Antes estaba pensando en Sayori..."
 
 # game/script-ch30.rpy:971
 translate spanish ch30_5_9c4f4511:
 
     # m "I still wish I could have handled that whole thing a little more tactfully."
-    m ""
+    m "Ojalá hubiese manejado la situación con más tacto."
 
 # game/script-ch30.rpy:972
 translate spanish ch30_5_ca8238e6:
 
     # m "You're not still hung up over it, right?"
-    m ""
+    m "Espero que el recuerdo no te asfixie."
 
 # game/script-ch30.rpy:973
 translate spanish ch30_5_f1dc2060:
 
     # m "...Oh my gosh, I can't believe I just said that."
-    m ""
+    m "Ay, no puedo creer lo que acabo de decir."
 
 # game/script-ch30.rpy:974
 translate spanish ch30_5_e328563f:
 
     # m "That pun was completely unintentional, I swear!"
-    m ""
+    m "Ha sido totalmente sin querer, ¡te lo juro!"
 
 # game/script-ch30.rpy:975
 translate spanish ch30_5_d57ef83e:
 
     # m "But anyway..."
-    m ""
+    m "En fin..."
 
 # game/script-ch30.rpy:976
 translate spanish ch30_5_ee24e0ea:
 
     # m "I know how much you cared about her, so it only feels right for me to share her last moments with you."
-    m ""
+    m "Soy consciente de lo mucho que te importaba, así que querría compartir sus últimos momentos contigo."
 
 # game/script-ch30.rpy:977
 translate spanish ch30_5_c4b68035:
 
     # m "You know how Sayori is really clumsy?"
-    m ""
+    m "Supongo que ya sabes que Sayori es un desastre andante..."
 
 # game/script-ch30.rpy:978
 translate spanish ch30_5_d4a1f3c7:
 
     # m "Well, she kind of messed up the whole hanging thing..."
-    m ""
+    m "Es que también la lió hasta para ahorcarse."
 
 # game/script-ch30.rpy:979
 translate spanish ch30_5_04abd11d:
 
     # m "You're supposed to jump from high enough that the rope snaps your neck, making it quick and painless."
-    m ""
+    m "Lo suyo es saltar desde bastante alto, para que la cuerda te rompa el cuello y no te enteres de nada."
 
 # game/script-ch30.rpy:980
 translate spanish ch30_5_ebd8cb93:
 
     # m "But she just used a chair, meaning she kind of just left herself to slowly asphyxiate."
-    m ""
+    m "Pero ella usó una silla, así que lo único que consiguió fue quedarse ahí asfixiándose poco a poco."
 
 # game/script-ch30.rpy:981
 translate spanish ch30_5_fe0a4dbf:
 
     # m "But a few seconds in, she must have changed her mind or something..."
-    m ""
+    m "Creo que debió de arrepentirse pocos segundos después de colgarse..."
 
 # game/script-ch30.rpy:982
 translate spanish ch30_5_b891c35f:
 
     # m "Because she started clawing at the rope, trying to free herself."
-    m ""
+    m "Porque empezó a arañar la cuerda tratando de liberarse."
 
 # game/script-ch30.rpy:983
 translate spanish ch30_5_f5450e6b:
 
     # m "She must have kept at it all the way until she lost consciousness."
-    m ""
+    m "Puede que lo intentara con todas sus fuerzas hasta que perdió el conocimiento."
 
 # game/script-ch30.rpy:984
 translate spanish ch30_5_29388e01:
 
     # m "That's why her fingertips were all bloody, anyway."
-    m ""
+    m "Por eso tenía las yemas de los dedos ensangrentadas."
 
 # game/script-ch30.rpy:985
 translate spanish ch30_5_0c54580c:
 
     # m "Come to think of it, it was probably less 'changing her mind' and more just her survival instincts kicking in."
-    m ""
+    m "Pensándolo bien, más que 'arrepentirse', creo que se activó su instinto de supervivencia."
 
 # game/script-ch30.rpy:986
 translate spanish ch30_5_ab4f33eb:
 
     # m "So you can't really fault her for that."
-    m ""
+    m "Tampoco es que se la pueda culpar de nada."
 
 # game/script-ch30.rpy:987
 translate spanish ch30_5_2a911cda:
 
     # m "It's easier to think that she probably wouldn't have changed her mind anyway, right?"
-    m ""
+    m "Es más fácil pensar que llevó la decisión hasta sus últimas consecuencias."
 
 # game/script-ch30.rpy:988
 translate spanish ch30_5_ff366260:
 
     # m "It's not healthy to think about the things you could have done differently."
-    m ""
+    m "No es sano darle vueltas a aquello que podrías haber hecho de forma distinta."
 
 # game/script-ch30.rpy:989
 translate spanish ch30_5_1dc0ec6d:
 
     # m "So just remember that even though you could have saved her, it's technically not your fault she killed herself."
-    m ""
+    m "Ten en cuenta que, aunque podrías haberla salvado, técnicamente no es culpa tuya que se suicidara."
 
 # game/script-ch30.rpy:990
 translate spanish ch30_5_1feff543:
 
     # m "I may have exacerbated it a little bit, but Sayori was already mentally ill."
-    m ""
+    m "Puede que me haya pasado un pelín, pero Sayori ya estaba tocada mentalmente."
 
 # game/script-ch30.rpy:991
 translate spanish ch30_5_b1770503:
 
     # m "Still, though..."
-    m ""
+    m "De todas formas..."
 
 # game/script-ch30.rpy:992
 translate spanish ch30_5_268a941d:
 
     # m "I wonder how things would be if you and I just started dating from the get-go?"
-    m ""
+    m "Me pregunto cómo habría ido todo si hubiésemos salido desde el principio."
 
 # game/script-ch30.rpy:993
 translate spanish ch30_5_50bdc348:
 
     # m "I guess we'd all still be in the clubroom, writing poems and having fun together."
-    m ""
+    m "Quizá seguiríamos escribiendo poemas y pasándonoslo bien en el club."
 
 # game/script-ch30.rpy:994
 translate spanish ch30_5_9bd2cca6:
 
     # m "But what's the point when none of it is even real?"
-    m ""
+    m "Pero ¿qué sentido tiene cuando nada de eso es real?"
 
 # game/script-ch30.rpy:995
 translate spanish ch30_5_1c92d640:
 
     # m "I mean, it's the same ending either way, right?"
-    m ""
+    m "Después de todo, el final es el mismo, ¿no?"
 
 # game/script-ch30.rpy:996
 translate spanish ch30_5_a07d72f6:
 
     # m "The two of us, happily together..."
-    m ""
+    m "Nosotros dos, felizmente juntos..."
 
 # game/script-ch30.rpy:997
 translate spanish ch30_5_3e6796b1:
 
     # m "There's no reason to ask for any more than that."
-    m ""
+    m "No se puede pedir mucho más."
 
 # game/script-ch30.rpy:998
 translate spanish ch30_5_c642742f:
 
     # m "I was just pointlessly musing - I'm really as happy as I could be right now."
-    m ""
+    m "Solo estaba cavilando. En estos momentos, no podría ser más feliz."
 
 # game/script-ch30.rpy:1002
 translate spanish ch30_6_4554e03e:
@@ -3610,85 +3610,85 @@ translate spanish ch30_17_a0d644e2:
 translate spanish ch30_18_d35f2303:
 
     # m "This is pretty random, but I always thought spicy food was kinda funny."
-    m ""
+    m "No viene a cuento, pero la comida picante siempre me ha parecido bastante curiosa."
 
 # game/script-ch30.rpy:1244
 translate spanish ch30_18_50612ea6:
 
     # m "Like..."
-    m ""
+    m "Por ejemplo..."
 
 # game/script-ch30.rpy:1245
 translate spanish ch30_18_d67052ac:
 
     # m "Didn't plants evolve to be spicy to prevent them from being eaten?"
-    m ""
+    m "Las plantas han evolucionado hasta ser picantes para que nadie les hinque el diente, ¿no?"
 
 # game/script-ch30.rpy:1246
 translate spanish ch30_18_31b7e4dc:
 
     # m "I read somewhere that humans are the only species that actually enjoys spicy things."
-    m ""
+    m "Leí en algún sitio que los humanos somos la única especie que disfruta el picante."
 
 # game/script-ch30.rpy:1247
 translate spanish ch30_18_6b8c744d:
 
     # m "It's almost like we're making fun of the plants."
-    m ""
+    m "Es como si nos estuviésemos burlando de las plantas."
 
 # game/script-ch30.rpy:1248
 translate spanish ch30_18_ee1c86a7:
 
     # m "Using their defense mechanism to literally make our food more enjoyable."
-    m ""
+    m "Utilizamos su mecanismo de defensa para disfrutar más de la comida."
 
 # game/script-ch30.rpy:1249
 translate spanish ch30_18_ceb19315:
 
     # m "Like, imagine a monster that devours you whole because it enjoys the sensation of you struggling for your life while being digested."
-    m ""
+    m "Imagina que un monstruo te devora de una sentada porque le gusta sentir cómo intentas defenderte mientras te digiere."
 
 # game/script-ch30.rpy:1250
 translate spanish ch30_18_63984392:
 
     # m "Sorry, that was kind of a weird analogy, I guess!"
-    m ""
+    m "Perdona, ha sido una analogía un tanto extraña."
 
 # game/script-ch30.rpy:1251
 translate spanish ch30_18_30727938:
 
     # m "Ahaha!"
-    m ""
+    m "¡Ja, ja, ja!"
 
 # game/script-ch30.rpy:1252
 translate spanish ch30_18_90b76415:
 
     # m "It just came into my head."
-    m ""
+    m "Se me ha ocurrido de repente."
 
 # game/script-ch30.rpy:1253
 translate spanish ch30_18_fb895ad3:
 
     # m "I'm not a monster or anything, but you're so cute I could eat you up."
-    m ""
+    m "No soy un monstruo, pero eres tan cuqui que me entran ganas de comerte."
 
 # game/script-ch30.rpy:1254
 translate spanish ch30_18_47d661a8:
 
     # m "Ahaha! I'm joking."
-    m ""
+    m "¡Ja, ja, ja! Es broma."
 
 # game/script-ch30.rpy:1255
 translate spanish ch30_18_d2883311:
 
     # m "Gosh, I'm amusing myself a little too much, aren't I?"
-    m ""
+    m "Ay, madre, creo que me estoy regodeando demasiado, ¿no?"
 
 # game/script-ch30.rpy:1256
 translate spanish ch30_18_c0b922d6:
 
     # m "Sorry for being weird."
-    m ""
+    m "Siento ser tan rarita,"
 
 # game/script-ch30.rpy:1260
 translate spanish ch30_19_c5602319:
@@ -4012,7 +4012,7 @@ translate spanish ch30_22_e521f12d:
 translate spanish ch30_22_8dd90704:
 
     # m "That's why there was never a chance I wouldn't fall for you."
-    m "Por eso sería incendible no acabar enamorándome de ti."
+    m "Por eso sería inconcebible no acabar enamorándome de ti."
 
 # game/script-ch30.rpy:1326
 translate spanish ch30_23_baa95327:
@@ -4654,7 +4654,7 @@ translate spanish ch30_32_e4cb8d07:
 translate spanish ch30_32_9215b04f:
 
     # m "Do you know any artists?"
-    m "¿Conoces algún artista?"
+    m "¿Conoces a algún artista?"
 
 # game/script-ch30.rpy:1457
 translate spanish ch30_32_36d49ba9:
@@ -5668,49 +5668,49 @@ translate spanish ch30_41_7e7f246d:
 translate spanish ch30_42_83ab3898:
 
     # m "I really like the sound of rain..."
-    m ""
+    m "Me encanta el sonido de la lluvia..."
 
 # game/script-ch30.rpy:1656
 translate spanish ch30_42_6850c1f6:
 
     # m "Not so much getting my clothes and hair wet, though."
-    m ""
+    m "Aunque paso de que se me mojen la ropa y el pelo."
 
 # game/script-ch30.rpy:1657
 translate spanish ch30_42_5c364578:
 
     # m "But a nice, quiet day at home with the sound of rainfall outside my window..."
-    m ""
+    m "Sin embargo, pasar el día tranquila en casa con el sonido de la lluvia de fondo..."
 
 # game/script-ch30.rpy:1658
 translate spanish ch30_42_6b374b50:
 
     # m "It's one of the most calming experiences for me."
-    m ""
+    m "Para mí, es una de las experiencias más relajantes."
 
 # game/script-ch30.rpy:1659
 translate spanish ch30_42_7e7f246d:
 
     # m "Yeah..."
-    m ""
+    m "Sí..."
 
 # game/script-ch30.rpy:1660
 translate spanish ch30_42_88b066ad:
 
     # m "Sometimes I imagine you holding me while we listen to the sound of the rain outside."
-    m ""
+    m "A veces, te imagino abrazándome mientras oímos la lluvia."
 
 # game/script-ch30.rpy:1661
 translate spanish ch30_42_c3f792d8:
 
     # m "That's not too cheesy or anything, is it?"
-    m ""
+    m "No me estaré pasando de cursi, ¿no?"
 
 # game/script-ch30.rpy:1662
 translate spanish ch30_42_8845cffb:
 
     # m "Would you ever do that for me, [player]?"
-    m ""
+    m "¿Lo harías por mí, [player]?"
 
 # game/script-ch30.rpy:1666
 translate spanish ch30_43_eaed6b76:
@@ -6004,109 +6004,109 @@ translate spanish ch30_46_cd579537:
 translate spanish ch30_47_9ec3357e:
 
     # m "Do you ever feel like you waste too much time on the internet?"
-    m ""
+    m "¿A veces, no te da la impresión de que pierdes demasiado el tiempo en internet?"
 
 # game/script-ch30.rpy:1727
 translate spanish ch30_47_0e14147c:
 
     # m "Social media can practically be like a prison."
-    m ""
+    m "Las redes sociales pueden ser una auténtica cárcel."
 
 # game/script-ch30.rpy:1728
 translate spanish ch30_47_95d0e57e:
 
     # m "It's like whenever you have a few seconds of spare time, you want to check on your favorite websites..."
-    m ""
+    m "Cuando tienes un momento libre, sientes la necesidad de conectarte a tus páginas favoritas."
 
 # game/script-ch30.rpy:1729
 translate spanish ch30_47_d569bf91:
 
     # m "And before you know it, hours have gone by, and you've gotten nothing out of it."
-    m ""
+    m "Y, sin que te des cuenta, las horas se te pasan volando y no haces nada productivo."
 
 # game/script-ch30.rpy:1730
 translate spanish ch30_47_c2ef9edd:
 
     # m "Anyway, it's really easy to blame yourself for being lazy..."
-    m ""
+    m "Es muy fácil sentirse culpable por ser un vago..."
 
 # game/script-ch30.rpy:1731
 translate spanish ch30_47_c717aa98:
 
     # m "But it's not really even your fault."
-    m ""
+    m "Pero ni siquiera es tu culpa."
 
 # game/script-ch30.rpy:1732
 translate spanish ch30_47_036d0d47:
 
     # m "Addiction isn't usually something you can just make disappear with your own willpower."
-    m ""
+    m "Es imposible superar una adicción a base de fuerza de voluntad."
 
 # game/script-ch30.rpy:1733
 translate spanish ch30_47_520a8f06:
 
     # m "You have to learn techniques to avoid it, and try different things."
-    m ""
+    m "Tienes que aprender técnicas para evitarla y probar distintos métodos."
 
 # game/script-ch30.rpy:1734
 translate spanish ch30_47_a4e742ed:
 
     # m "For example, there are apps that let you block websites for intervals of time..."
-    m ""
+    m "Por ejemplo, hay aplicaciones que te permiten bloquear páginas web temporalmente."
 
 # game/script-ch30.rpy:1735
 translate spanish ch30_47_076e303b:
 
     # m "Or you can set a timer to have a more concrete reminder of when it's time to work versus play..."
-    m ""
+    m "O también puedes ponerte una alarma que te ayude a recordar cuándo debes trabajar y cuándo jugar."
 
 # game/script-ch30.rpy:1736
 translate spanish ch30_47_6418ba5a:
 
     # m "Or you can separate your work and play environments, which helps your brain get into the right mode."
-    m ""
+    m "Tampoco va mal tener un espacio dedicado al trabajo y otro al tiempo libre. Así, el cerebro puede diferenciarlos."
 
 # game/script-ch30.rpy:1737
 translate spanish ch30_47_eceaaa8a:
 
     # m "Even if you make a new user account on your computer to use for work, that's enough to help."
-    m ""
+    m "Hasta crear una cuenta alternativa en el ordenador puede ser útil."
 
 # game/script-ch30.rpy:1738
 translate spanish ch30_47_ccb6b303:
 
     # m "Putting any kind of wedge like that between you and your bad habits will help you stay away."
-    m ""
+    m "Todo vale a la hora de mantener alejados los malos hábitos."
 
 # game/script-ch30.rpy:1739
 translate spanish ch30_47_17097e5e:
 
     # m "Just remember not to blame yourself too hard if you're having trouble."
-    m ""
+    m "Si alguna vez te ves en esta tesitura, no te fustigues demasiado."
 
 # game/script-ch30.rpy:1740
 translate spanish ch30_47_236b2bf4:
 
     # m "If it's really impacting your life, then you should take it seriously."
-    m ""
+    m "Ahora bien, si afecta en tu día a día, tómatelo en serio."
 
 # game/script-ch30.rpy:1741
 translate spanish ch30_47_73215cf9:
 
     # m "I just want to see you be the best person you can be."
-    m ""
+    m "Solo quiero que seas tan buena persona como te sea posible-"
 
 # game/script-ch30.rpy:1742
 translate spanish ch30_47_ffc9ca11:
 
     # m "Will you do something today to make me proud of you?"
-    m ""
+    m "Dime, ¿qué harás hoy para que me sienta orgullosa de ti?"
 
 # game/script-ch30.rpy:1743
 translate spanish ch30_47_06408cda:
 
     # m "I'm always rooting for you, [player]."
-    m ""
+    m "Siempre podrás contar con mi apoyo, [player]."
 
 # game/script-ch30.rpy:1747
 translate spanish ch30_48_a96477bd:
