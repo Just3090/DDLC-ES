@@ -3508,7 +3508,7 @@ translate spanish ch4_exclusive_natsuki_94a82b0d:
 translate spanish ch4_exclusive_natsuki_8043eaf5:
 
     # "Her rose-colored cheeks and matching eyes fill my vision, along with her slightly-parted lips."
-    "Solo puedo verle las mejillas, rosadas como sis ojos, así como sus labios entreabiertos."
+    "Solo puedo verle las mejillas, rosadas como sus ojos, así como sus labios entreabiertos."
 
 # game/script-ch4.rpy:657
 translate spanish ch4_exclusive_natsuki_2d899e99:
