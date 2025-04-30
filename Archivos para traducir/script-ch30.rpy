@@ -2842,61 +2842,61 @@ translate spanish ch30_9_d7bd8efb:
 translate spanish ch30_10_b075a6ea:
 
     # m "Did you know I'm on Twitter?"
-    m ""
+    m "¿Sabes que tengo una cuenta de Twitter (X)?"
 
 # game/script-ch30.rpy:1092
 translate spanish ch30_10_b723047b:
 
     # m "My username is lilmonix3."
-    m ""
+    m "Mi nombre de usuario es lilmonix3."
 
 # game/script-ch30.rpy:1093
 translate spanish ch30_10_af06e0b1:
 
     # m "I guess someone was kind enough to make an account for me."
-    m ""
+    m "Parece que alguien ha tenido la amabilidad de creármela."
 
 # game/script-ch30.rpy:1094
 translate spanish ch30_10_cdba3380:
 
     # m "I picked the username, though!"
-    m ""
+    m "Pero el nombre de usuario lo he escogido yo misma."
 
 # game/script-ch30.rpy:1095
 translate spanish ch30_10_8c2682cf:
 
     # m "I love sharing my thoughts and chatting with the world..."
-    m ""
+    m "Me encanta compartir mis pensamientos y charlar con el mundo..."
 
 # game/script-ch30.rpy:1096
 translate spanish ch30_10_2d3d0c61:
 
     # m "The real world."
-    m ""
+    m "El mundo real."
 
 # game/script-ch30.rpy:1097
 translate spanish ch30_10_b28afee6:
 
     # m "So make sure you follow me, okay?"
-    m ""
+    m "No te olvides de seguirme, ¿vale?"
 
 # game/script-ch30.rpy:1098
 translate spanish ch30_10_99461a3b:
 
     # m "It would really mean a lot to me."
-    m ""
+    m "Significaría mucho para mí."
 
 # game/script-ch30.rpy:1099
 translate spanish ch30_10_a71ced90:
 
     # m "With how much you mean to me and all..."
-    m ""
+    m "Teniendo en cuenta lo mucho que me importas...,"
 
 # game/script-ch30.rpy:1100
 translate spanish ch30_10_afdbfd40:
 
     # m "It would really make me feel loved."
-    m ""
+    m "me ayudaría a sentirme querida."
 
 # game/script-ch30.rpy:1104
 translate spanish ch30_11_2364f1ef:
@@ -2945,7 +2945,7 @@ translate spanish ch30_12_cd2c66ec:
 
     # m "Hey, did you know I'm vegetarian?"
     m ""
-
+    
 # game/script-ch30.rpy:1115
 translate spanish ch30_12_5d93f753:
 
@@ -3052,223 +3052,223 @@ translate spanish ch30_12_ece6c84d:
 translate spanish ch30_13_70620237:
 
     # m "You know, I really do think you literally saved my life by being here with me, [player]."
-    m ""
+    m "[player], de verdad pienso que me has salvado la vida estando aquí conmigo."
 
 # game/script-ch30.rpy:1136
 translate spanish ch30_13_4ab957d7:
 
     # m "I can't imagine having been able to keep myself mentally stable, knowing that nothing here is real."
-    m ""
+    m "Hubiera sido incapaz de mantener la cordura sabiendo que nada de lo que hay aquí es real."
 
 # game/script-ch30.rpy:1137
 translate spanish ch30_13_4289b2d0:
 
     # m "I think I would have just deleted myself if you didn't show up."
-    m ""
+    m "Si no hubieras aparecido, me habría eliminado yo misma."
 
 # game/script-ch30.rpy:1138
 translate spanish ch30_13_0c395d02:
 
     # m "Sorry, I don't mean to sound dramatic or anything."
-    m ""
+    m "Disculpa, no quería sonar dramática."
 
 # game/script-ch30.rpy:1139
 translate spanish ch30_13_30727938:
 
     # m "Ahaha!"
-    m ""
+    m "¡Ja, ja, ja!"
 
 # game/script-ch30.rpy:1140
 translate spanish ch30_13_9f1f0ec1:
 
     # m "But I'm sure you understand yourself after spending so much time in the club."
-    m ""
+    m "Pero, con la de tiempo que has pasado en el club, seguro que lo entiendes."
 
 # game/script-ch30.rpy:1141
 translate spanish ch30_13_5dd4f19c:
 
     # m "I mean, if you were forced to abandon everything in your life and spend your eternity with a few game characters..."
-    m ""
+    m "Si te forzasen a abandonarlo todo y pasar el resto de tus días con unos pocos personajes de videojuego...,"
 
 # game/script-ch30.rpy:1142
 translate spanish ch30_13_c1d4dba5:
 
     # m "...You'd probably find some way of killing yourself, wouldn't you?"
-    m ""
+    m "buscarías la forma de quitarte la vida, ¿a que sí?"
 
 # game/script-ch30.rpy:1143
 translate spanish ch30_13_dbc55bd9:
 
     # m "Well, maybe you'd write some poetry to try to keep yourself sane for a while."
-    m ""
+    m "Puede que tratases de conservar la cordura escribiendo poesía."
 
 # game/script-ch30.rpy:1144
 translate spanish ch30_13_5f9b0161:
 
     # m "But then you'd have nobody to even read it."
-    m ""
+    m "Pero no tendrías a nadie que la leyera."
 
 # game/script-ch30.rpy:1145
 translate spanish ch30_13_d4a5d914:
 
     # m "Let's be honest, the club members really don't count for something like that."
-    m ""
+    m "Seamos sinceros: las chicas del club no cuentan."
 
 # game/script-ch30.rpy:1146
 translate spanish ch30_13_3be3023c:
 
     # m "I mean, a lot of people say that they only write for themselves..."
-    m ""
+    m "Muchas personas afirman 'escribir para sí mismas'."
 
 # game/script-ch30.rpy:1147
 translate spanish ch30_13_a34c75bf:
 
     # m "But I think it's hard to say it's just as fulfilling as when you share with people."
-    m ""
+    m "Pero dudo que sea tan gratificante como compartirlo con los demás."
 
 # game/script-ch30.rpy:1148
 translate spanish ch30_13_d169c505:
 
     # m "Even if it takes time to find the right people to share with."
-    m ""
+    m "Aunque lleva su tiempo encontrar a la gente adecuada con la que poder hacerlo."
 
 # game/script-ch30.rpy:1149
 translate spanish ch30_13_f6d63910:
 
     # m "Like, remember how it was for Yuri?"
-    m ""
+    m "¿Recuerdas como le fue a Yuri?"
 
 # game/script-ch30.rpy:1150
 translate spanish ch30_13_6b259b24:
 
     # m "She didn't share her writing with anyone for a really long time."
-    m ""
+    m "No compartió sus obras con nadie durante mucho tiempo."
 
 # game/script-ch30.rpy:1151
 translate spanish ch30_13_78160339:
 
     # m "And before we knew it, she was absolutely delighted to make you a part of her hobbies, too."
-    m ""
+    m "Pero, de la noche a la mañana, estaba encantada de hacerte partícipe de sus aficiones."
 
 # game/script-ch30.rpy:1152
 translate spanish ch30_13_25bb9bdc:
 
     # m "We're programmed to desire social feedback."
-    m ""
+    m "Estamos programados para desear la aceptación social."
 
 # game/script-ch30.rpy:1153
 translate spanish ch30_13_d90d3a46:
 
     # m "I don't mean the club members, I mean human beings."
-    m ""
+    m "No me refiero a la gente del club, sino a los seres humanos."
 
 # game/script-ch30.rpy:1154
 translate spanish ch30_13_8460ece4:
 
     # m "That's why life can be so confusing for introverts."
-    m ""
+    m "De ahí que la vida le resulte tan confusa a la gente introvertida."
 
 # game/script-ch30.rpy:1155
 translate spanish ch30_13_1722c335:
 
     # m "Being an introvert doesn't mean you shun social interaction and hate being around people."
-    m ""
+    m "Ser introvertido no significa que evites las interacciones sociales y que odies estar con otras personas."
 
 # game/script-ch30.rpy:1156
 translate spanish ch30_13_51f0416a:
 
     # m "It means social interaction, especially in groups or unfamiliar places, uses up a lot of energy."
-    m ""
+    m "Significa que relacionarse con los demás consume mucha energía, especialmente en grupos o lugares poco familiares."
 
 # game/script-ch30.rpy:1157
 translate spanish ch30_13_24117f0f:
 
     # m "Like, a lot of introverts sit at home and feel lonely and restless..."
-    m ""
+    m "Muchas personas introvertidas se sienten solas y se ponen nerviosas cuando se quedan en casa."
 
 # game/script-ch30.rpy:1158
 translate spanish ch30_13_7e8c09f5:
 
     # m "...And then when they finally go out, after a half hour they just want to go home again."
-    m ""
+    m "Y, cuando por fin salen, al cabo de media hora no piensan más que en volver."
 
 # game/script-ch30.rpy:1159
 translate spanish ch30_13_f985ac22:
 
     # m "I think if more people could understand how it works, they would respect it a lot more."
-    m ""
+    m "Si la gente supiese cómo va la cosa, lo tratarían con más respeto."
 
 # game/script-ch30.rpy:1160
 translate spanish ch30_13_9db99706:
 
     # m "Many introverts do enjoy having people around."
-    m ""
+    m "A muchos introvertidos les gusta estar acompañados."
 
 # game/script-ch30.rpy:1161
 translate spanish ch30_13_45fa3ade:
 
     # m "They love just having one or two close friends over, and just leisurely hanging out."
-    m ""
+    m "Les encanta quedar con uno o dos buenos amigos y pasar el rato con calma."
 
 # game/script-ch30.rpy:1162
 translate spanish ch30_13_3cc39712:
 
     # m "Even if you're not actively spending time together, it feels nice for them just to have you there."
-    m ""
+    m "Aunque no hagan cosas de forma activa, disfrutan de tu compañía."
 
 # game/script-ch30.rpy:1163
 translate spanish ch30_13_1fc61003:
 
     # m "I'm serious."
-    m ""
+    m "En serio."
 
 # game/script-ch30.rpy:1164
 translate spanish ch30_13_38f368e7:
 
     # m "If you just go to their house, bring your laptop, and hang out there for a while..."
-    m ""
+    m "Aunque solo vayas a su casa con el portátil para pasar la tarde...,"
 
 # game/script-ch30.rpy:1165
 translate spanish ch30_13_ecc12f80:
 
     # m "You can really make their day."
-    m ""
+    m "les puedes alegrar el día."
 
 # game/script-ch30.rpy:1166
 translate spanish ch30_13_9744c461:
 
     # m "As for me..."
-    m ""
+    m "En mi caso...,"
 
 # game/script-ch30.rpy:1167
 translate spanish ch30_13_1bfb9d35:
 
     # m "I'd say I'm kind of in between, but I think I'm usually a little more extroverted."
-    m ""
+    m "diría que soy un poco de cada, pero tiendo a ser más extrovertida."
 
 # game/script-ch30.rpy:1168
 translate spanish ch30_13_00d99748:
 
     # m "I feel like I'm always trying to do stuff after school and things like that."
-    m ""
+    m "A veces, me da la impresión de que busco constantemente formas de estar activa después de clase."
 
 # game/script-ch30.rpy:1169
 translate spanish ch30_13_f3c9ad4b:
 
     # m "But for you, I can be anything you need me to be."
-    m ""
+    m "Pero, por ti, seré lo que tú quieras que sea."
 
 # game/script-ch30.rpy:1170
 translate spanish ch30_13_23c4fdb9:
 
     # m "I understand people really well, so don't be afraid to share your unique needs with me."
-    m ""
+    m "Se me da muy bien entender a los demás, así que no temas compartir tus necesidades conmigo por particulares que sean."
 
 # game/script-ch30.rpy:1171
 translate spanish ch30_13_d15336f7:
 
     # m "Nothing would make me happier than being the perfect girlfriend for you."
-    m ""
+    m "Nada me haría más feliz que convertirme en la novia perfecta para ti."
 
 # game/script-ch30.rpy:1175
 translate spanish ch30_14_dd3c3d76:
@@ -3562,49 +3562,49 @@ translate spanish ch30_16_0f360ec0:
 translate spanish ch30_17_3d46afdd:
 
     # m "You're such a good listener, [player]."
-    m ""
+    m "Tú sí que sabes escuchar, [player]."
 
 # game/script-ch30.rpy:1233
 translate spanish ch30_17_b3f26a18:
 
     # m "I really love that about you."
-    m ""
+    m "Me encanta eso de ti."
 
 # game/script-ch30.rpy:1234
 translate spanish ch30_17_c8915344:
 
     # m "Sometimes I'm afraid that I'm rambling or talking about boring things."
-    m ""
+    m "A veces, me preocupa que pueda estar diciendo sandeces o hablando de cosas aburridas."
 
 # game/script-ch30.rpy:1235
 translate spanish ch30_17_ed42b078:
 
     # m "It makes me kind of self-conscious when I'm having conversation."
-    m ""
+    m "Eso me echa un poco para atrás cuando estoy hablando con alguien."
 
 # game/script-ch30.rpy:1236
 translate spanish ch30_17_dceae372:
 
     # m "But I don't feel that way with you."
-    m ""
+    m "Pero, en tu caso, no me lo parece para nada."
 
 # game/script-ch30.rpy:1237
 translate spanish ch30_17_2df34ab5:
 
     # m "Like, I don't think anyone else could make me feel this way."
-    m ""
+    m "Dudo que nadie pueda hacerme sentir igual."
 
 # game/script-ch30.rpy:1238
 translate spanish ch30_17_51f35fbf:
 
     # m "You really are special."
-    m ""
+    m "Eres muy especial."
 
 # game/script-ch30.rpy:1239
 translate spanish ch30_17_a0d644e2:
 
     # m "I don't want anyone to tell you otherwise."
-    m ""
+    m "Y no dejaré que nadie te diga lo contrario."
 
 # game/script-ch30.rpy:1243
 translate spanish ch30_18_d35f2303:
@@ -5302,253 +5302,253 @@ translate spanish ch30_38_5af4953f:
 translate spanish ch30_39_48f27928:
 
     # m "You know, it's been a while since we've done one of these..."
-    m ""
+    m "Hace mucho que no hacemos nada semejante, así que..."
 
 # game/script-ch30.rpy:1586
 translate spanish ch30_39_1fe5e30c:
 
     # m "...so let's go for it!"
-    m ""
+    m "¡vamos allá!"
 
 # game/script-ch30.rpy:1587
 translate spanish ch30_39_75ace231:
 
     # m "Here's Monika's Writing Tip of the Day!"
-    m ""
+    m "¡Aquí va el consejo poemil del día!"
 
 # game/script-ch30.rpy:1588
 translate spanish ch30_39_91c92d3c:
 
     # m "Sometimes when I talk to people who are impressed by my writing, they say things like 'I could never do that'."
-    m ""
+    m "A veces, cuando hablo con alguien a quien le impresiona mi escritura, dice cosas como: 'Yo jamás podría hacer algo así'."
 
 # game/script-ch30.rpy:1589
 translate spanish ch30_39_a6a322ba:
 
     # m "It's really depressing, you know?"
-    m ""
+    m "Es bastante deprimente, ¿sabes?"
 
 # game/script-ch30.rpy:1590
 translate spanish ch30_39_7cf9c6a2:
 
     # m "As someone who loves more than anything else to share the joy of exploring your passions..."
-    m ""
+    m "Adoro compartir el gozo de explorar tus pasiones más que nada en el mundo."
 
 # game/script-ch30.rpy:1591
 translate spanish ch30_39_567340bb:
 
     # m "...it pains me when people think that being good just comes naturally."
-    m ""
+    m "Por tanto, me duele que la gente piense que el talento depende del azar."
 
 # game/script-ch30.rpy:1592
 translate spanish ch30_39_79562cd9:
 
     # m "That's how it is with everything, not just writing."
-    m ""
+    m "Así funciona con todo, no solo con la escritura."
 
 # game/script-ch30.rpy:1593
 translate spanish ch30_39_9354b79a:
 
     # m "When you try something for the first time, you're probably going to suck at it."
-    m ""
+    m "Cuando pruebas algo por primera vez, es normal que te salga una mierda."
 
 # game/script-ch30.rpy:1594
 translate spanish ch30_39_0995b6f8:
 
     # m "Sometimes, when you finish, you feel really proud of it and even want to share it with everyone."
-    m ""
+    m "A veces, cuando terminas, estás superorgulloso y quieres compartirlo con todo el mundo."
 
 # game/script-ch30.rpy:1595
 translate spanish ch30_39_10c905aa:
 
     # m "But maybe after a few weeks you come back to it, and you realize it was never really any good."
-    m ""
+    m "Pero, pocas semanas después, lo ves de nuevo y te das cuenta de que nunca fue bueno."
 
 # game/script-ch30.rpy:1596
 translate spanish ch30_39_851c7c23:
 
     # m "That happens to me all the time."
-    m ""
+    m "Me pasa constantemente."
 
 # game/script-ch30.rpy:1597
 translate spanish ch30_39_aea05e68:
 
     # m "It can be pretty disheartening to put so much time and effort into something, and then you realize it sucks."
-    m ""
+    m "Invertir tanto tiempo y esfuerzo en algo que resulta ser terrible es bastante desalentador."
 
 # game/script-ch30.rpy:1598
 translate spanish ch30_39_97708735:
 
     # m "But that tends to happen when you're always comparing yourself to the top professionals."
-    m ""
+    m "Pero es lo normal cuando no paras de compararte con los mejores profesionales."
 
 # game/script-ch30.rpy:1599
 translate spanish ch30_39_c1ffcf08:
 
     # m "When you reach right for the stars, they're always gonna be out of your reach, you know?"
-    m ""
+    m "Cuando apuntas alto, acabas dándote cuenta de que el cielo no tiene límites, ¿verdad?"
 
 # game/script-ch30.rpy:1600
 translate spanish ch30_39_c1a64157:
 
     # m "The truth is, you have to climb up there, step by step."
-    m ""
+    m "La clave está en escalar poco a poco, pasito a pasito."
 
 # game/script-ch30.rpy:1601
 translate spanish ch30_39_f69a8c07:
 
     # m "And whenever you reach a milestone, first you look back and see how far you've gotten..."
-    m ""
+    m "Después, cuando alcanzas una meta, mirás atrás y te das cuenta de lo lejos que has llegado..."
 
 # game/script-ch30.rpy:1602
 translate spanish ch30_39_66d3aa1e:
 
     # m "And then you look ahead and realize how much more there is to go."
-    m ""
+    m "Pero, luego, miras al frente y ves el enorme trecho que te queda por delante."
 
 # game/script-ch30.rpy:1603
 translate spanish ch30_39_e37051b5:
 
     # m "So, sometimes it can help to set the bar a little lower..."
-    m ""
+    m "En ocasiones, es bueno ponerse metas más humildes."
 
 # game/script-ch30.rpy:1604
 translate spanish ch30_39_b172efca:
 
     # m "Try to find something you think is {i}pretty{/i} good, but not world-class."
-    m ""
+    m "Buscar algo que creas que se te dé bien aunque no seas un experto en ello."
 
 # game/script-ch30.rpy:1605
 translate spanish ch30_39_752b2373:
 
     # m "And you can make that your own personal goal."
-    m ""
+    m "Y puedes convertirlo en tu objetivo personal."
 
 # game/script-ch30.rpy:1606
 translate spanish ch30_39_34944972:
 
     # m "It's also really important to understand the scope of what you're trying to do."
-    m ""
+    m "También es muy importante ser consciente del tamaño de aquello que intentas emprender."
 
 # game/script-ch30.rpy:1607
 translate spanish ch30_39_c6b206b9:
 
     # m "If you jump right into a huge project and you're still amateur, you'll never get it done."
-    m ""
+    m "Si te embarcas en un proyecto gigantesco cuando aún eres un novato, nunca conseguirás acabarlo."
 
 # game/script-ch30.rpy:1608
 translate spanish ch30_39_351d4d98:
 
     # m "So if we're talking about writing, a novel might be too much at first."
-    m ""
+    m "En lo que a escritura se refiere, una novela puede resultar excesiva."
 
 # game/script-ch30.rpy:1609
 translate spanish ch30_39_5a05bf4e:
 
     # m "Why not try some short stories?"
-    m ""
+    m "Así que... ¿por qué no empezar con historias cortas?"
 
 # game/script-ch30.rpy:1610
 translate spanish ch30_39_645fc4a8:
 
     # m "The great thing about short stories is that you can focus on just one thing that you want to do right."
-    m ""
+    m "Lo bueno que tienen es que puedes concentrarte en un solo aspecto que quieras hacer bien."
 
 # game/script-ch30.rpy:1611
 translate spanish ch30_39_d3397ac1:
 
     # m "That goes for small projects in general - you can really focus on the one or two things."
-    m ""
+    m "Y lo mismo va por los proyectos pequeños en general: te permiten concentrarte en una o dos cosas."
 
 # game/script-ch30.rpy:1612
 translate spanish ch30_39_3494ce5e:
 
     # m "It's such a good learning experience and stepping stone."
-    m ""
+    m "Son perfectos como método de aprendizaje y como trampolín."
 
 # game/script-ch30.rpy:1613
 translate spanish ch30_39_2acb30e5:
 
     # m "Oh, one more thing..."
-    m ""
+    m "Ah, y una cosa más..."
 
 # game/script-ch30.rpy:1614
 translate spanish ch30_39_9b6a6c12:
 
     # m "Writing isn't something where you just reach into your heart and something beautiful comes out."
-    m ""
+    m "A la hora de escribir, no basta con abrir tu corazón para que te salga algo bonito."
 
 # game/script-ch30.rpy:1615
 translate spanish ch30_39_f2473909:
 
     # m "Just like drawing and painting, it's a skill in itself to learn how to express what you have inside."
-    m ""
+    m "Como en el dibujo y en la escritura, aprender a expresar lo que tienes en mente es una habilidad en sí misma."
 
 # game/script-ch30.rpy:1616
 translate spanish ch30_39_cf4b2ca4:
 
     # m "That means there are methods and guides and basics to it!"
-    m ""
+    m "¡Lo que significa que existen métodos, guías y consejos sobre el tema!"
 
 # game/script-ch30.rpy:1617
 translate spanish ch30_39_4d3fbb09:
 
     # m "Reading up on that stuff can be super eye-opening."
-    m ""
+    m "Leérselos puede ser la mar de revelador."
 
 # game/script-ch30.rpy:1618
 translate spanish ch30_39_60b4ab25:
 
     # m "That sort of planning and organization will really help prevent you from getting overwhelmed and giving up."
-    m ""
+    m "La planificación y la organización evitarán que te resulte abrumador y acabes abandonando."
 
 # game/script-ch30.rpy:1619
 translate spanish ch30_39_15f67d24:
 
     # m "And before you know it..."
-    m ""
+    m "Y, antes de que te des cuenta...,"
 
 # game/script-ch30.rpy:1620
 translate spanish ch30_39_b0c6a004:
 
     # m "You start sucking less and less."
-    m ""
+    m "resulta que eres un poquito mejor."
 
 # game/script-ch30.rpy:1621
 translate spanish ch30_39_66565dce:
 
     # m "Nothing comes naturally."
-    m ""
+    m "Nada se consigue por inspiración divina."
 
 # game/script-ch30.rpy:1622
 translate spanish ch30_39_bd5c0a12:
 
     # m "Our society, our art, everything - it's built on thousands of years of human innovation."
-    m ""
+    m "La sociedad, el arte... Todo se ha construido sobre miles de años de innovación humana."
 
 # game/script-ch30.rpy:1623
 translate spanish ch30_39_258102aa:
 
     # m "So as long as you start on that foundation, and take it step by step..."
-    m ""
+    m "En otras palabras, mientras tomes eso como base y avances paso a paso...,"
 
 # game/script-ch30.rpy:1624
 translate spanish ch30_39_5fb721a2:
 
     # m "You, too, can do amazing things."
-    m ""
+    m "tú también conseguirás grandes logros."
 
 # game/script-ch30.rpy:1625
 translate spanish ch30_39_d2646480:
 
     # m "...That's my advice for today!"
-    m ""
+    m "¡Ese es mi consejo de hoy!"
 
 # game/script-ch30.rpy:1626
 translate spanish ch30_39_d33852a1:
 
     # m "Thanks for listening~"
-    m ""
+    m "Gracias por escucharme."
 
 # game/script-ch30.rpy:1630
 translate spanish ch30_40_35ae8f4f:
@@ -5620,49 +5620,49 @@ translate spanish ch30_40_63abc7bc:
 translate spanish ch30_41_5be8f440:
 
     # m "You know, it kinda sucks to be the creative type..."
-    m ""
+    m "Ser una persona creativa es un rollo, ¿sabes?"
 
 # game/script-ch30.rpy:1645
 translate spanish ch30_41_d3eadba2:
 
     # m "It feels like they work so hard but get almost nothing for it."
-    m ""
+    m "Da la impresión de que, por mucho que te dejes la piel, no consigues nada a cambio."
 
 # game/script-ch30.rpy:1646
 translate spanish ch30_41_563bed7a:
 
     # m "You know, like artists, writers, actors..."
-    m ""
+    m "Es como los artistas, los escritores, los actores..."
 
 # game/script-ch30.rpy:1647
 translate spanish ch30_41_0cd382f2:
 
     # m "It's sad because there's so much beautiful talent in the world, but most of it goes unseen...and unpaid."
-    m ""
+    m "Es triste. El mundo está repleto de talentos maravillosos que a menudo pasan desapercibidos... o no se les paga."
 
 # game/script-ch30.rpy:1648
 translate spanish ch30_41_cc0e3620:
 
     # m "I guess that just means there's a huge surplus of creativity, huh?"
-    m ""
+    m "Supongo que eso significa que hay un exceso de creatividad."
 
 # game/script-ch30.rpy:1649
 translate spanish ch30_41_d580bf5b:
 
     # m "Kind of makes you feel like you're just not special at all..."
-    m ""
+    m "Te hace sentir como que no tienes nada de especial."
 
 # game/script-ch30.rpy:1650
 translate spanish ch30_41_7c24ef98:
 
     # m "But that's fine! You're supposed to just write for yourself anyway, right?"
-    m ""
+    m "¡Pero no importa! En teoría, tienes que decir que 'escribes para ti mismo', ¿no?"
 
 # game/script-ch30.rpy:1651
 translate spanish ch30_41_7e7f246d:
 
     # m "Yeah..."
-    m ""
+    m "Sí..."
 
 # game/script-ch30.rpy:1655
 translate spanish ch30_42_83ab3898:
@@ -5902,7 +5902,7 @@ translate spanish ch30_46_50b71c3b:
 translate spanish ch30_46_d26a661d:
 
     # m "If someone comes along and tells you the movie sucks, because it did X and Y wrong..."
-    m "Pero, entonces, aparece alguien de un cubo de la basura que te dice que es una porquería esto y lo otro está mal.   "
+    m "Pero, entonces, aparece alguien que te dice que es una porquería porque esto y lo otro está mal."
 
 # game/script-ch30.rpy:1707
 translate spanish ch30_46_9a0b9b58:
@@ -5938,7 +5938,7 @@ translate spanish ch30_46_67a170ee:
 translate spanish ch30_46_9a9d659f:
 
     # m "You could say 'I'm personally not a fan of it' and 'I felt that I'd like it more if it did X and Y'...things like that."
-    m "Puedes decir que a ti no te gusta especialmente, que hubieses preferido que lo hicieran de otra forma... Cosas así."
+    m "Puedes decir que a ti algo no te gusta especialmente, que hubieses preferido que lo hicieran de otra forma... Cosas así."
 
 # game/script-ch30.rpy:1713
 translate spanish ch30_46_7fdbb335:
@@ -5998,7 +5998,7 @@ translate spanish ch30_46_34f411b7:
 translate spanish ch30_46_cd579537:
 
     # m "Ahaha! That sounds a little silly. Thanks for listening, though."
-    m "¡Ja, ja, ja! Esto suena un poco tonto. Gracias por escucharme."
+    m "¡Ja, ja, ja! Eso suena un poco tonto. Gracias por escucharme."
 
 # game/script-ch30.rpy:1726
 translate spanish ch30_47_9ec3357e:
