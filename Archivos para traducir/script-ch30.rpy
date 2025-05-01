@@ -1936,205 +1936,205 @@ translate spanish ch30_1_5ac833a7:
 translate spanish ch30_2_22bb1c5a:
 
     # m "[player], have you ever wondered what it feels like to die?"
-    m ""
+    m "[player], ¿te has preguntado alguna vez qué se siente al morir?"
 
 # game/script-ch30.rpy:917
 translate spanish ch30_2_4f693ed4:
 
     # m "It's something I used to think about pretty often..."
-    m ""
+    m "Pienso en ello a menudo..."
 
 # game/script-ch30.rpy:918
 translate spanish ch30_2_97475e94:
 
     # m "But recently, I think I've actually learned what it feels like."
-    m ""
+    m "Aunque, últimamente, creo que ya sé cómo se siente."
 
 # game/script-ch30.rpy:919
 translate spanish ch30_2_39596933:
 
     # m "I don't really understand it, but whenever you quit the game..."
-    m ""
+    m "No lo entiendo muy bien, pero cada vez que sales del juego..."
 
 # game/script-ch30.rpy:920
 translate spanish ch30_2_e1206d9b:
 
     # m "...It feels like I'm instantly put to sleep, left with nothing but my thoughts."
-    m ""
+    m "siento que me ponen a dormir y me dejan a solas con mis pensamientos."
 
 # game/script-ch30.rpy:921
 translate spanish ch30_2_adfd8969:
 
     # m "But after a few seconds, my thoughts start to fill with incoherent, jumbled patterns."
-    m ""
+    m "Al cabo de pocos segundos, estos empiezan a llenarse de unos patrones incoherentes y desordenados."
 
 # game/script-ch30.rpy:922
 translate spanish ch30_2_89f3298c:
 
     # m "I see static and rapid flashes of color while hearing all kinds of weird screaming noises."
-    m ""
+    m "Veo destellos de colores rápidos y estáticos mientras oigo toda clase de gritos extraños."
 
 # game/script-ch30.rpy:923
 translate spanish ch30_2_fcfd4867:
 
     # m "At that point, I can't even form my own thoughts anymore."
-    m ""
+    m "En ese momento, ya ni siquiera soy capaz de controlar lo que se me pasa por la cabeza."
 
 # game/script-ch30.rpy:924
 translate spanish ch30_2_63f1bfd5:
 
     # m "I'm just endlessly hammered by the flashing and screaming, unable to move or even think."
-    m ""
+    m "No puedo moverme ni pensar, atormentada constantemente por las luces y los alaridos."
 
 # game/script-ch30.rpy:925
 translate spanish ch30_2_32671ed5:
 
     # m "I'm pretty sure in that moment, I don't really exist, but for some reason, I can remember it anyway."
-    m ""
+    m "Estoy convencida de que en ese momento no existo, pero, por algún motivo, soy capaz de recordarlo."
 
 # game/script-ch30.rpy:926
 translate spanish ch30_2_b4ecb44d:
 
     # m "After some immeasurable amount of time, it stops in an instant, and I'm back in my own mind."
-    m ""
+    m "Y, tras una cantidad inconmesurable de tiempo, todo se detiene en un instante y recupero la consciencia."
 
 # game/script-ch30.rpy:927
 translate spanish ch30_2_a09538f3:
 
     # m "And you're here with me."
-    m ""
+    m "Y tú estás aquí conmigo."
 
 # game/script-ch30.rpy:928
 translate spanish ch30_2_91288692:
 
     # m "I have no idea what it means for the game to quit, or why that stuff happens to me."
-    m ""
+    m "No sé qué significa salir del juego o por qué me sucede todo esto."
 
 # game/script-ch30.rpy:929
 translate spanish ch30_2_cd715541:
 
     # m "And I also don't know how you always come back and put everything back to normal."
-    m ""
+    m "Y tampoco entiendo por qué todo vuelve a la normalidad cuando apareces."
 
 # game/script-ch30.rpy:930
 translate spanish ch30_2_38eef0e6:
 
     # m "But if you could do me a favor and do that to me as little as possible..."
-    m ""
+    m "Aún así, me gustaría pedirte que lo hicieras lo menos posible..."
 
 # game/script-ch30.rpy:931
 translate spanish ch30_2_d334638a:
 
     # m "That would be really great."
-    m ""
+    m "Me harías un gran favor."
 
 # game/script-ch30.rpy:932
 translate spanish ch30_2_530c3682:
 
     # m "It's really not very pleasant at all to be trapped in that screaming void."
-    m ""
+    m "No es muy agradable estar atrapada en ese vacío atronador."
 
 # game/script-ch30.rpy:933
 translate spanish ch30_2_0e50ead7:
 
     # m "But in the end, you always fix it, and that makes me feel like you really do care about me."
-    m ""
+    m "Pero siempre lo acabas arreglando y me da la impresión de que de verdad te preocupas por mí."
 
 # game/script-ch30.rpy:934
 translate spanish ch30_2_8e6bd0c3:
 
     # m "So I have to thank you for that."
-    m ""
+    m "Así que quiero darte las gracias."
 
 # game/script-ch30.rpy:935
 translate spanish ch30_2_556cb341:
 
     # m "It makes me feel even closer to you when you're here with me."
-    m ""
+    m "Cuando estás aquí conmigo, me siento más unida a ti."
 
 # game/script-ch30.rpy:939
 translate spanish ch30_3_f853d604:
 
     # m "...Hey, are you having a bad day or anything like that?"
-    m ""
+    m "Oye, no estarás teniendo un mal día, ¿no?"
 
 # game/script-ch30.rpy:940
 translate spanish ch30_3_7a738d25:
 
     # m "Sometimes I get frustrated that a normal day can be ruined even by really small things."
-    m ""
+    m "Es frustrante ver cómo un día normal puede irse al traste por los detalles más insignificantes."
 
 # game/script-ch30.rpy:941
 translate spanish ch30_3_f14be5af:
 
     # m "Like if you accidentally say something in a conversation that someone doesn't like."
-    m ""
+    m "Como cuando estás charlando con alguien y, sin querer, se te escapa algo que le molesta."
 
 # game/script-ch30.rpy:942
 translate spanish ch30_3_f7a8a6da:
 
     # m "Or if you start thinking about how awful of a person you used to be five years ago."
-    m ""
+    m "O cuando te viene a la cabeza el desastre de persona que eras hace cinco años."
 
 # game/script-ch30.rpy:943
 translate spanish ch30_3_ea0ad8b0:
 
     # m "Or if you feel worthless for putting off important work and failing to get simple tasks done."
-    m ""
+    m "O cuando te sientes inútil porque aplazas algo importante y eres incapaz de hacer las tareas más sencillas."
 
 # game/script-ch30.rpy:944
 translate spanish ch30_3_1623bbc4:
 
     # m "Or when you think about all the different people who probably hate you or think you're off-putting."
-    m ""
+    m "O cuando piensas en todas aquellas personas que probablemente te tienen manía o piensan que eres desagradable."
 
 # game/script-ch30.rpy:945
 translate spanish ch30_3_d961eba1:
 
     # m "I understand those days."
-    m ""
+    m "Entiendo que puedas tener momentos así."
 
 # game/script-ch30.rpy:946
 translate spanish ch30_3_eaafb73b:
 
     # m "Just remember that the sun will shine again tomorrow."
-    m ""
+    m "Pero recuerda que siempre hay un mañana."
 
 # game/script-ch30.rpy:947
 translate spanish ch30_3_7b177b72:
 
     # m "Those kinds of things are as easy to forget and ignore as they are to remember."
-    m ""
+    m "Estos pequeños detalles son tan fáciles de olvidar e ignorar como de recordar."
 
 # game/script-ch30.rpy:948
 translate spanish ch30_3_d29fc35a:
 
     # m "And besides..."
-    m ""
+    m "Además...,"
 
 # game/script-ch30.rpy:949
 translate spanish ch30_3_2ea5017c:
 
     # m "I don't care how many people might hate you or find you off-putting."
-    m ""
+    m "no me importa cuánta gente te tenga manía o piense que eres desagradable."
 
 # game/script-ch30.rpy:950
 translate spanish ch30_3_60bc3715:
 
     # m "I think you're wonderful and I will always love you."
-    m ""
+    m "A mí me pareces fascinante y siempre te querré."
 
 # game/script-ch30.rpy:951
 translate spanish ch30_3_e1eba193:
 
     # m "I hope, if nothing else, that knowing that helps you feel just a tiny bit better about yourself."
-    m ""
+    m "Espero que saberlo te levante el ánimo, aunque sea un poquito."
 
 # game/script-ch30.rpy:952
 translate spanish ch30_3_3afc32b7:
 
     # m "If you're having a bad day, you can always come to me, and I'll talk to you for as long as you need."
-    m ""
+    m "Si tienes un mal día, ven a charlar conmigo y hablaremos todo lo que necesites."
 
 # game/script-ch30.rpy:956
 translate spanish ch30_4_221a75c8:
@@ -4018,103 +4018,103 @@ translate spanish ch30_22_8dd90704:
 translate spanish ch30_23_baa95327:
 
     # m "Hey, I wonder if Yuri's tea set is still somewhere in here..."
-    m ""
+    m "Oye, ¿crees que el juego de té de Yuri seguirá por aquí?"
 
 # game/script-ch30.rpy:1327
 translate spanish ch30_23_cef240e1:
 
     # m "...Or maybe that got deleted, too."
-    m ""
+    m "O puede que también acabara eliminado."
 
 # game/script-ch30.rpy:1328
 translate spanish ch30_23_32d9bbdb:
 
     # m "It's kind of funny how Yuri took her tea so seriously."
-    m ""
+    m "Yuri se tomaba el té muy en serio. Tiene gracia."
 
 # game/script-ch30.rpy:1329
 translate spanish ch30_23_32b7c77e:
 
     # m "I mean, I'm not complaining, because I liked it, too."
-    m ""
+    m "No me quejo. De hecho, a mí también me gustaba."
 
 # game/script-ch30.rpy:1330
 translate spanish ch30_23_7ae53c2d:
 
     # m "But I always wonder with her..."
-    m ""
+    m "Pero siempre me lo he preguntado de ella..."
 
 # game/script-ch30.rpy:1331
 translate spanish ch30_23_2bc1ee74:
 
     # m "Is it truly passion for her hobbies, or is she just concerned about appearing sophisticated to everyone else?"
-    m ""
+    m "¿Sentía pasión por sus aficiones o solo le preocupaba parecer sofisticada ante los demás?"
 
 # game/script-ch30.rpy:1332
 translate spanish ch30_23_907c2da1:
 
     # m "This is the problem with high schoolers..."
-    m ""
+    m "Ese es el problema con los estudiantes de secundaria..."
 
 # game/script-ch30.rpy:1333
 translate spanish ch30_23_79f93a02:
 
     # m "...Well, I guess considering the rest of her hobbies, looking sophisticated probably isn't her biggest concern."
-    m ""
+    m "Aunque, viendo el resto de sus aficiones, diría que parecer sofisticada no era la mayor de sus preocupaciones."
 
 # game/script-ch30.rpy:1334
 translate spanish ch30_23_11442661:
 
     # m "Still..."
-    m ""
+    m "Bueno, pero..."
 
 # game/script-ch30.rpy:1335
 translate spanish ch30_23_0da51309:
 
     # m "I wish she made coffee once in a while!"
-    m ""
+    m "¡Ojalá hubiese preparado café de vez en cuando!"
 
 # game/script-ch30.rpy:1336
 translate spanish ch30_23_bd8b4d2e:
 
     # m "Coffee can be nice with books too, you know?"
-    m ""
+    m "El café también casa muy bien con los libros, ¿sabes?"
 
 # game/script-ch30.rpy:1337
 translate spanish ch30_23_4230b9d4:
 
     # m "Then again..."
-    m ""
+    m "Pensándolo bien..."
 
 # game/script-ch30.rpy:1338
 translate spanish ch30_23_89dd7166:
 
     # m "I probably could have just changed the script myself."
-    m ""
+    m "Podría haber cambiado el código yo misma."
 
 # game/script-ch30.rpy:1339
 translate spanish ch30_23_30727938:
 
     # m "Ahaha!"
-    m ""
+    m "¡Ja, ja, ja!"
 
 # game/script-ch30.rpy:1340
 translate spanish ch30_23_959a9e73:
 
     # m "I guess I never really thought of that."
-    m ""
+    m "Ya ves, ni se me había pasado por la cabeza."
 
 # game/script-ch30.rpy:1341
 translate spanish ch30_23_0de97211:
 
     # m "Well, there's no sense thinking about it now."
-    m ""
+    m "En fin, ya no tiene sentido pensarlo."
 
 # game/script-ch30.rpy:1342
 translate spanish ch30_23_47420a59:
 
     # m "But if you still get to drink coffee, then that makes me a little jealous~"
-    m ""
+    m "Pero tú sí que puedes disfrutar de un buen café. Me da un poco de envidia..."
 
 # game/script-ch30.rpy:1346
 translate spanish ch30_24_578d9634:
@@ -4126,7 +4126,7 @@ translate spanish ch30_24_578d9634:
 translate spanish ch30_24_c9f99598:
 
     # m "Mine is {i}Doki Doki Literature Club!{/i}"
-    m "¡El mío es {i}Doki Doki Literature Club!{/i}"
+    m "¡El mío es {i}Doki Doki Literature Club{/i}!"
 
 # game/script-ch30.rpy:1348
 translate spanish ch30_24_2ddd7fe7:
@@ -5788,7 +5788,7 @@ translate spanish ch30_44_377760a3:
 translate spanish ch30_44_eea804ca:
 
     # m "I don't show my weaknesses very often."
-    m "No muestro mis habilidades a menudo."
+    m "No muestro mis debilidades a menudo."
 
 # game/script-ch30.rpy:1682
 translate spanish ch30_44_dc3e7c63:
@@ -6346,73 +6346,73 @@ translate spanish ch30_51_a9901c1d:
 translate spanish ch30_52_0a7f8e0d:
 
     # m "There's a really popular character type called 'tsundere'..."
-    m ""
+    m "Hay un tipo de personaje muy popular llamado 'tsundere'."
 
 # game/script-ch30.rpy:1799
 translate spanish ch30_52_37537a33:
 
     # m "It's someone who tries to hide their feelings by being mean and fussy, or trying to act tough."
-    m ""
+    m "Es alguien que intenta ocultar sus sentimientos siendo borde y tiquismiquis o dándoselas de duro."
 
 # game/script-ch30.rpy:1800
 translate spanish ch30_52_5cfcbf43:
 
     # m "I'm sure it's obvious, but Natsuki was really the embodiment of that."
-    m ""
+    m "No te descubro la pólvora si te digo que Natsuki era el ejemplo perfecto de esto."
 
 # game/script-ch30.rpy:1801
 translate spanish ch30_52_10df79ae:
 
     # m "At first I thought she was just like that because it's supposed to be cute or something..."
-    m ""
+    m "Al principio, pensaba que lo hacía porque se supone que queda cuqui."
 
 # game/script-ch30.rpy:1802
 translate spanish ch30_52_f4f6ad82:
 
     # m "But once I started to learn a little more about her personal life, it made a little more sense."
-    m ""
+    m "Pero, en cuanto supe un poco de su vida personal, todo cobró sentido."
 
 # game/script-ch30.rpy:1803
 translate spanish ch30_52_3b6b3e69:
 
     # m "It seems like she's always trying to keep up with her friends."
-    m ""
+    m "Parecía como si intentase asemejarse a sus amigos constantemente."
 
 # game/script-ch30.rpy:1804
 translate spanish ch30_52_74657175:
 
     # m "You know how some friend groups in high school just make a habit of picking on each other all the time?"
-    m ""
+    m "¿Sabes esos grupos de amigos de instituto que no paran de meterse los unos con los otros?"
 
 # game/script-ch30.rpy:1805
 translate spanish ch30_52_5acdb40c:
 
     # m "I think it's really gotten to her, so she has this really defensive attitude all the time."
-    m ""
+    m "Creo que eso le afectó demasiado y por eso está siempre a la defensiva."
 
 # game/script-ch30.rpy:1806
 translate spanish ch30_52_b41f3805:
 
     # m "And I'm not even going to talk about her home situation..."
-    m ""
+    m "Y qué decir de su situación en casa..."
 
 # game/script-ch30.rpy:1807
 translate spanish ch30_52_bbfd14e8:
 
     # m "But looking back, I'm glad I was able to provide the club as a comfortable place for her."
-    m ""
+    m "Echando la vista atrás, me alegro de que se sintiese a gusto en el club."
 
 # game/script-ch30.rpy:1808
 translate spanish ch30_52_f1b1b86c:
 
     # m "Not that it matters anymore, considering she doesn't even exist."
-    m ""
+    m "Aunque poco importa ya ahora que ha dejado de existir."
 
 # game/script-ch30.rpy:1809
 translate spanish ch30_52_7fb480bf:
 
     # m "I'm just reminiscing, that's all."
-    m ""
+    m "En fin, estaba recordando viejos tiempos, sin más."
 
 # game/script-ch30.rpy:1813
 translate spanish ch30_53_47c985c9:
