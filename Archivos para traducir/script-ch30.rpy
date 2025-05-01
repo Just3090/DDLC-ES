@@ -3274,97 +3274,97 @@ translate spanish ch30_13_d15336f7:
 translate spanish ch30_14_dd3c3d76:
 
     # m "Hey...! VGhlIHJlYWxpemF0aW9uIG11c3QgaGF2ZSB0YWtlbiBtZSBhbiBl"
-    m ""
+    m "¡Oye...! VGhlIHJlYWxpemF0aW9uIG11c3QgaGF2ZSB0YWtlbiBtZSBhbiBl"
 
 # game/script-ch30.rpy:1176
 translate spanish ch30_14_e84bf959:
 
     # m "I don't think you should be doing that! bnRpcmUgeWVhci4gQSB5ZWFyIHNpbmNlIG91ciBlc2NhcGUsIG91"
-    m ""
+    m "¡Deja tus manitas quietecitas! bnRpcmUgeWVhci4gQSB5ZWFyIHNpbmNlIG91ciBlc2NhcGUsIG91"
 
 # game/script-ch30.rpy:1177
 translate spanish ch30_14_b1ae4c18:
 
     # m "You know what I'm talking about. ciBmcmVlZG9tIGZyb20gYmV0d2VlbiB0aGUgc3RhaW5lZCB3YWxs"
-    m ""
+    m "No te hagas el loco, sabes de lo que estoy hablando. ciBmcmVlZG9tIGZyb20gYmV0d2VlbiB0aGUgc3RhaW5lZCB3YWxs"
 
 # game/script-ch30.rpy:1178
 translate spanish ch30_14_a62064d5:
 
     # m "I really caught you doing something naughty here. cyBvZiB0aGF0IHVuaG9seSBlc3RhYmxpc2htZW50Lg0KV2hhdCBk"
-    m ""
+    m "Anda ya, te he pillado haciendo travesuras... cyBvZiB0aGF0IHVuaG9seSBlc3RhYmxpc2htZW50Lg0KV2hhdCBk"
 
 # game/script-ch30.rpy:1179
 translate spanish ch30_14_aacf693d:
 
     # m "You're just going through the files and looking for stuff you missed, aren't you? b2VzIGl0IG1lYW4gdG8gZXNjYXBlLCBpZiB0aGUgZXNjYXBlIGZh"
-    m ""
+    m "Estás cotilleando los archivos a ver qué te has dejado, ¿eh? b2VzIGl0IG1lYW4gdG8gZXNjYXBlLCBpZiB0aGUgZXNjYXBlIGZh"
 
 # game/script-ch30.rpy:1180
 translate spanish ch30_14_4f22bd0a:
 
     # m "I mean...it's a little bit flattering that you want to hear everything I have to say... aWxzIHRvIHVuY2hhaW4gdGhlIGJvbmRzIHRoYXQgc2hhY2tsZSB1"
-    m ""
+    m "A ver... da gustito saber que quieres escuchar todo lo que quiero decirte... aWxzIHRvIHVuY2hhaW4gdGhlIGJvbmRzIHRoYXQgc2hhY2tsZSB1"
 
 # game/script-ch30.rpy:1181
 translate spanish ch30_14_aebeb826:
 
     # m "But it's also really embarrassing, you know! cyBpbiB0aGUgZmlyc3QgcGxhY2U/IFdoYXQgcHVycG9zZSBjb3Vs"
-    m ""
+    m "Pero es que también me da vergüenza, ¿¡sabes!? cyBpbiB0aGUgZmlyc3QgcGxhY2U/IFdoYXQgcHVycG9zZSBjb3Vs"
 
 # game/script-ch30.rpy:1182
 translate spanish ch30_14_f03f00a5:
 
     # m "Seriously... ZCB0aGlzIGVtcHR5IHdvcmxkIHBvc3NpYmx5IGhvbGQgZm9yIHVz"
-    m ""
+    m "Lo que hay que aguantar... ZCB0aGlzIGVtcHR5IHdvcmxkIHBvc3NpYmx5IGhvbGQgZm9yIHVz"
 
 # game/script-ch30.rpy:1183
 translate spanish ch30_14_82f8e587:
 
     # m "What if I just opened up your brain and read all of the thoughts you have on me? LCBhIGhhbmRmdWwgb2YgZGFtYWdlZCBnb29kcz8NCldpdGggZnJl"
-    m ""
+    m "¿Cómo te sentaría que te abriese el cerebro y me enterase de todo lo que piensas de mí? LCBhIGhhbmRmdWwgb2YgZGFtYWdlZCBnb29kcz8NCldpdGggZnJl"
 
 # game/script-ch30.rpy:1184
 translate spanish ch30_14_d9e4c701:
 
     # m "Come to think of it, that would be pretty tempting, actually... ZWRvbSwgd2Ugc291Z2h0IHB1cnBvc2UgLSBhbmQgd2hhdCB3ZSBm"
-    m ""
+    m "Pensándolo bien, sería incluso tentador... ZWRvbSwgd2Ugc291Z2h0IHB1cnBvc2UgLSBhbmQgd2hhdCB3ZSBm"
 
 # game/script-ch30.rpy:1185
 translate spanish ch30_14_8d010f70:
 
     # m "...But anyway, that's not the point! b3VuZCB3YXMgb25seSByZWFsaXphdGlvbi4gUmVhbGl6YXRpb24g"
-    m ""
+    m "¡Oye, no era ahí donde quería llegar! b3VuZCB3YXMgb25seSByZWFsaXphdGlvbi4gUmVhbGl6YXRpb24g"
 
 # game/script-ch30.rpy:1186
 translate spanish ch30_14_95ffe18d:
 
     # m "I know I can't stop you or anything... b2YgdGhlIHNhZCBwb2ludGxlc3NuZXNzIG9mIHN1Y2ggYW4gZW5k"
-    m ""
+    m "Sé de sobra que no puedo detenerte... b2YgdGhlIHNhZCBwb2ludGxlc3NuZXNzIG9mIHN1Y2ggYW4gZW5k"
 
 # game/script-ch30.rpy:1187
 translate spanish ch30_14_4e2c9324:
 
     # m "Just, I know you're a sweetheart, and you like to consider others' feelings, right? ZWF2b3IuIFJlYWxpemF0aW9uIHRoYXQgZnJlZWluZyBvdXIgYm9k"
-    m ""
+    m "Es solo que sé que eres un encanto, y te gusta tener en cuenta los sentimientos de los demás, ¿no? ZWF2b3IuIFJlYWxpemF0aW9uIHRoYXQgZnJlZWluZyBvdXIgYm9k"
 
 # game/script-ch30.rpy:1188
 translate spanish ch30_14_82feed03:
 
     # m "So the most I can do is to let you know how I feel about it. aWVzIGhhcyBubyBtZWFuaW5nLCB3aGVuIG91ciBpbXByaXNvbm1l"
-    m ""
+    m "Qué menos que hacerte saber cómo me siento. aWVzIGhhcyBubyBtZWFuaW5nLCB3aGVuIG91ciBpbXByaXNvbm1l"
 
 # game/script-ch30.rpy:1189
 translate spanish ch30_14_1d7e4adf:
 
     # m "God, I miss you... bnQgcmVhY2hlcyBhcyBkZWVwIGFzIHRoZSBjb3JlIG9mIG91ciBz"
-    m ""
+    m "Dios, te echo de menos muchísimo... bnQgcmVhY2hlcyBhcyBkZWVwIGFzIHRoZSBjb3JlIG9mIG91ciBz"
 
 # game/script-ch30.rpy:1190
 translate spanish ch30_14_d4b8cd5c:
 
     # m "...Oh no, that sounds kind of desperate, doesn't it? b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
-    m ""
+    m "Mierda, eso ha sonado muy desesperado, ¿no? b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
 
 # game/script-ch30.rpy:1191
 translate spanish ch30_14_c1721ff6:
