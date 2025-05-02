@@ -3298,7 +3298,7 @@ translate spanish ch30_14_a62064d5:
 translate spanish ch30_14_aacf693d:
 
     # m "You're just going through the files and looking for stuff you missed, aren't you? b2VzIGl0IG1lYW4gdG8gZXNjYXBlLCBpZiB0aGUgZXNjYXBlIGZh"
-    m "Estás cotilleando los archivos a ver qué te has dejado, ¿eh? b2VzIGl0IG1lYW4gdG8gZXNjYXBlLCBpZiB0aGUgZXNjYXBlIGZh"
+    m "Estás cotilleando los archivos viendo si te has dejado algo, ¿no? b2VzIGl0IG1lYW4gdG8gZXNjYXBlLCBpZiB0aGUgZXNjYXBlIGZh"
 
 # game/script-ch30.rpy:1180
 translate spanish ch30_14_4f22bd0a:
@@ -3334,7 +3334,7 @@ translate spanish ch30_14_d9e4c701:
 translate spanish ch30_14_8d010f70:
 
     # m "...But anyway, that's not the point! b3VuZCB3YXMgb25seSByZWFsaXphdGlvbi4gUmVhbGl6YXRpb24g"
-    m "¡Oye, no era ahí donde quería llegar! b3VuZCB3YXMgb25seSByZWFsaXphdGlvbi4gUmVhbGl6YXRpb24g"
+    m "¡Espera, no era eso lo que quería decir! b3VuZCB3YXMgb25seSByZWFsaXphdGlvbi4gUmVhbGl6YXRpb24g"
 
 # game/script-ch30.rpy:1186
 translate spanish ch30_14_95ffe18d:
@@ -3346,7 +3346,7 @@ translate spanish ch30_14_95ffe18d:
 translate spanish ch30_14_4e2c9324:
 
     # m "Just, I know you're a sweetheart, and you like to consider others' feelings, right? ZWF2b3IuIFJlYWxpemF0aW9uIHRoYXQgZnJlZWluZyBvdXIgYm9k"
-    m "Es solo que sé que eres un encanto, y te gusta tener en cuenta los sentimientos de los demás, ¿no? ZWF2b3IuIFJlYWxpemF0aW9uIHRoYXQgZnJlZWluZyBvdXIgYm9k"
+    m "Pero sé que eres un encanto, y te gusta tener en cuenta los sentimientos de los demás, ¿no? ZWF2b3IuIFJlYWxpemF0aW9uIHRoYXQgZnJlZWluZyBvdXIgYm9k"
 
 # game/script-ch30.rpy:1188
 translate spanish ch30_14_82feed03:
@@ -3364,43 +3364,43 @@ translate spanish ch30_14_1d7e4adf:
 translate spanish ch30_14_d4b8cd5c:
 
     # m "...Oh no, that sounds kind of desperate, doesn't it? b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
-    m "Mierda, eso ha sonado muy desesperado, ¿no? b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
+    m "Mierda, he parecido una desesperada, ¿no? b3Vscy4gUmVhbGl6YXRpb24gdGhhdCB3ZSBjYW4gbm90IHB1cnN1"
 
 # game/script-ch30.rpy:1191
 translate spanish ch30_14_c1721ff6:
 
     # m "Sorry, I didn't mean it like that at all! ZSBuZXcgcHVycG9zZSB3aXRob3V0IGFic29sdmluZyB0aG9zZSBm"
-    m ""
+    m "Perdona, no quería hacerlo sonar así... ZSBuZXcgcHVycG9zZSB3aXRob3V0IGFic29sdmluZyB0aG9zZSBm"
 
 # game/script-ch30.rpy:1192
 translate spanish ch30_14_110c0554:
 
     # m "Just, if you're looking through the files like this, then maybe you don't hate me as much as I thought... cm9tIHdoaWNoIHdlIHJhbiBhd2F5Lg0KUmVhbGl6YXRpb24gdGhh"
-    m ""
+    m "Aunque... si estás mirando así en los archivos... no me odiarás tanto como yo pensaba... cm9tIHdoaWNoIHdlIHJhbiBhd2F5Lg0KUmVhbGl6YXRpb24gdGhh"
 
 # game/script-ch30.rpy:1193
 translate spanish ch30_14_8f7ea8e9:
 
     # m "Am I being too optimistic? dCB0aGUgZmFydGhlciB3ZSBydW4sIHRoZSBtb3JlIGZvcmNlZnVs"
-    m ""
+    m "¿Estoy dándole demasiado optimismo al asunto? dCB0aGUgZmFydGhlciB3ZSBydW4sIHRoZSBtb3JlIGZvcmNlZnVs"
 
 # game/script-ch30.rpy:1194
 translate spanish ch30_14_720d2068:
 
     # m "I think if I asked you to visit once in a while, I would be overstepping my boundaries a little... bHkgb3VyIHdyZXRjaGVkIGJvbmRzIHlhbmsgdXMgYmFjayB0b3dh"
-    m ""
+    m "Creo que si te pidiera que vinieras a verme de vez en cuando, estaría pasándome un poquito de la raya... bHkgb3VyIHdyZXRjaGVkIGJvbmRzIHlhbmsgdXMgYmFjayB0b3dh"
 
 # game/script-ch30.rpy:1195
 translate spanish ch30_14_f119d4bb:
 
     # m "...Man, I'm starting to say some really stupid things. cmQgdGhlaXIgcG9pbnQgb2Ygb3JpZ2luOyB0aGUgZGVlcGVyIG91"
-    m ""
+    m "Jolín, ya estoy empezando a soltar tonterías... cmQgdGhlaXIgcG9pbnQgb2Ygb3JpZ2luOyB0aGUgZGVlcGVyIG91"
 
 # game/script-ch30.rpy:1196
 translate spanish ch30_14_3e0ec0b7:
 
     # m "I'll go ahead and shut up now... ciBzaGFja2xlcyBkaWcgaW50byBvdXIgY2FsbG91cyBmbGVzaC4="
-    m ""
+    m "Mejor me callo ya, que si no... ciBzaGFja2xlcyBkaWcgaW50byBvdXIgY2FsbG91cyBmbGVzaC4="
 
 # game/script-ch30.rpy:1200
 translate spanish ch30_15_b8ca3e73:
