@@ -718,7 +718,7 @@ translate spanish ch22_main_f157299a:
 translate spanish ch22_main_3b3f41e8:
 
     # m "I was hoping that I could share it with you, anyway."
-    m "Tenía ganas de compartira de todas formas."
+    m "Tenía ganas de compartirla de todas formas."
 
 # game/script-ch22.rpy:220
 translate spanish ch22_main_f001035e:
