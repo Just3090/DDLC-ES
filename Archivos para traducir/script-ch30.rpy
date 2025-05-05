@@ -2578,7 +2578,7 @@ translate spanish ch30_7_b4d6ab3c:
 translate spanish ch30_7_9c3e4b2b:
 
     # m "Making plans in advance, letting them borrow something, or even just saying 'See you at school tomorrow'..."
-    m "Hacer planes con antelación, prestarle algo e incluso decirle <<nos vemos mañana en clase>>..."
+    m "Hacer planes con antelación, prestarle algo e incluso decirle 'nos vemos mañana en clase'..."
 
 # game/script-ch30.rpy:1039
 translate spanish ch30_7_abb7a1f2:
@@ -3406,61 +3406,61 @@ translate spanish ch30_14_3e0ec0b7:
 translate spanish ch30_15_b8ca3e73:
 
     # m "Hey, what's your favorite color?"
-    m ""
+    m "Oye, ¿cuál es tu color favorito?"
 
 # game/script-ch30.rpy:1201
 translate spanish ch30_15_939dfd7e:
 
     # m "Mine is emerald green."
-    m ""
+    m "El mío es el verde esmeralda."
 
 # game/script-ch30.rpy:1202
 translate spanish ch30_15_612b3bd0:
 
     # m "It's the color of my eyes!"
-    m ""
+    m "¡Es el color de mis ojos!"
 
 # game/script-ch30.rpy:1203
 translate spanish ch30_15_5c43ec02:
 
     # m "...That's not conceited or anything, is it?"
-    m ""
+    m "No estaré siendo presumida ni nada, ¿no?"
 
 # game/script-ch30.rpy:1204
 translate spanish ch30_15_9ee94046:
 
     # m "I just meant that I feel some kind of special connection to it."
-    m ""
+    m "Lo que quería decir es que siento una conexión especial con él."
 
 # game/script-ch30.rpy:1205
 translate spanish ch30_15_efcdbcd3:
 
     # m "Like it's part of my identity."
-    m ""
+    m "Como si formara parte de mi identidad."
 
 # game/script-ch30.rpy:1206
 translate spanish ch30_15_6d6e2128:
 
     # m "Does it happen to also be your favorite color, [player]?"
-    m ""
+    m "Por casualidad, no será también el tuyo, ¿eh, [player]?"
 
 # game/script-ch30.rpy:1207
 translate spanish ch30_15_9e9e92b5:
 
     # m "It's just a guess..."
-    m ""
+    m "No es más que una suposición."
 
 # game/script-ch30.rpy:1208
 translate spanish ch30_15_2f03ec54:
 
     # m "...Because you've been looking into my eyes for a while now."
-    m ""
+    m "Como llevas un buen rato mirándome los ojos..."
 
 # game/script-ch30.rpy:1209
 translate spanish ch30_15_45d9cd96:
 
     # m "Ehehe~"
-    m ""
+    m "Je, je, je."
 
 # game/script-ch30.rpy:1213
 translate spanish ch30_16_a7c6a42d:
@@ -3760,67 +3760,67 @@ translate spanish ch30_19_2e5ced7a:
 translate spanish ch30_20_90de9c4d:
 
     # m "Okay, everyone!"
-    m ""
+    m "¡Vale, compis!"
 
 # game/script-ch30.rpy:1275
 translate spanish ch30_20_ab73f819:
 
     # m "It's time to..."
-    m ""
+    m "Es hora de..."
 
 # game/script-ch30.rpy:1276
 translate spanish ch30_20_692c44ed:
 
     # m "...I'm just kidding."
-    m ""
+    m "Es broma."
 
 # game/script-ch30.rpy:1277
 translate spanish ch30_20_63f123f0:
 
     # m "I just used to really like saying that for some reason."
-    m ""
+    m "Me encantaba decir eso, no sé por qué."
 
 # game/script-ch30.rpy:1278
 translate spanish ch30_20_30727938:
 
     # m "Ahaha!"
-    m ""
+    m "¡Ja, ja, ja!"
 
 # game/script-ch30.rpy:1279
 translate spanish ch30_20_53537436:
 
     # m "I couldn't help but say it again."
-    m ""
+    m "Me han entrado ganas de decirlo de nuevo."
 
 # game/script-ch30.rpy:1280
 translate spanish ch30_20_b050314e:
 
     # m "Come to think of it, didn't Natsuki and Yuri make fun of me for it once...?"
-    m ""
+    m "Si no recuerdo mal, ¿Natsuki y Yuri no me chincharon una vez con eso?..."
 
 # game/script-ch30.rpy:1281
 translate spanish ch30_20_f8de502e:
 
     # m "Well, whatever."
-    m ""
+    m "Bueno, no importa."
 
 # game/script-ch30.rpy:1282
 translate spanish ch30_20_bb5c98ef:
 
     # m "It's not like you ever made fun of me."
-    m ""
+    m "Tú nunca te has burlado de mí."
 
 # game/script-ch30.rpy:1283
 translate spanish ch30_20_0b5cca04:
 
     # m "You're too much of a sweetheart to do that, aren't you?"
-    m ""
+    m "Eres demasiado adorable como para hacerlo, ¿verdad?"
 
 # game/script-ch30.rpy:1284
 translate spanish ch30_20_b72a1ed5:
 
     # m "Ahaha~"
-    m ""
+    m "Ja, ja, ja."
 
 # game/script-ch30.rpy:1288
 translate spanish ch30_21_6749d601:
@@ -4474,7 +4474,7 @@ translate spanish ch30_30_6601d60a:
 translate spanish ch30_30_da335152:
 
     # m "It's like a universal expectation that people just assume is the only option for them."
-    m "Es como sí todo el mundo te hiciera creer que esa es la única opción posible."
+    m "Es como si todo el mundo te hiciera creer que esa es la única opción posible."
 
 # game/script-ch30.rpy:1421
 translate spanish ch30_30_f3831be7:
@@ -4486,7 +4486,7 @@ translate spanish ch30_30_f3831be7:
 translate spanish ch30_30_bf9f0147:
 
     # m "Like trade schools and stuff, you know?"
-    m "Como la ofrmación profesional, por ejemplo."
+    m "Como la formación profesional, por ejemplo."
 
 # game/script-ch30.rpy:1423
 translate spanish ch30_30_a6ffb14c:
@@ -4540,13 +4540,13 @@ translate spanish ch30_30_ba8add1b:
 translate spanish ch30_30_ac2c26ae:
 
     # m "And colleges are also businesses, so they just keep raising their prices due to the demand..."
-    m "Y las universidades tambíen son negocios, así que suben los precios por culpa de la demanda..."
+    m "Y las universidades también son negocios, así que suben los precios por culpa de la demanda..."
 
 # game/script-ch30.rpy:1432
 translate spanish ch30_30_83bc4ef9:
 
     # m "...So now we have all these young adults, tens of thousands of dollars in debt, with no job."
-    m "Lo que resulta en muchos jóvvenes adultos desempleados con deudas astronómicas."
+    m "Lo que resulta en muchos jóvenes adultos desempleados con deudas astronómicas."
 
 # game/script-ch30.rpy:1433
 translate spanish ch30_30_72243f86:
@@ -4564,7 +4564,7 @@ translate spanish ch30_30_7f37e1e4:
 translate spanish ch30_30_70401165:
 
     # m "But until then, our generation is definitely suffering from the worst of it."
-    m "Pero, ahsta entonces, nuestra generación se está llevando la peor parte."
+    m "Pero, hasta entonces, nuestra generación se está llevando la peor parte."
 
 # game/script-ch30.rpy:1436
 translate spanish ch30_30_97f0818c:
@@ -6196,13 +6196,13 @@ translate spanish ch30_49_c5d970e7:
 translate spanish ch30_49_c52f2374:
 
     # m "Like, sorry that I want to learn more about my own mind, right?"
-    m "Como si uno estuviese que pedir perdón por querer aprender cómo funciona su mente."
+    m "Como si uno tuviese que pedir perdón por querer aprender cómo funciona su mente."
 
 # game/script-ch30.rpy:1765
 translate spanish ch30_49_2fe90127:
 
     # m "Everyone has all kinds of struggles and stresses...and professionals dedicate their lives to helping with those."
-    m "Todo el mundo tiene problema y preocupaciones y estos profesiones dedican su vida a ayudarnos a lidiar con ellos."
+    m "Todo el mundo tiene problemas y preocupaciones y estos profesionales dedican su vida a ayudarnos a lidiar con ellos."
 
 # game/script-ch30.rpy:1766
 translate spanish ch30_49_d805af44:
