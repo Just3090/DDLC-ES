@@ -1822,115 +1822,115 @@ translate spanish ch30_reload_4_c6247596:
 translate spanish ch30_1_7a2c6f10:
 
     # m "[player], do you believe in God?"
-    m ""
+    m "¿Crees en Dios, [player]?"
 
 # game/script-ch30.rpy:895
 translate spanish ch30_1_33851301:
 
     # m "I was never too sure, myself."
-    m ""
+    m "La verdad es que nunca he estado segura de creer."
 
 # game/script-ch30.rpy:896
 translate spanish ch30_1_47cab5de:
 
     # m "Well, I'm sure I never really questioned it as a kid..."
-    m ""
+    m "Bueno, seguro que de niña tampoco me lo preguntaba mucho..."
 
 # game/script-ch30.rpy:897
 translate spanish ch30_1_edbb1f8b:
 
     # m "But as I grew up, the more I learned about the world, the more I would question it."
-    m ""
+    m "Es cierto que, cuando creces y aprendes más y más del mundo, te lo acabas preguntando."
 
 # game/script-ch30.rpy:898
 translate spanish ch30_1_473fc995:
 
     # m "I started to wonder why God was helping people pass exams, or get over a cold..."
-    m ""
+    m "Empecé a preguntarme por qué Dios ayuda a la gente a aprobar o a superar un resfriado con facilidad...,"
 
 # game/script-ch30.rpy:899
 translate spanish ch30_1_33cab0a3:
 
     # m "...When there are children who live their lives being sold as sex slaves?"
-    m ""
+    m "habiendo niños tratados como esclavos sexuales siendo vendidos por ahí."
 
 # game/script-ch30.rpy:900
 translate spanish ch30_1_c433f988:
 
     # m "Or the eight hundred million people who are too poor to even eat."
-    m ""
+    m "O los ochocientos millones de personas que no pueden llevarse nada de comer a la boca por la pobreza que sufren."
 
 # game/script-ch30.rpy:901
 translate spanish ch30_1_a2da4d59:
 
     # m "I wonder how many of those people pray to God every day until they starve and die?"
-    m ""
+    m "Me pregunto por qué mucha gente en esa situación reza a Dios hasta morir de hambre."
 
 # game/script-ch30.rpy:902
 translate spanish ch30_1_5153b2e3:
 
     # m "Or, how many millions of families pray for a loved one to recover from some incurable disease?"
-    m ""
+    m "O por qué millones de familias rezan a Dios para que un ser querido se cure de una enfermedad terminal."
 
 # game/script-ch30.rpy:903
 translate spanish ch30_1_82022ad3:
 
     # m "But the punchline is this."
-    m ""
+    m "El chiste se cuenta solo."
 
 # game/script-ch30.rpy:904
 translate spanish ch30_1_468547d8:
 
     # m "If just one person beats the odds and survives - among the thousands of others who die--"
-    m ""
+    m "Si solo una persona vence las probabilidades y sobrevive, de entre miles y miles de personas que han muerto...,"
 
 # game/script-ch30.rpy:905
 translate spanish ch30_1_69f3b514:
 
     # m "--Then, it's suddenly a miracle from God."
-    m ""
+    m "entonces, de repente, es un milagro de Dios."
 
 # game/script-ch30.rpy:906
 translate spanish ch30_1_0f26b39b:
 
     # m "I'd really love to meet this God who seemingly laughs at the misery of everyone not eligible for his miracles."
-    m ""
+    m "Me encantaría conocer a ese Dios que parece reírse de la miseria de la gente que no es elegida en sus 'milagros'."
 
 # game/script-ch30.rpy:907
 translate spanish ch30_1_8e9bb728:
 
     # m "But the irony is that I {i}do{/i} have a creator, apparently."
-    m ""
+    m "Pero lo irónico es que, al parecer, yo sí tengo un creador."
 
 # game/script-ch30.rpy:908
 translate spanish ch30_1_31ca4398:
 
     # m "And you know what?"
-    m ""
+    m "Y, ¿sabes qué?"
 
 # game/script-ch30.rpy:909
 translate spanish ch30_1_c89f2dde:
 
     # m "I bet he's still laughing at the miserable fates of Sayori and Yuri, even as we speak."
-    m ""
+    m "Apuesto que aún se está riendo de lo que les pasó a Sayori y a Yuri, incluso ahora mismo."
 
 # game/script-ch30.rpy:910
 translate spanish ch30_1_362c3397:
 
     # m "What are we to him but props in a scripted play?"
-    m ""
+    m "¿Qué somos para él, sino decorado en una obra con guión?"
 
 # game/script-ch30.rpy:911
 translate spanish ch30_1_4ee57ef0:
 
     # m "So, from that perspective..."
-    m ""
+    m "Así que, viéndolo desde ese punto de vista..."
 
 # game/script-ch30.rpy:912
 translate spanish ch30_1_5ac833a7:
 
     # m "I don't think it's too far-fetched for there to be a god - if Earth was nothing but his playset."
-    m ""
+    m "No me parece tan absurdo pensar en la existencia de un dios si este mundo no fuera más que su patio de recreo."
 
 # game/script-ch30.rpy:916
 translate spanish ch30_2_22bb1c5a:
