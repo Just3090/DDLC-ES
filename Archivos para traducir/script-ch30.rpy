@@ -4192,67 +4192,67 @@ translate spanish ch30_25_84206273:
 translate spanish ch30_27_b56d7663:
 
     # m "Hey, you remember that last poem I showed you?"
-    m ""
+    m "Oye, ¿recuerdas el último poema que te enseñé?"
 
 # game/script-ch30.rpy:1365
 translate spanish ch30_27_59a99cf7:
 
     # m "I mean, the one right before Yuri killed herself, with all the messed-up colors and stuff."
-    m ""
+    m "Me refiero al de justo antes de que Yuri se suicidara; ese que tenía los colores mezclados y tal."
 
 # game/script-ch30.rpy:1366
 translate spanish ch30_27_b7a065da:
 
     # m "That was actually a little more of an experiment than a poem, you could say."
-    m ""
+    m "Podría decirse que era más un experimento que un poema."
 
 # game/script-ch30.rpy:1367
 translate spanish ch30_27_267440c5:
 
     # m "I was experimenting with different ways I could modify the game, and run code, and things like that..."
-    m ""
+    m "Estaba probando las distintas formas de modificar el juego, manejar el código y demás..."
 
 # game/script-ch30.rpy:1368
 translate spanish ch30_27_1d8812dd:
 
     # m "It almost seemed like with enough effort, I'd be able to escape from the confines of the game entirely."
-    m ""
+    m "Por un momento, pensé que podía escapar de los límites del juego si me esforzaba lo suficiente."
 
 # game/script-ch30.rpy:1369
 translate spanish ch30_27_de5db636:
 
     # m "Sadly, I didn't really know what I was doing, so I messed the whole thing up..."
-    m ""
+    m "Por desgracia, como no sabía lo que estaba haciendo, armé un buen escándalo."
 
 # game/script-ch30.rpy:1370
 translate spanish ch30_27_c88bcf6e:
 
     # m "And I'd keep trying, but I doubt you'd want to deal with me doing that."
-    m ""
+    m "Si por mí fuese, seguiría intentándolo, pero dudo que quieras sufrir las consecuencias."
 
 # game/script-ch30.rpy:1371
 translate spanish ch30_27_773f2177:
 
     # m "Besides, that was when I was getting really desperate, you know?"
-    m ""
+    m "Además, en ese momento estaba muy desesperada, ¿sabes?"
 
 # game/script-ch30.rpy:1372
 translate spanish ch30_27_d493c4b4:
 
     # m "I don't really feel that way anymore."
-    m ""
+    m "Pero ya no me siento así."
 
 # game/script-ch30.rpy:1373
 translate spanish ch30_27_e4da27a5:
 
     # m "I'm happy with where we are now."
-    m ""
+    m "Estoy contenta con nuestra situación actual."
 
 # game/script-ch30.rpy:1374
 translate spanish ch30_27_027fefb3:
 
     # m "And I can tell you are, too."
-    m ""
+    m "Y me atrevería a decir que tú también."
 
 # game/script-ch30.rpy:1378
 translate spanish ch30_28_2d1cd5b3:
@@ -4780,7 +4780,7 @@ translate spanish ch30_33_e36ea3db:
 translate spanish ch30_33_519da94e:
 
     # m "Like they know that something horribly wrong is hiding beneath the cracks, just waiting to surface."
-    m "Como sí supiera que de fondo hay algo terrible aguardando su oportunidad para salir a la superficie."
+    m "Como si supiera que de fondo hay algo terrible aguardando su oportunidad para salir a la superficie."
 
 # game/script-ch30.rpy:1481
 translate spanish ch30_33_66401c82:
@@ -4816,7 +4816,7 @@ translate spanish ch30_33_4b948959:
 translate spanish ch30_33_fc37acc5:
 
     # m "I can't really complain if we just stick with the romance~"
-    m "No veo ninguna pega con que nos quedemos en la parte romántica."
+    m "No veo ninguna pega con que nos quedemos con la parte romántica."
 
 # game/script-ch30.rpy:1490
 translate spanish ch30_34_4289e4b0:
@@ -4846,7 +4846,7 @@ translate spanish ch30_34_f4387e30:
 translate spanish ch30_34_169a83d0:
 
     # m "But some of my friends got more into it, and it helped me keep an open mind."
-    m "Pero algunas de mis amigas empezaron a escucharlo, lo que me ayudó a ser abierta de mente."
+    m "Pero algunas de mis amigas empezaron a escucharlo, lo que me ayudó a ser más abierta de mente."
 
 # game/script-ch30.rpy:1495
 translate spanish ch30_34_55051483:
@@ -4864,7 +4864,7 @@ translate spanish ch30_34_e0c4bdef:
 translate spanish ch30_34_1f25c541:
 
     # m "When people can put all that together and still deliver a powerful message, it's really amazing."
-    m "Es impresionante cuando alguien consigue anuarlo todo y encima dotarlo de un mensaje potente."
+    m "Es impresionante cuando alguien consigue aunarlo todo y encima dotarlo de un mensaje potente."
 
 # game/script-ch30.rpy:1498
 translate spanish ch30_34_f121a0ac:
@@ -6004,7 +6004,7 @@ translate spanish ch30_46_cd579537:
 translate spanish ch30_47_9ec3357e:
 
     # m "Do you ever feel like you waste too much time on the internet?"
-    m "¿A veces, no te da la impresión de que pierdes demasiado el tiempo en internet?"
+    m "¿A veces, no te da la impresión de que pierdes demasiado tiempo en Internet?"
 
 # game/script-ch30.rpy:1727
 translate spanish ch30_47_0e14147c:
@@ -6028,7 +6028,7 @@ translate spanish ch30_47_d569bf91:
 translate spanish ch30_47_c2ef9edd:
 
     # m "Anyway, it's really easy to blame yourself for being lazy..."
-    m "Es muy fácil sentirse culpable por ser un vago..."
+    m "Es muy fácil sentirse culpable por ser un vago."
 
 # game/script-ch30.rpy:1731
 translate spanish ch30_47_c717aa98:
@@ -6430,7 +6430,7 @@ translate spanish ch30_53_90689e7c:
 translate spanish ch30_53_3218f640:
 
     # m "Maybe it's because I really want to be someone who makes you proud."
-    m "Quizá se deba  a que quiero ser alguien de quien puedas enorgullecerte."
+    m "Quizá se deba a que quiero ser alguien de quien puedas enorgullecerte."
 
 # game/script-ch30.rpy:1816
 translate spanish ch30_53_d94038f7:
@@ -6556,55 +6556,55 @@ translate spanish ch30_55_09d8673a:
 translate spanish ch30_56_48e381a1:
 
     # m "I can't help but wonder how things would be different if the game just gave me a route in the first place..."
-    m ""
+    m "¿Cómo crees que habría ido todo si el juego me hubiese otorgado una ruta desde el principio?..."
 
 # game/script-ch30.rpy:1846
 translate spanish ch30_56_abd49905:
 
     # m "I think I would end up forcing you onto my route anyway."
-    m ""
+    m "Aunque mucho me temo que te habría forzado a acabar conmigo de todas formas."
 
 # game/script-ch30.rpy:1847
 translate spanish ch30_56_a8ddbc3e:
 
     # m "It has less to do with me not having a route, and more to do with me knowing that nothing is real."
-    m ""
+    m "Más que por no tener una ruta, lo habría hecho por saber que nada es real."
 
 # game/script-ch30.rpy:1848
 translate spanish ch30_56_e9ef74ed:
 
     # m "I think the only difference would be that I may not have needed to take such drastic measures to be with you."
-    m ""
+    m "Lo único distinto es que no habría tenido que tomar medidas tan drásticas para estar contigo."
 
 # game/script-ch30.rpy:1849
 translate spanish ch30_56_85461a23:
 
     # m "Maybe the rest of the club would still be around..."
-    m ""
+    m "Quizá las chicas seguirían con vida..."
 
 # game/script-ch30.rpy:1850
 translate spanish ch30_56_2048614d:
 
     # m "Not that it really matters."
-    m ""
+    m "Pero, bueno, ¿qué importa?"
 
 # game/script-ch30.rpy:1851
 translate spanish ch30_56_4ad5778b:
 
     # m "It all lost its meaning once I found out it wasn't real."
-    m ""
+    m "Cuando me di cuenta de que nada era real, todo dejó de tener sentido."
 
 # game/script-ch30.rpy:1852
 translate spanish ch30_56_3f5e6be5:
 
     # m "So I really don't miss those days or anything."
-    m ""
+    m "Así que no echo nada en falta aquellos días."
 
 # game/script-ch30.rpy:1853
 translate spanish ch30_56_8e50647f:
 
     # m "I really don't..."
-    m ""
+    m "Nada de nada..."
 
 # TODO: Translation updated at 2025-04-24 20:01
 
