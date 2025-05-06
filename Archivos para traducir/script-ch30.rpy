@@ -4888,97 +4888,97 @@ translate spanish ch30_34_83bdb999:
 translate spanish ch30_35_306ca8a2:
 
     # m "Ehehe. Yuri did something really funny once."
-    m ""
+    m "Je, je, je. Una vez Yuri hizo algo muy gracioso."
 
 # game/script-ch30.rpy:1505
 translate spanish ch30_35_d5b7b354:
 
     # m "We were all in the clubroom and just relaxing, as usual..."
-    m ""
+    m "Estábamos todas en el club, relajadas como siempre..."
 
 # game/script-ch30.rpy:1506
 translate spanish ch30_35_c4d9bfef:
 
     # m "And out of nowhere, Yuri just pulled out a small bottle of wine."
-    m ""
+    m "Y, de repente, Yuri saca una botellita de vino."
 
 # game/script-ch30.rpy:1507
 translate spanish ch30_35_f3c6895e:
 
     # m "I'm not even kidding!"
-    m ""
+    m "¡No es coña!"
 
 # game/script-ch30.rpy:1508
 translate spanish ch30_35_bc3dff4e:
 
     # m "She was just like 'Would anybody like some wine?'"
-    m ""
+    m "Así, tan tranquila, va y dice: '¿Alguien quiere un poquito?'"
 
 # game/script-ch30.rpy:1509
 translate spanish ch30_35_6701d6d8:
 
     # m "Natsuki laughed out loud, and Sayori started yelling at her."
-    m ""
+    m "Natsuki se rio a carcajadas, y Sayori empezó a regañarla."
 
 # game/script-ch30.rpy:1510
 translate spanish ch30_35_b8ffb398:
 
     # m "I actually felt kind of bad, because she was at least trying to be nice..."
-    m ""
+    m "Me dio un poco de pena, porque lo hizo con buenas intenciones."
 
 # game/script-ch30.rpy:1511
 translate spanish ch30_35_698c3048:
 
     # m "I think it just made her feel even more reserved in the clubroom."
-    m ""
+    m "Creo que eso solo hizo que se cerrara aún más en ella estando en el club."
 
 # game/script-ch30.rpy:1512
 translate spanish ch30_35_fe41f0f9:
 
     # m "Though I think Natsuki was secretly a bit curious to try it..."
-    m ""
+    m "Aunque creo que, en el fondo, Natsuki tenía un poco de curiosidad por probarlo."
 
 # game/script-ch30.rpy:1513
 translate spanish ch30_35_078e705e:
 
     # m "...And to be completely honest, I kind of was, too."
-    m ""
+    m "Y, siendo sincera, ¡yo también!"
 
 # game/script-ch30.rpy:1514
 translate spanish ch30_35_2be6bce7:
 
     # m "It actually could have been kinda fun!"
-    m ""
+    m "¡Podría haber sido muy divertido!"
 
 # game/script-ch30.rpy:1515
 translate spanish ch30_35_01d59e60:
 
     # m "But you know, being President and everything, there was no way I could let that happen."
-    m ""
+    m "Ya sabes, siendo la presidenta y tal... no podía permitirlo, por más que me fastidiase."
 
 # game/script-ch30.rpy:1516
 translate spanish ch30_35_2a10d3bd:
 
     # m "Maybe if we all met up outside of school, but we never bonded enough to get to that point..."
-    m ""
+    m "A lo mejor, si nos hubiéramos visto fuera del instituto..., pero nunca llegamos a ese punto."
 
 # game/script-ch30.rpy:1517
 translate spanish ch30_35_2cccbca1:
 
     # m "...Gosh, what am I talking about this for?"
-    m ""
+    m "Madre, ¿por qué estoy hablando de esto?"
 
 # game/script-ch30.rpy:1518
 translate spanish ch30_35_e3d2c543:
 
     # m "I don't condone underage drinking!"
-    m ""
+    m "¡No apruebo el consumo siendo menor!"
 
 # game/script-ch30.rpy:1519
 translate spanish ch30_35_0bd6c6e4:
 
     # m "I mean, I've never drank or anything, so...yeah."
-    m ""
+    m "Quiero decir, nunca he probado nada de eso, así que... sí."
 
 # game/script-ch30.rpy:1523
 translate spanish ch30_36_6ba45174:
