@@ -1564,7 +1564,7 @@ translate spanish yuri_kill_3_bac95057:
 translate spanish yuri_kill_3_1913d5f2:
 
     # m "Natsuki just ran past me..."
-    m "natsuki se me ha cruzado corriendo..."
+    m "Natsuki se me ha cruzado corriendo..."
 
 # game/script-ch23.rpy:696
 translate spanish yuri_kill_3_3ac5a02b:
